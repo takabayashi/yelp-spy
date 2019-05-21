@@ -1,0 +1,4221 @@
+[
+    {
+        "alias": "eastshore-pediatric-dental-group-pinole",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.997745513916,
+            "longitude": -122.301681518555
+        },
+        "display_phone": "(510) 964-0168",
+        "distance": 397.881572091565,
+        "id": "85FCRFV1pxTsufWlDyzfpA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WC7K9v1t1ACAsOyDRYD0sw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": "Ste 303",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Ste 303",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Eastshore Pediatric Dental Group",
+        "phone": "+15109640168",
+        "rating": 5.0,
+        "review_count": 55,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eastshore-pediatric-dental-group-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benjamin-rosales-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.00386,
+            "longitude": -122.29324
+        },
+        "display_phone": "(510) 741-0770",
+        "distance": 785.8266537903369,
+        "id": "hESUtIi4m0HjyuwwLREysQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6gnyQRWdY7Uyn41r6m-2vA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1989 San Pablo Ave",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1989 San Pablo Ave",
+                "Ste 105",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Benjamin Rosales, DDS",
+        "phone": "+15107410770",
+        "rating": 5.0,
+        "review_count": 71,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benjamin-rosales-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hercules-kids-dentistry-hercules-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0174985348548,
+            "longitude": -122.2738078
+        },
+        "display_phone": "(510) 964-7337",
+        "distance": 3014.6800844752825,
+        "id": "1v2ZxlTHaBuCNM1cWcbNDg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a09yA18lt6WmIY1bKb55-A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 180",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 180",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Hercules Kids Dentistry",
+        "phone": "+15109647337",
+        "rating": 5.0,
+        "review_count": 86,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hercules-kids-dentistry-hercules-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gretchen-s-gadwood-dds-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 741-5985",
+        "distance": 3014.890329755613,
+        "id": "nl40D68VR99GiXU0-LsNIQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G0KK8fYxQF4lH_v_zNK-Jg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 155",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 155",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Gretchen S Gadwood, DDS",
+        "phone": "+15107415985",
+        "rating": 5.0,
+        "review_count": 93,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gretchen-s-gadwood-dds-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "albert-m-tsang-dds-pinole-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99773,
+            "longitude": -122.30168
+        },
+        "display_phone": "(510) 724-2800",
+        "distance": 397.8026146078351,
+        "id": "ds_aB53UCXa9ErrEfnrPmA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zNhjtAQE1G4eX5ufVwBVpA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Ste 202",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Albert M Tsang, DDS",
+        "phone": "+15107242800",
+        "rating": 4.5,
+        "review_count": 40,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/albert-m-tsang-dds-pinole-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vincent-chen-dds-hercules-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0175116,
+            "longitude": -122.2739711
+        },
+        "display_phone": "(510) 741-7110",
+        "distance": 3006.1054264676113,
+        "id": "VrHMNLLTfevxERnPrY-sog",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ycH8PRaUWJtVVJnJZF7udQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 280",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Vincent Chen, DDS",
+        "phone": "+15107417110",
+        "rating": 4.5,
+        "review_count": 64,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vincent-chen-dds-hercules-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pinole-family-dental-pinole",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9959986,
+            "longitude": -122.3054369
+        },
+        "display_phone": "(510) 724-6900",
+        "distance": 711.4810404245443,
+        "id": "EjY8El0i0eJmlncXCzkz4w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7aQvlULefupMRT-dbtm0Ww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1310 Tara Hills Dr",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1310 Tara Hills Dr",
+                "Ste F",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Pinole Family Dental",
+        "phone": "+15107246900",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pinole-family-dental-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "susan-nuttle-dds-pinole",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0054473876953,
+            "longitude": -122.307334899902
+        },
+        "display_phone": "(510) 724-5100",
+        "distance": 1263.253805433573,
+        "id": "z8ExHoJjM3cGQdguVTtOGg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0Y128PQOCw4ktoUR5wVCmA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "806 San Pablo Ave",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "806 San Pablo Ave",
+                "Ste 4",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Susan Nuttle, DDS",
+        "phone": "+15107245100",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/susan-nuttle-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vincent-p-lim-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99397,
+            "longitude": -122.28493
+        },
+        "display_phone": "(510) 222-2442",
+        "distance": 1123.3263707666567,
+        "id": "l8u8iAcb8gzaYGDe7IdLGQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fzju-HXlkRVLh_sWolVuMQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Pinole Valley Rd",
+            "address2": "Ste F",
+            "address3": null,
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2801 Pinole Valley Rd",
+                "Ste F",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Vincent P Lim, DDS",
+        "phone": "+15102222442",
+        "rating": 4.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vincent-p-lim-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "andy-p-duong-dds-el-sobrante",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96633,
+            "longitude": -122.3021
+        },
+        "display_phone": "(510) 223-4311",
+        "distance": 3488.3383529718685,
+        "id": "MAWmUU4vI89ZbE4modudfw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9EbCDM8dgx7MBPC_3SgLZA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4440 San Pablo Dam Rd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "4440 San Pablo Dam Rd",
+                "Ste C",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Andy P Duong, DDS",
+        "phone": "+15102234311",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/andy-p-duong-dds-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "craig-j-healy-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9958244,
+            "longitude": -122.303881
+        },
+        "display_phone": "(510) 724-7575",
+        "distance": 626.6465012314821,
+        "id": "NNxtekoVyiV_zEVwXAPemw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_7fhy7GNcFRN0870myRRlg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 200",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Craig J Healy, DDS",
+        "phone": "+15107247575",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/craig-j-healy-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "raynato-castro-dds-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9541281,
+            "longitude": -122.3377501
+        },
+        "display_phone": "(510) 236-1662",
+        "distance": 5999.479737114451,
+        "id": "f9sPSuM5TfA2ANOZNo-oPA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sOKZH--e-BGjqRvbIXXoFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2089 Vale Rd",
+            "address2": "Ste 30",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2089 Vale Rd",
+                "Ste 30",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Raynato Castro, DDS",
+        "phone": "+15102361662",
+        "rating": 4.5,
+        "review_count": 64,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/raynato-castro-dds-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "porteous-and-burke-family-dentistry-rodeo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.028678894043,
+            "longitude": -122.265090942383
+        },
+        "display_phone": "(510) 799-4746",
+        "distance": 4455.687174115722,
+        "id": "rXQU2u7h67bYjiDfKyKG7w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LYQsN-uowvaXldFtCsCi5A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "667 Parker Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Rodeo",
+            "country": "US",
+            "display_address": [
+                "667 Parker Ave",
+                "Rodeo, CA 94572"
+            ],
+            "state": "CA",
+            "zip_code": "94572"
+        },
+        "name": "Porteous & Burke Family Dentistry",
+        "phone": "+15107994746",
+        "rating": 5.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/porteous-and-burke-family-dentistry-rodeo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carolyn-yu-dds-pinole-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9958328,
+            "longitude": -122.3045815
+        },
+        "display_phone": "(510) 974-2147",
+        "distance": 623.5468619796962,
+        "id": "JPhAgmpHTQe7ILs0UaCRPA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7z_ujc6U54f8rejeXrrIWg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1430 Tara Hills Dr",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1430 Tara Hills Dr",
+                "Ste C",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Carolyn Yu, DDS",
+        "phone": "+15109742147",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carolyn-yu-dds-pinole-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tara-hills-dental-pinole-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.995771060399,
+            "longitude": -122.303871620377
+        },
+        "display_phone": "(510) 724-7474",
+        "distance": 627.6670927685698,
+        "id": "6OcQpKYLTkxNc3IVSB7rjw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3O071YjxwZ3qaRID6vjY3Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 104",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Tara Hills Dental",
+        "phone": "+15107247474",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tara-hills-dental-pinole-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dalia-e-perez-salinas-dds-pinole-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9968824,
+            "longitude": -122.3054242
+        },
+        "display_phone": "(510) 243-0213",
+        "distance": 736.4298198062583,
+        "id": "VeGf4duSw9J8sGxoA1HAFQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/omKcubH2Kn6BAhxR_81jog/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1310 Tara Hills Dr",
+            "address2": "Ste G",
+            "address3": "Advanced Dentistry El Sobrante",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1310 Tara Hills Dr",
+                "Ste G",
+                "Advanced Dentistry El Sobrante",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Dalia E. Perez-Salinas, DDS",
+        "phone": "+15102430213",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dalia-e-perez-salinas-dds-pinole-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-van-dyk-dds-san-pablo-8",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.954119,
+            "longitude": -122.337744
+        },
+        "display_phone": "(510) 236-1662",
+        "distance": 5999.975729737117,
+        "id": "ASLVaUiQyWXYnKcOti7J_A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z7CZvK1DRaoyw_DnBZmxxQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2089 Vale Rd",
+            "address2": "Ste 30",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2089 Vale Rd",
+                "Ste 30",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "William Van Dyk, DDS",
+        "phone": "+15102361662",
+        "rating": 4.5,
+        "review_count": 45,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-van-dyk-dds-san-pablo-8?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-jang-dds-and-associates-pinole-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.997745513916,
+            "longitude": -122.301681518555
+        },
+        "display_phone": "(510) 724-8555",
+        "distance": 397.881572091565,
+        "id": "pVfmLK9rgn-WT7SjT1IX2A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fUOaHknzZQetxaaGADK2-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Ste 201",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Edward Jang, DDS & Associates",
+        "phone": "+15107248555",
+        "rating": 4.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-jang-dds-and-associates-pinole-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "muyhong-thy-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9963188,
+            "longitude": -122.3035812
+        },
+        "display_phone": "(510) 724-5363",
+        "distance": 522.4637270515701,
+        "id": "Xj1en1zVR4HnOajiCNIDQw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2150 Appian Way",
+            "address2": "Ste 205",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2150 Appian Way",
+                "Ste 205",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Muyhong Thy, DDS",
+        "phone": "+15107245363",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/muyhong-thy-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "martin-d-wong-dmd-richmond-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9774894714355,
+            "longitude": -122.329116821289
+        },
+        "display_phone": "(510) 222-4178",
+        "distance": 3586.1722401962134,
+        "id": "EWQ47xA8yu87IFGU4X4m4w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0hekOdA95eSqUwVEHQn1Dw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2970 Hilltop Mall Rd",
+            "address2": "Ste 212",
+            "address3": "Hilltop Medical Plz",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "2970 Hilltop Mall Rd",
+                "Ste 212",
+                "Hilltop Medical Plz",
+                "Richmond, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Martin D Wong, DMD",
+        "phone": "+15102224178",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/martin-d-wong-dmd-richmond-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "douglas-gordon-dds-pinole-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99632,
+            "longitude": -122.30358
+        },
+        "display_phone": "(510) 741-7100",
+        "distance": 522.4637270515701,
+        "id": "7_3nTulzNLonNEkRna2mww",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zJcfGHmAw-Sow7XzRiDW7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2150 Appian Way",
+            "address2": "Ste 208",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2150 Appian Way",
+                "Ste 208",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Douglas Gordon, DDS",
+        "phone": "+15107417100",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/douglas-gordon-dds-pinole-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orthoworks-invisalign-and-braces-hercules",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 741-8808",
+        "distance": 3014.1850300012857,
+        "id": "hkeZkvKV_vxKiiJka2YJzA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QTjPrZaRUvJkEadNLt5kEg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 125",
+            "address3": null,
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 125",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "OrthoWorks Invisalign and Braces",
+        "phone": "+15107418808",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orthoworks-invisalign-and-braces-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-mcdonald-dmd-pinole",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.996536,
+            "longitude": -122.304212
+        },
+        "display_phone": "(510) 724-5064",
+        "distance": 636.206047877815,
+        "id": "d0YnWyCHazbUUpXPjK1AAQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/32yPVTv9Gsz4EKoJhNBarQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1420 Tara Hills Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1420 Tara Hills Dr",
+                "Ste A",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Michael McDonald, DMD",
+        "phone": "+15107245064",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-mcdonald-dmd-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "beavers-frank-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.98854,
+            "longitude": -122.29845
+        },
+        "display_phone": "(510) 758-0900",
+        "distance": 1000.7445665479213,
+        "id": "hcYh-X5Mr0mCuXZwz1QdfQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fnMG5nPr8VvhR4a4dA0adQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2643 Appian Way",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2643 Appian Way",
+                "Ste B",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Beavers Frank, DDS",
+        "phone": "+15107580900",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/beavers-frank-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "masangkay-mencie-dmd-smile-dental-hercules",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 741-7788",
+        "distance": 3014.890329755613,
+        "id": "Ow1BVtCGgYSvWCOvxZN5kQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f7jW7Tc31_vI0Cow5WzszQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 145",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 145",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Masangkay Mencie, DMD - Smile Dental",
+        "phone": "+15107417788",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/masangkay-mencie-dmd-smile-dental-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "irene-yeh-dmd-pinole-endodontics-pinole",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99632,
+            "longitude": -122.30358
+        },
+        "display_phone": "(510) 964-0215",
+        "distance": 522.4637270515701,
+        "id": "HVy6WhiYLx_KGjF3BpBT6w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fq-y8-qbDAy4nOOxt9B8xw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2150 Appian Way",
+            "address2": "Ste 207",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2150 Appian Way",
+                "Ste 207",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Irene Yeh, DMD - Pinole Endodontics",
+        "phone": "+15109640215",
+        "rating": 4.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/irene-yeh-dmd-pinole-endodontics-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "abar-orthodontics-pinole",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99582,
+            "longitude": -122.30361
+        },
+        "display_phone": "(510) 296-4001",
+        "distance": 623.9032422619573,
+        "id": "py3UqsLHUu8G5f8T-JVJCA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yZ699gPndY1R_QuRWQA0Xg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 204",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 204",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Abar Orthodontics",
+        "phone": "+15102964001",
+        "rating": 3.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/abar-orthodontics-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-g-wong-dmd-richmond-2",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97748,
+            "longitude": -122.32911
+        },
+        "display_phone": "(510) 222-4178",
+        "distance": 3586.1722401962134,
+        "id": "P9PtJMLjS4RZAQWpKt-KEA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UeDSUCUj22r-XndQs1BUsg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2970 Hilltop Mall Rd",
+            "address2": "Ste 212",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "2970 Hilltop Mall Rd",
+                "Ste 212",
+                "Richmond, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Stephen G Wong, DMD",
+        "phone": "+15102224178",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-g-wong-dmd-richmond-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pinole-oral-surgery-pinole",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9963188,
+            "longitude": -122.3035812
+        },
+        "display_phone": "(510) 724-3922",
+        "distance": 516.5568827747961,
+        "id": "a52b649K2Nc1f5P_jj0LOw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2150 Appian Way",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2150 Appian Way",
+                "Ste 201",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Pinole Oral Surgery",
+        "phone": "+15107243922",
+        "rating": 4.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pinole-oral-surgery-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "douglas-e-oliver-dds-pinole",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.00544,
+            "longitude": -122.29152
+        },
+        "display_phone": "(510) 724-6161",
+        "distance": 1000.4706264175869,
+        "id": "jhkLCpDxN9EdM9M-MWuh2A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NcKjKCcabteZjDyXpNnG0w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2200 San Pablo Ave",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2200 San Pablo Ave",
+                "Ste 101",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Douglas E Oliver, DDS",
+        "phone": "+15107246161",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/douglas-e-oliver-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cali-bay-dental-care-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0096817016602,
+            "longitude": -122.270629882812
+        },
+        "display_phone": "(510) 592-7855",
+        "distance": 2695.232747129879,
+        "id": "-WFER7zrUM-QU_CrzdfGmw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pZz982ff6VMp7lbsVaBajw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1581 Sycamore Ave",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "1581 Sycamore Ave",
+                "Ste 3",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Cali Bay Dental Care",
+        "phone": "+15105927855",
+        "rating": 4.0,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cali-bay-dental-care-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sabbadini-gary-dds-apc-pinole",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9958229064941,
+            "longitude": -122.303611755371
+        },
+        "display_phone": "(510) 724-4400",
+        "distance": 623.9032422619573,
+        "id": "-XyyP1fnEPhBaBFYrtOz2g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jwRV469V-jQN0Mm8vDF7uA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 100",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Sabbadini Gary DDS Apc",
+        "phone": "+15107244400",
+        "rating": 3.5,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sabbadini-gary-dds-apc-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "axelrode-orthodontics-pinole",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.997745513916,
+            "longitude": -122.301681518555
+        },
+        "display_phone": "(510) 724-8855",
+        "distance": 397.881572091565,
+        "id": "Lvy-WiEJrVx523HRRTj-xg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ABsUWaY7rzLbbf9U-_OHcw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": "Ste 301",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Ste 301",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Axelrode Orthodontics",
+        "phone": "+15107248855",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/axelrode-orthodontics-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "park-lake-dental-hercules-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0086393,
+            "longitude": -122.2701297
+        },
+        "display_phone": "(510) 285-1789",
+        "distance": 2664.1489859829608,
+        "id": "dH9foPoSK9MFM9oCBCNoSQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qAK04GMF8TGciPbulZsxOA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1572 Sycamore Ave",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "1572 Sycamore Ave",
+                "Ste G",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Park Lake Dental",
+        "phone": "+15102851789",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/park-lake-dental-hercules-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hercules-dental-care-hercules-4",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 741-1777",
+        "distance": 3014.890329755613,
+        "id": "cdt-0UhPU7dXE-O7j012pw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jxX3bDQNljRcMPXjkmcUDA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 130",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 130",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Hercules Dental Care",
+        "phone": "+15107411777",
+        "rating": 3.0,
+        "review_count": 82,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hercules-dental-care-hercules-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-thibault-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9959858,
+            "longitude": -122.3053672
+        },
+        "display_phone": "(510) 724-2074",
+        "distance": 741.3494375344488,
+        "id": "vmXgKVUSxg74pKzJZq7xkA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tD3rmRIy_xM875Duiwn6qQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1330 Tara Hills Dr",
+            "address2": "Ste K",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1330 Tara Hills Dr",
+                "Ste K",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Mark Thibault, DDS",
+        "phone": "+15107242074",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-thibault-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pinole-modern-dentistry-pinole",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9858364,
+            "longitude": -122.3125976
+        },
+        "display_phone": "(510) 210-8907",
+        "distance": 1881.5125046070918,
+        "id": "v9zbGXoRufKVY4jZvV2JPQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VumBYzT1-pQEguD32y162A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1208 Fitzgerald Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1208 Fitzgerald Dr",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Pinole Modern Dentistry",
+        "phone": "+15102108907",
+        "rating": 3.0,
+        "review_count": 58,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pinole-modern-dentistry-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bright-now-dental-pinole-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99159,
+            "longitude": -122.30625
+        },
+        "display_phone": "(510) 669-0350",
+        "distance": 1037.892812604896,
+        "id": "0Zwse0vRLD2amQQMID0jdw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uNl5n2gpenIsHZzWgpeK8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1477 Fitzgerald Dr",
+            "address2": "Ste 106",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1477 Fitzgerald Dr",
+                "Ste 106",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Bright Now! Dental",
+        "phone": "+15106690350",
+        "rating": 2.0,
+        "review_count": 107,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bright-now-dental-pinole-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "porteous-family-dentistry-rodeo-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.028867,
+            "longitude": -122.265203
+        },
+        "display_phone": "(510) 799-1100",
+        "distance": 4465.8078642126575,
+        "id": "MayDpF5mpi6JjzYXoXiOfg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LmdzNPqjgJUOTyGJDBOaIA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "665 Parker Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Rodeo",
+            "country": "US",
+            "display_address": [
+                "665 Parker Ave",
+                "Rodeo, CA 94572"
+            ],
+            "state": "CA",
+            "zip_code": "94572"
+        },
+        "name": "Porteous Family Dentistry",
+        "phone": "+15107991100",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/porteous-family-dentistry-rodeo-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hilltop-family-dental-richmond",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9774894714355,
+            "longitude": -122.329116821289
+        },
+        "display_phone": "(510) 758-7222",
+        "distance": 3586.1722401962134,
+        "id": "w_SN3F5Do_AAdQhiJ2mlvw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JsN71mqm9IeJcN8zrLK9uQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2970 Hilltop Mall Rd",
+            "address2": "Ste 211",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "2970 Hilltop Mall Rd",
+                "Ste 211",
+                "Richmond, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Hilltop Family Dental",
+        "phone": "+15107587222",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hilltop-family-dental-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "east-bay-childrens-dentistry-san-pablo",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95412,
+            "longitude": -122.33774
+        },
+        "display_phone": "(510) 778-9772",
+        "distance": 6000.288188050102,
+        "id": "vdwYKQGy0T6YwW-0TVm7-Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BFBmn5imnFlqiAdzwAN0DQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2089 Vale Rd",
+            "address2": "Ste 15",
+            "address3": null,
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2089 Vale Rd",
+                "Ste 15",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "East Bay Children's Dentistry",
+        "phone": "+15107789772",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/east-bay-childrens-dentistry-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "easton-paul-j-dds-richmond",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9348,
+            "longitude": -122.32586
+        },
+        "display_phone": "(510) 235-3557",
+        "distance": 7413.158844743655,
+        "id": "CFoiGEXsEos4b1TmoL9-Yw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "460 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "460 46th St",
+                "Richmond, CA 94805"
+            ],
+            "state": "CA",
+            "zip_code": "94805"
+        },
+        "name": "Easton Paul J, DDS",
+        "phone": "+15102353557",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/easton-paul-j-dds-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gregory-meyers-dds-pinole-periodontics-and-dental-implants-pinole",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9965343,
+            "longitude": -122.3042103
+        },
+        "display_phone": "(510) 724-8441",
+        "distance": 636.0915785910362,
+        "id": "J2jycxUM0pYJeISQ-BSuyg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SFYyvewbbsyRySK_AVWsig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1420 Tara Hills Dr",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1420 Tara Hills Dr",
+                "Ste C",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Gregory Meyers, DDS - Pinole Periodontics & Dental Implants",
+        "phone": "+15107248441",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gregory-meyers-dds-pinole-periodontics-and-dental-implants-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pinole-valley-orthodontics-pinole",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99388,
+            "longitude": -122.286
+        },
+        "display_phone": "(510) 275-3200",
+        "distance": 1055.8227516154054,
+        "id": "0hn2coGMD7Qn-hEoC6Mexw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tOBvbl2F1nAGKwdv9Bm0nw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2830 Pinole Valley Rd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2830 Pinole Valley Rd",
+                "Ste C",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Pinole Valley Orthodontics",
+        "phone": "+15102753200",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pinole-valley-orthodontics-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "a-nobel-smile-hercules-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0173599,
+            "longitude": -122.27336
+        },
+        "display_phone": "(510) 741-7041",
+        "distance": 3014.1850300012857,
+        "id": "Y9mU1WwypODdIfGzWuYhIw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zg8iN-w_rf16fA55LFXrBw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 285",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 285",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "A Nobel Smile",
+        "phone": "+15107417041",
+        "rating": 3.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/a-nobel-smile-hercules-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yc-dentist-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.003381,
+            "longitude": -122.316132
+        },
+        "display_phone": "(510) 275-9007",
+        "distance": 1794.1646850928585,
+        "id": "gy8sb65D1Oes7o3lnafhEQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yYfwPntW9qV7VyNmcfxK0A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "610 San Pablo Ave",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "610 San Pablo Ave",
+                "Ste G",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "YC Dentist",
+        "phone": "+15102759007",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yc-dentist-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rodica-popovici-dds-el-sobrante",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96614,
+            "longitude": -122.30164
+        },
+        "display_phone": "(510) 222-1922",
+        "distance": 3509.501321268032,
+        "id": "LmQWAV7SQZGkl3T6v1HDvQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "4450 San Pablo Dam Rd",
+            "address2": null,
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "4450 San Pablo Dam Rd",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Rodica Popovici, DDS",
+        "phone": "+15102221922",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rodica-popovici-dds-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hermonpal-bhullar-dds-hercules",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0177307,
+            "longitude": -122.2739182
+        },
+        "display_phone": "(510) 964-7219",
+        "distance": 3014.890329755613,
+        "id": "AJoTXfSt-KrtQnnwxNy5Rg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W8_fOWl3ahR74yQQG9Br5A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 205",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 205",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Hermonpal Bhullar, DDS",
+        "phone": "+15109647219",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hermonpal-bhullar-dds-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ismile-san-pablo-san-pablo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9601117647611,
+            "longitude": -122.342090313251
+        },
+        "display_phone": "(510) 237-5570",
+        "distance": 5733.598614032719,
+        "id": "QkVrE1TqvctkEJBvgmfhVw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N9gj5g3Pk8IS4k5n9HVFzw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "13908 San Pablo Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "13908 San Pablo Ave",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "iSmile San Pablo",
+        "phone": "+15102375570",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ismile-san-pablo-san-pablo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "warren-david-t-dds-pinole",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9958229064941,
+            "longitude": -122.303611755371
+        },
+        "display_phone": "(510) 724-8541",
+        "distance": 623.9032422619573,
+        "id": "iSuQgnF0vGmLYoLtYr2H_Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 104",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Warren David T, DDS",
+        "phone": "+15107248541",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/warren-david-t-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sandra-k-gadwood-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99786,
+            "longitude": -122.30224
+        },
+        "display_phone": "(510) 724-5330",
+        "distance": 467.3771577605183,
+        "id": "2NXLi3lkoW4uNo8kaJrbsg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/twSLwHcCWdYmkZ4KwwEO8g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1580 Mann Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1580 Mann Dr",
+                "Ste B",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Sandra K Gadwood, DDS",
+        "phone": "+15107245330",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sandra-k-gadwood-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "the-dental-center-of-hercules-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0212,
+            "longitude": -122.26162
+        },
+        "display_phone": "(510) 245-3004",
+        "distance": 4023.752951575392,
+        "id": "3iQSOUPeipOwJmMs0Z9mLg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i895SEgU3dNYMzhy3S2O2g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "844 Willow Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "844 Willow Ave",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "The Dental Center Of Hercules",
+        "phone": "+15102453004",
+        "rating": 3.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/the-dental-center-of-hercules-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endo-care-group-pinole-pinole",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99582,
+            "longitude": -122.30361
+        },
+        "display_phone": "(510) 724-4900",
+        "distance": 623.9032422619573,
+        "id": "lkhCl6yX8AtlBnk6PGTc_A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7uwHauRCmRlP5VbgHK0dOA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 206",
+            "address3": null,
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 206",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Endo Care Group - Pinole",
+        "phone": "+15107244900",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endo-care-group-pinole-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pacific-family-dental-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95951,
+            "longitude": -122.34051
+        },
+        "display_phone": "(510) 233-4200",
+        "distance": 5681.803583287741,
+        "id": "n_Tex-_8DTgaRqZSwGJIew",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WnUpt64bvkk6enVUJngfrQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "13830 San Pablo Ave Ste F",
+            "address2": null,
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "13830 San Pablo Ave Ste F",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Pacific Family Dental",
+        "phone": "+15102334200",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pacific-family-dental-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lewis-clayman-dds-pinole",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9963188,
+            "longitude": -122.3035812
+        },
+        "display_phone": "(510) 724-3922",
+        "distance": 522.4637270515701,
+        "id": "vaSt-29AO93hM32cXOjOyw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2150 Appian Way",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2150 Appian Way",
+                "Ste 201",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Lewis Clayman, DDS",
+        "phone": "+15107243922",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lewis-clayman-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "youthful-tooth-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9948284,
+            "longitude": -122.2858007
+        },
+        "display_phone": "(510) 758-6684",
+        "distance": 1030.6219138517924,
+        "id": "sMOyKa4lQVc_4k_7kfk7GA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7WAcMZZd1kHSsfXiV4wbEA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2762 Pinole Valley Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2762 Pinole Valley Rd",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Youthful Tooth",
+        "phone": "+15107586684",
+        "rating": 1.5,
+        "review_count": 61,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/youthful-tooth-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "allied-dentistry-el-sobrante",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96169,
+            "longitude": -122.325414
+        },
+        "display_phone": "(510) 262-0611",
+        "distance": 4695.037988253039,
+        "id": "jsUGbJ8ELuDlaVO1UUU7Pw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oL-FTkCR57JznGN4h5lTxA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3380 San Pablo Dam Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3380 San Pablo Dam Rd",
+                "Ste A",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Allied Dentistry",
+        "phone": "+15102620611",
+        "rating": 3.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/allied-dentistry-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "winning-smile-dental-group-richmond-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9445733,
+            "longitude": -122.3291139
+        },
+        "display_phone": "(510) 233-3100",
+        "distance": 6522.843784000769,
+        "id": "-PDYCmsfssDq_Sy72vFDoA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ddZpeeAUHHp9b_rn_NPsrw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "12732 San Pablo Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "12732 San Pablo Ave",
+                "Richmond, CA 94805"
+            ],
+            "state": "CA",
+            "zip_code": "94805"
+        },
+        "name": "Winning Smile Dental Group",
+        "phone": "+15102333100",
+        "rating": 4.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/winning-smile-dental-group-richmond-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kourosh-harandi-dds-ms-pinole",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9956051,
+            "longitude": -122.3035223
+        },
+        "display_phone": "(510) 724-3666",
+        "distance": 604.8476568704557,
+        "id": "OFiu6xCaIpacpAY-OlIsbw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Kourosh Harandi, DDS, MS",
+        "phone": "+15107243666",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kourosh-harandi-dds-ms-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "linda-k-low-dds-el-sobrante",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96614,
+            "longitude": -122.30164
+        },
+        "display_phone": "(510) 223-3350",
+        "distance": 3509.501321268032,
+        "id": "16RtgpX09XHmfZB7ZCSvQw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Tz2rXEV9t2E-15lDZAFOZA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4450 San Pablo Dam Rd",
+            "address2": "",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "4450 San Pablo Dam Rd",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Linda K Low, DDS",
+        "phone": "+15102233350",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/linda-k-low-dds-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kay-shen-dmd-richmond-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9376831054688,
+            "longitude": -122.329963684082
+        },
+        "display_phone": "",
+        "distance": 7110.402297295369,
+        "id": "KaxdzeqAOjASaM0HMXpJsw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sD7EtFxk50ZlIEOgjCwEbA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": null,
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "Richmond, CA 94805"
+            ],
+            "state": "CA",
+            "zip_code": "94805"
+        },
+        "name": "Kay Shen, DMD",
+        "phone": "",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kay-shen-dmd-richmond-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ashley-h-ho-dmd-my-dentist-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 724-1822",
+        "distance": 3014.890329755613,
+        "id": "aPpPC2afiiaBCN9vqHJy3g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kLcClAUnYPZQdJLnCv7aCw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 165",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 165",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Ashley H. Ho, DMD - My Dentist",
+        "phone": "+15107241822",
+        "rating": 2.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ashley-h-ho-dmd-my-dentist-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "north-shore-dental-hercules",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.017567,
+            "longitude": -122.274249
+        },
+        "display_phone": "(510) 741-2140",
+        "distance": 2994.360821468634,
+        "id": "MmDkhxd2TMKAE2dD6iCH-Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x9tvUu2si_s8cxcJyAn6Rw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 240",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "North Shore Dental",
+        "phone": "+15107412140",
+        "rating": 3.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/north-shore-dental-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ajayi-michael-dds-el-sobrante",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9648323059082,
+            "longitude": -122.311721801758
+        },
+        "display_phone": "(510) 222-2163",
+        "distance": 3812.9526413212398,
+        "id": "1k7X9zfCcyZHlzF0VPtBig",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NFn9e86LYCQctNuoTN6liw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3980 San Pablo Dam Rd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3980 San Pablo Dam Rd",
+                "Ste 102",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Ajayi Michael,DDS",
+        "phone": "+15102222163",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ajayi-michael-dds-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "judson-wm-e-dds-el-sobrante-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9648323059082,
+            "longitude": -122.311721801758
+        },
+        "display_phone": "(510) 223-4141",
+        "distance": 3812.9526413212398,
+        "id": "rnVONIWR_DFu1pn07cw4bg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3980 San Pablo Dam Rd",
+            "address2": "Ste 203",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3980 San Pablo Dam Rd",
+                "Ste 203",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Judson Wm E, DDS",
+        "phone": "+15102234141",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/judson-wm-e-dds-el-sobrante-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "may-valley-dentistry-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9783026874065,
+            "longitude": -122.330424785614
+        },
+        "display_phone": "(510) 223-5676",
+        "distance": 3635.5206676314433,
+        "id": "71KOb_qyAuHsN_4apQsr3Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-ctiTgknFyQJTMrOfmuS2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2948 Hilltop Mall Rd",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2948 Hilltop Mall Rd",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "May Valley Dentistry",
+        "phone": "+15102235676",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/may-valley-dentistry-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "san-pablo-dental-care-san-pablo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9602114,
+            "longitude": -122.3424906
+        },
+        "display_phone": "(510) 232-3143",
+        "distance": 5763.737178066547,
+        "id": "GESiAkcgTB-uZuqlAgD-EQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YqcOamt6xMBhO0q_9ARXZg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "13925 San Pablo Ave",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "13925 San Pablo Ave",
+                "Ste 210",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "San Pablo Dental Care",
+        "phone": "+15102323143",
+        "rating": 3.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/san-pablo-dental-care-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kamran-kashirad-dds-pinole",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99773,
+            "longitude": -122.30168
+        },
+        "display_phone": "(510) 724-8686",
+        "distance": 397.8026146078351,
+        "id": "dId-IofcKbSeBTVqANYm8g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TazgxmIil9XyDrp_9odRzw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": "Ste 101",
+            "address3": null,
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Ste 101",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Kamran Kashirad, DDS",
+        "phone": "+15107248686",
+        "rating": 3.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kamran-kashirad-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "betty-j-fong-dds-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 741-2140",
+        "distance": 3014.890329755613,
+        "id": "KzjzCJlSz7GTZPkz3kRxbg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 240",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Betty J Fong, DDS",
+        "phone": "+15107412140",
+        "rating": 4.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/betty-j-fong-dds-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-s-tanita-dds-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95412,
+            "longitude": -122.33774
+        },
+        "display_phone": "(510) 236-1661",
+        "distance": 6000.288188050102,
+        "id": "I2G0GRx0EWHzX_kBUyNy-A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oFVy6ZN94JDzDvtuqn3DEw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2089 Vale Rd",
+            "address2": "Ste 30A",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2089 Vale Rd",
+                "Ste 30A",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Daniel S. Tanita, DDS",
+        "phone": "+15102361661",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-s-tanita-dds-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wong-family-dentistry-san-pablo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97748,
+            "longitude": -122.32911
+        },
+        "display_phone": "(510) 222-4178",
+        "distance": 3586.1722401962134,
+        "id": "IWI_ZwT0RJUou7kcrX8A4Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y7qbJzuC64oXIGWpbdUP4g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2970 Hilltop Mall Rd",
+            "address2": "Ste 212",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2970 Hilltop Mall Rd",
+                "Ste 212",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Wong Family Dentistry",
+        "phone": "+15102224178",
+        "rating": 4.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wong-family-dentistry-san-pablo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "timothy-s-geoghegan-dds-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9784028,
+            "longitude": -122.3304623
+        },
+        "display_phone": "(510) 222-3322",
+        "distance": 3617.3478490337725,
+        "id": "_7TBwmoxQ3ypLOZwNfdyqg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2948 Hilltop Mall Rd",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2948 Hilltop Mall Rd",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Timothy S Geoghegan, DDS",
+        "phone": "+15102223322",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/timothy-s-geoghegan-dds-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richmond-dental-building-richmond",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9354,
+            "longitude": -122.3546
+        },
+        "display_phone": "(510) 233-6515",
+        "distance": 8569.199622731261,
+        "id": "Xh37MERMBnwK7YStmzpt-g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "265 16th St",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "265 16th St",
+                "Richmond, CA 94801"
+            ],
+            "state": "CA",
+            "zip_code": "94801"
+        },
+        "name": "Richmond Dental Building",
+        "phone": "+15102336515",
+        "rating": 3.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richmond-dental-building-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "contra-costa-dental-san-pablo-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96528,
+            "longitude": -122.34437
+        },
+        "display_phone": "(510) 234-1414",
+        "distance": 5466.385970558885,
+        "id": "KHkDCURK_cVfh09Pqdjy_g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uNo-QZ6OLZLZCCf8x42u1A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "14330 San Pablo Ave",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "14330 San Pablo Ave",
+                "Ste B",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Contra Costa Dental",
+        "phone": "+15102341414",
+        "rating": 3.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/contra-costa-dental-san-pablo-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-hathcoat-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99786,
+            "longitude": -122.30224
+        },
+        "display_phone": "(510) 724-5330",
+        "distance": 467.3771577605183,
+        "id": "d8s9kOI9gCEElycIX2cd7g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6LLEZteZJ61tP58DkWqkig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1580 Mann Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1580 Mann Dr",
+                "Ste B",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Brian Hathcoat, DDS",
+        "phone": "+15107245330",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-hathcoat-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bahramis-dental-care-el-cerrito-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.927417755127,
+            "longitude": -122.319244384766
+        },
+        "display_phone": "(510) 215-6900",
+        "distance": 8082.3723616306515,
+        "id": "kTlRSl05ORUNCfSE6r4yfA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YRnH2qzCc_dttKvMV8CFQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "11720 San Pablo Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "El Cerrito",
+            "country": "US",
+            "display_address": [
+                "11720 San Pablo Ave",
+                "Ste A",
+                "El Cerrito, CA 94530"
+            ],
+            "state": "CA",
+            "zip_code": "94530"
+        },
+        "name": "Bahrami's Dental Care",
+        "phone": "+15102156900",
+        "rating": 3.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bahramis-dental-care-el-cerrito-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "oshagh-mojdeh-dmd-pinole",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99773,
+            "longitude": -122.30168
+        },
+        "display_phone": "(510) 724-5700",
+        "distance": 397.8026146078351,
+        "id": "rBF_WZ9BoJrg5naOepmfzQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P5aZev7wMuw61DJ2cN4-CA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": null,
+            "address3": null,
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Oshagh Mojdeh DMD",
+        "phone": "+15107245700",
+        "rating": 3.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/oshagh-mojdeh-dmd-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "reach-dental-care-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.985017,
+            "longitude": -122.31729
+        },
+        "display_phone": "(510) 223-8228",
+        "distance": 2252.5642875583526,
+        "id": "RBtzmxHANtsS0htxMbnjtA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rjxvDitMUYs3W3iqV6pMiw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4200 Klose Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "4200 Klose Way",
+                "Ste A",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Reach Dental Care",
+        "phone": "+15102238228",
+        "rating": 2.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/reach-dental-care-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "maria-lourdes-carpio-rigo-dmd-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.008674621582,
+            "longitude": -122.270164489746
+        },
+        "display_phone": "(510) 799-9345",
+        "distance": 2664.1489859829608,
+        "id": "spVFcYNQRL7AxDAoI3xMPQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZzocGgbThcNXADSfONXM1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1572 Sycamore Ave",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "1572 Sycamore Ave",
+                "Ste G",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Maria Lourdes Carpio-Rigo, DMD",
+        "phone": "+15107999345",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/maria-lourdes-carpio-rigo-dmd-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "town-center-dental-san-pablo-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9561723537789,
+            "longitude": -122.332698963583
+        },
+        "display_phone": "(510) 236-1000",
+        "distance": 5557.856100134126,
+        "id": "abXR-VLNfJTuzED6OOfnBw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0horAGQhJxbxZflh9AEoGA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "404 San Pablo Town Ctr",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "404 San Pablo Town Ctr",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Town Center Dental",
+        "phone": "+15102361000",
+        "rating": 2.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/town-center-dental-san-pablo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "doss-jerrilee-dds-rodeo-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.035186,
+            "longitude": -122.266437
+        },
+        "display_phone": "",
+        "distance": 4974.358415946304,
+        "id": "Qs0HLYimIBxQ5TzNabqOug",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m9MAWwiazCTNlpZuonsB6A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "",
+            "address2": "",
+            "address3": "",
+            "city": "Rodeo",
+            "country": "US",
+            "display_address": [
+                "Rodeo, CA 94572"
+            ],
+            "state": "CA",
+            "zip_code": "94572"
+        },
+        "name": "Doss Jerrilee, DDS",
+        "phone": "",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/doss-jerrilee-dds-rodeo-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "macias-and-crespo-dental-corporation-san-pablo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9627151489258,
+            "longitude": -122.346145629883
+        },
+        "display_phone": "(510) 236-5640",
+        "distance": 5777.534887363975,
+        "id": "vD4AieN23lFPsaQnXgglwg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KZFMulmkqYiZopA1lF9vZQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2232 Rd 20",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2232 Rd 20",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Macias and Crespo Dental Corporation",
+        "phone": "+15102365640",
+        "rating": 3.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/macias-and-crespo-dental-corporation-san-pablo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pinell-miguel-a-el-sobrante",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9648323059082,
+            "longitude": -122.311721801758
+        },
+        "display_phone": "(510) 222-3962",
+        "distance": 3812.9526413212398,
+        "id": "AwPA3nANX4_IPwLlbUUMIg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3980 San Pablo Dam Rd",
+            "address2": "",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3980 San Pablo Dam Rd",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Pinell Miguel A",
+        "phone": "+15102223962",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pinell-miguel-a-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rubio-dental-care-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9803260264451,
+            "longitude": -122.327471950628
+        },
+        "display_phone": "(510) 223-7955",
+        "distance": 3279.6687738981623,
+        "id": "5P2Bz0gYuuJ12Bq3bImuYA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2442 Hilltop Mall Rd",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "2442 Hilltop Mall Rd",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Rubio Dental Care",
+        "phone": "+15102237955",
+        "rating": 3.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rubio-dental-care-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-agyekum-dmd-el-sobrante",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9661951,
+            "longitude": -122.3087253
+        },
+        "display_phone": "(510) 758-3441",
+        "distance": 3652.537289224879,
+        "id": "yzvPVfo5f99F6_SfgjVNTA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EN-x9JvrTSzxeSoDpaZnXQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4106 San Pablo Dam Rd",
+            "address2": "",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "4106 San Pablo Dam Rd",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Edward Agyekum, DMD",
+        "phone": "+15107583441",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-agyekum-dmd-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lovely-c-manlapaz-dds-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0212,
+            "longitude": -122.26162
+        },
+        "display_phone": "(510) 245-3004",
+        "distance": 4023.3727068254707,
+        "id": "DjvY2zqkXlBBBkPcX65O_Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vpw5tVJjSQKloYPcIZtfcQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "844 Willow Ave",
+            "address2": "Ste A6",
+            "address3": "Dental Center of Hercules",
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "844 Willow Ave",
+                "Ste A6",
+                "Dental Center of Hercules",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Lovely C Manlapaz, DDS",
+        "phone": "+15102453004",
+        "rating": 3.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lovely-c-manlapaz-dds-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "chinn-richard-a-dds-el-sobrante",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96483,
+            "longitude": -122.31172
+        },
+        "display_phone": "",
+        "distance": 3812.9526413212398,
+        "id": "yAFoiqAkEHwviV9kqJJseQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3980 San Pablo Dam Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3980 San Pablo Dam Rd",
+                "Ste 100",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Chinn Richard A DDS",
+        "phone": "",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/chinn-richard-a-dds-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "arvil-reyes-dds-el-sobrante",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9648323059082,
+            "longitude": -122.311721801758
+        },
+        "display_phone": "(510) 223-8850",
+        "distance": 3812.9526413212398,
+        "id": "QCOpg5GKLOFx4_TAGw4Isg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3980 San Pablo Dam Rd",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3980 San Pablo Dam Rd",
+                "Ste 202",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Arvil Reyes, DDS",
+        "phone": "+15102238850",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/arvil-reyes-dds-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "family-dental-care-el-sobrante",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.963005065918,
+            "longitude": -122.319869995117
+        },
+        "display_phone": "(510) 223-3337",
+        "distance": 4320.721225305293,
+        "id": "fDMUjgyQ2QBrZkJT4Gdlmg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VdwwO7UO4nCSVCPDJuPeNA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3550 San Pablo Dam Rd",
+            "address2": "Ste A6",
+            "address3": "",
+            "city": "El Sobrante",
+            "country": "US",
+            "display_address": [
+                "3550 San Pablo Dam Rd",
+                "Ste A6",
+                "El Sobrante, CA 94803"
+            ],
+            "state": "CA",
+            "zip_code": "94803"
+        },
+        "name": "Family Dental Care",
+        "phone": "+15102233337",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/family-dental-care-el-sobrante?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rodeo-dental-health-rodeo-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.03518,
+            "longitude": -122.26643
+        },
+        "display_phone": "(510) 799-4871",
+        "distance": 4975.369852190288,
+        "id": "xuydYwS1fGw_uU6dEoLTSg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Qm7rGRsyfjI7B7JLaXghbA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Railroad Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Rodeo",
+            "country": "US",
+            "display_address": [
+                "301 Railroad Ave",
+                "Rodeo, CA 94572"
+            ],
+            "state": "CA",
+            "zip_code": "94572"
+        },
+        "name": "Rodeo Dental Health",
+        "phone": "+15107994871",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rodeo-dental-health-rodeo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pamela-porteous-burke-dds-rodeo",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.02868,
+            "longitude": -122.26509
+        },
+        "display_phone": "(510) 799-4746",
+        "distance": 4455.687174115722,
+        "id": "kEXPiVDMTC5AfTbBj8cvlw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "667 Parker Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Rodeo",
+            "country": "US",
+            "display_address": [
+                "667 Parker Ave",
+                "Rodeo, CA 94572"
+            ],
+            "state": "CA",
+            "zip_code": "94572"
+        },
+        "name": "Pamela Porteous-Burke, DDS",
+        "phone": "+15107994746",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pamela-porteous-burke-dds-rodeo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "maria-t-rodriguez-dds-richmond",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.933767,
+            "longitude": -122.3317156
+        },
+        "display_phone": "(510) 232-4003",
+        "distance": 7716.671079394408,
+        "id": "QT0yp_HZpTc0xELNfexgNA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HuOx2vuifiQfvqSBDqq_5g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "315 40th St",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "315 40th St",
+                "Richmond, CA 94805"
+            ],
+            "state": "CA",
+            "zip_code": "94805"
+        },
+        "name": "Maria T. Rodriguez, DDS",
+        "phone": "+15102324003",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/maria-t-rodriguez-dds-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "racelis-maria-angeles-dmd-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9544346,
+            "longitude": -122.332783
+        },
+        "display_phone": "(510) 237-4680",
+        "distance": 5713.469004116533,
+        "id": "Q3aMa1SwgrJqaGr0BJcYow",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oqKSs4Cf3aYfRE2Tgn3_YQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "108 San Pablo Towne Ctr",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "108 San Pablo Towne Ctr",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Racelis Maria Angeles DMD",
+        "phone": "+15102374680",
+        "rating": 3.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/racelis-maria-angeles-dmd-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mckethen-robert-l-dds-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96051,
+            "longitude": -122.34182
+        },
+        "display_phone": "(510) 237-5570",
+        "distance": 5683.843192650361,
+        "id": "fhyDeCPU4ZWLo-bJ23jS8w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DzdQz2Ayda9G0YQGuiQmYg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "13908 San Pablo Ave",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "13908 San Pablo Ave",
+                "Ste 100",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "McKethen Robert L DDS",
+        "phone": "+15102375570",
+        "rating": 2.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mckethen-robert-l-dds-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "radcliffe-lawrence-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.997745513916,
+            "longitude": -122.301681518555
+        },
+        "display_phone": "(510) 724-5464",
+        "distance": 397.881572091565,
+        "id": "uwXm13hAFMv2ejeEdGLSbg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D-RqCNgY_x4kQ0_VvgyZeA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2000 Appian Way",
+            "address2": "Ste 203",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "2000 Appian Way",
+                "Ste 203",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Radcliffe Lawrence DDS",
+        "phone": "+15107245464",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/radcliffe-lawrence-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edmond-k-fung-dds-pinole",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99582,
+            "longitude": -122.30361
+        },
+        "display_phone": "(510) 724-2360",
+        "distance": 623.9032422619573,
+        "id": "zevgZRTB7vAmLGlVj1nFag",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Tara Hills Dr",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Pinole",
+            "country": "US",
+            "display_address": [
+                "1500 Tara Hills Dr",
+                "Ste 104",
+                "Pinole, CA 94564"
+            ],
+            "state": "CA",
+            "zip_code": "94564"
+        },
+        "name": "Edmond K Fung, DDS",
+        "phone": "+15107242360",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edmond-k-fung-dds-pinole?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "an-thuan-tran-dds-san-pablo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95951,
+            "longitude": -122.34051
+        },
+        "display_phone": "(510) 233-4200",
+        "distance": 5681.803583287741,
+        "id": "tRRxbqWyMerREiVsvRZ2mg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3EE2kvvmjFqlcJa1y8jA9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "13830 San Pablo Ave",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "13830 San Pablo Ave",
+                "Ste F",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "An Thuan Tran, DDS",
+        "phone": "+15102334200",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/an-thuan-tran-dds-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "guadalupe-dental-clinic-richmond",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9331512451172,
+            "longitude": -122.331253051758
+        },
+        "display_phone": "(510) 215-0143",
+        "distance": 7754.695917525464,
+        "id": "PxlDV1ETkZcoTgYHSlv9Kw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "4016 MacDonald Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "4016 MacDonald Ave",
+                "Richmond, CA 94805"
+            ],
+            "state": "CA",
+            "zip_code": "94805"
+        },
+        "name": "Guadalupe Dental Clinic",
+        "phone": "+15102150143",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/guadalupe-dental-clinic-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "uy-dental-care-gloria-farne-uy-dmd-dmd-hercules",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01785,
+            "longitude": -122.27385
+        },
+        "display_phone": "(510) 724-4678",
+        "distance": 3014.1850300012857,
+        "id": "GrY_cs4o66YZEM1yzY2x9w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Alfred Nobel Dr",
+            "address2": "Ste 265",
+            "address3": null,
+            "city": "Hercules",
+            "country": "US",
+            "display_address": [
+                "500 Alfred Nobel Dr",
+                "Ste 265",
+                "Hercules, CA 94547"
+            ],
+            "state": "CA",
+            "zip_code": "94547"
+        },
+        "name": "Uy Dental Care Gloria Farne Uy DMD DMD",
+        "phone": "+15107244678",
+        "rating": 1.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/uy-dental-care-gloria-farne-uy-dmd-dmd-hercules?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sanpablo-dentistry-san-pablo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9550056904554,
+            "longitude": -122.333194836974
+        },
+        "display_phone": "(510) 236-1000",
+        "distance": 5557.895361333541,
+        "id": "3QsCQ5GI8ItzR-ublyPoZg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5bmUNsLPc-OUT5c2fbGVQw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "404 San Pablo Towne Ctr",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "404 San Pablo Towne Ctr",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Sanpablo Dentistry",
+        "phone": "+15102361000",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sanpablo-dentistry-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-l-mc-kethen-dds-san-pablo",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96051,
+            "longitude": -122.34182
+        },
+        "display_phone": "(510) 237-5570",
+        "distance": 5683.843192650361,
+        "id": "cO-NAjx3S1sIvXeXfJO8DQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "13908 San Pablo Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Pablo",
+            "country": "US",
+            "display_address": [
+                "13908 San Pablo Ave",
+                "San Pablo, CA 94806"
+            ],
+            "state": "CA",
+            "zip_code": "94806"
+        },
+        "name": "Robert L Mc Kethen, DDS",
+        "phone": "+15102375570",
+        "rating": 1.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-l-mc-kethen-dds-san-pablo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "shen-pai-cheng-dds-richmond",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9336013793945,
+            "longitude": -122.344276428223
+        },
+        "display_phone": "(510) 234-4961",
+        "distance": 8221.279492674965,
+        "id": "V7xh68hyJB-b85zwK9UI6A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "194 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "194 Broadway",
+                "Richmond, CA 94804"
+            ],
+            "state": "CA",
+            "zip_code": "94804"
+        },
+        "name": "Shen Pai-Cheng, DDS",
+        "phone": "+15102344961",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/shen-pai-cheng-dds-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "s-andres-abusleme-dds-richmond",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.934689,
+            "longitude": -122.344978
+        },
+        "display_phone": "(510) 215-7944",
+        "distance": 8151.5092160364775,
+        "id": "NObKo7fTZ5EsUSvzlngvrw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/STH6f5fyl9mr4U-zVwP60Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "243 Civic Center St",
+            "address2": "",
+            "address3": "",
+            "city": "Richmond",
+            "country": "US",
+            "display_address": [
+                "243 Civic Center St",
+                "Richmond, CA 94804"
+            ],
+            "state": "CA",
+            "zip_code": "94804"
+        },
+        "name": "S Andres Abusleme, DDS",
+        "phone": "+15102157944",
+        "rating": 2.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/s-andres-abusleme-dds-richmond?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

@@ -1,0 +1,2277 @@
+[
+    {
+        "alias": "permalla-dental-care-petaluma",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23586,
+            "longitude": -122.62597
+        },
+        "display_phone": "(707) 773-1234",
+        "distance": 1126.5960904480824,
+        "id": "619Jf0ManUYZaqwlKPEbcw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_hh9Y9y_X2HNuvgsZseuLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "855 Lakeville St",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "855 Lakeville St",
+                "Ste 101",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Permalla Dental Care",
+        "phone": "+17077731234",
+        "rating": 4.5,
+        "review_count": 55,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/permalla-dental-care-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hillcrest-dental-group-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22253,
+            "longitude": -122.646866
+        },
+        "display_phone": "(707) 763-2654",
+        "distance": 2506.8474623599245,
+        "id": "CEBEihpg8lfsblUlEntTUw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iRaTAgEmu9NN3m9ETtIS2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "511 Hayes Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "511 Hayes Ln",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Hillcrest Dental Group",
+        "phone": "+17077632654",
+        "rating": 5.0,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hillcrest-dental-group-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "north-bay-smiles-petaluma-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2510891,
+            "longitude": -122.6233082
+        },
+        "display_phone": "(707) 763-4122",
+        "distance": 1351.6830939172512,
+        "id": "V7RKcf7HENIizWwu99RiLg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dwebhjgrd7u1pjADqZH2RA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1580 E Washington St",
+            "address2": "Ste 101",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1580 E Washington St",
+                "Ste 101",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "North Bay Smiles",
+        "phone": "+17077634122",
+        "rating": 4.5,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/north-bay-smiles-petaluma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jordan-lamberton-dds-msd-hello-ortho-petaluma",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.223296,
+            "longitude": -122.647244
+        },
+        "display_phone": "(707) 789-9799",
+        "distance": 2444.624022696137,
+        "id": "00FdJAyFDeQAyDC8-DwaXg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/23MfhjQ2m89Qu49wz7Dzzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "30 W El Rose Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "30 W El Rose Dr",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Jordan Lamberton, DDS MSD - Hello Ortho",
+        "phone": "+17077899799",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jordan-lamberton-dds-msd-hello-ortho-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "von-chan-dds-petaluma-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.254601,
+            "longitude": -122.633787
+        },
+        "display_phone": "(707) 763-2682",
+        "distance": 1291.040358012581,
+        "id": "UwUH8BfWuAicm57dHmCIiQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u1ymp2pYfA6hUAgQlQSf5Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1416 Professional Dr",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1416 Professional Dr",
+                "Ste 201",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Von Chan, DDS",
+        "phone": "+17077632682",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/von-chan-dds-petaluma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alan-barton-dds-oakhill-dentistry-petaluma-5",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23465,
+            "longitude": -122.64613
+        },
+        "display_phone": "(707) 763-8088",
+        "distance": 1352.60687846403,
+        "id": "-bb-3xtzcgmTJB1IgRaNdw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z-VGxwXlhHnQkhmTcLMKcQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "216 Howard St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "216 Howard St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Alan Barton, DDS - Oakhill Dentistry",
+        "phone": "+17077638088",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alan-barton-dds-oakhill-dentistry-petaluma-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cypress-dental-of-petaluma-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22779,
+            "longitude": -122.58866
+        },
+        "display_phone": "(707) 766-8268",
+        "distance": 4335.714979163226,
+        "id": "6UR-4JFZlD_wMR2tCN577w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/11-MZ8zhGU8jdaKnoQZkeg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3835 Cypress Dr",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "3835 Cypress Dr",
+                "Ste 101",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Cypress Dental of Petaluma",
+        "phone": "+17077668268",
+        "rating": 4.5,
+        "review_count": 39,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cypress-dental-of-petaluma-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mona-mahmoodi-dds-park-plaza-dental-petaluma",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23648,
+            "longitude": -122.64309
+        },
+        "display_phone": "(707) 763-4142",
+        "distance": 1016.0187889316188,
+        "id": "3qWTU817URaOXDJTe-1riA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DW329GDUnAaHhbx2ByEqrg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "245 Kentucky St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "245 Kentucky St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Mona Mahmoodi, DDS - Park Plaza Dental",
+        "phone": "+17077634142",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mona-mahmoodi-dds-park-plaza-dental-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-w-jones-dds-park-place-dental-petaluma",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.255123,
+            "longitude": -122.63276
+        },
+        "display_phone": "(707) 763-3525",
+        "distance": 1358.268985676468,
+        "id": "EcnB8zH6NJOLZPGa9uTL6w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kkIHk7iwss340Bz6Q65RUw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1476 Professional Dr",
+            "address2": "Ste 505",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1476 Professional Dr",
+                "Ste 505",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Michael W Jones, DDS/Park Place Dental",
+        "phone": "+17077633525",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-w-jones-dds-park-place-dental-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-w-sinclair-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2233525,
+            "longitude": -122.6461643
+        },
+        "display_phone": "(707) 763-4116",
+        "distance": 2398.7501709150733,
+        "id": "xy9C5KGQin5-1ByFpoBXBA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ojv2nLIC71XCvAMLBes6Og/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "10 W El Rose Dr",
+            "address2": "",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "10 W El Rose Dr",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "John W. Sinclair, DDS",
+        "phone": "+17077634116",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-w-sinclair-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-dental-group-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2612037658691,
+            "longitude": -122.648216247559
+        },
+        "display_phone": "(707) 622-8038",
+        "distance": 2353.996065092459,
+        "id": "5wk8yHqnq_mLhy5MeWLWfA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Xv1PmelKhu_vWsPfp8ZLJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1301 Southpoint Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1301 Southpoint Blvd",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Petaluma Dental Group",
+        "phone": "+17076228038",
+        "rating": 3.5,
+        "review_count": 71,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-dental-group-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "clyde-l-schultz-dds-petaluma",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22329,
+            "longitude": -122.64597
+        },
+        "display_phone": "(707) 762-9784",
+        "distance": 2388.3882010002885,
+        "id": "QYpU2Y0yz-ktZjlEXM5MMg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CKN7EKv_FOivNZrqWDN8hA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8 W El Rose Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "8 W El Rose Dr",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Clyde L Schultz, DDS",
+        "phone": "+17077629784",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/clyde-l-schultz-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-modern-dentistry-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2438709675549,
+            "longitude": -122.625655056839
+        },
+        "display_phone": "(707) 789-9600",
+        "distance": 811.7954493919358,
+        "id": "0izsStFm2HaryoZZBUjbRw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i44viaPH2l_lzH3FQMT_FQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Kenilworth Dr",
+            "address2": "Ste 960",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "401 Kenilworth Dr",
+                "Ste 960",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Petaluma Modern Dentistry",
+        "phone": "+17077899600",
+        "rating": 3.5,
+        "review_count": 66,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-modern-dentistry-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marina-dental-of-petaluma-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23157,
+            "longitude": -122.6139
+        },
+        "display_phone": "(707) 763-9841",
+        "distance": 2272.778908106232,
+        "id": "JqtJd_-J57efu0tj_tuJOA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/meRI2EfhWFl3tNDKCek5qQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "765 Baywood Dr",
+            "address2": "Ste 233",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "765 Baywood Dr",
+                "Ste 233",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Marina Dental Of Petaluma",
+        "phone": "+17077639841",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-dental-of-petaluma-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-oral-surgery-and-dental-implant-center-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2519933,
+            "longitude": -122.6341506
+        },
+        "display_phone": "(707) 769-1414",
+        "distance": 999.5693667233497,
+        "id": "_mVNKa335eMt-uu1_Wl07Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KYWXLYQqgUmZHh44XUHpeg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "101 Lynch Creek Way",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "101 Lynch Creek Way",
+                "Ste B",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Petaluma Oral Surgery and Dental Implant Center",
+        "phone": "+17077691414",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-oral-surgery-and-dental-implant-center-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bob-koenitzer-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2527382,
+            "longitude": -122.6326832
+        },
+        "display_phone": "(707) 766-6666",
+        "distance": 1097.3418428957195,
+        "id": "surpEdiA1b7fvF2V55yUdg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CHvAccouTZdOba9KKp87mQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "101 Lynch Creek Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "101 Lynch Creek Way",
+                "Ste A",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Bob Koenitzer, DDS",
+        "phone": "+17077666666",
+        "rating": 4.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bob-koenitzer-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christine-t-boyer-dds-petaluma",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2230621,
+            "longitude": -122.6455626
+        },
+        "display_phone": "(707) 762-3600",
+        "distance": 2407.3926430028537,
+        "id": "FYbc1wozueIbqI5U1nBTCQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "9 W El Rose Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "9 W El Rose Dr",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Christine T Boyer, DDS",
+        "phone": "+17077623600",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christine-t-boyer-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "f-charles-heggli-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2546768188477,
+            "longitude": -122.633224487305
+        },
+        "display_phone": "(707) 992-5915",
+        "distance": 1304.00162021402,
+        "id": "HWEPtBxZas-aKLYiDcKBjQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uzqMZjp1Emxq9F-5q_0Klw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1436 Professional Dr",
+            "address2": "Ste 301",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1436 Professional Dr",
+                "Ste 301",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "F Charles Heggli, DDS",
+        "phone": "+17079925915",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/f-charles-heggli-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christian-j-kjeldsen-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23965,
+            "longitude": -122.63506
+        },
+        "display_phone": "(707) 765-6021",
+        "distance": 371.1196828333631,
+        "id": "EuLVnl8VTCnlaWLSv1rPhw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Sw7bCqiiTkRtcOaCOgJFeQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "515 E Washington St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "515 E Washington St",
+                "Ste B",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Christian J. Kjeldsen, DDS",
+        "phone": "+17077656021",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christian-j-kjeldsen-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "signature-smiles-dental-group-petaluma-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2220878601074,
+            "longitude": -122.646850585938
+        },
+        "display_phone": "(707) 763-0962",
+        "distance": 2551.96974408726,
+        "id": "c7r1A2j2VleFsVf4yees9A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rQ29pSJh66fTH3ge6D7aVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "515 Hayes Ln",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "515 Hayes Ln",
+                "Ste D",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Signature Smiles Dental Group",
+        "phone": "+17077630962",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/signature-smiles-dental-group-petaluma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-valley-dental-petaluma",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.269229888916,
+            "longitude": -122.639114379883
+        },
+        "display_phone": "(707) 782-0789",
+        "distance": 2937.3589250872474,
+        "id": "7Ih1di71tzty4UHS-1jX8A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GB_L3yEjuHksnLd1Z7W95g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "701 Sonoma Mountain Pkwy",
+            "address2": "Ste E-1",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "701 Sonoma Mountain Pkwy",
+                "Ste E-1",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Petaluma Valley Dental",
+        "phone": "+17077820789",
+        "rating": 4.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-valley-dental-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-kids-dental-care-petaluma",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2344970703125,
+            "longitude": -122.644149780273
+        },
+        "display_phone": "(707) 658-2320",
+        "distance": 1231.377477275633,
+        "id": "fb9oxDhaXJw3La9hH4kUfg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4pH6DX13fBF5oJSt1XJ3mQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Washington St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "301 Washington St",
+                "Ste B",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Petaluma Kids Dental Care",
+        "phone": "+17076582320",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-kids-dental-care-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nadia-navid-dds-petaluma-family-dentistry-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2346534729004,
+            "longitude": -122.646133422852
+        },
+        "display_phone": "(707) 763-2621",
+        "distance": 1352.60687846403,
+        "id": "Kd0Hn5pLkt2sEdm-KkQPoA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-CQ80MrzLD7ncksKUFlv_Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "216 Howard St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "216 Howard St",
+                "Ste A",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Nadia Navid, DDS - Petaluma Family Dentistry",
+        "phone": "+17077632621",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nadia-navid-dds-petaluma-family-dentistry-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gentle-dental-petaluma-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.249223,
+            "longitude": -122.630066
+        },
+        "display_phone": "(707) 981-0723",
+        "distance": 807.8626759884842,
+        "id": "V_JouQJ8y40AX9uCgnzhQg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vegMsbCIQdczxj3aCIaj0w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "249 N. McDowell Boulevard",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "249 N. McDowell Boulevard",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Gentle Dental Petaluma",
+        "phone": "+17079810723",
+        "rating": 3.0,
+        "review_count": 53,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gentle-dental-petaluma-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kirk-orthodontics-petaluma",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2278633117676,
+            "longitude": -122.588836669922
+        },
+        "display_phone": "(707) 762-8047",
+        "distance": 4335.714979163226,
+        "id": "gkuhEwszjWGoye9uh3bMSg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YVXk_8dTAMT3PyD0SPovfQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3835 Cypress Dr",
+            "address2": "Ste 208",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "3835 Cypress Dr",
+                "Ste 208",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Kirk Orthodontics",
+        "phone": "+17077628047",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kirk-orthodontics-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-orthodontics-petaluma",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2344970703125,
+            "longitude": -122.644149780273
+        },
+        "display_phone": "(707) 762-0211",
+        "distance": 1231.377477275633,
+        "id": "tKOUE5tXbRPQyAITTF7q0A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wTyKFRqGtL9vYe7qwJQQQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Washington St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "301 Washington St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Petaluma Orthodontics",
+        "phone": "+17077620211",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-orthodontics-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "design-dental-smiles-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "medicalspa",
+                "title": "Medical Spas"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.254938,
+            "longitude": -122.633121
+        },
+        "display_phone": "(707) 763-3203",
+        "distance": 1333.8817844466141,
+        "id": "DlSg9b8O3Oa2ihGuilA-IQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lrTtpWjhsHCydqI3M-6R2w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1456 Professional Dr",
+            "address2": "Ste 401",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1456 Professional Dr",
+                "Ste 401",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Design Dental Smiles",
+        "phone": "+17077633203",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/design-dental-smiles-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-roper-dds-ms-petaluma",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22779,
+            "longitude": -122.58866
+        },
+        "display_phone": "(707) 766-7668",
+        "distance": 4335.714979163226,
+        "id": "lCqM-VIlfh4pTHyrr56BaA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JK-SHrrUBR1S3mVRYA84LA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3835 Cypress Dr",
+            "address2": "Ste 203",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "3835 Cypress Dr",
+                "Ste 203",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Mark Roper, DDS MS",
+        "phone": "+17077667668",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-roper-dds-ms-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-d-zatto-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25428,
+            "longitude": -122.63395
+        },
+        "display_phone": "(707) 765-9630",
+        "distance": 1259.1107364924753,
+        "id": "K896CV-9IFkpUGQcmLIXKA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/v8MCp4y_ew0iuZgOFyLaPA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1400 Professional Dr",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1400 Professional Dr",
+                "Ste 101",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Michael D. Zatto, DDS",
+        "phone": "+17077659630",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-d-zatto-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rick-lane-dds-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2518043518066,
+            "longitude": -122.633483886719
+        },
+        "display_phone": "(707) 762-6645",
+        "distance": 991.9102656381154,
+        "id": "Y-xMHz4PRmuENwrMiJzGHg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h4V9Moj07207oT2OsbNTzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "131 Lynch Creek Way",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "131 Lynch Creek Way",
+                "Ste C",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Rick Lane, DDS",
+        "phone": "+17077626645",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rick-lane-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orest-balytsky-dmd-petaluma-endodontics-petaluma",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25468,
+            "longitude": -122.63321
+        },
+        "display_phone": "(707) 763-2170",
+        "distance": 1304.6564687225928,
+        "id": "cboilLjsaWdyaBItM5h7bA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lwojPk3e51vlcHQkSv5D5g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1436 Professional Dr",
+            "address2": "Ste 304",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1436 Professional Dr",
+                "Ste 304",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Orest Balytsky, DMD - Petaluma Endodontics",
+        "phone": "+17077632170",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orest-balytsky-dmd-petaluma-endodontics-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-f-koffler-dmd-petaluma",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25185,
+            "longitude": -122.63343
+        },
+        "display_phone": "(707) 763-1951",
+        "distance": 991.9102656381154,
+        "id": "NlgUOrpDJyU-TBMSF-VtSg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "131 Lynch Creek Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "131 Lynch Creek Way",
+                "Ste A",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Michael F Koffler, DMD",
+        "phone": "+17077631951",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-f-koffler-dmd-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "barientos-bryan-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2216626198372,
+            "longitude": -122.645836283667
+        },
+        "display_phone": "(707) 971-7972",
+        "distance": 2560.4094778432354,
+        "id": "6RrID9ENgiq5CUZt3lQxdA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1124 B St",
+            "address2": "",
+            "address3": "Oak View Professional Building",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1124 B St",
+                "Oak View Professional Building",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Barientos Bryan, DDS",
+        "phone": "+17079717972",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/barientos-bryan-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-a-frasersmith-dds-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2554664611816,
+            "longitude": -122.632568359375
+        },
+        "display_phone": "(707) 763-7374",
+        "distance": 1403.2253278611613,
+        "id": "WKSb8-5mM_4A_bRExJyh8Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1496 Professional Dr",
+            "address2": "Ste 604",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1496 Professional Dr",
+                "Ste 604",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "William A Frasersmith, DDS",
+        "phone": "+17077637374",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-a-frasersmith-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonoma-endodontics-petaluma",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22329,
+            "longitude": -122.64723
+        },
+        "display_phone": "(707) 789-9399",
+        "distance": 2436.0082875770495,
+        "id": "WwRU4gLbQ2HBE2xg7T1bKQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V5qqjsvsvNQ_f1Y-bRKgFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "30 W El Rose Dr",
+            "address2": "",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "30 W El Rose Dr",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Sonoma Endodontics",
+        "phone": "+17077899399",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonoma-endodontics-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ramos-a-raymond-dds-and-associates-petaluma",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2278633117676,
+            "longitude": -122.588836669922
+        },
+        "display_phone": "(707) 887-5074",
+        "distance": 4335.714979163226,
+        "id": "0GSK3zj7ISoFcrnL4sQipQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZAa5emas9BrnslbOeGY-6g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3835 Cypress Dr",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "3835 Cypress Dr",
+                "Ste 210",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Ramos A. Raymond DDS & Associates",
+        "phone": "+17078875074",
+        "rating": 3.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ramos-a-raymond-dds-and-associates-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sibbald-brian-k-dds-petaluma-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22329,
+            "longitude": -122.64597
+        },
+        "display_phone": "(707) 762-5363",
+        "distance": 2388.3882010002885,
+        "id": "vgEJE41KK7FoAAKIQ0a_EA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "8 W El Rose Dr",
+            "address2": "# B",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "8 W El Rose Dr",
+                "# B",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Sibbald Brian K DDS",
+        "phone": "+17077625363",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sibbald-brian-k-dds-petaluma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-straub-dds-hillcrest-dental-group-petaluma-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22233,
+            "longitude": -122.64686
+        },
+        "display_phone": "(707) 763-2654",
+        "distance": 2520.5760549054894,
+        "id": "BzqX_e9B5p_sQP7vHrivhg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "511 Hayes Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "511 Hayes Ln",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "David Straub, DDS - Hillcrest Dental Group",
+        "phone": "+17077632654",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-straub-dds-hillcrest-dental-group-petaluma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paula-gardner-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2278633117676,
+            "longitude": -122.588836669922
+        },
+        "display_phone": "(707) 766-8268",
+        "distance": 4335.714979163226,
+        "id": "zdqVMtob9CbomcjgsFfXNA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ki6KC2OwgxH6pT3QazJu2A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3835 Cypress Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "3835 Cypress Dr",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Paula Gardner, DDS",
+        "phone": "+17077668268",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paula-gardner-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jurina-smida-dds-dental-care-and-wellness-of-sonoma-county-petaluma-6",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2323756,
+            "longitude": -122.639433
+        },
+        "display_phone": "(707) 781-8550",
+        "distance": 1248.6754676554433,
+        "id": "lpU9XsoX1hNwaG-EvLwnng",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oKXSFKRA_PxLNOdOU5_r5Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "26 4th St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "26 4th St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Jurina Smida, DDS - Dental Care & Wellness of Sonoma County",
+        "phone": "+17077818550",
+        "rating": 2.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jurina-smida-dds-dental-care-and-wellness-of-sonoma-county-petaluma-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elizabeth-vantassell-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2344665527344,
+            "longitude": -122.642944335938
+        },
+        "display_phone": "(707) 778-6006",
+        "distance": 1183.0698984609107,
+        "id": "7r4f8H5V7O5jrCeiLPTcJw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "135 Keller St",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "135 Keller St",
+                "Ste F",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Elizabeth Vantassell, DDS",
+        "phone": "+17077786006",
+        "rating": 3.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elizabeth-vantassell-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lalitha-smile-dental-services-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.27471,
+            "longitude": -122.66603
+        },
+        "display_phone": "(707) 778-9993",
+        "distance": 4451.485599366776,
+        "id": "KWpvlWdEzkl6UEc5OC0mdQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X0J5QeRsIdsdSZPuty227A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1372 N McDowell Blvd",
+            "address2": "Ste B1",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1372 N McDowell Blvd",
+                "Ste B1",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Lalitha Smile Dental Services",
+        "phone": "+17077789993",
+        "rating": 3.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lalitha-smile-dental-services-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "premier-dental-care-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.251199349761,
+            "longitude": -122.629584297538
+        },
+        "display_phone": "(707) 766-7373",
+        "distance": 934.8574325954474,
+        "id": "vCAMdik-Wyxk6g1JHQ9EmQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VkTmFHSe7ZGuEycZijor6g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "229 N McDowell Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "229 N McDowell Blvd",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Premier Dental Care",
+        "phone": "+17077667373",
+        "rating": 2.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/premier-dental-care-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "heitman-mercedes-dds-petaluma-3",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25448,
+            "longitude": -122.6339
+        },
+        "display_phone": "(707) 769-1162",
+        "distance": 1277.6600671406386,
+        "id": "I0EitPrZKVgtoA9S_w9ZRQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RDY5EVqfwvFZt2ZUf3701A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1416 Professional Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1416 Professional Dr",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Heitman Mercedes, DDS",
+        "phone": "+17077691162",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/heitman-mercedes-dds-petaluma-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "praveena-permalla-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2358551025391,
+            "longitude": -122.625968933105
+        },
+        "display_phone": "(707) 773-1234",
+        "distance": 1126.5960904480824,
+        "id": "bGtg5OuuFqKJnfa3oTG4PA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "855 Lakeville St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "855 Lakeville St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Praveena  Permalla, DDS",
+        "phone": "+17077731234",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/praveena-permalla-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-samuel-woo-dds-ms-petaluma",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.234496,
+            "longitude": -122.644147
+        },
+        "display_phone": "(707) 762-0211",
+        "distance": 1246.14546707677,
+        "id": "DRmdiW-M56D28hz0oYtPgw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JvCNSWGiDRi00W4AjGWISg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Washington St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "301 Washington St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "John Samuel Woo, DDS MS",
+        "phone": "+17077620211",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-samuel-woo-dds-ms-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "suryamanga-achyuta-dds-lalitha-smile-dental-services-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.27471,
+            "longitude": -122.66603
+        },
+        "display_phone": "(707) 778-8831",
+        "distance": 4451.485599366776,
+        "id": "BJuFlPEyeVhAAV_qhh13hw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1372 N McDowell Blvd",
+            "address2": "Ste B1",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1372 N McDowell Blvd",
+                "Ste B1",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Suryamanga Achyuta, DDS - Lalitha Smile Dental Services",
+        "phone": "+17077788831",
+        "rating": 3.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/suryamanga-achyuta-dds-lalitha-smile-dental-services-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-darpan-kundra-petaluma",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.251297,
+            "longitude": -122.623619
+        },
+        "display_phone": "(707) 778-9000",
+        "distance": 1351.6830939172512,
+        "id": "q_Wy8uyv0q6rvlS61iFxWw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1580 E Washington St",
+            "address2": "Ste 107",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1580 E Washington St",
+                "Ste 107",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Dr. Darpan Kundra",
+        "phone": "+17077789000",
+        "rating": 2.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-darpan-kundra-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "petaluma-dental-associates-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25121,
+            "longitude": -122.6237
+        },
+        "display_phone": "(707) 778-9000",
+        "distance": 1334.867736626103,
+        "id": "O2nrCbT6SwmwFdfPUYiKyg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1580 E Washington St",
+            "address2": "Ste 107",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1580 E Washington St",
+                "Ste 107",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Petaluma Dental Associates",
+        "phone": "+17077789000",
+        "rating": 1.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/petaluma-dental-associates-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christensen-r-david-dds-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2364845275879,
+            "longitude": -122.643089294434
+        },
+        "display_phone": "(707) 763-4142",
+        "distance": 1016.0187889316188,
+        "id": "COPjHdIlgWN9quZVoV-AnQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "245 Kentucky St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "245 Kentucky St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Christensen R David DDS",
+        "phone": "+17077634142",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christensen-r-david-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "reza-k-aryanpour-dds-petaluma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25468,
+            "longitude": -122.63321
+        },
+        "display_phone": "(707) 763-2828",
+        "distance": 1304.6564687225928,
+        "id": "A6jS6KXHsk0DANCQe7ABMw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1436 Professional Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1436 Professional Dr",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Reza K Aryanpour DDS",
+        "phone": "+17077632828",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/reza-k-aryanpour-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nizibian-mark-j-dds-petaluma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2220062,
+            "longitude": -122.6460022
+        },
+        "display_phone": "(707) 763-1688",
+        "distance": 2533.923104221377,
+        "id": "FNCOxRgvZQCT01kN-n74PA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1122 B St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1122 B St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Nizibian Mark J DDS",
+        "phone": "+17077631688",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nizibian-mark-j-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dembski-thomas-petaluma",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2499597,
+            "longitude": -122.6250215
+        },
+        "display_phone": "(707) 981-4363",
+        "distance": 1177.3248559270442,
+        "id": "1WUQphBfYsyDvJjd0Ci5Nw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1430 E Washington St",
+            "address2": "",
+            "address3": "",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "1430 E Washington St",
+                "Petaluma, CA 94954"
+            ],
+            "state": "CA",
+            "zip_code": "94954"
+        },
+        "name": "Dembski Thomas",
+        "phone": "+17079814363",
+        "rating": 1.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dembski-thomas-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dental-care-and-wellness-of-sonoma-county-petaluma-5",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23238,
+            "longitude": -122.63945
+        },
+        "display_phone": "(707) 781-8550",
+        "distance": 1248.1682627399039,
+        "id": "vGs7m_jAK9Lpbth-dY0QWA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "26 4th St",
+            "address2": "",
+            "address3": null,
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "26 4th St",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Dental Care & Wellness of Sonoma County",
+        "phone": "+17077818550",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dental-care-and-wellness-of-sonoma-county-petaluma-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stacey-strong-dds-petaluma",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22233,
+            "longitude": -122.64686
+        },
+        "display_phone": "(707) 763-2654",
+        "distance": 2520.5760549054894,
+        "id": "EvRMpO3R1yfDKCIYA9_ycg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "511 Hayes Ln",
+            "address2": "",
+            "address3": "Hillcrest Dental Group",
+            "city": "Petaluma",
+            "country": "US",
+            "display_address": [
+                "511 Hayes Ln",
+                "Hillcrest Dental Group",
+                "Petaluma, CA 94952"
+            ],
+            "state": "CA",
+            "zip_code": "94952"
+        },
+        "name": "Stacey Strong, DDS",
+        "phone": "+17077632654",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stacey-strong-dds-petaluma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

@@ -1,0 +1,1435 @@
+[
+    {
+        "alias": "bay-area-kids-dentist-morgan-hill-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.130565,
+            "longitude": -121.661529
+        },
+        "display_phone": "(408) 779-2747",
+        "distance": 1098.474179656677,
+        "id": "sYO80Z2Xd4dqIImq52L1kg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VdR4qwbRMpnzTBH3QrOVsg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste A-5",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste A-5",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Bay Area Kids Dentist",
+        "phone": "+14087792747",
+        "rating": 5.0,
+        "review_count": 93,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bay-area-kids-dentist-morgan-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "matthew-e-warnock-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.12417,
+            "longitude": -121.65172
+        },
+        "display_phone": "(408) 778-8555",
+        "distance": 673.002758213392,
+        "id": "eWS9xV0vvT0F5SJk4wAteA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PERCoTnSAmfNGfZW74zGTA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "16985 Monterey Rd",
+            "address2": "Ste 300A",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "16985 Monterey Rd",
+                "Ste 300A",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Matthew E Warnock, DDS",
+        "phone": "+14087788555",
+        "rating": 5.0,
+        "review_count": 61,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/matthew-e-warnock-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "santa-teresa-dental-morgan-hill",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.115,
+            "longitude": -121.64372
+        },
+        "display_phone": "(408) 782-6568",
+        "distance": 1690.0189129962473,
+        "id": "c2zLae0d4-eVbuzrFnkJzw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2KEBcF8mjLfmxy-GrTxfng/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "16160 Monterey Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "16160 Monterey Rd",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Santa Teresa Dental",
+        "phone": "+14087826568",
+        "rating": 5.0,
+        "review_count": 76,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/santa-teresa-dental-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vivian-c-liu-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.130644,
+            "longitude": -121.660798
+        },
+        "display_phone": "(408) 779-4012",
+        "distance": 1063.6080557969021,
+        "id": "S2lrX80QuKUQ_S09c9LQgQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iINSdos3dcNrzqzNqJnr-g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste B-3",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste B-3",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Vivian C Liu, DDS",
+        "phone": "+14087794012",
+        "rating": 5.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vivian-c-liu-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stein-s-benjamin-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.139087,
+            "longitude": -121.655563
+        },
+        "display_phone": "(408) 779-6444",
+        "distance": 1207.939423267545,
+        "id": "CuENlCQ340QjMXyNpxBpeA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "18181 Butterfield Blvd",
+            "address2": "Ste 165",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18181 Butterfield Blvd",
+                "Ste 165",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Stein S Benjamin, DDS",
+        "phone": "+14087796444",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stein-s-benjamin-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tsuru-dental-care-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.130508,
+            "longitude": -121.661465
+        },
+        "display_phone": "(408) 778-3015",
+        "distance": 1121.0585932468664,
+        "id": "94SlrdQIGjXs5zBTnhQZNw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RhdkKBEVLq7Wk06eSWbfPw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "",
+            "address3": "Ste E 3",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste E 3",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Tsuru Dental Care",
+        "phone": "+14087783015",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tsuru-dental-care-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ferdinand-d-manalili-dds-morgan-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.139087,
+            "longitude": -121.655563
+        },
+        "display_phone": "(408) 778-9977",
+        "distance": 1207.939423267545,
+        "id": "UBFfOpq1JXvuDWMo0jzm_A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hHRM_qxI68tQTUPAPBjueA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18181 Butterfield Blvd",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18181 Butterfield Blvd",
+                "Ste 120",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Ferdinand D Manalili, DDS",
+        "phone": "+14087789977",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ferdinand-d-manalili-dds-morgan-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mario-marroquin-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.130858,
+            "longitude": -121.661334
+        },
+        "display_phone": "(408) 779-3464",
+        "distance": 1113.487897373002,
+        "id": "u00nQA0oMJnci6FSElEotQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fkJAZx6Y7ZNqd8EHsVnKqw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste G-1",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste G-1",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Mario Marroquin DDS",
+        "phone": "+14087793464",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mario-marroquin-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "arita-m-charles-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.12979,
+            "longitude": -121.661838
+        },
+        "display_phone": "(408) 776-9882",
+        "distance": 1150.2080792907002,
+        "id": "erUmwrfCvuO3cdkeogj0jg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste F1",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste F1",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Arita M Charles, DDS",
+        "phone": "+14087769882",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/arita-m-charles-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "serenity-comprehensive-dental-care-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.156372,
+            "longitude": -121.651901
+        },
+        "display_phone": "(408) 778-4440",
+        "distance": 2992.6045944761454,
+        "id": "i7fH1jDIqZKrhWbq9SPL4w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lsZNUIc7-xsyE1GKnfazHg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1049 Cochrane Rd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "1049 Cochrane Rd",
+                "Ste 110",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Serenity Comprehensive Dental Care",
+        "phone": "+14087784440",
+        "rating": 4.5,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/serenity-comprehensive-dental-care-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-singh-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13911,
+            "longitude": -121.65525
+        },
+        "display_phone": "(408) 779-7722",
+        "distance": 1207.939423267545,
+        "id": "Pih9wpCGyW3Ru2hZudb7mg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jY7ZvVc-w6v061r2EXopHQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18181 Butterfield Blvd",
+            "address2": "Ste 130",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18181 Butterfield Blvd",
+                "Ste 130",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Michael Singh, DDS",
+        "phone": "+14087797722",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-singh-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vineyard-family-dental-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.111083,
+            "longitude": -121.643203
+        },
+        "display_phone": "(408) 779-6366",
+        "distance": 2125.226577554418,
+        "id": "AY_ONorQS2fDd4JPIr1Tjw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p0uwRoTVZLsl9FDJBY9HVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "417 Vineyard Town Ctr",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "417 Vineyard Town Ctr",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Vineyard Family Dental",
+        "phone": "+14087796366",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vineyard-family-dental-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-shorey-dds-morgan-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13932,
+            "longitude": -121.655563
+        },
+        "display_phone": "(408) 778-3384",
+        "distance": 1207.939423267545,
+        "id": "O6vDC4ggLKQwaTpJ5UpoVw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZdAp5zHa_UniL15zFfonug/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18181 Butterfield Blvd",
+            "address2": "Ste 160",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18181 Butterfield Blvd",
+                "Ste 160",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Robert Shorey, DDS",
+        "phone": "+14087783384",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-shorey-dds-morgan-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "don-nguyen-dds-morgan-hill-5",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.12248,
+            "longitude": -121.65785
+        },
+        "display_phone": "(408) 779-7391",
+        "distance": 1120.156725916836,
+        "id": "sV6RE9gX9o8wL_MpRunRTw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RM1HXJo-p-srUydyE0hm1g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "370 W Dunne Ave",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "370 W Dunne Ave",
+                "Ste 3",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Don Nguyen, DDS",
+        "phone": "+14087797391",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/don-nguyen-dds-morgan-hill-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-s-miller-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.1308492,
+            "longitude": -121.6613317
+        },
+        "display_phone": "(408) 779-2216",
+        "distance": 1113.1683716671089,
+        "id": "k8WwHbi_mCVpzlo9Az6Zhw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o-1mRnrhyh2zLUeUosvpMA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "B-1",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "B-1",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Jeffrey S Miller, DDS",
+        "phone": "+14087792216",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-s-miller-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wafelbakker-anderson-orthodontics-morgan-hill",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13,
+            "longitude": -121.66155
+        },
+        "display_phone": "(408) 776-9112",
+        "distance": 1098.474179656677,
+        "id": "8taqskZ86Nm-1JKVOZlKoQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OG-79qRPsKfmGFsc3P0yCA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste G-2",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste G-2",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Wafelbakker Anderson Orthodontics",
+        "phone": "+14087769112",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wafelbakker-anderson-orthodontics-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "morgan-hill-dental-care-morgan-hill",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.14893,
+            "longitude": -121.65397
+        },
+        "display_phone": "(408) 778-4838",
+        "distance": 2190.8123449045274,
+        "id": "EHY8VKo6eO8iZKvj3JH3lg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3RBktzBrzlBGgfuBOjn0xA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18455 Technology Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18455 Technology Dr",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Morgan Hill Dental Care",
+        "phone": "+14087784838",
+        "rating": 3.0,
+        "review_count": 66,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/morgan-hill-dental-care-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mcdonald-family-dentistry-morgan-hill-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.130516,
+            "longitude": -121.661471
+        },
+        "display_phone": "(408) 779-9335",
+        "distance": 1121.664132507146,
+        "id": "haEmubicJvwvOuR_-fPPFw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1ZY6h1Z2Gcw_9rQBouyA5w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste A1",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste A1",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "McDonald Family Dentistry",
+        "phone": "+14087799335",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mcdonald-family-dentistry-morgan-hill-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cochrane-plaza-dental-care-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.1504482626915,
+            "longitude": -121.654661670327
+        },
+        "display_phone": "(408) 227-4100",
+        "distance": 2288.7481334709396,
+        "id": "XQoupvijK76VqqXuERIC4g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/evR1aEjTdXhueygqMz1AJg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "154 Cochrane Plz",
+            "address2": null,
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "154 Cochrane Plz",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Cochrane Plaza Dental Care",
+        "phone": "+14082274100",
+        "rating": 3.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cochrane-plaza-dental-care-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hong-jonathan-jung-dds-morgan-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.125095,
+            "longitude": -121.649513
+        },
+        "display_phone": "(408) 779-0410",
+        "distance": 504.10753304589775,
+        "id": "EhwyTm4cemHU1U4S6WTuBA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xBFlhQuo5ZOT2iGmluPZhQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "16990 Monterey St",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "16990 Monterey St",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Hong Jonathan Jung, DDS",
+        "phone": "+14087790410",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hong-jonathan-jung-dds-morgan-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "floss-family-dentistry-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.1309372,
+            "longitude": -121.6611508
+        },
+        "display_phone": "(408) 778-3135",
+        "distance": 1098.474179656677,
+        "id": "nbq3I5PLnUfXE8wDmrkTbw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Qoqz02hf9xMnybY4-ED7ew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste C-3",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste C-3",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Floss Family Dentistry",
+        "phone": "+14087783135",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/floss-family-dentistry-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "erika-e-gabor-dmd-morgan-hill",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.14829,
+            "longitude": -121.65628
+        },
+        "display_phone": "(408) 778-5437",
+        "distance": 2141.318071194258,
+        "id": "BJ_ZBdmMrOl01moqAWhXFw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_0HCByIzr4aRkpXJkv42PA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18525 Sutter Blvd",
+            "address2": "Ste 190",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18525 Sutter Blvd",
+                "Ste 190",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Erika E Gabor,  DMD",
+        "phone": "+14087785437",
+        "rating": 3.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/erika-e-gabor-dmd-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "giang-chu-dmd-morgan-hill",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.130565,
+            "longitude": -121.661529
+        },
+        "display_phone": "(408) 782-7777",
+        "distance": 1098.474179656677,
+        "id": "VQghYRghQdn1DvxwehxJPQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste I2",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste I2",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Giang Chu DMD",
+        "phone": "+14087827777",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/giang-chu-dmd-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "louis-tieu-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.12248,
+            "longitude": -121.65785
+        },
+        "display_phone": "(408) 779-2870",
+        "distance": 1120.156725916836,
+        "id": "v_gNmJDeBPjaz7qxgvb9Lw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "370 W Dunne Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "370 W Dunne Ave",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Louis Tieu, DDS",
+        "phone": "+14087792870",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/louis-tieu-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cosmo-dental-office-morgan-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.1179848612212,
+            "longitude": -121.646597293254
+        },
+        "display_phone": "(408) 779-9393",
+        "distance": 1313.1179887406981,
+        "id": "Ay9LK6KQL2v4zDCmlBIptQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tA9w1pCtGkYL5Ao7Rf5YKQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "16433 Monterey Rd",
+            "address2": "Ste 100",
+            "address3": null,
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "16433 Monterey Rd",
+                "Ste 100",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Cosmo Dental Office",
+        "phone": "+14087799393",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cosmo-dental-office-morgan-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paradise-valley-dental-care-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.10251,
+            "longitude": -121.64123
+        },
+        "display_phone": "(408) 722-6245",
+        "distance": 3094.2673164450243,
+        "id": "hVuZEj1BKtxHvn8zGJg9jQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "15335 Calle Enrique",
+            "address2": "Unit 1",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "15335 Calle Enrique",
+                "Unit 1",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Paradise Valley Dental Care",
+        "phone": "+14087226245",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paradise-valley-dental-care-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "morgan-hill-smiles-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13911,
+            "longitude": -121.65525
+        },
+        "display_phone": "(408) 778-9977",
+        "distance": 1207.939423267545,
+        "id": "HXq02XiUPowZAEJM-q3ixA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zq8zWEuMahw1Jk9rX4HWBw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18181 Butterfield Blvd",
+            "address2": "Ste 120",
+            "address3": null,
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18181 Butterfield Blvd",
+                "Ste 120",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Morgan Hill Smiles",
+        "phone": "+14087789977",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/morgan-hill-smiles-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tommy-tong-dds-msd-morgan-hill",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.12248,
+            "longitude": -121.65785
+        },
+        "display_phone": "(408) 779-4169",
+        "distance": 1120.156725916836,
+        "id": "8blhL3pdPY2sypGPF3s0YA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "370 W Dunne Ave",
+            "address2": "",
+            "address3": "Stte 6",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "370 W Dunne Ave",
+                "Stte 6",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Tommy Tong, DDS, MSD",
+        "phone": "+14087794169",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tommy-tong-dds-msd-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-g-pearson-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13,
+            "longitude": -121.66155
+        },
+        "display_phone": "(408) 779-2129",
+        "distance": 1098.474179656677,
+        "id": "GzIK8brcGQEiWiW2Obx0Lw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Nq_9scI0mJOSQM4jeEtkzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17705 Hale Ave",
+            "address2": "Ste B4",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17705 Hale Ave",
+                "Ste B4",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Stephen G Pearson, DDS",
+        "phone": "+14087792129",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-g-pearson-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lotus-dental-spa-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13932,
+            "longitude": -121.655563
+        },
+        "display_phone": "(408) 778-7700",
+        "distance": 1198.0003842079732,
+        "id": "IBU0KV2r3hky1EbxCbKI3Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JzrggqpSMytBM625j0XKBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18181 Butterfield Blvd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "18181 Butterfield Blvd",
+                "Ste 110",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Lotus Dental Spa",
+        "phone": "+14087787700",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lotus-dental-spa-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tran-david-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.114303,
+            "longitude": -121.643295
+        },
+        "display_phone": "(408) 779-6701",
+        "distance": 1767.785322884206,
+        "id": "CIe7k0DVTrEvHTDRMwRdTA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YBD7RhM11CzRX2LpTVs3_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "16120 Monterey St",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "16120 Monterey St",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Tran David DDS",
+        "phone": "+14087796701",
+        "rating": 4.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tran-david-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-c-smith-dds-morgan-hill",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.122481,
+            "longitude": -121.657851
+        },
+        "display_phone": "(408) 779-8686",
+        "distance": 1127.3988530241256,
+        "id": "VXMbf4ilNN8_B-Ik65CPHg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ycNTi_hhCevsehL44HbGWg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "370 W Dunne Ave",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "370 W Dunne Ave",
+                "Ste 5",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Stephen C Smith, DDS",
+        "phone": "+14087798686",
+        "rating": 3.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-c-smith-dds-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "condit-dental-morgan-hill",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.13361,
+            "longitude": -121.63039
+        },
+        "display_phone": "(408) 778-4548",
+        "distance": 1698.3370955336725,
+        "id": "xlzab9sKoZhNgX5rSrpB6Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "17020 Condit Rd",
+            "address2": "Ste 180",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "17020 Condit Rd",
+                "Ste 180",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Condit Dental",
+        "phone": "+14087784548",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/condit-dental-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "south-valley-dental-morgan-hill",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.111118,
+            "longitude": -121.639991
+        },
+        "display_phone": "(408) 778-6684",
+        "distance": 2214.644183255767,
+        "id": "Yweq9sZcED57tiViCCaCgw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GKYOPIQY5yf2bMU_k2JGDA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "15870 Monterey St",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "15870 Monterey St",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "South Valley Dental",
+        "phone": "+14087786684",
+        "rating": 2.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/south-valley-dental-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mindcraft-dental-creations-morgan-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.138374,
+            "longitude": -121.65731
+        },
+        "display_phone": "(408) 779-7700",
+        "distance": 1224.9665629246595,
+        "id": "6azHdHFnYMOmKBx-G7JTqQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AzGkAdVIxgwa2M7-7huY8g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "328 Digital Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Morgan Hill",
+            "country": "US",
+            "display_address": [
+                "328 Digital Dr",
+                "Morgan Hill, CA 95037"
+            ],
+            "state": "CA",
+            "zip_code": "95037"
+        },
+        "name": "Mindcraft Dental Creations",
+        "phone": "+14087797700",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mindcraft-dental-creations-morgan-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

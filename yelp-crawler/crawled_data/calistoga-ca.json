@@ -1,0 +1,78 @@
+[
+    {
+        "alias": "hitchcock-gina-l-dmd-calistoga",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5817947387695,
+            "longitude": -122.595581054688
+        },
+        "display_phone": "(707) 942-5177",
+        "distance": 1407.025975714332,
+        "id": "R8K3kMV1FaZLoE1E-X_u5w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2436 Foothill Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Calistoga",
+            "country": "US",
+            "display_address": [
+                "2436 Foothill Blvd",
+                "Ste A",
+                "Calistoga, CA 94515"
+            ],
+            "state": "CA",
+            "zip_code": "94515"
+        },
+        "name": "Hitchcock Gina L DMD",
+        "phone": "+17079425177",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hitchcock-gina-l-dmd-calistoga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "swan-family-dental-calistoga",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5817947387695,
+            "longitude": -122.595581054688
+        },
+        "display_phone": "(707) 942-5177",
+        "distance": 1407.025975714332,
+        "id": "2yhAehnewvwvllXhGVLJYg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2436 Foothill Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Calistoga",
+            "country": "US",
+            "display_address": [
+                "2436 Foothill Blvd",
+                "Ste A",
+                "Calistoga, CA 94515"
+            ],
+            "state": "CA",
+            "zip_code": "94515"
+        },
+        "name": "Swan Family Dental",
+        "phone": "+17079425177",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/swan-family-dental-calistoga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

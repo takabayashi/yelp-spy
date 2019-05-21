@@ -1,0 +1,113 @@
+[
+    {
+        "alias": "john-savko-dds-and-nicole-le-dds-cloverdale",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.805678,
+            "longitude": -123.015407
+        },
+        "display_phone": "(707) 894-2464",
+        "distance": 1223.9873094545262,
+        "id": "Ve1VoWN5f7Gk50tPXTzBvg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dTFKyvDBHQ8Xgts_SlEesg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "102 S Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Cloverdale",
+            "country": "US",
+            "display_address": [
+                "102 S Main St",
+                "Cloverdale, CA 95425"
+            ],
+            "state": "CA",
+            "zip_code": "95425"
+        },
+        "name": "John Savko, DDS & Nicole Le, DDS",
+        "phone": "+17078942464",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-savko-dds-and-nicole-le-dds-cloverdale?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nicholls-richard-dds-cloverdale",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.8063157016235,
+            "longitude": -123.015905833135
+        },
+        "display_phone": "(707) 894-3986",
+        "distance": 1300.5333608792516,
+        "id": "DK6gqIpxaRkA3CLL6q1_7w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "114 N Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Cloverdale",
+            "country": "US",
+            "display_address": [
+                "114 N Main St",
+                "Cloverdale, CA 95425"
+            ],
+            "state": "CA",
+            "zip_code": "95425"
+        },
+        "name": "Nicholls Richard DDS",
+        "phone": "+17078943986",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nicholls-richard-dds-cloverdale?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wood-james-d-dds-cloverdale",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.80567,
+            "longitude": -123.0154
+        },
+        "display_phone": "(707) 894-2464",
+        "distance": 1219.3774962669897,
+        "id": "1vXCsacLAqb5dLWQ17csRA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "102 S Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Cloverdale",
+            "country": "US",
+            "display_address": [
+                "102 S Main St",
+                "Cloverdale, CA 95425"
+            ],
+            "state": "CA",
+            "zip_code": "95425"
+        },
+        "name": "Wood James D DDS",
+        "phone": "+17078942464",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wood-james-d-dds-cloverdale?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

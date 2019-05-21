@@ -1,0 +1,5504 @@
+[
+    {
+        "alias": "suparna-vohra-dds-sausalito-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.858476,
+            "longitude": -122.48458
+        },
+        "display_phone": "(415) 332-1414",
+        "distance": 1008.6432612419269,
+        "id": "dU5-bT4OaVTgvIaPPgfytA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/duiBTPCWR-6Qv2dw_4VSMw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "30 Caledonia St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "30 Caledonia St",
+                "Ste C",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Suparna Vohra, DDS",
+        "phone": "+14153321414",
+        "rating": 5.0,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/suparna-vohra-dds-sausalito-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jamison-m-gate-dds-sausalito",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8624877929688,
+            "longitude": -122.493309020996
+        },
+        "display_phone": "(415) 332-1411",
+        "distance": 243.15767760555292,
+        "id": "oNLDlHo77rabylhEFHvJRg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Liberty Ship Way",
+            "address2": "",
+            "address3": "",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "10 Liberty Ship Way",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Jamison M Gate, DDS",
+        "phone": "+14153321411",
+        "rating": 4.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jamison-m-gate-dds-sausalito?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "denys-kovalchuk-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.889025,
+            "longitude": -122.518394
+        },
+        "display_phone": "(415) 381-4321",
+        "distance": 3680.0839758607526,
+        "id": "xTereBajMv2HAMGpAdZb-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RPzgUuSJwa1eVhY84Spq_Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "591 Redwood Hwy",
+            "address2": "Ste 2110",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "591 Redwood Hwy",
+                "Ste 2110",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Denys Kovalchuk, DDS",
+        "phone": "+14153814321",
+        "rating": 5.0,
+        "review_count": 56,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/denys-kovalchuk-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "patrick-h-lee-dds-sausalito",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85873,
+            "longitude": -122.48594
+        },
+        "display_phone": "(415) 331-5656",
+        "distance": 893.6665202315783,
+        "id": "itnczi_WUsZSy_PP4M3C8w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f5tdcHitufpH4KdYy3fLzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "107 Caledonia St",
+            "address2": "Ste I",
+            "address3": "Sausalito Dentistry",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "107 Caledonia St",
+                "Ste I",
+                "Sausalito Dentistry",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Patrick H Lee, DDS",
+        "phone": "+14153315656",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/patrick-h-lee-dds-sausalito?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mill-valley-dentistry-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.881264,
+            "longitude": -122.52507
+        },
+        "display_phone": "(415) 383-2232",
+        "distance": 3415.521519597757,
+        "id": "Bd9pokDhxBhkbcNWpecCIg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7QMfZUgWsF2jyCOjIigVCg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "247 Shoreline Hwy",
+            "address2": "Ste B3",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "247 Shoreline Hwy",
+                "Ste B3",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mill Valley Dentistry",
+        "phone": "+14153832232",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mill-valley-dentistry-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alex-kashef-dds-md-marin-oral-surgery-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 924-6936",
+        "distance": 7471.99612477886,
+        "id": "vWlf8vODJFyZRm-GbkktbQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2chtt4QcHhUkurm5d0cDcw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 408",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 408",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Alex Kashef, DDS, MD - Marin Oral Surgery",
+        "phone": "+14159246936",
+        "rating": 5.0,
+        "review_count": 84,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alex-kashef-dds-md-marin-oral-surgery-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dustin-wirig-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971921,
+            "longitude": -122.4324453
+        },
+        "display_phone": "(415) 921-4090",
+        "distance": 9026.646462298122,
+        "id": "2j6PWuLaPrSupgBDP2DUmw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LA1q_u2Qk6Q6iFjFiZPatw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 420",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 420",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Dustin Wirig, DDS",
+        "phone": "+14159214090",
+        "rating": 5.0,
+        "review_count": 86,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dustin-wirig-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vivian-cui-dds-pacific-heights-dental-studio-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79054,
+            "longitude": -122.43389
+        },
+        "display_phone": "(415) 409-6455",
+        "distance": 9544.25459572509,
+        "id": "BsLnSw7HeVljPx24dLx5CQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i_5fwRHPDuGqvTphzCnfow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2252 Fillmore St",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2252 Fillmore St",
+                "Ste 201",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Vivian Cui, DDS - Pacific Heights Dental Studio",
+        "phone": "+14154096455",
+        "rating": 4.5,
+        "review_count": 119,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vivian-cui-dds-pacific-heights-dental-studio-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marina-tooth-fairy-dental-san-francisco-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79718,
+            "longitude": -122.43248
+        },
+        "display_phone": "(415) 409-3368",
+        "distance": 9025.192029073021,
+        "id": "WUMjuOuYeohlhQSIMkoSiA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DbUEx5DkQt3NC3XaVRXogg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 590",
+            "address3": null,
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 590",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Marina Tooth Fairy Dental",
+        "phone": "+14154093368",
+        "rating": 4.5,
+        "review_count": 97,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-tooth-fairy-dental-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carmine-f-vicino-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8001919388771,
+            "longitude": -122.440808415413
+        },
+        "display_phone": "(415) 563-1070",
+        "distance": 8326.396705778223,
+        "id": "OYx5LdSvVOeoSlr7D8sThA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2281 Chestnut St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2281 Chestnut St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Carmine F Vicino, DDS",
+        "phone": "+14155631070",
+        "rating": 5.0,
+        "review_count": 44,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carmine-f-vicino-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cynthia-k-brattesani-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 922-2992",
+        "distance": 9024.787904392697,
+        "id": "3kPmONt0oqEapFnf54qdYA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_JgYssaPC3BpUjwbxJQsEQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 450",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 450",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Cynthia K Brattesani, DDS",
+        "phone": "+14159222992",
+        "rating": 5.0,
+        "review_count": 62,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cynthia-k-brattesani-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laurence-m-brownstein-dds-sausalito-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8583799,
+            "longitude": -122.48465
+        },
+        "display_phone": "(415) 332-2458",
+        "distance": 1002.3059491258444,
+        "id": "2BN2s5ryjErevvGxMZVROw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "30 Caledonia St",
+            "address2": "",
+            "address3": "",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "30 Caledonia St",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Laurence M Brownstein, DDS",
+        "phone": "+14153322458",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laurence-m-brownstein-dds-sausalito-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anthony-leite-dds-personalized-dentistry-mill-valley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90024,
+            "longitude": -122.52726
+        },
+        "display_phone": "(415) 388-6006",
+        "distance": 5151.182971480937,
+        "id": "y-w2NC_98H_Kbz_9M-mWew",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nC_I1vinrlfbUgu0OkRT5Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "650 E Blithedale Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "650 E Blithedale Ave",
+                "Ste A",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Anthony Leite, DDS - Personalized Dentistry",
+        "phone": "+14153886006",
+        "rating": 5.0,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anthony-leite-dds-personalized-dentistry-mill-valley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leo-c-yang-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90323,
+            "longitude": -122.54264
+        },
+        "display_phone": "(415) 383-1737",
+        "distance": 6237.742739531698,
+        "id": "S32BUdotDMW1UsxRjiNB2g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-FyYpU_WLfyiR9Bs9ssrFQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "163 Miller Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "163 Miller Ave",
+                "Ste 1",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Leo C Yang, DDS",
+        "phone": "+14153831737",
+        "price": "$$",
+        "rating": 5.0,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leo-c-yang-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "frances-h-yankie-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90122,
+            "longitude": -122.54067
+        },
+        "display_phone": "(415) 383-0824",
+        "distance": 5954.238292895265,
+        "id": "vNJHj3X8Ta8jnTo_fdhPSg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iRlRygzpt3Olvduj6cfQaw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "239 Miller Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "239 Miller Ave",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Frances H Yankie,  DDS",
+        "phone": "+14153830824",
+        "rating": 4.5,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/frances-h-yankie-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stanley-tong-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.794078,
+            "longitude": -122.423538
+        },
+        "display_phone": "(415) 441-8622",
+        "distance": 9787.307277278656,
+        "id": "kXqsvJamrPw5vIeKsE38Ng",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KSKI3ELv470dPQDGtZezzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Van Ness Ave",
+            "address2": "Ste 406",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Van Ness Ave",
+                "Ste 406",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Stanley Tong, DDS",
+        "phone": "+14154418622",
+        "rating": 5.0,
+        "review_count": 42,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stanley-tong-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kevin-growney-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8005773,
+            "longitude": -122.4263562
+        },
+        "display_phone": "(415) 776-1900",
+        "distance": 9080.905527120894,
+        "id": "U3bEpYTXVlaBH9KZYzL_IA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1a8uIMXBQdcTqJFIyIHGsA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2827 Franklin St",
+            "address2": null,
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2827 Franklin St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Kevin Growney, DDS",
+        "phone": "+14157761900",
+        "rating": 4.5,
+        "review_count": 58,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kevin-growney-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "union-fillmore-dental-san-francisco-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971835,
+            "longitude": -122.4357001
+        },
+        "display_phone": "(415) 346-9173",
+        "distance": 8854.924688679801,
+        "id": "8GM9maHQpE_j8qJhL4ZLBg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LaPrpl8m2zv3Z0VqqwWD9Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3003 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3003 Fillmore St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Union Fillmore Dental",
+        "phone": "+14153469173",
+        "rating": 4.5,
+        "review_count": 43,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/union-fillmore-dental-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-gabriela-garcia-rojas-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "dentalhygienists",
+                "title": "Dental Hygienists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89905,
+            "longitude": -122.53789
+        },
+        "display_phone": "(415) 388-6100",
+        "distance": 5606.148304944595,
+        "id": "ThvIisBm2PnHzFEgN74wew",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TEwMqjsnK-YIk2W5ypOs8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Willow St",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "10 Willow St",
+                "Ste 6",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Dr. Gabriela Garcia-Rojas, DDS",
+        "phone": "+14153886100",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-gabriela-garcia-rojas-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marina-grins-dental-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7992228,
+            "longitude": -122.4357322
+        },
+        "display_phone": "(415) 921-4132",
+        "distance": 8671.64674974978,
+        "id": "sIiIF1-DLxKEvrL9M6-fKg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-4_wteSOsIGBCCKmv995iw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3210 Fillmore St",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3210 Fillmore St",
+                "Ste 2",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Marina Grins Dental",
+        "phone": "+14159214132",
+        "rating": 5.0,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-grins-dental-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christopher-patterson-dmd-san-francisco-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.800634,
+            "longitude": -122.4262225
+        },
+        "display_phone": "(415) 234-0480",
+        "distance": 9084.077328985677,
+        "id": "NugYO55IAT2v6DHK6NgKtg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i73hbEj2OIe7odi9wwTs6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2827 Franklin St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2827 Franklin St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Christopher Patterson, DMD",
+        "phone": "+14152340480",
+        "rating": 5.0,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christopher-patterson-dmd-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonal-patel-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 563-7474",
+        "distance": 9024.585846136844,
+        "id": "Xvbz0e3nawlL4bL79z69Gg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ziUaQFIRhE6AU6-2uaNLKw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 355",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 355",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Sonal Patel, DDS",
+        "phone": "+14155637474",
+        "rating": 5.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonal-patel-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mindy-buoncristiani-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.891304,
+            "longitude": -122.5173854
+        },
+        "display_phone": "(415) 383-1200",
+        "distance": 3849.8944155076333,
+        "id": "k0aKG6O1dpPRIath33h7bw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FzniyaJV2yWD2Bq2MLi57A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 120",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mindy Buoncristiani, DDS",
+        "phone": "+14153831200",
+        "rating": 4.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mindy-buoncristiani-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fillmore-dental-sleep-and-wellness-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79936,
+            "longitude": -122.43558
+        },
+        "display_phone": "(415) 614-9850",
+        "distance": 8654.172315714144,
+        "id": "ZbZFge6BpCtcInbxpRFx7w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IucYe09PZm6Ae2IxXsGOCw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3220 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3220 Fillmore St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Fillmore Dental Sleep & Wellness",
+        "phone": "+14156149850",
+        "rating": 4.5,
+        "review_count": 42,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fillmore-dental-sleep-and-wellness-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "san-francisco-dental-sleep-medicine-douglas-chenin-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 424-3313",
+        "distance": 9024.585846136844,
+        "id": "b7k-blXPPHNcXqEpC0XTBw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2STRSCHm6kjM56HKt2FjxQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 420",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 420",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "San Francisco Dental Sleep Medicine: Douglas Chenin, DDS",
+        "phone": "+14154243313",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/san-francisco-dental-sleep-medicine-douglas-chenin-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "signature-smiles-dental-group-mill-valley-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89879,
+            "longitude": -122.53906
+        },
+        "display_phone": "(415) 388-1726",
+        "distance": 5659.485114322515,
+        "id": "xGUiFku3Exog_s4LxCdrIw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qy9PW7wYM05DhF8VpJDLlw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "316 Miller Ave",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "316 Miller Ave",
+                "Ste D",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Signature Smiles Dental Group",
+        "phone": "+14153881726",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/signature-smiles-dental-group-mill-valley-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cow-hollow-dental-center-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.798357,
+            "longitude": -122.42922
+        },
+        "display_phone": "(415) 921-6616",
+        "distance": 9103.1561948465,
+        "id": "zSYikdTq_EIIAz9v7-myHw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_h5l4-ixnmqopAK7lr-9Yw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1806 Union St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1806 Union St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Cow Hollow Dental Center",
+        "phone": "+14159216616",
+        "rating": 4.5,
+        "review_count": 38,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cow-hollow-dental-center-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nazanin-barkhodari-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 441-6650",
+        "distance": 9024.585846136844,
+        "id": "xrSAral3l8RjNpZvKbg4xA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CzqBPJ5xRIhzMpfGXuxexQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 550",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 550",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Nazanin Barkhodari, DDS",
+        "phone": "+14154416650",
+        "rating": 4.0,
+        "review_count": 66,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nazanin-barkhodari-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sima-salimi-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 567-8170",
+        "distance": 9024.787904392697,
+        "id": "ayI-f8j-_t8KfDmqUKRWyA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eW6pG-yKiQc8D23hXJtOPQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 560",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 560",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Sima Salimi, DDS",
+        "phone": "+14155678170",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sima-salimi-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tony-cucalon-iii-dds-ms-san-francisco",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79748,
+            "longitude": -122.43321
+        },
+        "display_phone": "(415) 563-2348",
+        "distance": 8950.536588963427,
+        "id": "LKEkhgc2y8ww3l3MZLkcxQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ll2PkTq-HMSh8zug1zZXfw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2060 Union St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2060 Union St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Tony Cucalon III, DDS, MS",
+        "phone": "+14155632348",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tony-cucalon-iii-dds-ms-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "union-street-dental-care-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7972602844238,
+            "longitude": -122.436393737793
+        },
+        "display_phone": "(415) 922-3886",
+        "distance": 8814.878442493078,
+        "id": "RRmXdhn7c3zdvTIS2az5SA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WGHM3q3z_VL4nEfRVe9v3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2250 Union St",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2250 Union St",
+                "Ste 2",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Union Street Dental Care",
+        "phone": "+14159223886",
+        "rating": 4.0,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/union-street-dental-care-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marina-park-dental-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 563-1600",
+        "distance": 9024.787904392697,
+        "id": "LLgzCGL7oWlQxEXjI6BOhA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrO1-NYbg9lCOpBNdsvX3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 385",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 385",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Marina Park Dental",
+        "phone": "+14155631600",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-park-dental-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "baltazar-guzman-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.797184,
+            "longitude": -122.432486
+        },
+        "display_phone": "(415) 567-4600",
+        "distance": 9025.165614390353,
+        "id": "TlrIrQsEyRLcObhuaCswTQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ApgD1FDeOQ8wSck22zapog/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 664",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 664",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Baltazar Guzman, DDS",
+        "phone": "+14155674600",
+        "rating": 4.5,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/baltazar-guzman-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cameron-garrett-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9245895454675,
+            "longitude": -122.517665605248
+        },
+        "display_phone": "(415) 924-4772",
+        "distance": 7301.429714995509,
+        "id": "r3PEdDSa63Xv3PE0qSG_tg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/71NzXE8ahwPAX-VU4Q5u4g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Cameron Garrett, DDS",
+        "phone": "+14159244772",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cameron-garrett-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "presidio-dental-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7978861,
+            "longitude": -122.4470901
+        },
+        "display_phone": "(415) 737-0430",
+        "distance": 8233.770506665081,
+        "id": "-9gv6GzIwIT923pNI2_y0w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nvt159iiXRN3tJb4kyU7Ww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2920 Lyon St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2920 Lyon St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Presidio Dental",
+        "phone": "+14157370430",
+        "rating": 4.0,
+        "review_count": 52,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/presidio-dental-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stafford-duhn-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7906758548294,
+            "longitude": -122.432198524475
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9621.7796318795,
+        "id": "8Je39IjLqY8lUWzPZ7FqnA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/etNutqDZYHBnzkLHGvjZIw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "Ste 325",
+            "address3": "Pacific Dental Associates",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "Ste 325",
+                "Pacific Dental Associates",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Stafford Duhn, DDS",
+        "phone": "+14159233034",
+        "rating": 5.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stafford-duhn-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-ramirez-dds-and-katy-karimi-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 921-2700",
+        "distance": 9024.603416311964,
+        "id": "TTEaKP1gS3fGzwGS6xFmSg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3T4FV2GPQg9yNbH5m7NT-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 430",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 430",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "David Ramirez, DDS and Katy Karimi, DDS",
+        "phone": "+14159212700",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-ramirez-dds-and-katy-karimi-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hyun-bang-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79411,
+            "longitude": -122.42332
+        },
+        "display_phone": "(415) 771-2150",
+        "distance": 9787.307277278656,
+        "id": "ikIu1bbPT9bjz-SDEvBMNw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/am5F8jjs0BYzrGoieOgpGQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Van Ness Ave",
+            "address2": "Ste 401",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Van Ness Ave",
+                "Ste 401",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Hyun Bang, DDS",
+        "phone": "+14157712150",
+        "rating": 4.5,
+        "review_count": 39,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hyun-bang-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bay-area-smile-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79503,
+            "longitude": -122.42362
+        },
+        "display_phone": "(415) 922-2298",
+        "distance": 9703.355325362034,
+        "id": "XS93FoXpxdsLGFb2NH2oqg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UJnuARyXrWwCQ_3nBpTCfw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2107 Van Ness Ave",
+            "address2": "Ste 406",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2107 Van Ness Ave",
+                "Ste 406",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Bay Area Smile",
+        "phone": "+14159222298",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bay-area-smile-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ashraf-orthodontics-mill-valley-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8975962,
+            "longitude": -122.5304063
+        },
+        "display_phone": "(415) 388-2876",
+        "distance": 5067.149890687241,
+        "id": "H2xFCUsYGfEKGsvxaKE8ZA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FhHcWfC7iJeJalV_UBbz9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Ste 5",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Ashraf Orthodontics",
+        "phone": "+14153882876",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ashraf-orthodontics-mill-valley-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gavros-dora-dds-belvedere-tiburon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.87527,
+            "longitude": -122.45995
+        },
+        "display_phone": "(415) 435-3111",
+        "distance": 3439.8070457128506,
+        "id": "KzM7IyyXidY4j-7HbWsFbQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y84HnPhwZ_SKvCHP3ThJGQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1550 Tiburon Blvd",
+            "address2": null,
+            "address3": null,
+            "city": "Belvedere Tiburon",
+            "country": "US",
+            "display_address": [
+                "1550 Tiburon Blvd",
+                "Belvedere Tiburon, CA 94920"
+            ],
+            "state": "CA",
+            "zip_code": "94920"
+        },
+        "name": "Gavros Dora, DDS",
+        "phone": "+14154353111",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gavros-dora-dds-belvedere-tiburon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cable-car-dental-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7972022,
+            "longitude": -122.4324905
+        },
+        "display_phone": "(415) 929-4848",
+        "distance": 9023.324275412511,
+        "id": "b6-cZzV5fgi-9V8qDo1Rzw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uOIBEujdq99qRM8_eJWh9Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 365",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 365",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Cable Car Dental",
+        "phone": "+14159294848",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cable-car-dental-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-r-smith-dds-san-francisco-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7980918884277,
+            "longitude": -122.429222106934
+        },
+        "display_phone": "(415) 921-6616",
+        "distance": 9123.866950542935,
+        "id": "u_4Oj4tuLsAo3vWUokkuKw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q2VpUaKZzOQfd6zl2OS-ow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1806 Union St",
+            "address2": "",
+            "address3": "Cow Hollow Dental Center",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1806 Union St",
+                "Cow Hollow Dental Center",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "William R Smith, DDS",
+        "phone": "+14159216616",
+        "rating": 4.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-r-smith-dds-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vivian-broadway-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89755,
+            "longitude": -122.53038
+        },
+        "display_phone": "(415) 388-6025",
+        "distance": 5062.463039510353,
+        "id": "2a5thbbEoPNfQZ8Lq9Ubfg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n1rN2LLbAKtiaU_PYhTxbw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Vivian Broadway, DDS",
+        "phone": "+14153886025",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vivian-broadway-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christopher-d-sugimura-dmd-san-francisco-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 447-6868",
+        "distance": 9024.585846136844,
+        "id": "Fsef9CPdcGcmUW0hS-xsXw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nHAbP8yxTIQwy3ScSNoA-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 240",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Christopher D Sugimura, DMD",
+        "phone": "+14154476868",
+        "rating": 4.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christopher-d-sugimura-dmd-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-l-nebenzahl-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 383-0350",
+        "distance": 4807.776537751903,
+        "id": "2m3-gy81e3sXBy2wi1-WiQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 7",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Jeffrey L Nebenzahl, DDS",
+        "phone": "+14153830350",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-l-nebenzahl-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sherman-chan-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8976025,
+            "longitude": -122.5303548
+        },
+        "display_phone": "(415) 389-8520",
+        "distance": 5064.976498558349,
+        "id": "Xvb7Kx6qSRmHkRgruauBFQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_3N3T6CWMV_0S_d74xFy9A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Ste 4",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Sherman Chan, DDS",
+        "phone": "+14153898520",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sherman-chan-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fiorella-potesta-knoll-dds-ms-san-francisco-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79718,
+            "longitude": -122.43248
+        },
+        "display_phone": "(415) 776-4040",
+        "distance": 9025.192029073021,
+        "id": "ICTF60czRIC8j6dQd4kG4A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eV-gBiO_78hmHOKlEi6Ihg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 680",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 680",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Fiorella Potesta-Knoll, DDS, MS",
+        "phone": "+14157764040",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fiorella-potesta-knoll-dds-ms-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "poriya-dokhanchi-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 921-9210",
+        "distance": 9024.585846136844,
+        "id": "XO1ndQU2XujyJqQIikWtFg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ErdtS0W53LqJ88BbL5CoYQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 690",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 690",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Poriya Dokhanchi, DDS",
+        "phone": "+14159219210",
+        "rating": 4.0,
+        "review_count": 63,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/poriya-dokhanchi-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-schmotter-dds-corte-madera-5",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-4000",
+        "distance": 7471.940211451319,
+        "id": "4pWKoUulzu3aJpnvp2Qwhw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I5-rfyfoiAT-JfjwKloAzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 304",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 304",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Richard Schmotter, DDS",
+        "phone": "+14159274000",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-schmotter-dds-corte-madera-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sma-dental-corte-madera-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-4000",
+        "distance": 7471.99612477886,
+        "id": "ua4C12AQjVLTZ5Br5Z89DQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_o9bbXPVUMie9crn5vCqiw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 304",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 304",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "SMA Dental",
+        "phone": "+14159274000",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sma-dental-corte-madera-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leslie-tam-dds-san-francisco-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.80057,
+            "longitude": -122.42631
+        },
+        "display_phone": "(415) 234-0480",
+        "distance": 9082.264794435701,
+        "id": "a7EqqJXu4UulGuNe6Kajlg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/66an9ITwnzZAgmLdkkkMwg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2827 Franklin St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2827 Franklin St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Leslie Tam, DDS",
+        "phone": "+14152340480",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leslie-tam-dds-san-francisco-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bob-nadjibi-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92467,
+            "longitude": -122.51754
+        },
+        "display_phone": "(415) 924-4760",
+        "distance": 7312.424298165458,
+        "id": "FC4pSpSAKBLJDLin9rqF7Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DfPdnkvaRBlROln0nYvBIg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Ste 1",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Bob Nadjibi, DDS",
+        "phone": "+14159244760",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bob-nadjibi-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffery-bellinger-dds-belvedere-tiburon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.874345,
+            "longitude": -122.458211
+        },
+        "display_phone": "(415) 435-3371",
+        "distance": 3580.1767479230866,
+        "id": "L7Ivd7iczK15Ly2b7HuFEQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_uFbN_CGPgnDf4CQSRihFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1606 Juanita Ln",
+            "address2": "Ste GD",
+            "address3": "",
+            "city": "Belvedere Tiburon",
+            "country": "US",
+            "display_address": [
+                "1606 Juanita Ln",
+                "Ste GD",
+                "Belvedere Tiburon, CA 94920"
+            ],
+            "state": "CA",
+            "zip_code": "94920"
+        },
+        "name": "Jeffery Bellinger, DDS",
+        "phone": "+14154353371",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffery-bellinger-dds-belvedere-tiburon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fred-j-cameron-and-paul-cameron-and-kristina-cameron-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9246756,
+            "longitude": -122.5175345
+        },
+        "display_phone": "(415) 924-4435",
+        "distance": 7307.600241787229,
+        "id": "TMwg84zZnYzpni7MYVY1BQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6sC8IKOfF-nWrhi7TdxuVw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Ste 4",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Fred J Cameron & Paul Cameron & Kristina Cameron, DDS",
+        "phone": "+14159244435",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fred-j-cameron-and-paul-cameron-and-kristina-cameron-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "linda-kuo-dds-san-francisco-5",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7991755,
+            "longitude": -122.4357157
+        },
+        "display_phone": "(415) 921-4132",
+        "distance": 8676.711699504713,
+        "id": "9KjeqRzpwI-bq5z7ymhk_w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31W0HWqSPpx5-YHtzVQCSA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3210 Fillmore St",
+            "address2": "Ste 2",
+            "address3": "Marina Grins Dental",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3210 Fillmore St",
+                "Ste 2",
+                "Marina Grins Dental",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Linda Kuo, DDS",
+        "phone": "+14159214132",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/linda-kuo-dds-san-francisco-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gila-c-dorostkar-dds-pediatric-dentistry-mill-valley-6",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90024,
+            "longitude": -122.52726
+        },
+        "display_phone": "(415) 448-8120",
+        "distance": 5151.182971480937,
+        "id": "iosFZgGqxg5K_Q8LJLDDqQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VGoL7pNVFQ5CGK1EhvLgOw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "650 E Blithedale Ave",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "650 E Blithedale Ave",
+                "Ste C",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Gila C. Dorostkar DDS, Pediatric Dentistry",
+        "phone": "+14154488120",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gila-c-dorostkar-dds-pediatric-dentistry-mill-valley-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elizabeth-nubla-penn-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 563-1511",
+        "distance": 9024.787904392697,
+        "id": "_4t7dsvtXiGYYSt93PCb9Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 345",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 345",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Elizabeth Nubla-Penn, DDS",
+        "phone": "+14155631511",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elizabeth-nubla-penn-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-v-zovickian-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8024482727051,
+            "longitude": -122.424430847168
+        },
+        "display_phone": "(415) 673-9292",
+        "distance": 9042.964914358145,
+        "id": "jKCT8OI9GQPWzVgXfHhymg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1290 Chestnut St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1290 Chestnut St",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "David V Zovickian, DDS",
+        "phone": "+14156739292",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-v-zovickian-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jl-orthodontics-corte-madera",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252052,
+            "longitude": -122.5174789
+        },
+        "display_phone": "(415) 924-5533",
+        "distance": 7460.772657415836,
+        "id": "g8MYJu4-7PqsCoPPLSfr3A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tiSM7M-j4SGYRiB5QDyzJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 401A",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 401A",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "JL Orthodontics",
+        "phone": "+14159245533",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jl-orthodontics-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sohrab-saghezchi-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8913041,
+            "longitude": -122.5175968
+        },
+        "display_phone": "(415) 383-2256",
+        "distance": 3859.1958511349767,
+        "id": "k2IbbsrWEJQxADmzVIzAaA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QXdolHT1FzKv8giP5o8DrA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 367",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 367",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Sohrab Saghezchi, DDS",
+        "phone": "+14153832256",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sohrab-saghezchi-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-p-hyder-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.790172547102,
+            "longitude": -122.432352751493
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9628.11094995338,
+        "id": "W8S4c8M7X3AK-PzjIiGe5w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Richard P Hyder, DDS",
+        "phone": "+14159233034",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-p-hyder-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tan-frederick-y-dds-mill-valley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88027,
+            "longitude": -122.52569
+        },
+        "display_phone": "(415) 388-8730",
+        "distance": 3389.165131603624,
+        "id": "m3MB0pXwNjspc6DMrX-DMg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "231 Flamingo Rd",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "231 Flamingo Rd",
+                "Ste B",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Tan Frederick Y, DDS",
+        "phone": "+14153888730",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tan-frederick-y-dds-mill-valley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roger-a-solow-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8915445,
+            "longitude": -122.517507
+        },
+        "display_phone": "(415) 388-1108",
+        "distance": 3878.395852698295,
+        "id": "Na87zWbIKir0xjxDxwTLjw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy Frontage Rd",
+            "address2": "Ste 251",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy Frontage Rd",
+                "Ste 251",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Roger A Solow, DDS",
+        "phone": "+14153881108",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roger-a-solow-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pacific-dental-associates-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79046,
+            "longitude": -122.43209
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9628.11094995338,
+        "id": "kenU0YRADlRi5lPnSIVeLA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7C2pGVOd1F7fVsDwwGzvxA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "Ste 325",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "Ste 325",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Pacific Dental Associates",
+        "phone": "+14159233034",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pacific-dental-associates-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hiura-bruce-t-dr-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7968597412109,
+            "longitude": -122.424026489258
+        },
+        "display_phone": "(415) 776-5855",
+        "distance": 9525.099580456903,
+        "id": "CnquHLAMyNq6ECUGcIr9Og",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-Mv-g7cuVrjXIxysGYgxpQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2305 Van Ness Ave",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2305 Van Ness Ave",
+                "Ste E",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Hiura Bruce T Dr",
+        "phone": "+14157765855",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hiura-bruce-t-dr-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-lebus-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 388-6710",
+        "distance": 4807.670014996386,
+        "id": "yoDppkxj6_XLkK58lcaE7Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 2",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Scott Lebus, DDS",
+        "phone": "+14153886710",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-lebus-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "van-ness-dental-group-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7962875366211,
+            "longitude": -122.423965454102
+        },
+        "display_phone": "(415) 441-2098",
+        "distance": 9577.554822013111,
+        "id": "tJYAJ2BnWvfhsI0rRjxhuw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E1vmXzmmvVEkSnGsc0r3TA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2243 Van Ness Ave",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2243 Van Ness Ave",
+                "Ste 101",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Van Ness Dental Group",
+        "phone": "+14154412098",
+        "rating": 3.0,
+        "review_count": 149,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/van-ness-dental-group-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-e-leeds-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7941344,
+            "longitude": -122.4234748
+        },
+        "display_phone": "(415) 441-1955",
+        "distance": 9787.307277278656,
+        "id": "CsnOjXuqLMIiL8ww5tUY6Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Van Ness Ave",
+            "address2": "Ste 402",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Van Ness Ave",
+                "Ste 402",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Richard E Leeds, DDS",
+        "phone": "+14154411955",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-e-leeds-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-f-bronson-dds-ms-san-francisco",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 921-4090",
+        "distance": 9024.787904392697,
+        "id": "tGLl1Ha3z37GQkwDQ5x_wA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 280",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Richard F Bronson, DDS MS",
+        "phone": "+14159214090",
+        "rating": 4.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-f-bronson-dds-ms-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "luisa-ambrosiano-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 924-2022",
+        "distance": 7471.940211451319,
+        "id": "V6K1mW9FZhMgZSeSSMTqaA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 205",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 205",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Luisa Ambrosiano, DDS",
+        "phone": "+14159242022",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/luisa-ambrosiano-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ruby-multani-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8001022338867,
+            "longitude": -122.436416625977
+        },
+        "display_phone": "(415) 922-3220",
+        "distance": 8557.067624897754,
+        "id": "wefpgdwKSK9k9qn_GsaEiw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3309 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3309 Fillmore St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Ruby Multani, DDS",
+        "phone": "+14159223220",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ruby-multani-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gast-garry-g-dds-belvedere-tiburon",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8752746582031,
+            "longitude": -122.459953308105
+        },
+        "display_phone": "(415) 435-0941",
+        "distance": 3439.8070457128506,
+        "id": "hoRSFXe2VDX-UfjjzFXeow",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1550 Tiburon Blvd",
+            "address2": "Ste Y",
+            "address3": "",
+            "city": "Belvedere Tiburon",
+            "country": "US",
+            "display_address": [
+                "1550 Tiburon Blvd",
+                "Ste Y",
+                "Belvedere Tiburon, CA 94920"
+            ],
+            "state": "CA",
+            "zip_code": "94920"
+        },
+        "name": "Gast Garry G DDS",
+        "phone": "+14154350941",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gast-garry-g-dds-belvedere-tiburon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "natanya-marracino-dmd-mill-valley-endodontics-mill-valley",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89129,
+            "longitude": -122.51758
+        },
+        "display_phone": "(415) 383-1200",
+        "distance": 3848.49732819148,
+        "id": "202Z8--rr5wWt8m3AYDqPA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IZqSTN1WDwU-4AV1fEDD6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 120",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Natanya Marracino, DMD - Mill Valley Endodontics",
+        "phone": "+14153831200",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/natanya-marracino-dmd-mill-valley-endodontics-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "raymond-katz-dmd-mill-valley-6",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.903247,
+            "longitude": -122.542686
+        },
+        "display_phone": "(415) 751-7900",
+        "distance": 6237.796036999772,
+        "id": "1qL9jcXAUuj4ny4EkQwrbA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZNLMdurKfGJlwaorINnn8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "163 Miller Ave",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "163 Miller Ave",
+                "Ste 2",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Raymond Katz , DMD",
+        "phone": "+14157517900",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/raymond-katz-dmd-mill-valley-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mouhannad-almajdalani-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8013229370117,
+            "longitude": -122.427017211914
+        },
+        "display_phone": "(415) 921-5555",
+        "distance": 8977.399377800057,
+        "id": "EeepfGBK1Z6SlSrxOyL5hA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1550 Lombard St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1550 Lombard St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Mouhannad Almajdalani, DDS",
+        "phone": "+14159215555",
+        "rating": 3.5,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mouhannad-almajdalani-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "boland-john-e-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-9052",
+        "distance": 7471.940211451319,
+        "id": "9T8i_wqUHkeFe-MHW4zELg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 404",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 404",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Boland John E DDS",
+        "phone": "+14159279052",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/boland-john-e-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-j-antonini-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8005752563477,
+            "longitude": -122.426315307617
+        },
+        "display_phone": "(415) 776-1900",
+        "distance": 9081.562019296856,
+        "id": "bfEYcwBGuC-X3-9Wyq-HYQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3cdLc7nDMJg-y0x__psEcQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2827 Franklin St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2827 Franklin St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Michael J Antonini, DDS",
+        "phone": "+14157761900",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-j-antonini-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "e-esther-lopez-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7906375,
+            "longitude": -122.432203888893
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9624.98946491053,
+        "id": "kRUWP04d89ORwOLJ-NQ0sA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jup0AFhbkXyJQ3u9s6ntsg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "Ste 325",
+            "address3": "Pacific Dental Associates",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "Ste 325",
+                "Pacific Dental Associates",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "E Esther Lopez, DDS",
+        "phone": "+14159233034",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/e-esther-lopez-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonia-raina-dmd-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89755,
+            "longitude": -122.53038
+        },
+        "display_phone": "(415) 383-2200",
+        "distance": 5062.463039510353,
+        "id": "4LG_DaYBOu_kYlsBah92NA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1pw7uaMa5LolUG-ssEeoEw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Ste 3",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Sonia Raina, DMD",
+        "phone": "+14153832200",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonia-raina-dmd-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-sf-dr-farah-sefidvash-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7972,
+            "longitude": -122.43697
+        },
+        "display_phone": "(415) 922-2990",
+        "distance": 8787.660627368068,
+        "id": "yAi1cFilPB8OFCrJGqe2OQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AuxMBdvnSM0zu8_1dVprNw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3012 Steiner St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3012 Steiner St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Smile SF - Dr Farah Sefidvash",
+        "phone": "+14159222990",
+        "rating": 3.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-sf-dr-farah-sefidvash-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-r-kuhn-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.78872,
+            "longitude": -122.43345
+        },
+        "display_phone": "(415) 921-2448",
+        "distance": 9738.492536189453,
+        "id": "VEwf1ZMtJ-cQfkB706XA8g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4rCL6-vJQrYd6gEvTuf4Og/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2383 California St",
+            "address2": "",
+            "address3": null,
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2383 California St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Thomas R Kuhn, DDS",
+        "phone": "+14159212448",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-r-kuhn-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marina-dental-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.797714,
+            "longitude": -122.428268
+        },
+        "display_phone": "(415) 440-9000",
+        "distance": 9198.23927200463,
+        "id": "CTm3cZqgvNukbSt0cHV-XA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kXZ8pWKaUgrPqoqgrE_V-A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1763 Union St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1763 Union St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Marina Dental",
+        "phone": "+14154409000",
+        "rating": 3.5,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-dental-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "strawberry-village-dental-care-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8990151,
+            "longitude": -122.5138292
+        },
+        "display_phone": "(415) 380-3600",
+        "distance": 4464.966449088801,
+        "id": "aYtvLWyllMD7I4NPjIsbdQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "613 Strawberry Village",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "613 Strawberry Village",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Strawberry Village Dental Care",
+        "phone": "+14153803600",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/strawberry-village-dental-care-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "downes-holly-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 388-5151",
+        "distance": 4807.776537751903,
+        "id": "qm6_EXBjsqyqkLfqImdjoA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hz8FOeqstp-kA5tUzVBAUg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 6",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Downes Holly, DDS",
+        "phone": "+14153885151",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/downes-holly-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-e-barkin-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.790172547102,
+            "longitude": -122.432352751493
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9628.11094995338,
+        "id": "LjL600-Z1qOYooKVP0ee3A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NKMZBRO37gsz4xAbYba8Lg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "Ste 325",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "Ste 325",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Michael E Barkin, DDS",
+        "phone": "+14159233034",
+        "rating": 3.5,
+        "review_count": 38,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-e-barkin-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-e-kuo-dds-ms-san-francisco",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 775-5774",
+        "distance": 9024.585846136844,
+        "id": "wCNHpXLu4qibJG3PLjjaPA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Eric E Kuo,DDS MS",
+        "phone": "+14157755774",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-e-kuo-dds-ms-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rachel-brinker-dmd-mill-valley",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8917116,
+            "longitude": -122.5162452
+        },
+        "display_phone": "(415) 389-9600",
+        "distance": 3840.7909915921055,
+        "id": "2XTL2wZfoygb42aZ8YEe_g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k6XcAtWLY1QjIN3mzzEUww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 110",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Rachel Brinker, DMD",
+        "phone": "+14153899600",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rachel-brinker-dmd-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "chin-martin-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.790172547102,
+            "longitude": -122.432352751493
+        },
+        "display_phone": "(415) 923-3867",
+        "distance": 9628.11094995338,
+        "id": "KwwTmcIgPRfn4Dwnt3V68A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "Ste 303",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "Ste 303",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Chin Martin, DDS",
+        "phone": "+14159233867",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/chin-martin-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-e-boland-msd-corte-madera",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-7711",
+        "distance": 7471.940211451319,
+        "id": "lJkJFc4BLGgtWhbTWr_y2w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 404",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 404",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "John E Boland, MSD",
+        "phone": "+14159277711",
+        "rating": 4.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-e-boland-msd-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-dergosits-dds-mill-valley-3",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.899761,
+            "longitude": -122.539108
+        },
+        "display_phone": "(415) 383-6383",
+        "distance": 5739.6779309723715,
+        "id": "knq7l38yZgMsjfbbakBdyA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vp3C7r4BRVAFpMK6vW4ckw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "295 Miller Ave",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "295 Miller Ave",
+                "Ste B",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Edward Dergosits, DDS",
+        "phone": "+14153836383",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-dergosits-dds-mill-valley-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "julie-young-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92462,
+            "longitude": -122.51746
+        },
+        "display_phone": "(415) 924-5300",
+        "distance": 7312.424298165458,
+        "id": "tiLLOQVxQZXntmYv684XzQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PqYohjAJFAlEcFH9rvwAEA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Ste 6",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Julie Young, DDS",
+        "phone": "+14159245300",
+        "rating": 4.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/julie-young-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carlson-orthodontics-mill-valley",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.903247833252,
+            "longitude": -122.542686462402
+        },
+        "display_phone": "(415) 388-2970",
+        "distance": 6237.796036999772,
+        "id": "NA_n8JWM2kzdjedSFv2_Xg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FZ2sFo4jj1gEWHNYDNlm2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "163 Miller Ave",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "163 Miller Ave",
+                "Ste 3",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Carlson Orthodontics",
+        "phone": "+14153882970",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carlson-orthodontics-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "herman-hu-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.80041,
+            "longitude": -122.42973
+        },
+        "display_phone": "(415) 474-0101",
+        "distance": 8894.945103752634,
+        "id": "eUT9ye5LSVuELp-XNtLrbA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1711 Lombard St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1711 Lombard St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Herman Hu, DDS",
+        "phone": "+14154740101",
+        "rating": 4.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/herman-hu-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mana-jamali-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 921-9292",
+        "distance": 9024.585846136844,
+        "id": "hKOGBi6ymCXS1xpS9Be5ig",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 690",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 690",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Mana Jamali, DDS",
+        "phone": "+14159219292",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mana-jamali-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alexander-chukreeff-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.797184,
+            "longitude": -122.432486
+        },
+        "display_phone": "(415) 563-8123",
+        "distance": 9025.165614390353,
+        "id": "FdLmQGkahmKI7wjIYJwT6g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XDZwByxVjSMpw3ziHxzJ-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 500",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 500",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Alexander Chukreeff, DDS",
+        "phone": "+14155638123",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alexander-chukreeff-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-l-boyd-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7902946472168,
+            "longitude": -122.432769775391
+        },
+        "display_phone": "(415) 929-6691",
+        "distance": 9624.174935296662,
+        "id": "4xIa9ZNk7VGfnwKLmz-gWQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rjTec1aRsazxOadwwMMTSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2155 Webster St",
+            "address2": "Ste 141",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2155 Webster St",
+                "Ste 141",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Robert L Boyd",
+        "phone": "+14159296691",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-l-boyd-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stuart-dennis-d-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92556,
+            "longitude": -122.52263
+        },
+        "display_phone": "(415) 924-5042",
+        "distance": 7519.71579495038,
+        "id": "ATvPX_NFL3m_ioeXYDUnjg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "520 Tamalpais Dr",
+            "address2": "Ste 204",
+            "address3": null,
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "520 Tamalpais Dr",
+                "Ste 204",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Stuart Dennis D DDS",
+        "phone": "+14159245042",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stuart-dennis-d-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mason-lee-md-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9076194763184,
+            "longitude": -122.54817199707
+        },
+        "display_phone": "(415) 389-6200",
+        "distance": 6920.783401359522,
+        "id": "YIaONDTy6rebaJ7j_WGBGQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy Frontage Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy Frontage Rd",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mason Lee, MD, DDS",
+        "phone": "+14153896200",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mason-lee-md-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-hammonds-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 563-1600",
+        "distance": 9024.787904392697,
+        "id": "sXDz1edKVnj4k-wn0IHnEg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LZTHtIMFtc19hLsxicJPxw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 385",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 385",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "William Hammonds, DDS",
+        "phone": "+14155631600",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-hammonds-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "julie-a-ross-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8987884521484,
+            "longitude": -122.5390625
+        },
+        "display_phone": "(415) 381-8620",
+        "distance": 5659.164296498107,
+        "id": "4LacMS2F_fWcyVQNZ_oOzA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RXnAwsl-UYbkays5S8pMgQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "316 Miller Ave",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "316 Miller Ave",
+                "Ste C",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Julie A. Ross, DDS",
+        "phone": "+14153818620",
+        "rating": 3.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/julie-a-ross-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mill-valley-dental-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.891240814989,
+            "longitude": -122.517660326424
+        },
+        "display_phone": "(415) 383-2256",
+        "distance": 3855.9239234157326,
+        "id": "OLJHPgIxX_cMSy-dj1_xTg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J8jdKwhOPTcrI2cR92sgMA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 367",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 367",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mill Valley Dental",
+        "phone": "+14153832256",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mill-valley-dental-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-c-klein-md-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "earnosethroat",
+                "title": "Ear Nose & Throat"
+            },
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.790172547102,
+            "longitude": -122.432352751493
+        },
+        "display_phone": "(415) 923-3135",
+        "distance": 9628.11094995338,
+        "id": "83R-UN9gB4L3O91vKa88xw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "James C Klein, MD DDS",
+        "phone": "+14159233135",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-c-klein-md-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "simon-ira-r-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 924-2501",
+        "distance": 7471.99612477886,
+        "id": "5w6AHkKYvfIglwt5k2DOAA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 317",
+            "address3": null,
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 317",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Simon Ira R DDS",
+        "phone": "+14159242501",
+        "rating": 3.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/simon-ira-r-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-j-walter-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7997,
+            "longitude": -122.4433
+        },
+        "display_phone": "(415) 563-2717",
+        "distance": 8235.424183443542,
+        "id": "aNXR2cQW0XuwBqDCyBpOag",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2427 Chestnut St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2427 Chestnut St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Edward J Walter,DDS",
+        "phone": "+14155632717",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-j-walter-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marina-pacific-heights-dental-care-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8001022338867,
+            "longitude": -122.436416625977
+        },
+        "display_phone": "(415) 922-3220",
+        "distance": 8557.067624897754,
+        "id": "2lt2h4UAFsPjRwe2WvJA2w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MWCzhsrUvq9XPeORLujEMA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3309 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3309 Fillmore St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Marina Pacific Heights Dental Care",
+        "phone": "+14159223220",
+        "rating": 3.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-pacific-heights-dental-care-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-benson-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.798437,
+            "longitude": -122.4265566
+        },
+        "display_phone": "(415) 397-4711",
+        "distance": 9247.751598934383,
+        "id": "eOOmIB7afcJSfhy8V1BTeA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3i41gf4_X6gD1Gfuk9g5PQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1648 Union St",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1648 Union St",
+                "Ste 202",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Eric Benson, DDS",
+        "phone": "+14153974711",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-benson-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leimert-dental-practice-los-angeles-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7999961,
+            "longitude": -122.4363506
+        },
+        "display_phone": "(323) 299-9642",
+        "distance": 8570.314996693618,
+        "id": "tqUUQzfv2p15BdTqk_2lWg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FBhx5M0PxvPTcHIvgy1a7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3991 S Western Ave",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Los Angeles",
+            "country": "US",
+            "display_address": [
+                "3991 S Western Ave",
+                "Ste 7",
+                "Los Angeles, CA 90062"
+            ],
+            "state": "CA",
+            "zip_code": "90062"
+        },
+        "name": "Leimert Dental Practice",
+        "phone": "+13232999642",
+        "price": "$",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leimert-dental-practice-los-angeles-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "childrens-choice-pediatric-dental-care-san-francisco-3",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.800102,
+            "longitude": -122.436413
+        },
+        "display_phone": "(415) 735-4374",
+        "distance": 8557.625563652486,
+        "id": "MSOLJJ0W7OVZx7-XStHb9g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hqWs5-8KViQstf-1umt-0Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3309 Fillmore St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3309 Fillmore St",
+                "Ste A",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Children's Choice Pediatric Dental Care",
+        "phone": "+14157354374",
+        "rating": 2.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/childrens-choice-pediatric-dental-care-san-francisco-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "randal-w-rowland-ms-dmd-san-francisco",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 440-8100",
+        "distance": 9024.585846136844,
+        "id": "zBMxwKQzTRZILMfCz1tllg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IDe5OPTl4W_yXTAO32u3PQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 482",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 482",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Randal W Rowland, MS DMD",
+        "phone": "+14154408100",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/randal-w-rowland-ms-dmd-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brothers-dental-and-implants-san-francisco-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79404,
+            "longitude": -122.423346
+        },
+        "display_phone": "(415) 885-2005",
+        "distance": 9802.631157413987,
+        "id": "mH1Okwn3jx0tUK--WzjY8Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MDZgXH1Lq1lXItz6DmByFQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Van Ness Ave",
+            "address2": "Ste 400",
+            "address3": null,
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Van Ness Ave",
+                "Ste 400",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Brothers Dental and Implants",
+        "phone": "+14158852005",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brothers-dental-and-implants-san-francisco-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-j-brattesani-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8001,
+            "longitude": -122.43641
+        },
+        "display_phone": "(415) 922-3220",
+        "distance": 8557.067624897754,
+        "id": "6m5oozxVbBkYIjf_l4GhJw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F0qYCa7g0pEHvBw1g_IpUg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3309 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3309 Fillmore St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Stephen J Brattesani, DDS",
+        "phone": "+14159223220",
+        "rating": 2.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-j-brattesani-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carly-schneider-orofacial-myology-mill-valley",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9020273,
+            "longitude": -122.5280575
+        },
+        "display_phone": "(415) 942-8415",
+        "distance": 5354.892003003908,
+        "id": "La4eOjAc7RyQTfijnVkSHg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BhPlE5o8TqPyCkh8M9qSrQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "147 Lomita Dr",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "147 Lomita Dr",
+                "Ste D",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Carly Schneider Orofacial Myology",
+        "phone": "+14159428415",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carly-schneider-orofacial-myology-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-bauer-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89873,
+            "longitude": -122.514496
+        },
+        "display_phone": "(415) 380-3600",
+        "distance": 4483.6505004618675,
+        "id": "prRkim6O8mp-RPlZi51njw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "613 Strawberry Village",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "613 Strawberry Village",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Joseph Bauer, DDS",
+        "phone": "+14153803600",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-bauer-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marin-dental-wellness-mill-valley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89823,
+            "longitude": -122.536809
+        },
+        "display_phone": "(415) 924-6551",
+        "distance": 5478.0286169988,
+        "id": "u_RR-UNKCQN25No79cfFqQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "55 La Goma St",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "55 La Goma St",
+                "Ste 200",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Marin Dental Wellness",
+        "phone": "+14159246551",
+        "rating": 3.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marin-dental-wellness-mill-valley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jacobsen-peter-l-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7887153625488,
+            "longitude": -122.433448791504
+        },
+        "display_phone": "(415) 921-2448",
+        "distance": 9738.492536189453,
+        "id": "PEcY8t7O8Jy6nKFGuwRhkg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2383 California St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2383 California St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Jacobsen Peter L, DDS",
+        "phone": "+14159212448",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jacobsen-peter-l-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harris-lloyd-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 388-7466",
+        "distance": 4807.776537751903,
+        "id": "4WaB0S7wVv-zL4FsCXqi_Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 7",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Harris Lloyd, DDS",
+        "phone": "+14153887466",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harris-lloyd-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wilson-mark-dds-southern-marin-dental-center-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90361,
+            "longitude": -122.52553
+        },
+        "display_phone": "(415) 388-9495",
+        "distance": 5382.780733391566,
+        "id": "NWwjCSCuVtsefU3MVTqr4w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "147 Lomita Dr",
+            "address2": "Ste D1",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "147 Lomita Dr",
+                "Ste D1",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Wilson Mark DDS-Southern Marin Dental Center",
+        "phone": "+14153889495",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wilson-mark-dds-southern-marin-dental-center-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wong-colin-c-dds-and-yang-leo-c-dds-professional-crp-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.903247,
+            "longitude": -122.542686
+        },
+        "display_phone": "(415) 383-1737",
+        "distance": 6237.796036999772,
+        "id": "091B4VIArlIUQFZsxN2XeQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "163 Miller Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "163 Miller Ave",
+                "Ste 1",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Wong Colin C DDS & Yang Leo C DDS Professional Crp",
+        "phone": "+14153831737",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wong-colin-c-dds-and-yang-leo-c-dds-professional-crp-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dental-implant-and-oral-surgery-of-san-francisco-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79718,
+            "longitude": -122.43248
+        },
+        "display_phone": "(415) 931-3100",
+        "distance": 9025.192029073021,
+        "id": "YgrZpHak7Qkx2PNKjIID5Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Dental Implant and Oral Surgery of San Francisco",
+        "phone": "+14159313100",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dental-implant-and-oral-surgery-of-san-francisco-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mahtab-sadrameli-dmd-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.78923,
+            "longitude": -122.42858
+        },
+        "display_phone": "(415) 775-7918",
+        "distance": 9937.575538982403,
+        "id": "oUbGavsGZWLzo2dcH_JTFQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2095 California St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2095 California St",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Mahtab Sadrameli, DMD",
+        "phone": "+14157757918",
+        "rating": 4.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mahtab-sadrameli-dmd-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eduardo-gonzalez-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.790216,
+            "longitude": -122.433173
+        },
+        "display_phone": "(415) 312-9777",
+        "distance": 9614.5817285383,
+        "id": "vS10IolkPE_68DMY_7-VPg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QiZA-oz-f6tmlxrp7dQXTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "155 5th St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "155 5th St",
+                "San Francisco, CA 94103"
+            ],
+            "state": "CA",
+            "zip_code": "94103"
+        },
+        "name": "Eduardo Gonzalez, DDS",
+        "phone": "+14153129777",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eduardo-gonzalez-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "derek-s-penn-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 563-1511",
+        "distance": 9024.585846136844,
+        "id": "2qbfcSZP4yiU59EHKLw24A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union St",
+            "address2": "Ste 345",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union St",
+                "Ste 345",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Derek S Penn,DDS",
+        "phone": "+14155631511",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/derek-s-penn-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cohan-richard-p-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.790172547102,
+            "longitude": -122.432352751493
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9628.11094995338,
+        "id": "iDGUPsALpy7ziJj0Ru7Dtg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Cohan Richard P, DDS",
+        "phone": "+14159233034",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cohan-richard-p-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gary-rayant-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79046,
+            "longitude": -122.43209
+        },
+        "display_phone": "(415) 923-3034",
+        "distance": 9628.11094995338,
+        "id": "faIDg-Q4fITmY8TKSTeH0g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2100 Webster St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Gary Rayant, DDS",
+        "phone": "+14159233034",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gary-rayant-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-b-morris-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.903247833252,
+            "longitude": -122.542686462402
+        },
+        "display_phone": "(415) 383-2244",
+        "distance": 6237.796036999772,
+        "id": "90K7vHNNe-g9s3PGSoiMCw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "163 Miller Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "163 Miller Ave",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "James B Morris, DDS",
+        "phone": "+14153832244",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-b-morris-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bruce-gretchen-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7902946472168,
+            "longitude": -122.432769775391
+        },
+        "display_phone": "(415) 929-6524",
+        "distance": 9624.174935296662,
+        "id": "im3Tf5ql7ZnHs4RampZwSg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2155 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2155 Webster St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Bruce Gretchen, DDS",
+        "phone": "+14159296524",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bruce-gretchen-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "suzie-yang-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.894227,
+            "longitude": -122.5318854
+        },
+        "display_phone": "(415) 388-2172",
+        "distance": 4858.49917628165,
+        "id": "wjAqlTqjG_oHQkuWiwlu0Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "535 Miller Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "535 Miller Ave",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Suzie Yang, DDS",
+        "phone": "+14153882172",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/suzie-yang-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "klaus-j-radtke-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8007583618164,
+            "longitude": -122.436363220215
+        },
+        "display_phone": "",
+        "distance": 8289.383743964303,
+        "id": "Qiw9qeqPT1B7KSlXtCb6HA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Klaus J Radtke, DDS",
+        "phone": "",
+        "rating": 1.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/klaus-j-radtke-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "santos-berkowitz-cecilia-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7993014454842,
+            "longitude": -122.435887232423
+        },
+        "display_phone": "(415) 614-9850",
+        "distance": 8654.172315714144,
+        "id": "29redZmcvknBTGghwRu_dA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3220 Fillmore St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "3220 Fillmore St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Santos-Berkowitz Cecilia",
+        "phone": "+14156149850",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/santos-berkowitz-cecilia-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "norman-yung-dmd-san-francisco-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.79629,
+            "longitude": -122.42396
+        },
+        "display_phone": "(415) 238-4423",
+        "distance": 9576.466749075229,
+        "id": "sUC3_l-5HJLI4P3VYmH8QQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WCbzSy6zPfFfwsSEPp60OQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2243 Van Ness Ave",
+            "address2": "Ste 101",
+            "address3": null,
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2243 Van Ness Ave",
+                "Ste 101",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Norman Yung DMD",
+        "phone": "+14152384423",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/norman-yung-dmd-san-francisco-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "healthy-smiles-family-dentistry-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.80056,
+            "longitude": -122.42864
+        },
+        "display_phone": "(415) 776-2020",
+        "distance": 8944.019903571998,
+        "id": "_DRNH8FugmzGwfa23UnxCw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1647 Lombard St",
+            "address2": null,
+            "address3": null,
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "1647 Lombard St",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Healthy Smiles Family Dentistry",
+        "phone": "+14157762020",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/healthy-smiles-family-dentistry-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gusak-zoya-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7968597412109,
+            "longitude": -122.424026489258
+        },
+        "display_phone": "(415) 921-6642",
+        "distance": 9525.099580456903,
+        "id": "kMPDX96w4pdKF0AENv716g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2305 Van Ness Ave",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2305 Van Ness Ave",
+                "San Francisco, CA 94109"
+            ],
+            "state": "CA",
+            "zip_code": "94109"
+        },
+        "name": "Gusak Zoya, DDS",
+        "phone": "+14159216642",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gusak-zoya-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "randal-w-rowland-ms-dmd-ms-san-francisco",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7971839904785,
+            "longitude": -122.432487487793
+        },
+        "display_phone": "(415) 440-8100",
+        "distance": 9024.585846136844,
+        "id": "hmd5lbhTv_MHhbWNXBAh3w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Union",
+            "address2": "Ste 482",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2001 Union",
+                "Ste 482",
+                "San Francisco, CA 94123"
+            ],
+            "state": "CA",
+            "zip_code": "94123"
+        },
+        "name": "Randal W. Rowland, MS, DMD, MS",
+        "phone": "+14154408100",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/randal-w-rowland-ms-dmd-ms-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "head-belinda-dds-san-francisco",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7902946472168,
+            "longitude": -122.432769775391
+        },
+        "display_phone": "(415) 929-6524",
+        "distance": 9624.174935296662,
+        "id": "hjBDCmxV8mORzHcuy61BDA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2155 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "San Francisco",
+            "country": "US",
+            "display_address": [
+                "2155 Webster St",
+                "San Francisco, CA 94115"
+            ],
+            "state": "CA",
+            "zip_code": "94115"
+        },
+        "name": "Head Belinda, DDS",
+        "phone": "+14159296524",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/head-belinda-dds-san-francisco?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smith-brian-j-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92685,
+            "longitude": -122.53026
+        },
+        "display_phone": "(415) 924-6551",
+        "distance": 7904.0709106886925,
+        "id": "TSrk3fWfcfjf8HUW8rRzxw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yc1RLWthh5FXKIT-IZJI7w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "33 Montecito Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "33 Montecito Dr",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Smith Brian J DDS",
+        "phone": "+14159246551",
+        "rating": 1.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smith-brian-j-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

@@ -1,0 +1,2836 @@
+[
+    {
+        "alias": "napa-pediatric-dentistry-napa",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.325066469911,
+            "longitude": -122.292233606698
+        },
+        "display_phone": "(707) 265-8389",
+        "distance": 2199.7100977104074,
+        "id": "A6FF8eyyY0Z55SU4TrLNhg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BdjMTkJ6CHPm4hAvdcIORg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3425 Valle Verde Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3425 Valle Verde Dr",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Pediatric Dentistry",
+        "phone": "+17072658389",
+        "rating": 5.0,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-pediatric-dentistry-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cooke-orthodontics-napa",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3203328,
+            "longitude": -122.3096753
+        },
+        "display_phone": "(707) 255-4400",
+        "distance": 2201.289496676934,
+        "id": "qSY2KUUarSYhf8Ika2ljyg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jiAexNct1iMEGbNUNOl72g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3392 Solano Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3392 Solano Ave",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Cooke Orthodontics",
+        "phone": "+17072554400",
+        "rating": 4.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cooke-orthodontics-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-valley-orthodontics-by-dr-steven-kunihiro-napa-6",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3231073783825,
+            "longitude": -122.293721437454
+        },
+        "display_phone": "(707) 254-0404",
+        "distance": 1956.9201977447342,
+        "id": "iRptblaRZLBeWtHHvp-4bg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jfa7XL-1Vy8L2DlutzUluA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3303 Villa Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3303 Villa Ln",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Valley Orthodontics by Dr. Steven Kunihiro",
+        "phone": "+17072540404",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-valley-orthodontics-by-dr-steven-kunihiro-napa-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vintage-dental-napa",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3150189268155,
+            "longitude": -122.307525426149
+        },
+        "display_phone": "(707) 257-3333",
+        "distance": 1653.9993831272916,
+        "id": "3yeE3iKGc2IBnwFzlsIptg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WHdAfoCDkErjgu36qNPJuw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3083 Solano Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3083 Solano Ave",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Vintage Dental",
+        "phone": "+17072573333",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vintage-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vineyard-dental-napa-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32303,
+            "longitude": -122.29711
+        },
+        "display_phone": "(707) 255-1172",
+        "distance": 1968.139896973586,
+        "id": "bEdOy81y1hfD-i_XG7oWXw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P_Z8csNOpr2u1Y5IxyRIcA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1103 Trancas St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1103 Trancas St",
+                "Ste A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Vineyard Dental",
+        "phone": "+17072551172",
+        "rating": 4.0,
+        "review_count": 48,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vineyard-dental-napa-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "blake-w-mcray-endodontics-napa-napa-2",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3222770690918,
+            "longitude": -122.304718017578
+        },
+        "display_phone": "(707) 226-2399",
+        "distance": 2124.1937921298663,
+        "id": "ByBRU1gpSFgtZ2xhP6y8Xg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pOGohYUPTf7WCaCMLA-I_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "Ste C",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Blake W McRay Endodontics - Napa",
+        "phone": "+17072262399",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/blake-w-mcray-endodontics-napa-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jordan-lamberton-dds-msd-hello-ortho-napa-6",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3227514,
+            "longitude": -122.2955266
+        },
+        "display_phone": "(707) 226-5555",
+        "distance": 1929.405165298688,
+        "id": "XPYwLFTHArnTL85fXKWgoA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nqqNeEd0qq3zTMSrYt2ipA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3270 Beard Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3270 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Jordan Lamberton, DDS MSD - Hello Ortho",
+        "phone": "+17072265555",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jordan-lamberton-dds-msd-hello-ortho-napa-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-valley-dental-group-napa-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.30653,
+            "longitude": -122.29548
+        },
+        "display_phone": "(707) 257-2400",
+        "distance": 247.97778370681888,
+        "id": "Sug5l-a7i-5W2TvCtRfTmA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HGnWz2ul_q2kBMFcInIF3Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2119 Jefferson St",
+            "address2": null,
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2119 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Napa Valley Dental Group",
+        "phone": "+17072572400",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-valley-dental-group-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "redwood-dental-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32035,
+            "longitude": -122.3114
+        },
+        "display_phone": "(707) 255-5100",
+        "distance": 2312.364589302798,
+        "id": "zzGka25tkulcb011yPp0yg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1mF1vJV7pQkQ9hfBv2XNSA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2025 Redwood Rd",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2025 Redwood Rd",
+                "Ste 3",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Redwood Dental",
+        "phone": "+17072555100",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/redwood-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "blake-w-mcray-endodontics-napa-4",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32229,
+            "longitude": -122.30456
+        },
+        "display_phone": "(707) 226-2399",
+        "distance": 2124.1937921298663,
+        "id": "YctvI2RTWpsCA5GC2DbNqw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lf7abmCOTdpDM6apmrCQNw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "Ste C",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Blake W McRay Endodontics",
+        "phone": "+17072262399",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/blake-w-mcray-endodontics-napa-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cecil-d-lamberton-dds-cosmetic-dentistry-of-napa-napa-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32519,
+            "longitude": -122.2936
+        },
+        "display_phone": "(707) 257-7771",
+        "distance": 2191.8624157384124,
+        "id": "XwNocVgLJfpahFEaANJgHg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EDBnkKS1VHaWVbdB_PkeBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3434 Villa Ln",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3434 Villa Ln",
+                "Ste 120",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Cecil D Lamberton, DDS - Cosmetic Dentistry of Napa",
+        "phone": "+17072577771",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cecil-d-lamberton-dds-cosmetic-dentistry-of-napa-napa-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-suttie-dentistry-for-children-napa",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3258505311725,
+            "longitude": -122.292751923943
+        },
+        "display_phone": "(707) 257-6453",
+        "distance": 2260.809609551517,
+        "id": "S-wmoGHln5TmRHwBckYgeQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gjqpq4Nv52UE1NORt5PQaQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3449 Valle Verde Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3449 Valle Verde Dr",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "David Suttie Dentistry For Children",
+        "phone": "+17072576453",
+        "rating": 4.5,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-suttie-dentistry-for-children-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-r-pappas-dds-md-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.323127746582,
+            "longitude": -122.293640136719
+        },
+        "display_phone": "(707) 255-5033",
+        "distance": 1961.897482698519,
+        "id": "WcAYOl9yoILbDwQj8OLL2Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ssErKjGgHbiLZ5MBjokYJg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3301 Villa Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3301 Villa Ln",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "John R Pappas, DDS, MD",
+        "phone": "+17072555033",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-r-pappas-dds-md-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-valley-dentistry-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3215186,
+            "longitude": -122.295037
+        },
+        "display_phone": "(707) 255-2832",
+        "distance": 1788.4614885921574,
+        "id": "FwHYWVipDYJUoA7Mfumshg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dVBLepNffajSI9jtJRu7tw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3220 Beard Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3220 Beard Rd",
+                "Ste A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Valley Dentistry",
+        "phone": "+17072552832",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-valley-dentistry-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-m-capponi-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32362,
+            "longitude": -122.29272
+        },
+        "display_phone": "(707) 255-2020",
+        "distance": 2031.580816656319,
+        "id": "KpTe_aaSSI71oECspj4mNg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8MKeCKuv9-TmRfd4yqc9aw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Trancas St",
+            "address2": "Ste B",
+            "address3": "Silverado Dental Care",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "895 Trancas St",
+                "Ste B",
+                "Silverado Dental Care",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Daniel M Capponi, DDS",
+        "phone": "+17072552020",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-m-capponi-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "shanahan-orthodontics-napa",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.325513,
+            "longitude": -122.293439
+        },
+        "display_phone": "(707) 255-0555",
+        "distance": 2223.6486983717223,
+        "id": "cpAxvWHhuUDosbWOkIH1-A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O8fxHMgEwU-pnM4AxV16Og/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3434 Villa Ln",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3434 Villa Ln",
+                "Ste 110",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Shanahan Orthodontics",
+        "phone": "+17072550555",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/shanahan-orthodontics-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "villa-lane-dental-napa-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3218675,
+            "longitude": -122.2921723
+        },
+        "display_phone": "(707) 255-5700",
+        "distance": 1819.0866474892343,
+        "id": "HVjZZZD4tl2nQBOlZJf5Sw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0UypDyDiqpbcFxjQba6MGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3200 Villa Ln",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3200 Villa Ln",
+                "Ste A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Villa Lane Dental",
+        "phone": "+17072555700",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/villa-lane-dental-napa-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-w-daw-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3222770690918,
+            "longitude": -122.304718017578
+        },
+        "display_phone": "(707) 253-9235",
+        "distance": 2124.1937921298663,
+        "id": "YqFkv0exLkgSna_CPOlnbQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "Ste D",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "John W Daw DDS",
+        "phone": "+17072539235",
+        "rating": 4.0,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-w-daw-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-h-yoo-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32016,
+            "longitude": -122.29417
+        },
+        "display_phone": "(707) 257-8707",
+        "distance": 1633.7830265890134,
+        "id": "zanz-2IVmKyUt59nDrA9kA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1010 Professional Dr",
+            "address2": "Ste  A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1010 Professional Dr",
+                "Ste  A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "James H Yoo, DDS",
+        "phone": "+17072578707",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-h-yoo-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parkview-family-dentistry-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.295116,
+            "longitude": -122.293532
+        },
+        "display_phone": "(707) 255-7477",
+        "distance": 1157.9288047084965,
+        "id": "wKFHRI5ElmXynAx0htPssQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rOwiDx8tPOWSTW9PCk9FsA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "720 Jefferson St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "720 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Parkview Family Dentistry",
+        "phone": "+17072557477",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parkview-family-dentistry-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nancy-azizi-dds-napa-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3232673022433,
+            "longitude": -122.296189069748
+        },
+        "display_phone": "(707) 255-1172",
+        "distance": 1993.785643903276,
+        "id": "hcoAv9DkLEXd7M_G0XmcJA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MFttEdHp28dx5l9WRpanSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1103 Trancas St",
+            "address2": "Ste A",
+            "address3": "Vineyard Dental",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1103 Trancas St",
+                "Ste A",
+                "Vineyard Dental",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Nancy Azizi, DDS",
+        "phone": "+17072551172",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nancy-azizi-dds-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steffensen-jon-eric-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3222770690918,
+            "longitude": -122.304718017578
+        },
+        "display_phone": "(707) 255-3725",
+        "distance": 2124.1937921298663,
+        "id": "PDWgrgazWhU-E8W4gvWg6g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "Ste E",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Steffensen Jon Eric, DDS",
+        "phone": "+17072553725",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steffensen-jon-eric-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "martin-r-robert-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3210639953613,
+            "longitude": -122.294967651367
+        },
+        "display_phone": "(707) 255-6300",
+        "distance": 1735.2795034992982,
+        "id": "gpqAFpwfvJNJX5IjIlc00w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rdBT2itLAorfxKLrpaTgdA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3150 Beard Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3150 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Martin R Robert, DDS",
+        "phone": "+17072556300",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/martin-r-robert-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "silverado-dental-care-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32379,
+            "longitude": -122.29272
+        },
+        "display_phone": "(707) 224-7666",
+        "distance": 2032.5062438276298,
+        "id": "V05ItD6Zkzde7ivSrbmIxQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kzek8_Xc2qaQrkAD1tzCNQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Trancas St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "895 Trancas St",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Silverado Dental Care",
+        "phone": "+17072247666",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/silverado-dental-care-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "browns-valley-dental-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.30429,
+            "longitude": -122.3292
+        },
+        "display_phone": "(707) 257-2800",
+        "distance": 3126.0725952655157,
+        "id": "5k2Ndf4LNemH8FU-hY0TUQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3257 Browns Valley Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3257 Browns Valley Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Browns Valley Dental",
+        "phone": "+17072572800",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/browns-valley-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rolinda-harsany-dds-napa-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32045,
+            "longitude": -122.29417
+        },
+        "display_phone": "(707) 255-3511",
+        "distance": 1666.607801820313,
+        "id": "XQ23QOhYFwVyy-MgU6temg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iGqKnKXZEyRUWfind8HirQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3030 Beard Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3030 Beard Rd",
+                "Ste A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Rolinda Harsany, DDS",
+        "phone": "+17072553511",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rolinda-harsany-dds-napa-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-dental-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.31384,
+            "longitude": -122.28551
+        },
+        "display_phone": "(707) 666-3787",
+        "distance": 1134.642716890979,
+        "id": "deoU58CKlzdsXyT7n7Rb6Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6X8ZUU44huz52jMUwiyI5Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2291 Soscol Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2291 Soscol Ave",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Dental",
+        "phone": "+17076663787",
+        "rating": 3.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vandenburgh-dental-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32049,
+            "longitude": -122.29375
+        },
+        "display_phone": "(707) 226-8800",
+        "distance": 1675.505102981392,
+        "id": "DErj8ef4ClTZ1xLPKQpJgw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/spXtv7pagzv8ukQY0H683A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3036 Beard Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3036 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Vandenburgh Dental",
+        "phone": "+17072268800",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vandenburgh-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jayma-claus-dds-all-about-smiles-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3197593688965,
+            "longitude": -122.294258117676
+        },
+        "display_phone": "(707) 258-8700",
+        "distance": 1590.472079226824,
+        "id": "eyfSu51SneKMn3qN2F2x4w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iCyrbZ73X8_AIR7H2Q8diQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1011 Professional Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1011 Professional Dr",
+                "Ste B",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Jayma Claus, DDS - All About Smiles",
+        "phone": "+17072588700",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jayma-claus-dds-all-about-smiles-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jack-c-hoey-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.323380947113,
+            "longitude": -122.296560555696
+        },
+        "display_phone": "(707) 254-7600",
+        "distance": 2012.7428513606958,
+        "id": "ojfg9cTxcSONf30siGX49Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UnzK_OGS5S3fTzWdtAKPHg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1077 Trancas St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1077 Trancas St",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Jack C Hoey, DDS",
+        "phone": "+17072547600",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jack-c-hoey-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-j-williams-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32026,
+            "longitude": -122.29359
+        },
+        "display_phone": "(707) 252-7733",
+        "distance": 1638.854450223192,
+        "id": "PZf4xdkC4IPAQreD-dwDTw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-D9Zk5mH_A3VB5HhHzg0qQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1000 Professional Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1000 Professional Dr",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Valley Sleep Solutions",
+        "phone": "+17072527733",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-j-williams-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "charles-e-stratton-dds-napa-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3065771,
+            "longitude": -122.295478
+        },
+        "display_phone": "(707) 257-2400",
+        "distance": 250.90089110191545,
+        "id": "ArsB7NJ0WcXuMKnfKLxhAg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uwRgpmT48gu-nTKIegrs-A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2119 Jefferson St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2119 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Charles E Stratton, DDS",
+        "phone": "+17072572400",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/charles-e-stratton-dds-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "adrian-d-fenderson-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3253402709961,
+            "longitude": -122.291931152344
+        },
+        "display_phone": "(707) 258-8700",
+        "distance": 2214.338745849155,
+        "id": "xRybqdgp7W5AVpGbOHqcyw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F22WuoXZbVCP7zXAmZsbmw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3416 Valle Verde Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3416 Valle Verde Dr",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Adrian D Fenderson, DDS",
+        "phone": "+17072588700",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/adrian-d-fenderson-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alora-dentistry-napa",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32362,
+            "longitude": -122.29403
+        },
+        "display_phone": "(707) 226-5533",
+        "distance": 2014.836983749773,
+        "id": "lUJs34pzFZxeaKeJOO8BtQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7RNPtAVrddRwE6JHA1Z8UA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "917 Trancas St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "917 Trancas St",
+                "Ste A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Alora Dentistry",
+        "phone": "+17072265533",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alora-dentistry-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "modern-endo-of-napa-napa",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.325911,
+            "longitude": -122.293734
+        },
+        "display_phone": "(707) 265-7790",
+        "distance": 2268.537599557091,
+        "id": "35JckHfcGta4vaYE1ZuiVg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ksRBbYqP7teVKvXILe7zTA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3448 Villa Ln",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3448 Villa Ln",
+                "Ste 101",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Modern Endo of Napa",
+        "phone": "+17072657790",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/modern-endo-of-napa-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gittings-sam-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3256072998047,
+            "longitude": -122.29280090332
+        },
+        "display_phone": "(707) 253-2770",
+        "distance": 2237.1011006847984,
+        "id": "tGWz0wUGh--HdcbfBEwsDw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3435 Valle Verde Dr",
+            "address2": "# A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3435 Valle Verde Dr",
+                "# A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Gittings Sam DDS",
+        "phone": "+17072532770",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gittings-sam-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jones-c-bradley-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3222770690918,
+            "longitude": -122.304718017578
+        },
+        "display_phone": "(707) 224-6006",
+        "distance": 2124.1937921298663,
+        "id": "Sav9ls3PviSWKnOPh4JhQw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "Ste B",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Jones C Bradley, DDS",
+        "phone": "+17072246006",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jones-c-bradley-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-a-perez-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.299479519591,
+            "longitude": -122.293066312829
+        },
+        "display_phone": "(707) 224-0496",
+        "distance": 671.6612605334976,
+        "id": "6l4snLa92SnE5pz2ud3bBQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CASw36ipZVABQfDsVg94Ew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1230 Jefferson St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1230 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Eric A Perez, DDS",
+        "phone": "+17072240496",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-a-perez-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3232,
+            "longitude": -122.29983
+        },
+        "display_phone": "(707) 536-0781",
+        "distance": 2053.724944354108,
+        "id": "4KdwAdlNxZyy0MSMzmOiBw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ASqQ5Ba-8NqCsPTZFnWi8w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1260 Trancas St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1260 Trancas St",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+17075360781",
+        "rating": 1.5,
+        "review_count": 82,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jad-elkoury-dds-napa",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.325038,
+            "longitude": -122.291864
+        },
+        "display_phone": "(707) 252-7250",
+        "distance": 2172.424495900956,
+        "id": "GeiVGNp3MUIpX6Ofu2iDcA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3412 Valle Verde Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3412 Valle Verde Dr",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Jad Elkoury DDS",
+        "phone": "+17072527250",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jad-elkoury-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nelson-l-hilary-dds-napa",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32035,
+            "longitude": -122.3114
+        },
+        "display_phone": "(707) 255-5100",
+        "distance": 2313.077823699453,
+        "id": "D4YYD_kPnF92TYcltSHlfA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vqkXBklFoYA-ZeaFTffaPg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2025 Redwood Rd",
+            "address2": "Ste 3",
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2025 Redwood Rd",
+                "Ste 3",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Nelson L Hilary DDS",
+        "phone": "+17072555100",
+        "rating": 4.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nelson-l-hilary-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "glenn-d-giamo-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3235433,
+            "longitude": -122.2951449
+        },
+        "display_phone": "(707) 252-3600",
+        "distance": 2013.4245920696694,
+        "id": "CjsylbqHYp-3jX0Mpx2z6g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4LzGVldHUox3cA4baX_RQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "935 Trancas St",
+            "address2": "Ste 5B",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "935 Trancas St",
+                "Ste 5B",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Glenn D. Giamo, DDS",
+        "phone": "+17072523600",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/glenn-d-giamo-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "politz-d-jeffrey-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.323155,
+            "longitude": -122.2936099
+        },
+        "display_phone": "(707) 255-5033",
+        "distance": 1961.897482698519,
+        "id": "oiDcmOjwN3uscgy9zgg_bA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3301 Villa Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3301 Villa Ln",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Politz D Jeffrey , DDS",
+        "phone": "+17072555033",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/politz-d-jeffrey-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "chang-kook-jin-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32045,
+            "longitude": -122.29417
+        },
+        "display_phone": "(707) 224-7536",
+        "distance": 1667.007308167852,
+        "id": "wUUgQaI2MEc7WfYD4zKIoA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GsQBM_mMr0knupNMs9mHCg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3030 Beard Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3030 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Chang Kook-Jin DDS",
+        "phone": "+17072247536",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/chang-kook-jin-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yarris-family-dental-napa",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32246,
+            "longitude": -122.29528
+        },
+        "display_phone": "(707) 927-3992",
+        "distance": 1890.0057413523446,
+        "id": "Pt_8vM3k9Hm9uVXK7xOijQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ry9GI5cfqq5lqo7zHv3oyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3260 Beard Rd",
+            "address2": "Ste 2",
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3260 Beard Rd",
+                "Ste 2",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Yarris Family Dental",
+        "phone": "+17079273992",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yarris-family-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "unlimited-smiles-napa-napa-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3230055,
+            "longitude": -122.2948152
+        },
+        "display_phone": "(707) 257-6277",
+        "distance": 1951.2821685498013,
+        "id": "xKIBjIB3roF8zGARYs_hnQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/752UJShEhUXKlvGMzVmNfA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "935 Trancas St",
+            "address2": "Ste 4E",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "935 Trancas St",
+                "Ste 4E",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Unlimited Smiles - Napa",
+        "phone": "+17072576277",
+        "rating": 1.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/unlimited-smiles-napa-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fisher-r-scott-dds-napa",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32229,
+            "longitude": -122.30456
+        },
+        "display_phone": "(707) 226-2399",
+        "distance": 2124.1937921298663,
+        "id": "xe_b1u_JffEDi0O_yag3rg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "Ste C",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Fisher R Scott, DDS",
+        "phone": "+17072262399",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fisher-r-scott-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-dental-arts-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.30211,
+            "longitude": -122.29357
+        },
+        "display_phone": "(707) 255-7711",
+        "distance": 384.08935040001234,
+        "id": "xXQAbbZmo_PZOs--t0265Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CEG-bVYn4QElz6XiYcEryw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1544 Jefferson St",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1544 Jefferson St",
+                "Ste A",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Napa Dental Arts",
+        "phone": "+17072557711",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-dental-arts-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "karl-e-biernath-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32591,
+            "longitude": -122.29374
+        },
+        "display_phone": "(707) 265-9005",
+        "distance": 2268.595194199099,
+        "id": "kGawzwNn_0e12Xb20XbH-Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WuDsVOmmaKUhyU7OIbLYTw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3448 Villa Ln",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3448 Villa Ln",
+                "Ste 104",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Karl E. Biernath, DDS",
+        "phone": "+17072659005",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/karl-e-biernath-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stanley-dittman-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.30433,
+            "longitude": -122.29403
+        },
+        "display_phone": "(707) 226-2310",
+        "distance": 187.8733107560152,
+        "id": "JE2rYd1Dp5QMSymdv-jjBg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1830 Jefferson St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1830 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Stanley Dittman, DDS",
+        "phone": "+17072262310",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stanley-dittman-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-dental-implant-center-napa",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3229772,
+            "longitude": -122.2970532
+        },
+        "display_phone": "(707) 255-1173",
+        "distance": 1974.170515006822,
+        "id": "u81fljNSAyeXnMKeN1hc7Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BgOnRip_DXw-Jfv7ix2AJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1103 Trancas St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1103 Trancas St",
+                "Ste A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Dental Implant Center",
+        "phone": "+17072551173",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-dental-implant-center-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "macky-ross-k-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2950299,
+            "longitude": -122.29359
+        },
+        "display_phone": "(707) 224-3121",
+        "distance": 1153.302854878729,
+        "id": "VAXBAvKWC7ri_sGbM-sNJA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1796 Oak St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1796 Oak St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Macky Ross K DDS",
+        "phone": "+17072243121",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/macky-ross-k-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "all-about-smiles-napa-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.319761,
+            "longitude": -122.294259
+        },
+        "display_phone": "(707) 258-8700",
+        "distance": 1587.8139822464614,
+        "id": "DkMayzZCDRbRA6qeWe_G_g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1011 Professional Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1011 Professional Dr",
+                "Ste B",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "All About Smiles",
+        "phone": "+17072588700",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/all-about-smiles-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-micheal-teichman-napa",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32039,
+            "longitude": -122.29473
+        },
+        "display_phone": "(707) 252-8542",
+        "distance": 1662.5513295809053,
+        "id": "Qh7hn1YR3UrQNZpvhD8yQA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3020 Beard Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3020 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Dr Micheal Teichman",
+        "phone": "+17072528542",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-micheal-teichman-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steven-vandenburgh-dds-napa",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32049,
+            "longitude": -122.29375
+        },
+        "display_phone": "(707) 226-8800",
+        "distance": 1676.0494448054521,
+        "id": "ZkQ07GbWYsWbbR0HMOSisw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fS4Qjva4iRVqhxybhPWATQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3036 Beard Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3036 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Steven VanDenburgh, DDS",
+        "phone": "+17072268800",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steven-vandenburgh-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-johnson-dmd-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32519,
+            "longitude": -122.2936
+        },
+        "display_phone": "(707) 255-3007",
+        "distance": 2191.8624157384124,
+        "id": "VJeAVXQ14eZzK_xtZtsR9g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3434 Villa Ln",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3434 Villa Ln",
+                "Ste 100",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Thomas Johnson, DMD",
+        "phone": "+17072553007",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-johnson-dmd-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cooke-mary-dds-ms-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3203404,
+            "longitude": -122.309733
+        },
+        "display_phone": "(707) 255-4400",
+        "distance": 2205.26366394354,
+        "id": "CdyZh5RXR2k6a1psAW3Jhw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3392 Solano Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3392 Solano Ave",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Cooke Mary, DDS, MS",
+        "phone": "+17072554400",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cooke-mary-dds-ms-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sister-ann-community-dental-clinic-napa",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32102,
+            "longitude": -122.29227
+        },
+        "display_phone": "(707) 258-6128",
+        "distance": 1732.6701786341623,
+        "id": "ZN9K67_VUlw7PuxZPGqVTw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1141 Pear Tree Ln",
+            "address2": "",
+            "address3": "Clinic Ole",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1141 Pear Tree Ln",
+                "Clinic Ole",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Sister Ann Community Dental Clinic",
+        "phone": "+17072586128",
+        "rating": 2.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sister-ann-community-dental-clinic-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "timothy-j-wahle-dds-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3254890441895,
+            "longitude": -122.293571472168
+        },
+        "display_phone": "(707) 224-3148",
+        "distance": 2191.8624157384124,
+        "id": "9-re_iHwXkgSwPjIePeIlQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kLQnUxCjpepmfvhCkkNB3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3434 Villa Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3434 Villa Ln",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Timothy J Wahle, DDS",
+        "phone": "+17072243148",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/timothy-j-wahle-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "napa-valley-oral-and-maxillofacial-surgery-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3221251901954,
+            "longitude": -122.292655112527
+        },
+        "display_phone": "(707) 255-5033",
+        "distance": 1846.6778296821026,
+        "id": "-E3eHHgwqSPznreV7qPW6g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3301 Villa Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3301 Villa Ln",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Napa Valley Oral & Maxillofacial Surgery",
+        "phone": "+17072555033",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/napa-valley-oral-and-maxillofacial-surgery-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "encore-dental-at-napa-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3215,
+            "longitude": -122.29481
+        },
+        "display_phone": "(707) 252-1950",
+        "distance": 1790.3971805271449,
+        "id": "vk-C6hy6JVPitbk70YP5AA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LRooR2jx4BS65QCxxB8S9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3220 Beard Rd",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3220 Beard Rd",
+                "Ste B",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Encore Dental at Napa",
+        "phone": "+17072521950",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/encore-dental-at-napa-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tyler-e-nelson-dmd-md-napa-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32035,
+            "longitude": -122.3114
+        },
+        "display_phone": "(707) 927-3207",
+        "distance": 2312.261325694126,
+        "id": "ZvqxX3Y14_7IyJabdYAgZA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2025 Redwood Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2025 Redwood Rd",
+                "Ste 2",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Tyler E. Nelson DMD MD",
+        "phone": "+17079273207",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tyler-e-nelson-dmd-md-napa-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-country-dental-napa",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.30575,
+            "longitude": -122.29463
+        },
+        "display_phone": "(707) 603-4955",
+        "distance": 154.93376632280078,
+        "id": "2UrUh8KRYZHhjtxaI4_f6A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sDQHheC84d86W8YBel-icQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2016 Jefferson St",
+            "address2": null,
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2016 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Smile Country Dental",
+        "phone": "+17076034955",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-country-dental-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paxton-allison-l-dds-napa",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.29503,
+            "longitude": -122.29359
+        },
+        "display_phone": "(707) 224-3121",
+        "distance": 1153.302854878729,
+        "id": "s7Q4ot1pBtkdgZgPN3svrg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1796 Oak St",
+            "address2": null,
+            "address3": null,
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1796 Oak St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Paxton Allison L DDS",
+        "phone": "+17072243121",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paxton-allison-l-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "young-michael-d-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3210639953613,
+            "longitude": -122.294967651367
+        },
+        "display_phone": "(707) 255-5545",
+        "distance": 1735.2795034992982,
+        "id": "fy0taUnieks67mCl_hSDdA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dK5LRH2DbQKxMXz6kq7uUg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3150 Beard Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3150 Beard Rd",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Young Michael D DDS",
+        "phone": "+17072555545",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/young-michael-d-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "conway-erica-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3222770690918,
+            "longitude": -122.304718017578
+        },
+        "display_phone": "(707) 226-7614",
+        "distance": 2124.1937921298663,
+        "id": "HBVMD_0MceYl_wycNu9zbQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Trancas St",
+            "address2": "# A",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1600 Trancas St",
+                "# A",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Conway Erica DDS",
+        "phone": "+17072267614",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/conway-erica-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "khoury-amine-dds-napa-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3246988568987,
+            "longitude": -122.293502625965
+        },
+        "display_phone": "(707) 265-9440",
+        "distance": 2133.259349383929,
+        "id": "-AvIndl6V4mmIQZ_E7yeeQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G0_-FMhs2ItNMC6c2W5fxg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3434 Villa Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3434 Villa Ln",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Khoury, Amine, DDS",
+        "phone": "+17072659440",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/khoury-amine-dds-napa-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "angie-ring-dds-napa",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3250667154789,
+            "longitude": -122.292234152555
+        },
+        "display_phone": "(707) 265-8389",
+        "distance": 2209.046230612141,
+        "id": "y9qpzNWa1Cp898HCn0hPAA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3425 Valle Verde Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "3425 Valle Verde Dr",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Angie Ring, DDS",
+        "phone": "+17072658389",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/angie-ring-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wommack-jonathan-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3203582763672,
+            "longitude": -122.311401367188
+        },
+        "display_phone": "(707) 252-7077",
+        "distance": 2312.261325694126,
+        "id": "GPRa-Btz2MHR3YFQDy5xqA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2025 Redwood Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "2025 Redwood Rd",
+                "Ste 1",
+                "Napa, CA 94558"
+            ],
+            "state": "CA",
+            "zip_code": "94558"
+        },
+        "name": "Wommack Jonathan, DDS",
+        "phone": "+17072527077",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wommack-jonathan-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gary-neal-dds-napa",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.29941,
+            "longitude": -122.29279
+        },
+        "display_phone": "(707) 224-0496",
+        "distance": 676.1833006955314,
+        "id": "bwzmxepXFlYY0CDBlfEEGA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1230 Jefferson St",
+            "address2": "",
+            "address3": "",
+            "city": "Napa",
+            "country": "US",
+            "display_address": [
+                "1230 Jefferson St",
+                "Napa, CA 94559"
+            ],
+            "state": "CA",
+            "zip_code": "94559"
+        },
+        "name": "Gary Neal, DDS",
+        "phone": "+17072240496",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gary-neal-dds-napa?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

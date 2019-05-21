@@ -1,0 +1,3918 @@
+[
+    {
+        "alias": "brian-e-hornberger-dds-ms-east-county-endodontics-antioch",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9832445,
+            "longitude": -121.8054611
+        },
+        "display_phone": "(925) 753-5810",
+        "distance": 1264.2773930360574,
+        "id": "2GnA0UfewQKLyl9jCCq7XQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/j7B2NZ0xvRSavLfjXRQ9ZA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3801 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3801 Lone Tree Way",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Brian E Hornberger, DDS MS - East County Endodontics",
+        "phone": "+19257535810",
+        "rating": 5.0,
+        "review_count": 44,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-e-hornberger-dds-ms-east-county-endodontics-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ali-shirani-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9841232299805,
+            "longitude": -121.805152893066
+        },
+        "display_phone": "(925) 778-1998",
+        "distance": 1168.7833896262266,
+        "id": "fZdyh_Sfx-SdJey3_UjCCA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jZ_vGLzDuACOXoo_P5KLXg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3725 Lone Tree Wy",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3725 Lone Tree Wy",
+                "Ste F",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Ali Shirani DDS",
+        "phone": "+19257781998",
+        "rating": 4.5,
+        "review_count": 79,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ali-shirani-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kids-dental-world-antioch",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97622,
+            "longitude": -121.801
+        },
+        "display_phone": "(925) 706-8688",
+        "distance": 1963.7914435374435,
+        "id": "8wKoRFmh1wY9DjLtmg3Cdg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BJJ-BGowWUEBrbfjOSeOnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4045 Lone Tree Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4045 Lone Tree Way",
+                "Ste A",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Kids Dental World",
+        "phone": "+19257068688",
+        "rating": 4.5,
+        "review_count": 70,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kids-dental-world-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-i-esterkyn-dds-ms-antioch-antioch-4",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97074,
+            "longitude": -121.7824
+        },
+        "display_phone": "(925) 754-3197",
+        "distance": 3053.890183939555,
+        "id": "Kjt1SDsM4C_5_loBXK739Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xPE26Gtze2gEVwQSoGBqug/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2390 Country Hills Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2390 Country Hills Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "John I Esterkyn, DDS, MS - Antioch",
+        "phone": "+19257543197",
+        "rating": 5.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-i-esterkyn-dds-ms-antioch-antioch-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-h-ong-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9952625322679,
+            "longitude": -121.806105276582
+        },
+        "display_phone": "(925) 778-8780",
+        "distance": 502.7858901796364,
+        "id": "hoRDj9m9DRWvL3rFkMzEFA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w93MVCFJf1qrdxH9Wccu2g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2739 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2739 Lone Tree Way",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "David H. Ong, DDS",
+        "phone": "+19257788780",
+        "rating": 5.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-h-ong-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sheffield-orthodontics-antioch-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9875259399414,
+            "longitude": -121.781463623047
+        },
+        "display_phone": "(925) 757-9100",
+        "distance": 1816.5815888962504,
+        "id": "X-nxYAxzuzrWuuJR-fxCDA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LGN8DCqfQ9KPDziFpq2wGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3428 Hillcrest Ave",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3428 Hillcrest Ave",
+                "Ste 100",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Sheffield Orthodontics",
+        "phone": "+19257579100",
+        "rating": 5.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sheffield-orthodontics-antioch-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gorczyca-orthodontics-antioch-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9632528,
+            "longitude": -121.779678
+        },
+        "display_phone": "(925) 757-9000",
+        "distance": 3875.64604019078,
+        "id": "gu9v8aoi1Eg0l_j_TgW-6g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0IH-O_njdtnGt2au0VeNyA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "Ste 1A",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Ste 1A",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Gorczyca Orthodontics",
+        "phone": "+19257579000",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gorczyca-orthodontics-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antioch-dental-specialty-antioch",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96241,
+            "longitude": -121.75591
+        },
+        "display_phone": "(925) 755-0111",
+        "distance": 5260.2527172319815,
+        "id": "Nr9o4skpEzsc_VwvANObgA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HRXX3ZZEAG3I31a8Pk-O-A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5171 Lone Tree Way",
+            "address2": null,
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5171 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Antioch Dental Specialty",
+        "phone": "+19257550111",
+        "rating": 5.0,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antioch-dental-specialty-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-line-dentistry-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.98962,
+            "longitude": -121.80811
+        },
+        "display_phone": "(925) 754-1650",
+        "distance": 816.7842227298432,
+        "id": "sSFxR-1Fhumn8rWOiMSs7A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LeoNUpjC34DIoI_hHEmmUA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3220 Lone Tree Way",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3220 Lone Tree Way",
+                "Ste 102",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Smile Line Dentistry",
+        "phone": "+19257541650",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-line-dentistry-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "miller-and-simarro-dental-care-antioch-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9633295897051,
+            "longitude": -121.779569023279
+        },
+        "display_phone": "(925) 754-6020",
+        "distance": 3872.6669351101255,
+        "id": "jJ62K_WmBZdUrMbscMrNUA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_hW8JZ_MvSHQHyn_U2aNUA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "Ste 3B",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Ste 3B",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Miller & Simarro Dental Care",
+        "phone": "+19257546020",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/miller-and-simarro-dental-care-antioch-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vivo-dental-antioch",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.962262,
+            "longitude": -121.755518
+        },
+        "display_phone": "(925) 756-1200",
+        "distance": 5295.3421993465345,
+        "id": "nKhgZQVvJQwmNwxQ6ZTKYQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Dt1_5GrAAceMUIVb6dXwPw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5165 Lone Tree Way",
+            "address2": null,
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5165 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Vivo Dental",
+        "phone": "+19257561200",
+        "rating": 4.5,
+        "review_count": 45,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vivo-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diablo-dentistry-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9866791,
+            "longitude": -121.7811966
+        },
+        "display_phone": "(925) 303-2615",
+        "distance": 1879.0959869655978,
+        "id": "IW590501iM7EbJVWOoOfoA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UgAzkVLaKBUh14tsJZujjg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3436 Hillcrest Ave",
+            "address2": "Ste 150",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3436 Hillcrest Ave",
+                "Ste 150",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Diablo Dentistry",
+        "phone": "+19253032615",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diablo-dentistry-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diablo-hills-dental-excellence-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.983154296875,
+            "longitude": -121.806083679199
+        },
+        "display_phone": "(925) 778-8080",
+        "distance": 1290.7972451970131,
+        "id": "xA9B3rR0uSApTHgR12IbaQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ex3iqdSETNIjxtHEiFE7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3800 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3800 Lone Tree Way",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Diablo Hills Dental Excellence",
+        "phone": "+19257788080",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diablo-hills-dental-excellence-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lamb-and-morrice-family-dentistry-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9912,
+            "longitude": -121.80686
+        },
+        "display_phone": "(925) 754-2662",
+        "distance": 621.0095381852631,
+        "id": "FH4qRZ3ZqLkdoZRBfd8j4A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jvk80qoeqF8XEHxLTSrYCQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3107 Lone Tree Way",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3107 Lone Tree Way",
+                "Ste C",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Lamb & Morrice Family Dentistry",
+        "phone": "+19257542662",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lamb-and-morrice-family-dentistry-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alpha-dental-dental-office-of-dr-paul-lee-dds-antioch",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96224,
+            "longitude": -121.7565
+        },
+        "display_phone": "(925) 706-0500",
+        "distance": 5232.224402169944,
+        "id": "LGZgKPUTw-qOJygFFsFnmA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5115 Lone Tree Way",
+            "address2": null,
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5115 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Alpha Dental Dental Office Of Dr Paul Lee DDS",
+        "phone": "+19257060500",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alpha-dental-dental-office-of-dr-paul-lee-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cain-david-a-dds-msd-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9870529174805,
+            "longitude": -121.781784057617
+        },
+        "display_phone": "(925) 756-6158",
+        "distance": 1828.6071900986108,
+        "id": "yNd8THEh1-QgXlx01ZBGXA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-OXjovGxIaRya_-O5CQa-A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3432 Hillcrest Ave",
+            "address2": "Ste 225",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3432 Hillcrest Ave",
+                "Ste 225",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Cain David A DDS MSD",
+        "phone": "+19257566158",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cain-david-a-dds-msd-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amit-goyal-dmd-antioch-4",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96237,
+            "longitude": -121.7567
+        },
+        "display_phone": "(925) 775-4586",
+        "distance": 5208.823887099725,
+        "id": "sdBHzj2wC-wEuOjdfjog5Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mjgdV96Cvt9zqaduE2rJtw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5125 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5125 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Amit Goyal, DMD",
+        "phone": "+19257754586",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amit-goyal-dmd-antioch-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antioch-dental-care-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.989994,
+            "longitude": -121.808197
+        },
+        "display_phone": "(925) 754-2122",
+        "distance": 812.4769937108869,
+        "id": "PM-I8S6okAU8vLKmuAp6Kw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TncN4ftVKVs5ZX4UajeLSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3200 Lone Tree Way",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3200 Lone Tree Way",
+                "Ste 100",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Antioch Dental Care",
+        "phone": "+19257542122",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antioch-dental-care-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antioch-premier-dental-antioch",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.991622,
+            "longitude": -121.806733
+        },
+        "display_phone": "(925) 757-5081",
+        "distance": 595.6361376269855,
+        "id": "R70I1K_fUxrWdZOqlRMJ4g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VMXmf4y5zrEktcj8GOoqBw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3107 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3107 Lone Tree Way",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Antioch Premier Dental",
+        "phone": "+19257575081",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antioch-premier-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "skyline-dental-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99215,
+            "longitude": -121.80811
+        },
+        "display_phone": "(925) 778-7722",
+        "distance": 687.3544405633361,
+        "id": "CbXnRk8ipmZFTi6niNVl3g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PV4MZB2hesBXFeYPv2GnRg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3012 Lone Tree Way",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3012 Lone Tree Way",
+                "Ste 100",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Skyline Dental",
+        "phone": "+19257787722",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/skyline-dental-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "autumn-lake-dental-oakley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0023372,
+            "longitude": -121.7326717
+        },
+        "display_phone": "(925) 575-9504",
+        "distance": 6025.934750542773,
+        "id": "VxYNiq6LC3XNhpvPeaWzVQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4KCzM39Cp54CoOaYTNZ2fg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2199 Main St",
+            "address2": null,
+            "address3": "",
+            "city": "Oakley",
+            "country": "US",
+            "display_address": [
+                "2199 Main St",
+                "Oakley, CA 94561"
+            ],
+            "state": "CA",
+            "zip_code": "94561"
+        },
+        "name": "Autumn Lake Dental",
+        "phone": "+19255759504",
+        "rating": 4.0,
+        "review_count": 89,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/autumn-lake-dental-oakley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sky-dental-pittsburg",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0068403248536,
+            "longitude": -121.867110333188
+        },
+        "display_phone": "(925) 432-2444",
+        "distance": 6000.231551699078,
+        "id": "DWqWRX7rh4vrzX-gp10d0g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OgNUNI59bZfXwJLQoS1MYg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2230 Gladstone Dr",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "2230 Gladstone Dr",
+                "Ste 100",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Sky Dental",
+        "phone": "+19254322444",
+        "rating": 4.0,
+        "review_count": 92,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sky-dental-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "first-place-dentistry-antioch",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9631557228029,
+            "longitude": -121.779563378433
+        },
+        "display_phone": "(925) 757-6117",
+        "distance": 3889.912904715693,
+        "id": "I5kLxsgfqUZ84IEZczooyw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T4sPiXtZzy4hvs1E6I3FdQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "Ste 3D",
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Ste 3D",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "First Place Dentistry",
+        "phone": "+19257576117",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/first-place-dentistry-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antioch-dental-group-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.012393951416,
+            "longitude": -121.809135437012
+        },
+        "display_phone": "(925) 757-4700",
+        "distance": 2189.9607914133444,
+        "id": "h0e19AkdB_ELmiql_pvtPQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z4DPK1J_0Gd6Rg6yzzz3mg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "800 C St",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "800 C St",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Antioch Dental Group",
+        "phone": "+19257574700",
+        "rating": 3.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antioch-dental-group-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "abc-dental-group-antioch-4",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.001346,
+            "longitude": -121.836139
+        },
+        "display_phone": "(925) 778-1234",
+        "distance": 3219.655782519436,
+        "id": "CD2LASfAitZn_k0K84ue-A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1HSXhDVvihZma0SzNPPXfA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2734 Delta Fair Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2734 Delta Fair Blvd",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "ABC Dental Group",
+        "phone": "+19257781234",
+        "rating": 3.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/abc-dental-group-antioch-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "oakley-orthodontics-oakley",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0029754638672,
+            "longitude": -121.731658935547
+        },
+        "display_phone": "(925) 392-1216",
+        "distance": 6129.928395975046,
+        "id": "hJn8w-7zPt1mCIFcha3aBw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oWwDpTCSBMRq0rBAXd1N9A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2170 Main St",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Oakley",
+            "country": "US",
+            "display_address": [
+                "2170 Main St",
+                "Ste E",
+                "Oakley, CA 94561"
+            ],
+            "state": "CA",
+            "zip_code": "94561"
+        },
+        "name": "Oakley Orthodontics",
+        "phone": "+19253921216",
+        "rating": 5.0,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/oakley-orthodontics-oakley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kenneth-r-dupree-dmd-antioch",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9706075,
+            "longitude": -121.7822603
+        },
+        "display_phone": "(925) 755-1100",
+        "distance": 3053.890183939555,
+        "id": "1badx1p99jPxcnO2-zCrWg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uVmsTW_L4okOy7lzFXZQSQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2390 Country Hills Dr",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2390 Country Hills Dr",
+                "Ste 105",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Kenneth R Dupree, DMD",
+        "phone": "+19257551100",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kenneth-r-dupree-dmd-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jesse-m-fa-dds-antioch-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9961566122507,
+            "longitude": -121.807239398829
+        },
+        "display_phone": "(925) 757-2217",
+        "distance": 630.1996217609716,
+        "id": "lXyesUqvMM-BU08RBn7fCA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FxId-heShpocz07EBaDcpg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2730 Lone Tree Way",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2730 Lone Tree Way",
+                "Ste 7",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Jesse M. Fa, DDS",
+        "phone": "+19257572217",
+        "rating": 4.0,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jesse-m-fa-dds-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "highland-dentistry-pittsburg",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.998007,
+            "longitude": -121.872859
+        },
+        "display_phone": "(925) 473-9440",
+        "distance": 6346.727797944789,
+        "id": "dm6YQJM2crdXyMUSm-fZpw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lRKlChNwdPUJ2BiWztqzmg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1357 Buchanan Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "1357 Buchanan Rd",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Highland Dentistry",
+        "phone": "+19254739440",
+        "rating": 5.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/highland-dentistry-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "deloso-roberto-j-dds-antioch",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9631958007812,
+            "longitude": -121.779556274414
+        },
+        "display_phone": "(925) 778-2100",
+        "distance": 3885.5381646434075,
+        "id": "F29sPdJjjJi-pS7MxZp6Lg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wmd1sAlpmizBhzQZ2jMxBw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Deloso Roberto J DDS",
+        "phone": "+19257782100",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/deloso-roberto-j-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "simkins-family-dentistry-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.995906829834,
+            "longitude": -121.807174682617
+        },
+        "display_phone": "(925) 757-5000",
+        "distance": 619.7784651930618,
+        "id": "dwUmP3qZXyYFXXSAcw_92Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2730 Lone Tree Way",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2730 Lone Tree Way",
+                "Ste 2",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Simkins Family Dentistry",
+        "phone": "+19257575000",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/simkins-family-dentistry-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "east-bay-dental-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.962254,
+            "longitude": -121.755907
+        },
+        "display_phone": "(925) 777-1719",
+        "distance": 5270.536515673151,
+        "id": "alNF6v8baofBmhHGiSSuWA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EC7ZgHiuFwViA2EYzdZq_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5157 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5157 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "East Bay Dental",
+        "phone": "+19257771719",
+        "rating": 3.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/east-bay-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "shelby-j-smith-dds-ms-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.998512,
+            "longitude": -121.836233
+        },
+        "display_phone": "(925) 755-5115",
+        "distance": 3162.1395694956263,
+        "id": "GDNgqRjGj2yQe1Edebtdpw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UgW1BTCmxv25xWRhefSjDg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2213 Buchanan Rd",
+            "address2": "Ste 112",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2213 Buchanan Rd",
+                "Ste 112",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Shelby J Smith, DDS, MS",
+        "phone": "+19257555115",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/shelby-j-smith-dds-ms-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dennis-lamb-dds-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9912,
+            "longitude": -121.80686
+        },
+        "display_phone": "(925) 754-2662",
+        "distance": 621.086177955497,
+        "id": "HJcj51rE8iiHg6XMoFEs7Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kpHh_ojLWcXdPOB2reAYLQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3107 Lone Tree Way",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3107 Lone Tree Way",
+                "Ste C",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Dennis Lamb, DDS",
+        "phone": "+19257542662",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dennis-lamb-dds-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vontela-rekha-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9837,
+            "longitude": -121.80512
+        },
+        "display_phone": "(925) 754-5432",
+        "distance": 1204.7374977687075,
+        "id": "wR9lRIHHcuJwm1lAgFHPoQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fwc_gRYVf9oKwDIrbn_TsA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3737 Lone Tree Way",
+            "address2": "Ste F",
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3737 Lone Tree Way",
+                "Ste F",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Vontela Rekha, DDS",
+        "phone": "+19257545432",
+        "rating": 3.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vontela-rekha-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.00653,
+            "longitude": -121.83363
+        },
+        "display_phone": "(925) 206-3555",
+        "distance": 3226.6921059676183,
+        "id": "N37Iz-WqIkCRKpoXcEnd6g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zOp-HVFbTmRihhqJqI2PtQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2590 Sycamore Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2590 Sycamore Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19252063555",
+        "rating": 2.5,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orthoworks-invisalign-and-braces-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9622535705566,
+            "longitude": -121.756401062012
+        },
+        "display_phone": "(925) 777-9922",
+        "distance": 5238.443048076959,
+        "id": "RWDXwBxipLtfyJ8YnhpcnQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/t26Qw63qRI-fVRHS7pwI3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5117 LoneTree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5117 LoneTree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "OrthoWorks Invisalign and Braces",
+        "phone": "+19257779922",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orthoworks-invisalign-and-braces-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dental-care-of-antioch-antioch-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9870529174805,
+            "longitude": -121.781784057617
+        },
+        "display_phone": "(925) 754-2145",
+        "distance": 1828.6071900986108,
+        "id": "TUf0qZXIWp3Y2Bu8NMLB6w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O3T4csJLrBQfCvCjEapehw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3432 Hillcrest Ave",
+            "address2": "Ste 250",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3432 Hillcrest Ave",
+                "Ste 250",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Dental Care of Antioch",
+        "phone": "+19257542145",
+        "rating": 3.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dental-care-of-antioch-antioch-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ackerman-dds-and-towson-dds-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92673,
+            "longitude": -121.73631
+        },
+        "display_phone": "(925) 684-7722",
+        "distance": 9369.016151766262,
+        "id": "HhqW3bnejUdAzzmnxnJHVA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UFEeHcSBVxIvdIotSpCvmg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 200",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 200",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Ackerman, DDS & Towson, DDS",
+        "phone": "+19256847722",
+        "rating": 5.0,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ackerman-dds-and-towson-dds-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "weilin-shih-dds-antioch",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97622,
+            "longitude": -121.801
+        },
+        "display_phone": "(925) 706-8688",
+        "distance": 1963.7914435374435,
+        "id": "3cmy2r3A2ac05SH_HbaAwA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f0tXPM5_F6himAb8jMafqw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4045 Lone Tree Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4045 Lone Tree Way",
+                "Ste A",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Weilin Shih, DDS",
+        "phone": "+19257068688",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/weilin-shih-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nancy-a-dubuk-dds-antioch",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96324,
+            "longitude": -121.77958
+        },
+        "display_phone": "(925) 756-7884",
+        "distance": 3885.5381646434075,
+        "id": "1QK6YrVBdLmUb_cJeImdmw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "Ste 2D",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Ste 2D",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Nancy A Dubuk, DDS",
+        "phone": "+19257567884",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nancy-a-dubuk-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antioch-brentwood-pediatric-dentistry-antioch-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9706993103027,
+            "longitude": -121.782287597656
+        },
+        "display_phone": "(925) 757-4220",
+        "distance": 3053.890183939555,
+        "id": "vj9fWAi4GAaUZ6CBXgUwOg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OkVEtM-DprdGjOkzG6cQ-g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2390 Country Hills Dr",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2390 Country Hills Dr",
+                "Ste 102",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Antioch Brentwood Pediatric Dentistry",
+        "phone": "+19257574220",
+        "rating": 3.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antioch-brentwood-pediatric-dentistry-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antioch-lone-tree-dental-antioch-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.98476,
+            "longitude": -121.80458
+        },
+        "display_phone": "(925) 778-2400",
+        "distance": 1075.151470245794,
+        "id": "IKjD3liuM-c10qtBygHPzA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ka_Qp-55v2a-MgkcJMz0Eg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3700 Sunset Ln",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3700 Sunset Ln",
+                "Ste 5",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Antioch Lone Tree Dental",
+        "phone": "+19257782400",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antioch-lone-tree-dental-antioch-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-antioch-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9658138970608,
+            "longitude": -121.780860369053
+        },
+        "display_phone": "(925) 529-8293",
+        "distance": 3575.991390620694,
+        "id": "te8J8SxJVOEeZGnSiIiNFg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VyEqnRS1YvV4V8t4qsEzBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4518 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4518 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19255298293",
+        "rating": 1.5,
+        "review_count": 115,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-antioch-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pristine-dental-oakley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.002974,
+            "longitude": -121.73166
+        },
+        "display_phone": "(925) 679-3333",
+        "distance": 6124.704472246288,
+        "id": "3k5XBnwQODjJUKi2fT0APA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wWnGDOWP2LrW5N8kOYyivg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2170 Main St",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Oakley",
+            "country": "US",
+            "display_address": [
+                "2170 Main St",
+                "Ste H",
+                "Oakley, CA 94561"
+            ],
+            "state": "CA",
+            "zip_code": "94561"
+        },
+        "name": "Pristine Dental",
+        "phone": "+19256793333",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pristine-dental-oakley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-k-haug-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9631958007812,
+            "longitude": -121.779556274414
+        },
+        "display_phone": "(925) 757-6626",
+        "distance": 3885.5381646434075,
+        "id": "bVa-NQaCo-7T9IjM07GlcQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iJdD4N3zE4OjVo6YSqhORA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "Ste 3A",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Ste 3A",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Jeffrey K Haug, DDS",
+        "phone": "+19257576626",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-k-haug-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sloan-m-mcdonald-dds-antioch-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96324,
+            "longitude": -121.77958
+        },
+        "display_phone": "(925) 778-2100",
+        "distance": 3885.5381646434075,
+        "id": "hCgoTTrHwr_iRtaOV9knTQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fIs107TovuhwRWtNFny2UA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Deer Valley Rd",
+            "address2": "Ste 2B",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5201 Deer Valley Rd",
+                "Ste 2B",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Sloan M. McDonald, DDS",
+        "phone": "+19257782100",
+        "rating": 3.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sloan-m-mcdonald-dds-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bright-now-dental-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96305,
+            "longitude": -121.734449
+        },
+        "display_phone": "(925) 732-4628",
+        "distance": 6740.831169972534,
+        "id": "IFbq4Zvh0l6DTvDlrGafDw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Z8yfoBmoZug7Bk1AhCfRog/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5867 Lone Tree Way",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5867 Lone Tree Way",
+                "Ste F",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Bright Now! Dental",
+        "phone": "+19257324628",
+        "rating": 3.0,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bright-now-dental-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "buchanan-dental-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99836,
+            "longitude": -121.83674
+        },
+        "display_phone": "(925) 978-9714",
+        "distance": 3208.653350918067,
+        "id": "68xWd1oRaeIeiVIQALSTXA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VhZ6DSqJhh6Mut33raHJnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2219 Buchanan Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2219 Buchanan Rd",
+                "Ste 1",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Buchanan Dental",
+        "phone": "+19259789714",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/buchanan-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "balfour-dental-brentwood",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92673,
+            "longitude": -121.73631
+        },
+        "display_phone": "(925) 634-9901",
+        "distance": 9369.016151766262,
+        "id": "V0wKSuG0TL8cXo9mVPr3cA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7yfv8rgjs3FABPHtXMD7_A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 100",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Balfour Dental",
+        "phone": "+19256349901",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/balfour-dental-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "george-t-erbez-dds-brentwood-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92682,
+            "longitude": -121.73632
+        },
+        "display_phone": "(925) 684-7800",
+        "distance": 9369.016151766262,
+        "id": "U9eJSq-wswhHzXeRhJQ5fg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bulOIxAPHcv1rx9iOGUfJQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 270",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 270",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "George T. Erbez, DDS",
+        "phone": "+19256847800",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/george-t-erbez-dds-brentwood-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lone-tree-dentistry-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9601884,
+            "longitude": -121.7401603
+        },
+        "display_phone": "(925) 626-7608",
+        "distance": 6494.039615703625,
+        "id": "ir8s_l84ehbCYu1pFn5pEA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZePBAkfhOo-nKC1xEwmkzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6061-F Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "6061-F Lone Tree Way",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Lone Tree Dentistry",
+        "phone": "+19256267608",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lone-tree-dentistry-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lajuan-m-hall-dds-brentwood-childrens-dentistry-brentwood",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92587,
+            "longitude": -121.73977
+        },
+        "display_phone": "(925) 308-7608",
+        "distance": 9281.127864369715,
+        "id": "JRie15gAyY9cB8JGIM78uQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rloEDYcEbaGqYNwGirkwpA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Balfour Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2201 Balfour Rd",
+                "Ste A",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "LaJuan M Hall, DDS - Brentwood Children's Dentistry",
+        "phone": "+19253087608",
+        "rating": 4.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lajuan-m-hall-dds-brentwood-childrens-dentistry-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tanimura-leslie-k-dds-msd-antioch",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97074,
+            "longitude": -121.7824
+        },
+        "display_phone": "(925) 757-4220",
+        "distance": 3053.890183939555,
+        "id": "X6LcV_ImGHbVYj1ezona7A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2390 Country Hills Dr",
+            "address2": "Ste 102",
+            "address3": "Antioch Brentwood Pediatric Dentistry",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2390 Country Hills Dr",
+                "Ste 102",
+                "Antioch Brentwood Pediatric Dentistry",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Tanimura Leslie K , DDS MSD",
+        "phone": "+19257574220",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tanimura-leslie-k-dds-msd-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "arbor-dental-brentwood",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96101,
+            "longitude": -121.73373
+        },
+        "display_phone": "(925) 271-4642",
+        "distance": 6894.375942906998,
+        "id": "2h7PU_83OrtuT6m0wuDspg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k3Szncy4ejoY_Nmp5cBD1A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6471 Lone Tree Way",
+            "address2": "Ste 301",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "6471 Lone Tree Way",
+                "Ste 301",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Arbor Dental",
+        "phone": "+19252714642",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/arbor-dental-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "deer-valley-dental-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9662629,
+            "longitude": -121.7817583
+        },
+        "display_phone": "(925) 706-4497",
+        "distance": 3533.9110960688276,
+        "id": "9HAiLr4DAY6RLLf1_r2jjQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EKFc94Q3nMXhtMInD2t_tQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4484 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4484 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Deer Valley Dental",
+        "phone": "+19257064497",
+        "rating": 3.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/deer-valley-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parkway-dental-care-brentwood-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9256645,
+            "longitude": -121.7392268
+        },
+        "display_phone": "(925) 240-7071",
+        "distance": 9307.143586052189,
+        "id": "1dI8AS5YiJwji3-p-ckiew",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Amn1QFsvlq_U8_rDT4bOAA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2221 Balfour Rd",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2221 Balfour Rd",
+                "Ste C",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Parkway Dental Care - Brentwood",
+        "phone": "+19252407071",
+        "rating": 4.0,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parkway-dental-care-brentwood-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brentwood-smiles-dentistry-and-orthodontics-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9621498,
+            "longitude": -121.7294257
+        },
+        "display_phone": "(925) 513-8363",
+        "distance": 7172.006154921556,
+        "id": "Suz39rUeWG_aQHVMn66kew",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tm3aqD9uBqqlWFBf5JzKfA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6660 Lone Tree Way",
+            "address2": "Ste 7",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "6660 Lone Tree Way",
+                "Ste 7",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Brentwood Smiles Dentistry and Orthodontics",
+        "phone": "+19255138363",
+        "rating": 2.5,
+        "review_count": 92,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brentwood-smiles-dentistry-and-orthodontics-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "premier-dental-center-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92673,
+            "longitude": -121.73631
+        },
+        "display_phone": "(925) 513-7333",
+        "distance": 9369.016151766262,
+        "id": "RGpDpId_KV76ajOs3H4l1g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jN1lzV3mNkHzjDo64qXUMg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 110",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 110",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Premier Dental Center",
+        "phone": "+19255137333",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/premier-dental-center-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "s-ghannam-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9985041,
+            "longitude": -121.8376651
+        },
+        "display_phone": "(925) 779-1112",
+        "distance": 3285.933942949813,
+        "id": "XpNNMGcIZEYxeBXvzWfR5w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-5H2WanVr-XvmoOAou4i8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2225 Buchanan Rd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2225 Buchanan Rd",
+                "Ste A",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "S. Ghannam, DDS",
+        "phone": "+19257791112",
+        "rating": 2.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/s-ghannam-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diablo-orthodontic-specialists-brentwood",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.924259,
+            "longitude": -121.7349525
+        },
+        "display_phone": "(925) 634-9794",
+        "distance": 9653.77155302608,
+        "id": "Yg4bPYbi_m78iltmV_iB_A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sYWbfww9SYkWkBeuyGeK8g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2400 Balfour Rd",
+            "address2": "Ste , Fl -3",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2400 Balfour Rd",
+                "Ste , Fl -3",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Diablo Orthodontic Specialists",
+        "phone": "+19256349794",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diablo-orthodontic-specialists-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "loveridge-dental-group-pittsburg",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0079508,
+            "longitude": -121.8705659
+        },
+        "display_phone": "(925) 427-2222",
+        "distance": 6323.877934972226,
+        "id": "D9g3MTQi0IlIasGrZZo-jg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Lk8iAUGh-QheUtnfj8D_fg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1270 E Leland Rd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "1270 E Leland Rd",
+                "Ste 101",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Loveridge Dental Group",
+        "phone": "+19254272222",
+        "rating": 3.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/loveridge-dental-group-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "crossings-dental-care-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9880265,
+            "longitude": -121.7854353
+        },
+        "display_phone": "(925) 706-0775",
+        "distance": 1612.1562284614804,
+        "id": "9Pe_AGZqPQheKau9a4pICA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_faUCenukcLcNrsu_OO_3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3379 Deer Valley Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3379 Deer Valley Rd",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Crossings Dental Care",
+        "phone": "+19257060775",
+        "rating": 2.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/crossings-dental-care-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rigo-martin-dds-brentwood",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92683,
+            "longitude": -121.73626
+        },
+        "display_phone": "(925) 420-6850",
+        "distance": 9369.016151766262,
+        "id": "67YjcOI4xTCFf7-YxKjOWQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bLsY7vdkfaxkzZkR52BFkw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 260",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 260",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Rigo Martin, DDS",
+        "phone": "+19254206850",
+        "rating": 4.5,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rigo-martin-dds-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yiannis-a-vlahos-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.989994,
+            "longitude": -121.808197
+        },
+        "display_phone": "(925) 754-2122",
+        "distance": 812.4769937108869,
+        "id": "DZo57WvyrOcpXnlZ8syiOg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PYuxBdQGLM-v1m3Zk65Efw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3200 Lone Tree Way",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3200 Lone Tree Way",
+                "Ste 100",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Yiannis A Vlahos, DDS",
+        "phone": "+19257542122",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yiannis-a-vlahos-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bay-view-dental-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99827,
+            "longitude": -121.83754
+        },
+        "display_phone": "(925) 237-3738",
+        "distance": 3263.8419643908505,
+        "id": "IpPv3ptzb8S6ksIl3lrniA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2225 Buchanan Rd",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2225 Buchanan Rd",
+                "Ste G",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Bay View Dental",
+        "phone": "+19252373738",
+        "rating": 2.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bay-view-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "slatten-ranch-dental-care-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9625,
+            "longitude": -121.73622
+        },
+        "display_phone": "(925) 522-8788",
+        "distance": 6618.319466930787,
+        "id": "yD-iq5BCF-35hYxOJSMTuw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5819 Lone Tree Way",
+            "address2": null,
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5819 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Slatten Ranch Dental Care",
+        "phone": "+19255228788",
+        "rating": 4.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/slatten-ranch-dental-care-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "partovi-f-paul-dds-antioch",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01239,
+            "longitude": -121.80913
+        },
+        "display_phone": "(925) 757-4700",
+        "distance": 2189.9607914133444,
+        "id": "f3Em1cYnMlijDDHPiKFnyw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8fSt3vfq_Lb8ftQnhr5duA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "800 C St",
+            "address2": null,
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "800 C St",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Partovi F Paul DDS",
+        "phone": "+19257574700",
+        "rating": 2.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/partovi-f-paul-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "perfect-smiles-family-dentistry-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99836,
+            "longitude": -121.83674
+        },
+        "display_phone": "(925) 978-9800",
+        "distance": 3208.653350918067,
+        "id": "vIDGSVIvfONAv6U3YvTdxw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QIQWxH3i_dDv7J8fSZnHyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2219 Buchanan Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2219 Buchanan Rd",
+                "Ste 1",
+                "Antioch, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "Perfect Smiles Family Dentistry",
+        "phone": "+19259789800",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/perfect-smiles-family-dentistry-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dare-richard-j-dds-oakley-dental-oakley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.996811,
+            "longitude": -121.730006
+        },
+        "display_phone": "(925) 625-8050",
+        "distance": 6195.355247389702,
+        "id": "-63mxoEc4xZoO0Df2DhdrA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DvGuQ1mEn2BaRweL-1p85g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2571 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Oakley",
+            "country": "US",
+            "display_address": [
+                "2571 Main St",
+                "Oakley, CA 94561"
+            ],
+            "state": "CA",
+            "zip_code": "94561"
+        },
+        "name": "Dare Richard J DDS Oakley Dental",
+        "phone": "+19256258050",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dare-richard-j-dds-oakley-dental-oakley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hanger-clininc-antioch-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "prosthetics",
+                "title": "Prosthetics"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9638821,
+            "longitude": -121.7675293
+        },
+        "display_phone": "(925) 754-1804",
+        "distance": 4425.978870087511,
+        "id": "l4LFiIjQ0oadTmlh8SvgVQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "4849 Lone Tree Way",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4849 Lone Tree Way",
+                "Ste A",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Hanger Clininc - Antioch",
+        "phone": "+19257541804",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hanger-clininc-antioch-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lone-tree-dental-group-brentwood",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.961101,
+            "longitude": -121.750063
+        },
+        "display_phone": "(925) 605-9393",
+        "distance": 5742.448305053056,
+        "id": "aYWwqrue-CFCVaYxUZt64A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qQ8Kfk2cn8z-QwHRYkdSdg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5421 Lone Tree Way",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "5421 Lone Tree Way",
+                "Ste 110",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Lone Tree Dental Group",
+        "phone": "+19256059393",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lone-tree-dental-group-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0061968319803,
+            "longitude": -121.833235152706
+        },
+        "display_phone": "(925) 206-3609",
+        "distance": 3221.2260047588925,
+        "id": "WUBGiQ2_xXFVXPq4gsMRTA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SAFtZBXCf2wA-j_DuMfhDw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2500 Sycamore Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2500 Sycamore Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19252063609",
+        "rating": 2.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hann-orthodontics-brentwood",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92682,
+            "longitude": -121.73632
+        },
+        "display_phone": "(925) 240-2070",
+        "distance": 9369.016151766262,
+        "id": "79WkW0gvpAQGf3O_3Lqo6w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZDiDPEsIqw_M9UuFd_rjlQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 250",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 250",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Hann Orthodontics",
+        "phone": "+19252402070",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hann-orthodontics-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "delta-bay-dental-group-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92587,
+            "longitude": -121.73977
+        },
+        "display_phone": "(925) 516-8886",
+        "distance": 9281.127864369715,
+        "id": "TcTpUpQ23eXVbaoGZuHiRw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7bFjWZrdVqjMeHBQI0FHtw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Balfour Rd",
+            "address2": "",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2201 Balfour Rd",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Delta Bay Dental Group",
+        "phone": "+19255168886",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/delta-bay-dental-group-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michaud-robt-dds-ms-antioch",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.995906829834,
+            "longitude": -121.807174682617
+        },
+        "display_phone": "(925) 778-3650",
+        "distance": 619.7784651930618,
+        "id": "veZU8q6t8l9OOVK_Wbs8Cg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2730 Lone Tree Way",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2730 Lone Tree Way",
+                "Ste 6",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Michaud Robt DDS Ms",
+        "phone": "+19257783650",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michaud-robt-dds-ms-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brentwood-dental-center-brentwood-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96103,
+            "longitude": -121.74549
+        },
+        "display_phone": "(925) 634-9594",
+        "distance": 6105.736941227231,
+        "id": "u8INDYfsVYBd0qVDgBJkRg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aSROyQ7BL8lhzYrDnBKBhA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5611 Lone Tree Way",
+            "address2": "Ste 140",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "5611 Lone Tree Way",
+                "Ste 140",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Brentwood Dental Center",
+        "phone": "+19256349594",
+        "rating": 3.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brentwood-dental-center-brentwood-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "northshore-kids-dental-antioch",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9623947143555,
+            "longitude": -121.756698608398
+        },
+        "display_phone": "(925) 775-4586",
+        "distance": 5208.823887099725,
+        "id": "Yl_BzSh7MjeN3-9k5eWxCg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/P0r_D16uxQjS2IIzZWmgzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5125 Lone Tree Way",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5125 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Northshore Kid's Dental",
+        "phone": "+19257754586",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/northshore-kids-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "oakley-dental-oakley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9968306,
+            "longitude": -121.73005
+        },
+        "display_phone": "(925) 625-8050",
+        "distance": 6191.6160945097145,
+        "id": "BiTB10ry8BoMZ3fNF5j-QA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6Ff2-AES-mn7AGzzyDh1NQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2571 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Oakley",
+            "country": "US",
+            "display_address": [
+                "2571 Main St",
+                "Oakley, CA 94561"
+            ],
+            "state": "CA",
+            "zip_code": "94561"
+        },
+        "name": "Oakley Dental",
+        "phone": "+19256258050",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/oakley-dental-oakley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "deer-ridge-family-dental-brentwood",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9258669,
+            "longitude": -121.739768
+        },
+        "display_phone": "(925) 308-7444",
+        "distance": 9261.37713471548,
+        "id": "W3rEu8KiFZhPJE0wb0r75w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QweVkPoNtYxYFcadPCo16Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Balfour Rd",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2201 Balfour Rd",
+                "Ste B",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Deer Ridge Family Dental",
+        "phone": "+19253087444",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/deer-ridge-family-dental-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bonnie-k-hillman-dds-brentwood",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9250851,
+            "longitude": -121.7364897
+        },
+        "display_phone": "",
+        "distance": 9653.77155302608,
+        "id": "jToBhFsNCsn3J5leYtzY6g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xte1-S-6YGtZ8hmjqYkM3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2400 Balfour Rd",
+            "address2": "Ste 309",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2400 Balfour Rd",
+                "Ste 309",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Bonnie K Hillman, DDS",
+        "phone": "",
+        "rating": 3.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bonnie-k-hillman-dds-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-affordable-dentistry-antioch-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0065308,
+            "longitude": -121.8336334
+        },
+        "display_phone": "(925) 206-3555",
+        "distance": 3226.6921059676183,
+        "id": "xAxhWoq8dtGitJ_6W3Z6Aw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2590 Sycamore Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2590 Sycamore Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Western Dental Affordable Dentistry Antioch",
+        "phone": "+19252063555",
+        "rating": 1.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-affordable-dentistry-antioch-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jhoanna-f-tuazon-dmd-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9433651,
+            "longitude": -121.7406391
+        },
+        "display_phone": "(925) 240-8210",
+        "distance": 7853.142806862102,
+        "id": "Uc65mdK1JRoYJxckrNZrWQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PbTOzIXdn_8VUnwlesSIUQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2540 Sand Creek Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2540 Sand Creek Rd",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Jhoanna F Tuazon, DMD",
+        "phone": "+19252408210",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jhoanna-f-tuazon-dmd-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "new-city-dental-practice-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96386,
+            "longitude": -121.76785
+        },
+        "display_phone": "(925) 755-4040",
+        "distance": 4406.398062512232,
+        "id": "QLKLBQz-9A3nmpIVtKU00Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PvG7jX5ch3rAOKm_v7XN5g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4847 Lone Tree Way",
+            "address2": null,
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4847 Lone Tree Way",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "New City Dental Practice",
+        "phone": "+19257554040",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/new-city-dental-practice-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "charlene-n-tran-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.989994,
+            "longitude": -121.808197
+        },
+        "display_phone": "(925) 754-2122",
+        "distance": 812.4769937108869,
+        "id": "GxinQtoXinh8jbYkOEO-Rg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y_hUyMWEN6XjtKVXuoT8Qg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3200 Lone Tree Way",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3200 Lone Tree Way",
+                "Ste 100",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Charlene N Tran, DDS",
+        "phone": "+19257542122",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/charlene-n-tran-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tim-huang-dds-antioch",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97622,
+            "longitude": -121.801
+        },
+        "display_phone": "(925) 706-8688",
+        "distance": 1963.7914435374435,
+        "id": "TvmMVpgrd1UyiUf9FpyDaA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yzpyOubRVUxtpaM9eZF6jg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4045 Lone Tree Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "4045 Lone Tree Way",
+                "Ste A",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Tim Huang, DDS",
+        "phone": "+19257068688",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tim-huang-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "masiddo-ricardo-dds-antioch",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9625,
+            "longitude": -121.73622
+        },
+        "display_phone": "(925) 522-8788",
+        "distance": 6618.319466930787,
+        "id": "MuK8ZHaaY3sW_GHk3G9hig",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5819 Lone Tree Way",
+            "address2": "Ste B",
+            "address3": "Slatten Ranch Dental Care",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "5819 Lone Tree Way",
+                "Ste B",
+                "Slatten Ranch Dental Care",
+                "Antioch, CA 94531"
+            ],
+            "state": "CA",
+            "zip_code": "94531"
+        },
+        "name": "Masiddo Ricardo, DDS",
+        "phone": "+19255228788",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/masiddo-ricardo-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brentwood-childrens-dentistry-brentwood",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92587,
+            "longitude": -121.73977
+        },
+        "display_phone": "(925) 308-7608",
+        "distance": 9280.82753556151,
+        "id": "3cV7se3l5OJ2j-FvLl5RWQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4MYjT9i7dgsBMVhQRO_wfQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Balfour Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2201 Balfour Rd",
+                "Ste A",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Brentwood Children's Dentistry",
+        "phone": "+19253087608",
+        "rating": 3.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brentwood-childrens-dentistry-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "legaspi-valora-dds-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9250851,
+            "longitude": -121.7364897
+        },
+        "display_phone": "(925) 240-5808",
+        "distance": 9653.77155302608,
+        "id": "XPZteYRJVjKu0TXn_z6WMg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jg31jFvZBKn5mc5_lwJqfw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2400 Balfour Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2400 Balfour Rd",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Legaspi Valora, DDS",
+        "phone": "+19252405808",
+        "rating": 2.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/legaspi-valora-dds-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "skyline-dental-leland-and-wilma-yee-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99215,
+            "longitude": -121.80811
+        },
+        "display_phone": "(925) 778-7722",
+        "distance": 687.3544405633361,
+        "id": "KsbqA5uH_PYQILB5Hb6IOg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3012 Lone Tree Way",
+            "address2": "3012 Lone Tree Way, Ste 100",
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "3012 Lone Tree Way",
+                "3012 Lone Tree Way, Ste 100",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Skyline Dental - Leland & Wilma Yee, DDS",
+        "phone": "+19257787722",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/skyline-dental-leland-and-wilma-yee-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kevin-ackerman-dds-brentwood",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92682,
+            "longitude": -121.73632
+        },
+        "display_phone": "(925) 684-7722",
+        "distance": 9369.016151766262,
+        "id": "3jD3D6JKJK_7haeY1crdqg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dDp_Sagq3tysYUgxGp_XVw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 200",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Kevin Ackerman, DDS",
+        "phone": "+19256847722",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kevin-ackerman-dds-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-towson-dds-brentwood",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92682,
+            "longitude": -121.73632
+        },
+        "display_phone": "(925) 684-7722",
+        "distance": 9369.016151766262,
+        "id": "ZPhBZbqA-KZtMsQEbnPQZg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Cortona Way",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "100 Cortona Way",
+                "Ste 200",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Eric Towson, DDS",
+        "phone": "+19256847722",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-towson-dds-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sand-creek-dental-care-brentwood",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9433651,
+            "longitude": -121.7406391
+        },
+        "display_phone": "(925) 240-8210",
+        "distance": 7853.142806862102,
+        "id": "JN7UCWUhCp1g-SVgkcChVw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ggJU7BwanVfL2w1Q-3zLRQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2540 Sand Creek Rd",
+            "address2": "Ste A4",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2540 Sand Creek Rd",
+                "Ste A4",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Sand Creek Dental Care",
+        "phone": "+19252408210",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sand-creek-dental-care-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "valora-legaspi-dmd-brentwood",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9250851,
+            "longitude": -121.7364897
+        },
+        "display_phone": "",
+        "distance": 9653.77155302608,
+        "id": "uO6J-PFQKPaAIq07TmkPSg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2400 Balfour Rd",
+            "address2": "Ste 301",
+            "address3": null,
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2400 Balfour Rd",
+                "Ste 301",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Valora Legaspi, DMD",
+        "phone": "",
+        "rating": 1.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/valora-legaspi-dmd-brentwood?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brentwood-orthodontics-brentwood-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9255891959552,
+            "longitude": -121.739961061377
+        },
+        "display_phone": "(925) 308-7776",
+        "distance": 9276.930603748426,
+        "id": "nSB6eYGkCudnp0ENfbG7HA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5U-1qii_KHEjYAWtP-NR9w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Balfour Rd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Brentwood",
+            "country": "US",
+            "display_address": [
+                "2201 Balfour Rd",
+                "Ste C",
+                "Brentwood, CA 94513"
+            ],
+            "state": "CA",
+            "zip_code": "94513"
+        },
+        "name": "Brentwood Orthodontics",
+        "phone": "+19253087776",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brentwood-orthodontics-brentwood-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

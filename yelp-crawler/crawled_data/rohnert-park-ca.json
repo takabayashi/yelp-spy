@@ -1,0 +1,1531 @@
+[
+    {
+        "alias": "blue-apple-dental-group-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34941,
+            "longitude": -122.70568
+        },
+        "display_phone": "(707) 795-4523",
+        "distance": 122.43492421102799,
+        "id": "okDOlcjLD9oICKcNxw9o0w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jMc5NMwGRkiODfRDRNi1Hg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6230 State Farm Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "6230 State Farm Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Blue Apple Dental Group",
+        "phone": "+17077954523",
+        "rating": 4.5,
+        "review_count": 61,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/blue-apple-dental-group-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-h-mairani-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3485306,
+            "longitude": -122.7195091
+        },
+        "display_phone": "(415) 397-1004",
+        "distance": 1428.3356402443183,
+        "id": "dcpFPqiPUaBbFBBwCZvcwQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/07mXCoH8pBymbWCidGxofw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "455 Rohnert Park Expy",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "455 Rohnert Park Expy",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Daniel H Mairani, DDS",
+        "phone": "+14153971004",
+        "rating": 5.0,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-h-mairani-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eddie-kuo-dds-and-susie-ryan-dds-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3464508056641,
+            "longitude": -122.684982299805
+        },
+        "display_phone": "(707) 586-1549",
+        "distance": 1718.8785062674563,
+        "id": "LZGWiufQnUzQwslC0wEKyA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4NeYDG9-lOBKJfxdCxgsgw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5300 Snyder Ln",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5300 Snyder Ln",
+                "Ste D",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Eddie Kuo, DDS & Susie Ryan DDS",
+        "phone": "+17075861549",
+        "rating": 5.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eddie-kuo-dds-and-susie-ryan-dds-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "summit-dental-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.348507,
+            "longitude": -122.7194335
+        },
+        "display_phone": "(707) 206-0700",
+        "distance": 1428.3356402443183,
+        "id": "hGEpBX_XkH14L93rVlOY_g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rDnYfxfkmtuQFQvXjnfsKw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "455 Rohnert Park Expy W",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "455 Rohnert Park Expy W",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Summit Dental",
+        "phone": "+17072060700",
+        "rating": 5.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/summit-dental-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "barton-machado-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35317,
+            "longitude": -122.71437
+        },
+        "display_phone": "(707) 584-1000",
+        "distance": 978.1878226398626,
+        "id": "V5SpACzK6OKus6W_vOySGQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Bfutdu8TYOUYkkMaev7PVQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5755 Redwood Dr",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5755 Redwood Dr",
+                "Ste 200",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Barton Machado, DDS",
+        "phone": "+17075841000",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/barton-machado-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sahouria-pediatric-dentistry-rohnert-park-3",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3474257,
+            "longitude": -122.6852286
+        },
+        "display_phone": "(707) 586-6600",
+        "distance": 1707.3787575026975,
+        "id": "2sxMnG0Hz7FPU95nXQZQUA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iJEad3_RR9UxuZowAqunBg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1303 Medical Ctr Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1303 Medical Ctr Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Sahouria Pediatric Dentistry",
+        "phone": "+17075866600",
+        "rating": 4.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sahouria-pediatric-dentistry-rohnert-park-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "craig-davis-orthodontics-rohnert-park",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34962,
+            "longitude": -122.68509
+        },
+        "display_phone": "(707) 585-2500",
+        "distance": 1693.7907514838416,
+        "id": "sDQAFuHJ6372pm0Qs0JY8Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P5ce-806A-y0Pk_kDv9Ntg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": "Ste 2",
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Ste 2",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Craig Davis Orthodontics",
+        "phone": "+17075852500",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/craig-davis-orthodontics-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lyle-yee-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34078,
+            "longitude": -122.68592
+        },
+        "display_phone": "(707) 794-9995",
+        "distance": 1856.4374388682022,
+        "id": "P-7YF6XVJ42P0Ju-t93VSA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yg41IS--xqyqBd2vKeMvmw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5445 Snyder Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5445 Snyder Ln",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Lyle Yee, DDS",
+        "phone": "+17077949995",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lyle-yee-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jason-kenji-reyda-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.349617,
+            "longitude": -122.685089
+        },
+        "display_phone": "(707) 585-3160",
+        "distance": 1693.7907514838416,
+        "id": "fnutLssYFaOAIJ5yL2AZDQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O4eA8UdYt2UHHKlr05lN2g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Ste 1",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Jason Kenji Reyda, DDS",
+        "phone": "+17075853160",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jason-kenji-reyda-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "briggs-jenise-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34786,
+            "longitude": -122.6851
+        },
+        "display_phone": "(707) 584-3718",
+        "distance": 1690.5535499273708,
+        "id": "tKRn0tdZnvsw25YYdmDLwQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1310 Medical Center Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1310 Medical Center Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Briggs Jenise DDS",
+        "phone": "+17075843718",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/briggs-jenise-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rohnert-park-smiles-dentistry-rohnert-park",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3477785,
+            "longitude": -122.7108618
+        },
+        "display_phone": "(707) 584-7401",
+        "distance": 580.294025047316,
+        "id": "TWnuFbp7sKekSARSguq4Lw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pHYIzEH24Q8SruumOPR1CA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6315 Commerce Blvd",
+            "address2": null,
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "6315 Commerce Blvd",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Rohnert Park Smiles Dentistry",
+        "phone": "+17075847401",
+        "rating": 3.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rohnert-park-smiles-dentistry-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rohnert-park-oral-surgery-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3478114,
+            "longitude": -122.6835051
+        },
+        "display_phone": "(707) 584-1630",
+        "distance": 1828.3182442342186,
+        "id": "Zagfvrx971YzK7U7tUodXA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t0R9A_TAQkYxYy25LyHnCA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Medical Center Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1350 Medical Center Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Rohnert Park Oral Surgery",
+        "phone": "+17075841630",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rohnert-park-oral-surgery-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christopher-daniel-dds-md-facs-rohnert-park",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3478114,
+            "longitude": -122.6835051
+        },
+        "display_phone": "(707) 584-1630",
+        "distance": 1828.3182442342186,
+        "id": "rVahZTQBz5_DQKLpiLLo_g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MsgJIl1ll1Oi9xhX3o88KA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Medical Center Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1350 Medical Center Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Christopher Daniel, DDS, MD, FACS",
+        "phone": "+17075841630",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christopher-daniel-dds-md-facs-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christopher-murolo-dds-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34786,
+            "longitude": -122.68421
+        },
+        "display_phone": "(707) 584-7790",
+        "distance": 1757.2159371981224,
+        "id": "uwMhvUvbNnU7vIGosR9d_Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8eCmg08gxXbFfScpuywP8w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1330 Medical Center Dr",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1330 Medical Center Dr",
+                "Ste 3",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Christopher Murolo, DDS",
+        "phone": "+17075847790",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christopher-murolo-dds-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-y-chiang-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34728,
+            "longitude": -122.68443
+        },
+        "display_phone": "(707) 585-2525",
+        "distance": 1780.3152705609684,
+        "id": "8P-W4XOoocjcFo5YqiK6CQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tLZ5QWtFeLAEu3zRdziW9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1331 Medical Center Dr",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1331 Medical Center Dr",
+                "Ste G",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Robert Y Chiang, DDS",
+        "phone": "+17075852525",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-y-chiang-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bright-now-dental-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35317,
+            "longitude": -122.71436
+        },
+        "display_phone": "(707) 584-1000",
+        "distance": 978.1878226398626,
+        "id": "7akTAPlnNS2nte3MFCp2Qg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VUDklvAKkAy8GO2Dj8GwVA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5755 Redwood Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5755 Redwood Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Bright Now! Dental",
+        "phone": "+17075841000",
+        "rating": 3.0,
+        "review_count": 50,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bright-now-dental-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cotati-dental-wellness-cotati",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3263932,
+            "longitude": -122.7076433
+        },
+        "display_phone": "(707) 795-6424",
+        "distance": 2535.943194615867,
+        "id": "fIDf75zpm5ahpXIoHxRGkA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4JDqjP75wU3un6pgpsbEqA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8125 La Plz",
+            "address2": "",
+            "address3": "",
+            "city": "Cotati",
+            "country": "US",
+            "display_address": [
+                "8125 La Plz",
+                "Cotati, CA 94931"
+            ],
+            "state": "CA",
+            "zip_code": "94931"
+        },
+        "name": "Cotati Dental Wellness",
+        "phone": "+17077956424",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cotati-dental-wellness-cotati?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endoart-rohnert-park",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3464958,
+            "longitude": -122.6849994
+        },
+        "display_phone": "(707) 588-0700",
+        "distance": 1716.5706334811707,
+        "id": "Sny29OeiGPo4GEg2IgFKTA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LW1-jpowrkRfc6Cag7uVcw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5300 Snyder Ln",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5300 Snyder Ln",
+                "Ste C",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "EndoArt",
+        "phone": "+17075880700",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endoart-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonoma-county-family-dental-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3471687166023,
+            "longitude": -122.68502248038
+        },
+        "display_phone": "(707) 623-9123",
+        "distance": 1703.7427286556808,
+        "id": "Ow6TVVJkcniisgXGjDDRdQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MO_RR2TvIn7Pgt1jZe4N1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1301 Medical Ctr Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1301 Medical Ctr Dr",
+                "Ste A",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Sonoma County Family Dental",
+        "phone": "+17076239123",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonoma-county-family-dental-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ralitza-varlakova-dds-cotati",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.326313,
+            "longitude": -122.70752
+        },
+        "display_phone": "(707) 795-6424",
+        "distance": 2529.810971674582,
+        "id": "pI-WiXztDeMZ2eTaOWyEwg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iYYiX0cPN8wE9xWWcCVfjA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8125 La Plz",
+            "address2": null,
+            "address3": "",
+            "city": "Cotati",
+            "country": "US",
+            "display_address": [
+                "8125 La Plz",
+                "Cotati, CA 94931"
+            ],
+            "state": "CA",
+            "zip_code": "94931"
+        },
+        "name": "Ralitza Varlakova, DDS",
+        "phone": "+17077956424",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ralitza-varlakova-dds-cotati?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "graham-richard-w-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3464584,
+            "longitude": -122.6849823
+        },
+        "display_phone": "(707) 584-9422",
+        "distance": 1726.0410629594278,
+        "id": "D7kjZ2eSmKfET1-z8pFrmg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5300 Snyder Ln",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5300 Snyder Ln",
+                "Ste F",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Graham Richard W DDS",
+        "phone": "+17075849422",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/graham-richard-w-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-f-unguren-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34788,
+            "longitude": -122.68199
+        },
+        "display_phone": "(707) 585-6000",
+        "distance": 1964.8782053626144,
+        "id": "IMWkIQIHWY2CnBkEHO-iaQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6fUCEOp5vEGMluUBa6NldA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 Medical Center Dr",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1440 Medical Center Dr",
+                "Ste 1",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "John F. Unguren, DDS",
+        "phone": "+17075856000",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-f-unguren-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonoma-smiles-rohnert-park-6",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3478314,
+            "longitude": -122.6843365
+        },
+        "display_phone": "(707) 585-2555",
+        "distance": 1755.8591136164782,
+        "id": "iRAI0mZMU59MtPwYT-T2Bw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8c9rP-bnLNPkew9wZIy8GA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1330 Medical Center Dr",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1330 Medical Center Dr",
+                "Ste 1",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Sonoma Smiles",
+        "phone": "+17075852555",
+        "rating": 3.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonoma-smiles-rohnert-park-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-t-henley-dds-rohnert-park-6",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34962,
+            "longitude": -122.68509
+        },
+        "display_phone": "(707) 584-9589",
+        "distance": 1693.7907514838416,
+        "id": "slCpomd9DXgXSvwaiiRTbQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PVP9zBBpYtXAbcKA7KFYDw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "James T Henley, DDS",
+        "phone": "+17075849589",
+        "rating": 3.5,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-t-henley-dds-rohnert-park-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "new-leaf-rohnert-park-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34646,
+            "longitude": -122.68498
+        },
+        "display_phone": "(707) 586-1549",
+        "distance": 1726.042939174085,
+        "id": "FB32XecLgpq4N2iFXl3fAA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eCqk7ghb603ky1Ghnp1fXg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5300 Snyder Ln",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5300 Snyder Ln",
+                "Ste D",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "New Leaf Rohnert Park",
+        "phone": "+17075861549",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/new-leaf-rohnert-park-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "george-a-malkemus-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3499449,
+            "longitude": -122.7093632
+        },
+        "display_phone": "(707) 585-8595",
+        "distance": 357.4511059868355,
+        "id": "-uSdLTdcBbMZCZ0JndfNCA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xxdHTL_tGaWO-Et9KUj9vw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2 Padre Pkwy",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "2 Padre Pkwy",
+                "Ste 200",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "George A Malkemus, DDS",
+        "phone": "+17075858595",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/george-a-malkemus-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "geronimo-f-romero-dds-rohnert-park",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.349617,
+            "longitude": -122.685089
+        },
+        "display_phone": "(707) 585-3160",
+        "distance": 1693.7907514838416,
+        "id": "AFysnr1qDT0IDpbeqxdqFg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Ste 1",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Geronimo F Romero, DDS",
+        "phone": "+17075853160",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/geronimo-f-romero-dds-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rio-dental-practice-susan-malibiran-dmd-rohnert-park-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34728,
+            "longitude": -122.68443
+        },
+        "display_phone": "(707) 202-5326",
+        "distance": 1780.3152705609684,
+        "id": "_sxERiTdxqDX-ttmVvILZw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/loC0I0qSopJ-usoOTPe95g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1331 Medical Center Dr",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1331 Medical Center Dr",
+                "Ste H",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Rio Dental Practice: Susan Malibiran, DMD",
+        "phone": "+17072025326",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rio-dental-practice-susan-malibiran-dmd-rohnert-park-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-d-mann-dds-rohnert-park-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3496139,
+            "longitude": -122.6850001
+        },
+        "display_phone": "(707) 584-9589",
+        "distance": 1693.7907514838416,
+        "id": "vi9UIG0Lhsft0TG7nD9wdQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LWhLpqC3tqUsc3xUZgXZnw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": "",
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "John D Mann, DDS",
+        "phone": "+17075849589",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-d-mann-dds-rohnert-park-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "soco-dental-specialty-group-rohnert-park",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3471908569336,
+            "longitude": -122.685005187988
+        },
+        "display_phone": "(707) 978-2077",
+        "distance": 1700.576640899644,
+        "id": "s_ne2maXY_rTfCqpdJg9mA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1301 Medical Center Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1301 Medical Center Dr",
+                "Ste B",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "SoCo Dental Specialty Group",
+        "phone": "+17079782077",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/soco-dental-specialty-group-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rohnert-park-dental-village-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.349617,
+            "longitude": -122.685089
+        },
+        "display_phone": "(707) 585-3160",
+        "distance": 1686.670264324489,
+        "id": "ZsFinDCBOEQ5r-Xq090Pyw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/INZSWcKCNtMK3jpc8-Z_-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Ste 1",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Rohnert Park Dental Village",
+        "phone": "+17075853160",
+        "rating": 3.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rohnert-park-dental-village-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kupelian-armen-dds-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34015,
+            "longitude": -122.711374
+        },
+        "display_phone": "(707) 795-5419",
+        "distance": 1161.8723467327277,
+        "id": "QbDA8tEqJgJqJTPsZHzw-A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "40 Arlen Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "40 Arlen Dr",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Kupelian Armen, DDS",
+        "phone": "+17077955419",
+        "rating": 4.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kupelian-armen-dds-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rohnert-park-health-center-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "medcenters",
+                "title": "Medical Centers"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.354076,
+            "longitude": -122.706459
+        },
+        "display_phone": "(707) 559-7600",
+        "distance": 577.1711185083248,
+        "id": "uO6w2lKGEZ3eUysZkWUoGQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0QjpzPZrm3tlg28hBdGYmQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5900 State Farm Dr",
+            "address2": "Fl 2",
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5900 State Farm Dr",
+                "Fl 2",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Rohnert Park Health Center",
+        "phone": "+17075597600",
+        "rating": 2.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rohnert-park-health-center-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "geronimo-f-romero-dds-rohnert-park-2",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.349618,
+            "longitude": -122.685086
+        },
+        "display_phone": "(707) 585-3160",
+        "distance": 1693.7907514838416,
+        "id": "Ows9W7HbEHIe0GrP9JYpxw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5200 Snyder Ln",
+            "address2": null,
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "5200 Snyder Ln",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Geronimo F Romero, DDS",
+        "phone": "+17075853160",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/geronimo-f-romero-dds-rohnert-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cotati-family-dentistry-cotati",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.32874,
+            "longitude": -122.70022
+        },
+        "display_phone": "(707) 664-1200",
+        "distance": 2290.565146614614,
+        "id": "S8Kse6RjzoRxVduxx3B6vQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "421 E Cotati Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Cotati",
+            "country": "US",
+            "display_address": [
+                "421 E Cotati Ave",
+                "Cotati, CA 94931"
+            ],
+            "state": "CA",
+            "zip_code": "94931"
+        },
+        "name": "Cotati Family Dentistry",
+        "phone": "+17076641200",
+        "rating": 2.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cotati-family-dentistry-cotati?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-bohan-dental-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34786,
+            "longitude": -122.68421
+        },
+        "display_phone": "(707) 585-2222",
+        "distance": 1757.2159371981224,
+        "id": "b9SJXolXUTtl824n3_vOXg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1330 Medical Center Dr",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1330 Medical Center Dr",
+                "Ste 2",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "William Bohan Dental",
+        "phone": "+17075852222",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-bohan-dental-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "graton-dental-group-rohnert-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3478500835292,
+            "longitude": -122.682620957494
+        },
+        "display_phone": "(707) 706-2028",
+        "distance": 1904.8980451873135,
+        "id": "8Sm7d6al1c2h5f0S3KTDtA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4k-vZ700NYHEuVlwOYcr7A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1400 Medical Center Dr",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Rohnert Park",
+            "country": "US",
+            "display_address": [
+                "1400 Medical Center Dr",
+                "Ste C",
+                "Rohnert Park, CA 94928"
+            ],
+            "state": "CA",
+            "zip_code": "94928"
+        },
+        "name": "Graton Dental Group",
+        "phone": "+17077062028",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/graton-dental-group-rohnert-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

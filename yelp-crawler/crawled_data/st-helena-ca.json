@@ -1,0 +1,364 @@
+[
+    {
+        "alias": "demetrakopulos-pauline-dds-saint-helena",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.50733,
+            "longitude": -122.47093
+        },
+        "display_phone": "(707) 963-2321",
+        "distance": 582.9454726422588,
+        "id": "XSua6S0PjgNkVIFqn14E-A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1510 Railroad Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Saint Helena",
+            "country": "US",
+            "display_address": [
+                "1510 Railroad Ave",
+                "Saint Helena, CA 94574"
+            ],
+            "state": "CA",
+            "zip_code": "94574"
+        },
+        "name": "Demetrakopulos Pauline, DDS",
+        "phone": "+17079632321",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/demetrakopulos-pauline-dds-saint-helena?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steffensen-jon-eric-dds-saint-helena",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.50708,
+            "longitude": -122.46837
+        },
+        "display_phone": "(707) 963-2781",
+        "distance": 357.78490074824106,
+        "id": "u1kiTqPQlaO13mGMS5t7QQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "999 Adams St",
+            "address2": "",
+            "address3": "",
+            "city": "Saint Helena",
+            "country": "US",
+            "display_address": [
+                "999 Adams St",
+                "Saint Helena, CA 94574"
+            ],
+            "state": "CA",
+            "zip_code": "94574"
+        },
+        "name": "Steffensen Jon Eric DDS",
+        "phone": "+17079632781",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steffensen-jon-eric-dds-saint-helena?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "st-helena-family-dentistry-saint-helena",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.50776,
+            "longitude": -122.47141
+        },
+        "display_phone": "(707) 963-5369",
+        "distance": 609.425164739592,
+        "id": "zGiflw2nmPMlPMMx60OVVQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l1b-VUPb7qqu7oO2tlfzMQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1570 Railroad Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Saint Helena",
+            "country": "US",
+            "display_address": [
+                "1570 Railroad Ave",
+                "Saint Helena, CA 94574"
+            ],
+            "state": "CA",
+            "zip_code": "94574"
+        },
+        "name": "St Helena Family Dentistry",
+        "phone": "+17079635369",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/st-helena-family-dentistry-saint-helena?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "aurina-poh-matacio-dds-saint-helena-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.498962,
+            "longitude": -122.457634
+        },
+        "display_phone": "(707) 963-4611",
+        "distance": 939.7409092701379,
+        "id": "EbpyXhC2jHlntneU8L9Z9Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cYsYOzLXEI6TTDLZOJnC1A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "995 Dowdell Ln",
+            "address2": null,
+            "address3": null,
+            "city": "Saint Helena",
+            "country": "US",
+            "display_address": [
+                "995 Dowdell Ln",
+                "Saint Helena, CA 94574"
+            ],
+            "state": "CA",
+            "zip_code": "94574"
+        },
+        "name": "Aurina Poh-Matacio, DDS",
+        "phone": "+17079634611",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/aurina-poh-matacio-dds-saint-helena-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rod-ellison-dds-st-helena",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5059254,
+            "longitude": -122.4720043
+        },
+        "display_phone": "(707) 963-2339",
+        "distance": 572.7413154743815,
+        "id": "Ln3I8q3ZDsuYyFb4UCLXjQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2TqhhQl_FkYjgB7OYW9k2g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1485 Main St",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "St. Helena",
+            "country": "US",
+            "display_address": [
+                "1485 Main St",
+                "Ste 102",
+                "St. Helena, CA 94574"
+            ],
+            "state": "CA",
+            "zip_code": "94574"
+        },
+        "name": "Rod Ellison, DDS",
+        "phone": "+17079632339",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rod-ellison-dds-st-helena?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peter-vandenhoven-angwin",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5707318,
+            "longitude": -122.4419188
+        },
+        "display_phone": "(707) 965-2479",
+        "distance": 7659.792749554517,
+        "id": "GWkHB6Wc7bnQGza1I2xGZA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MOYMP42GivGev3tBMs1cjg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "41 Angwin Plz",
+            "address2": null,
+            "address3": null,
+            "city": "Angwin",
+            "country": "US",
+            "display_address": [
+                "41 Angwin Plz",
+                "Angwin, CA 94508"
+            ],
+            "state": "CA",
+            "zip_code": "94508"
+        },
+        "name": "Peter VandenHoven",
+        "phone": "+17079652479",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peter-vandenhoven-angwin?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "quirici-darrell-b-dds-saint-helena",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5038185119629,
+            "longitude": -122.471776530147
+        },
+        "display_phone": "(707) 963-2600",
+        "distance": 553.48177940992,
+        "id": "FxSVMXJ-lVtVa5IV5ATZZw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1390 Adams St",
+            "address2": "",
+            "address3": "",
+            "city": "Saint Helena",
+            "country": "US",
+            "display_address": [
+                "1390 Adams St",
+                "Saint Helena, CA 94574"
+            ],
+            "state": "CA",
+            "zip_code": "94574"
+        },
+        "name": "Quirici Darrell B DDS",
+        "phone": "+17079632600",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/quirici-darrell-b-dds-saint-helena?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "angwin-dental-angwin",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5716325,
+            "longitude": -122.4435611
+        },
+        "display_phone": "(707) 965-2479",
+        "distance": 7692.2309758174715,
+        "id": "YQ5EYUNAW_ltELdylzFoLA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XRCQKNcRMwehbKcIV9Zivw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "41 Angwin Plz",
+            "address2": "",
+            "address3": "",
+            "city": "Angwin",
+            "country": "US",
+            "display_address": [
+                "41 Angwin Plz",
+                "Angwin, CA 94508"
+            ],
+            "state": "CA",
+            "zip_code": "94508"
+        },
+        "name": "Angwin Dental",
+        "phone": "+17079652479",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/angwin-dental-angwin?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "williams-robert-c-dds-fagd-angwin",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5706330090761,
+            "longitude": -122.441474944353
+        },
+        "display_phone": "(707) 965-2479",
+        "distance": 7659.792749554517,
+        "id": "mep_RHQNAmNjltYDtSeqMQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "41 Angwin Plz",
+            "address2": "",
+            "address3": "",
+            "city": "Angwin",
+            "country": "US",
+            "display_address": [
+                "41 Angwin Plz",
+                "Angwin, CA 94508"
+            ],
+            "state": "CA",
+            "zip_code": "94508"
+        },
+        "name": "Williams Robert C DDS Fagd",
+        "phone": "+17079652479",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/williams-robert-c-dds-fagd-angwin?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

@@ -1,0 +1,3749 @@
+[
+    {
+        "alias": "meridian-dental-martinez-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9963601,
+            "longitude": -122.1188766
+        },
+        "display_phone": "(925) 229-3337",
+        "distance": 1318.5149664339074,
+        "id": "hyuPkvHUNiA5u5tbfV2YcA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SOmv5mnPia7pi-cy3o0rag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "742 Arnold Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "742 Arnold Dr",
+                "Ste A",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Meridian Dental",
+        "phone": "+19252293337",
+        "rating": 5.0,
+        "review_count": 70,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/meridian-dental-martinez-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amanda-backstrom-dmd-artesa-dental-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99354,
+            "longitude": -122.130772
+        },
+        "display_phone": "(925) 370-9900",
+        "distance": 1895.4027663907073,
+        "id": "HyXotDbMw5fSOdOV2ccRZw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sk02BSEjK-QMpPka1AE8rQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4041 Alhambra Ave",
+            "address2": "Ste 109",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "4041 Alhambra Ave",
+                "Ste 109",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Amanda Backstrom, DMD - Artesa Dental",
+        "phone": "+19253709900",
+        "rating": 4.5,
+        "review_count": 50,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amanda-backstrom-dmd-artesa-dental-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benicia-family-dentistry-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.054905,
+            "longitude": -122.15255
+        },
+        "display_phone": "(707) 745-8264",
+        "distance": 5935.8666234325465,
+        "id": "-j4LUf1Lh_quogmCiAH0eA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9QZ8AORu3dNgM5PPngiYOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "175 E N St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "175 E N St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Benicia Family Dentistry",
+        "phone": "+17077458264",
+        "rating": 4.5,
+        "review_count": 85,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benicia-family-dentistry-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harper-orthodontics-martinez",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0043296813965,
+            "longitude": -122.130851745605
+        },
+        "display_phone": "(925) 228-8330",
+        "distance": 1070.3240243103162,
+        "id": "LQtxNdBH9ryibc-nmY7n_w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B0tfSp46vwlJ0xs8k6lDCQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2805 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "2805 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Harper Orthodontics",
+        "phone": "+19252288330",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harper-orthodontics-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nicole-hoang-dmd-pc-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94828,
+            "longitude": -122.07394
+        },
+        "display_phone": "(925) 682-4912",
+        "distance": 7772.356634110473,
+        "id": "1rKAf9aMbQG9AvDpxSr2OQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tTp8O36iNvem0-zM-Begww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "425 Gregory Ln",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "425 Gregory Ln",
+                "Ste 201",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Nicole Hoang DMD PC",
+        "phone": "+19256824912",
+        "rating": 5.0,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nicole-hoang-dmd-pc-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "california-smile-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9740429,
+            "longitude": -122.064764
+        },
+        "display_phone": "(925) 689-6400",
+        "distance": 6134.16831763265,
+        "id": "Vz9H-ANYZxlTIR14ZEVxPw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PtEwjiP4ntszEEa5WmXC1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "620 Contra Costa Blvd",
+            "address2": "Ste 100",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "620 Contra Costa Blvd",
+                "Ste 100",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "California Smile",
+        "phone": "+19256896400",
+        "rating": 4.5,
+        "review_count": 38,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/california-smile-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "muir-station-smiles-martinez-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9923848,
+            "longitude": -122.1186724
+        },
+        "display_phone": "(925) 626-0111",
+        "distance": 1784.7127902796117,
+        "id": "xL8eRQCLEBiqQNQwiZtxsA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UUKOc0V5io4jKkos5EENnA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "582 Center Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "582 Center Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Muir Station Smiles",
+        "phone": "+19256260111",
+        "rating": 4.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/muir-station-smiles-martinez-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-family-dentistry-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0556,
+            "longitude": -122.16008
+        },
+        "display_phone": "(707) 297-6240",
+        "distance": 6347.312791202128,
+        "id": "xD5mwaCriIhr0tH-k7R6xw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nsbZ6tESSGeK5DxgxArmqQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "300 Military W",
+            "address2": "Ste 304",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "300 Military W",
+                "Ste 304",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Solano Family Dentistry",
+        "phone": "+17072976240",
+        "rating": 4.0,
+        "review_count": 82,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-family-dentistry-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pediatric-dentistry-of-pleasant-hill-pleasant-hill",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95647,
+            "longitude": -122.09051
+        },
+        "display_phone": "(925) 947-1188",
+        "distance": 6298.9506391976765,
+        "id": "48R5GfIm7BVlTdzCKA-h_A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7FejXk4fJ-N7h-lBftRBDg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2710 Pleasant Hill Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2710 Pleasant Hill Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Pediatric Dentistry Of Pleasant Hill",
+        "phone": "+19259471188",
+        "rating": 4.0,
+        "review_count": 73,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pediatric-dentistry-of-pleasant-hill-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "surfside-kids-dental-pleasant-hill",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9725196784396,
+            "longitude": -122.063692057199
+        },
+        "display_phone": "(925) 689-5800",
+        "distance": 6280.889946598731,
+        "id": "AWDdgxiN0LleSABwIw-utw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GKZNuBlnn5D37KkJM8ezzQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "675 Contra Costa Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "675 Contra Costa Blvd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Surfside Kids Dental",
+        "phone": "+19256895800",
+        "rating": 4.0,
+        "review_count": 68,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/surfside-kids-dental-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-endodontic-specialists-benicia",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05057,
+            "longitude": -122.15721
+        },
+        "display_phone": "(707) 747-0728",
+        "distance": 5740.088479950287,
+        "id": "Hsh5cmqIYTnRHMpGYd7mYw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N4mJs9vkb0p-o20kJXbpbg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "127 E H St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "127 E H St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Solano Endodontic Specialists",
+        "phone": "+17077470728",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-endodontic-specialists-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pleasant-hill-oral-surgery-pleasant-hill",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.948661,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 689-8500",
+        "distance": 7732.783103148226,
+        "id": "902txT1fsMM6ihiIcM0Dsg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5Kucc533iSqE3fjUArgoew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Suite 208",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Suite 208",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Pleasant Hill Oral Surgery",
+        "phone": "+19256898500",
+        "rating": 5.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pleasant-hill-oral-surgery-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mona-mokarram-dds-martinez-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01606,
+            "longitude": -122.13753
+        },
+        "display_phone": "(925) 228-6734",
+        "distance": 1786.7088983929052,
+        "id": "ISoyhvN4oGRAvt8L8sXMpg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vECmB1e6i1orUBAtI3aHfg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "735 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "735 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Mona Mokarram, DDS",
+        "phone": "+19252286734",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mona-mokarram-dds-martinez-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pleasant-hill-dental-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9499181,
+            "longitude": -122.0599551
+        },
+        "display_phone": "(925) 692-2010",
+        "distance": 8360.047058645117,
+        "id": "S86vAb9NlxMcPGC9kPpGpA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HFaorCX5fQE0WUPdb9bEjA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1894 Contra Costa Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "1894 Contra Costa Blvd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Pleasant Hill Dental",
+        "phone": "+19256922010",
+        "rating": 4.5,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pleasant-hill-dental-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kurt-schwartz-dmd-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9965324401855,
+            "longitude": -122.132041931152
+        },
+        "display_phone": "(925) 372-6969",
+        "distance": 1672.188942195577,
+        "id": "ll9hniQlIPe590bsKBBung",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pR4bjjAeoTWjLa-lXK0FRg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3801 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "3801 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Kurt Schwartz, DMD",
+        "phone": "+19253726969",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kurt-schwartz-dmd-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pleasant-dental-care-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95836,
+            "longitude": -122.093976
+        },
+        "display_phone": "(925) 300-3671",
+        "distance": 5983.894308879543,
+        "id": "EF8QrCNYZPBqAW-pKFu1ag",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rTis7-kwz4ABhOVksS6x7A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6684 Alhambra Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "6684 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Pleasant Dental Care",
+        "phone": "+19253003671",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pleasant-dental-care-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "miguel-ibarra-dds-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9551299,
+            "longitude": -122.06109
+        },
+        "display_phone": "(925) 676-5680",
+        "distance": 7807.275761528535,
+        "id": "LM6EtQNslfSncJ4uoSc05g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6OxomZHpra6JDx10KNdwlw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "70 Doray Dr",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "70 Doray Dr",
+                "Ste 3",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Miguel Ibarra, DDS",
+        "phone": "+19256765680",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/miguel-ibarra-dds-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benicia-dental-care-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0483665466309,
+            "longitude": -122.158706665039
+        },
+        "display_phone": "(707) 747-1110",
+        "distance": 5659.746995202684,
+        "id": "_I6Z3p5p622IzyCSvZXWTA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AtHYIZ29OwpWjGE1lQLsrw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "560 1st St",
+            "address2": "Ste B111",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "560 1st St",
+                "Ste B111",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Benicia Dental Care",
+        "phone": "+17077471110",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benicia-dental-care-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "willow-pass-dental-care-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96859,
+            "longitude": -122.05314
+        },
+        "display_phone": "(925) 326-6211",
+        "distance": 7316.33490434132,
+        "id": "xE-V5t1X8peI0bHckKbCdw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e9GRcvs57MQw9Mos1OV0Pg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1255 Willow Pass Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1255 Willow Pass Rd",
+                "Concord, CA 94520"
+            ],
+            "state": "CA",
+            "zip_code": "94520"
+        },
+        "name": "Willow Pass Dental Care",
+        "phone": "+19253266211",
+        "rating": 3.5,
+        "review_count": 86,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/willow-pass-dental-care-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ricardo-m-perez-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94844,
+            "longitude": -122.06078
+        },
+        "display_phone": "(925) 687-2299",
+        "distance": 8433.619796874907,
+        "id": "8ltiBI7XlXpvn-cP3gmklw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wi4q7bn8h1GqfelEbkV87g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Gregory Ln",
+            "address2": "Ste 320",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "81 Gregory Ln",
+                "Ste 320",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Ricardo M Perez, DDS",
+        "phone": "+19256872299",
+        "rating": 5.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ricardo-m-perez-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "union-dental-martinez",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticsurgeons",
+                "title": "Cosmetic Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9929287,
+            "longitude": -122.1308132
+        },
+        "display_phone": "(925) 957-0148",
+        "distance": 1941.6318495185803,
+        "id": "NYRNxEk0KcOa5qD72k1JCw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrwHWPcd0DFxXTBFdOQngw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4111 Alhambra Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "4111 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Union Dental",
+        "phone": "+19259570148",
+        "rating": 4.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/union-dental-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "buchanan-chun-orthodontics-benicia-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0556257,
+            "longitude": -122.1600066
+        },
+        "display_phone": "(707) 745-2525",
+        "distance": 6344.616193314629,
+        "id": "zzILZKJIkZH6xJcglMV4UQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/snRM7GfMEVuVdup4r8FbtA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "300 Military W",
+            "address2": "Ste 306",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "300 Military W",
+                "Ste 306",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Buchanan Chun Orthodontics",
+        "phone": "+17077452525",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/buchanan-chun-orthodontics-benicia-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-c-francis-dds-muir-family-dentristry-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99364,
+            "longitude": -122.103651
+        },
+        "display_phone": "(925) 372-4747",
+        "distance": 2146.1676480088354,
+        "id": "RsBdrl6iiNnL-RF6L1WPoA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ts_rPqQk7ASdPajBmXEpdQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1124 Arnold Dr",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1124 Arnold Dr",
+                "Ste 201",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Stephen C Francis, DDS- Muir Family Dentristry",
+        "phone": "+19253724747",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-c-francis-dds-muir-family-dentristry-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carquinez-dental-group-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04666,
+            "longitude": -122.15956
+        },
+        "display_phone": "(707) 745-8002",
+        "distance": 5517.741730583689,
+        "id": "xC8V6KHZuVT-Ql_BIFPTGg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pAHPsHg2Xln652qbaWLOCw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "142 E D St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "142 E D St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Carquinez Dental Group",
+        "phone": "+17077458002",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carquinez-dental-group-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-e-huguet-dds-and-associates-pleasant-hill-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94767,
+            "longitude": -122.08322
+        },
+        "display_phone": "(925) 945-6204",
+        "distance": 7444.647220748656,
+        "id": "giOpH-PbUEeENToprne6cg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BpnAs6ad7OKoyYKt8bs32w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "710 Grayson Rd",
+            "address2": "",
+            "address3": "Michael E Huguet & Associates",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "710 Grayson Rd",
+                "Michael E Huguet & Associates",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Michael E Huguet, DDS & Associates",
+        "phone": "+19259456204",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-e-huguet-dds-and-associates-pleasant-hill-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "randy-bautista-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94756,
+            "longitude": -122.06507
+        },
+        "display_phone": "(925) 685-8587",
+        "distance": 8272.70555121472,
+        "id": "WUvQSqaZblq708kmOgPwEA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6JWO8sDmysQ7rlGC8y0coQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "140 Gregory Ln",
+            "address2": "Ste 200",
+            "address3": "Pleasant Hill Dentistry",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "140 Gregory Ln",
+                "Ste 200",
+                "Pleasant Hill Dentistry",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Randy Bautista, DDS",
+        "phone": "+19256858587",
+        "rating": 4.5,
+        "review_count": 42,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/randy-bautista-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ilas-dental-care-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9736077,
+            "longitude": -122.0554826
+        },
+        "display_phone": "(925) 687-8000",
+        "distance": 6818.769887463402,
+        "id": "ab5eUXYOztJcfzMHwtEuPg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pvvdRNpyjus7vbBBOo4ZZA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2030 Diamond Blvd",
+            "address2": "Ste 25",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "2030 Diamond Blvd",
+                "Ste 25",
+                "Concord, CA 94520"
+            ],
+            "state": "CA",
+            "zip_code": "94520"
+        },
+        "name": "Ilas Dental Care",
+        "phone": "+19256878000",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ilas-dental-care-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bay-hill-dental-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94866,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 685-9500",
+        "distance": 7732.783103148226,
+        "id": "ETsN7inFVWZqNAn1MzCBTw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9xpthsdejf6p9jViV3wC5A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 204",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 204",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Bay Hill Dental",
+        "phone": "+19256859500",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bay-hill-dental-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ronald-j-tosch-dds-benicia",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05306,
+            "longitude": -122.15692
+        },
+        "display_phone": "(707) 745-2130",
+        "distance": 5958.836989613464,
+        "id": "vFKbJGNEu6ogmhdICTlHEQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C-YQPC4S4sCManieieB8Bw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "118 W K St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "118 W K St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Ronald J Tosch, DDS",
+        "phone": "+17077452130",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ronald-j-tosch-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kenneth-j-fraga-dds-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94866,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 687-0343",
+        "distance": 7732.783103148226,
+        "id": "UqGGA8qEMyNzc-uuFZyAbw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Dja6VWgggRMXVbYV9W2NPw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 222",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 222",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Kenneth J Fraga, DDS",
+        "phone": "+19256870343",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kenneth-j-fraga-dds-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pleasant-hill-smiles-dentistry-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.944894,
+            "longitude": -122.056711
+        },
+        "display_phone": "(925) 363-4455",
+        "distance": 8947.750524877812,
+        "id": "L1qDRQwJii6KwwHx8RAvyw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LEWLlzw4bc19fTDTZdYWqQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2380 Monument Blvd",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2380 Monument Blvd",
+                "Ste F",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Pleasant Hill Smiles Dentistry",
+        "phone": "+19253634455",
+        "rating": 3.5,
+        "review_count": 130,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pleasant-hill-smiles-dentistry-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "martin-jennifer-l-dds-pleasant-hill-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.948823,
+            "longitude": -122.073827
+        },
+        "display_phone": "(925) 676-8485",
+        "distance": 7731.644714367042,
+        "id": "1QHGGu93NTipt8zYTCNqig",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SslCGTdMcYrU6wKEw5AnJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Martin, Jennifer L, DDS",
+        "phone": "+19256768485",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/martin-jennifer-l-dds-pleasant-hill-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parkway-smiles-dental-martinez",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.996817,
+            "longitude": -122.107947
+        },
+        "display_phone": "(925) 229-8890",
+        "distance": 1628.8659695374904,
+        "id": "dcDNVYKaLWqO3T7ikYX8LQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C2nnhOjT82dtrRNpYzb_KA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1029 Arnold Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1029 Arnold Dr",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Parkway Smiles Dental",
+        "phone": "+19252298890",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parkway-smiles-dental-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kasper-denise-df-dds-martinez",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9965324401855,
+            "longitude": -122.132041931152
+        },
+        "display_phone": "(925) 372-6969",
+        "distance": 1672.188942195577,
+        "id": "5Xh6Wa4hM4SS1TCJTBLtuQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3801 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "3801 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Kasper, Denise DF, DDS",
+        "phone": "+19253726969",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kasper-denise-df-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "family-dental-health-benicia-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.067676,
+            "longitude": -122.181855
+        },
+        "display_phone": "(707) 745-2121",
+        "distance": 8563.832312033019,
+        "id": "3Zfz9-laE4ShpMLytVUTJQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x83wabMZ7IlQhsppibP34A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 Military W",
+            "address2": null,
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "1440 Military W",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Family Dental Health",
+        "phone": "+17077452121",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/family-dental-health-benicia-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-p-rogers-dds-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94753,
+            "longitude": -122.08823
+        },
+        "display_phone": "(925) 939-6100",
+        "distance": 7285.227224460766,
+        "id": "_-GtfYVPhvS3pDMNg0rtVw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xb-LdGFdBsmUwbjd5LM32Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "764 Grayson Rd",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "764 Grayson Rd",
+                "Ste B",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Robert P Rogers, DDS",
+        "phone": "+19259396100",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-p-rogers-dds-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kenneth-w-tittle-dds-ms-pleasant-hill",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486618041992,
+            "longitude": -122.07373046875
+        },
+        "display_phone": "(925) 676-3388",
+        "distance": 7732.783103148226,
+        "id": "E1rtHtyGdJCKtxaMICb3uw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NfVZpGnujtCs3ktozNyq6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 118",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 118",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Kenneth W Tittle DDS MS",
+        "phone": "+19256763388",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kenneth-w-tittle-dds-ms-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "choice-endodontics-pleasant-hill",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94844,
+            "longitude": -122.06078
+        },
+        "display_phone": "(925) 363-3553",
+        "distance": 8433.614436804326,
+        "id": "v9oCFyCpl6shUMvY84Te_g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/laYm3s7H3arWFrxFYi-Kvg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Gregory Ln",
+            "address2": null,
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "81 Gregory Ln",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Choice Endodontics",
+        "phone": "+19253633553",
+        "rating": 4.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/choice-endodontics-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pleasant-hill-wellness-dental-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97199,
+            "longitude": -122.06528
+        },
+        "display_phone": "(925) 685-8633",
+        "distance": 6253.939562659118,
+        "id": "9HmCg4TdQrRL841HNOBdSg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ryTh715MpHC-XKIssodTWA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "30 Golf Club Rd",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "30 Golf Club Rd",
+                "Ste C",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Pleasant Hill Wellness Dental",
+        "phone": "+19256858633",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pleasant-hill-wellness-dental-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mailene-soyster-dds-pleasant-hill-6",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94866,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 267-8349",
+        "distance": 7732.783103148226,
+        "id": "m_sdTLLOH7jICrYdYzpqFA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iev5Yko4waJxOPfw6bYs6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln St",
+            "address2": "Ste 242",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln St",
+                "Ste 242",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Mailene Soyster, DDS",
+        "phone": "+19252678349",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mailene-soyster-dds-pleasant-hill-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "drs-may-and-bessma-hayder-pediatric-dentistry-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94866,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 363-4200",
+        "distance": 7732.783103148226,
+        "id": "WL5B0H_O3u04GKIwl8NAEA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tat7NILL4vF9Hx6clonTfg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 236",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 236",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Drs May & Bessma Hayder, Pediatric Dentistry",
+        "phone": "+19253634200",
+        "rating": 4.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/drs-may-and-bessma-hayder-pediatric-dentistry-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "southampton-dental-care-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0660426339561,
+            "longitude": -122.167704239356
+        },
+        "display_phone": "(707) 887-5075",
+        "distance": 7682.528065626548,
+        "id": "inhRbCIdsR5VbR3X5sRcjw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PLllkdFFptiA8Sj20B63uw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "884 Southampton Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "884 Southampton Rd",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Southampton Dental Care",
+        "phone": "+17078875075",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/southampton-dental-care-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pacheco-family-dentistry-martinez-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9836235046387,
+            "longitude": -122.07006072998
+        },
+        "display_phone": "(925) 671-9900",
+        "distance": 5133.359880672293,
+        "id": "YFUgEUkXENl60WR_J5xwcA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/82WxKGDiJhcUIySbqC9jig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "218 Center Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "218 Center Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Pacheco Family Dentistry",
+        "phone": "+19256719900",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pacheco-family-dentistry-martinez-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pleasant-hill-orthodontics-pleasant-hill",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9481887,
+            "longitude": -122.0608892
+        },
+        "display_phone": "(925) 322-0005",
+        "distance": 8433.614436804326,
+        "id": "ogM2HrfCsjeoAUoqwZ6lNQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qo2yPYgJXz19e6dIcL-isg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Gregory Ln",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "81 Gregory Ln",
+                "Ste 240",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Pleasant Hill Orthodontics",
+        "phone": "+19253220005",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pleasant-hill-orthodontics-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jerry-yao-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.945682,
+            "longitude": -122.06076
+        },
+        "display_phone": "(925) 676-7310",
+        "distance": 8650.895688137354,
+        "id": "n3GFnb-lJ4bHc5fYFFfU-A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2255 Contra Costa Blvd",
+            "address2": "Ste 303",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2255 Contra Costa Blvd",
+                "Ste 303",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Jerry Yao, DDS",
+        "phone": "+19256767310",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jerry-yao-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ronald-e-grafton-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9484214782715,
+            "longitude": -122.060821533203
+        },
+        "display_phone": "(925) 687-6202",
+        "distance": 8432.663851210047,
+        "id": "_Opps_A3WdyS2xctO8oKZQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f8cSNbGq5cbIiaptWxX-dg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Gregory Ln",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "81 Gregory Ln",
+                "Ste 110",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Ronald E Grafton, DDS",
+        "phone": "+19256876202",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ronald-e-grafton-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diablo-valley-dentistry-pleasant-hill",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9545644,
+            "longitude": -122.0884137
+        },
+        "display_phone": "(925) 932-2186",
+        "distance": 6565.200718920478,
+        "id": "YJBovjqFeq4Xb-weLwrJ8g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5eRDyJIDLRe1fCjclNmc1g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2630 Pleasant Hill Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2630 Pleasant Hill Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Diablo Valley Dentistry",
+        "phone": "+19259322186",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diablo-valley-dentistry-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gerald-b-brown-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9633885,
+            "longitude": -122.0604919
+        },
+        "display_phone": "(925) 685-9339",
+        "distance": 7148.155348301247,
+        "id": "5OHZdIANS_GLuQ8jc0JaTw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ipw2QiuwBkSDh5Dzbeyj_w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "901 Sunvalley Blvd",
+            "address2": "Ste 240",
+            "address3": "Smile Makers Dental Care",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "901 Sunvalley Blvd",
+                "Ste 240",
+                "Smile Makers Dental Care",
+                "Concord, CA 94520"
+            ],
+            "state": "CA",
+            "zip_code": "94520"
+        },
+        "name": "Gerald B. Brown, DDS",
+        "phone": "+19256859339",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gerald-b-brown-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "village-oaks-dentistry-martinez",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9939794,
+            "longitude": -122.101246
+        },
+        "display_phone": "(925) 229-3232",
+        "distance": 2233.6169361812463,
+        "id": "2moRib5jEsHZMU132YQkeQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p4PiPUZvkvB7OkCkkHAdSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1175 Arnold Dr",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1175 Arnold Dr",
+                "Ste C",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Village Oaks Dentistry",
+        "phone": "+19252293232",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/village-oaks-dentistry-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parham-karbassi-dds-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0160115,
+            "longitude": -122.1361056
+        },
+        "display_phone": "(925) 228-0436",
+        "distance": 1673.1437508542094,
+        "id": "jvi1cD4nBNiuUcOhlZZY9Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cNw3RJFzqVYW2HPw4qCdDQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "647 Green St",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "647 Green St",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Parham Karbassi, DDS",
+        "phone": "+19252280436",
+        "rating": 3.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parham-karbassi-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harbor-dental-benicia-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05343,
+            "longitude": -122.15296
+        },
+        "display_phone": "(707) 746-1234",
+        "distance": 5807.180782418484,
+        "id": "km49hD06LaTIV1gjY5z6mw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8xvxmcgjfZB4zUR9cfp7uw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "202 Military E",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "202 Military E",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Harbor Dental",
+        "phone": "+17077461234",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harbor-dental-benicia-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diablo-valley-endodontic-specialists-pleasant-hill",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.948661,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 676-3388",
+        "distance": 7732.783103148226,
+        "id": "cVXglr4JfTCmfwHAtCZudw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yvGoVNsQfa0JkSho6YkxZA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 118",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 118",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Diablo Valley Endodontic Specialists",
+        "phone": "+19256763388",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diablo-valley-endodontic-specialists-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-design-pleasant-hill",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9554556310177,
+            "longitude": -122.090163230896
+        },
+        "display_phone": "(925) 945-7500",
+        "distance": 6402.868829610432,
+        "id": "PVQy0S4Knr51e3OhqPOtEg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5trRID7xkhWxrrDk31WRng/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2685 Pleasant Hill Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2685 Pleasant Hill Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Smile Design",
+        "phone": "+19259457500",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-design-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kevin-t-dowd-dds-pleasant-hill-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486599,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 680-6700",
+        "distance": 7732.783103148226,
+        "id": "kkwJsDr5fgxtOvkUWHDTPw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5a1Pa7UuaLGHKNS5FU0pLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 112",
+            "address3": "Pleasant Hill Family Dentistry",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 112",
+                "Pleasant Hill Family Dentistry",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Kevin T Dowd, DDS",
+        "phone": "+19256806700",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kevin-t-dowd-dds-pleasant-hill-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-smile-orthodontics-and-pediatric-dentistry-benicia-benicia",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.047157883307,
+            "longitude": -122.160724100407
+        },
+        "display_phone": "(707) 748-0500",
+        "distance": 5626.581562981169,
+        "id": "fDSDJksbOv8hDEJYR-L0RA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zIZrwFT-TcCKBCMAN6zRig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "321 1st St",
+            "address2": "Ste 203",
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "321 1st St",
+                "Ste 203",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Solano Smile Orthodontics & Pediatric Dentistry - Benicia",
+        "phone": "+17077480500",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-smile-orthodontics-and-pediatric-dentistry-benicia-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mariela-gamboa-dds-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486618041992,
+            "longitude": -122.07373046875
+        },
+        "display_phone": "(925) 686-0170",
+        "distance": 7732.783103148226,
+        "id": "Y7cwjz14p5J1WGcUdJUXOQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 214",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 214",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Mariela, Gamboa, DDS",
+        "phone": "+19256860170",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mariela-gamboa-dds-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ellinwood-dental-care-pleasant-hill-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9581685172005,
+            "longitude": -122.057687631912
+        },
+        "display_phone": "(925) 682-1312",
+        "distance": 7779.260457607212,
+        "id": "uBtctwsqq41xC5AvCZQoEA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7dM68vuehQMdpG5uQBnnog/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Longbrook Way",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "100 Longbrook Way",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Ellinwood Dental Care",
+        "phone": "+19256821312",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ellinwood-dental-care-pleasant-hill-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "unlimited-smiles-martinez-martinez-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9933349,
+            "longitude": -122.1314113
+        },
+        "display_phone": "(925) 313-9700",
+        "distance": 1943.948043242891,
+        "id": "6rs0hH7L65_JAtKrDE_NTw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RO-FZeVuOYy5JV2miPTEig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4040 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "4040 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Unlimited Smiles - Martinez",
+        "phone": "+19253139700",
+        "rating": 1.5,
+        "review_count": 62,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/unlimited-smiles-martinez-martinez-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bright-now-dental-martinez-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99346,
+            "longitude": -122.10241
+        },
+        "display_phone": "(925) 372-7100",
+        "distance": 2248.057860555816,
+        "id": "VndxsCZIsNX6q3AxNWB7Yg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wWvXfwLE0LKM2WW33Kxr4w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1160 Arnold Dr",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1160 Arnold Dr",
+                "Ste G",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Bright Now! Dental",
+        "phone": "+19253727100",
+        "rating": 2.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bright-now-dental-martinez-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "swanson-george-w-dds-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01494,
+            "longitude": -122.12963
+        },
+        "display_phone": "(925) 228-1124",
+        "distance": 1150.9239831896714,
+        "id": "KwtaONHJ6os3jyz8lXP8Cg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1407 Pine St",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1407 Pine St",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Swanson George W, DDS",
+        "phone": "+19252281124",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/swanson-george-w-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kiran-chaudhri-dmd-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.955127,
+            "longitude": -122.061088
+        },
+        "display_phone": "(925) 682-2022",
+        "distance": 7825.7897028747775,
+        "id": "WnUdQeb2GegXpGoLkBY4vw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0l3KqatH0PH5AOhJmHx5QA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "70 Doray Dr",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "70 Doray Dr",
+                "Ste 5",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Kiran Chaudhri, DMD",
+        "phone": "+19256822022",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kiran-chaudhri-dmd-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-swoboda-dds-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0533396166174,
+            "longitude": -122.152937105464
+        },
+        "display_phone": "(707) 746-1234",
+        "distance": 5801.1258183037335,
+        "id": "9Q4gvJqz9hNLnOc76V0d3g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TPNanPhNInCZtu-0cpoY9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "202 Military E",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "202 Military E",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Scott Swoboda, DDS",
+        "phone": "+17077461234",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-swoboda-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sebastian-s-lavino-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486618041992,
+            "longitude": -122.07373046875
+        },
+        "display_phone": "(925) 689-7122",
+        "distance": 7732.783103148226,
+        "id": "1GRX0udbjWxOrDbp9bqHiw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d03qGMbUBKvzSdZfHrYFhg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 142",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 142",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Sebastian S Lavino, DDS",
+        "phone": "+19256897122",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sebastian-s-lavino-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benicia-oral-surgery-benicia",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0550679125828,
+            "longitude": -122.151874670146
+        },
+        "display_phone": "(707) 747-9621",
+        "distance": 5923.381771827563,
+        "id": "WGCva61vsd3C_mtty6Wgrg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 E 2nd St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "1440 E 2nd St",
+                "Ste B",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Benicia Oral Surgery",
+        "phone": "+17077479621",
+        "rating": 3.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benicia-oral-surgery-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "philip-vassilopoulos-dds-dmd-pleasant-hill",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9476744,
+            "longitude": -122.0834338
+        },
+        "display_phone": "(925) 945-6204",
+        "distance": 7444.094262039276,
+        "id": "cz3-zRARUCFwUEo-u1w6ag",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "710 Grayson Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "710 Grayson Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Philip Vassilopoulos, DDS, DMD",
+        "phone": "+19259456204",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/philip-vassilopoulos-dds-dmd-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yen-chung-k-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486618041992,
+            "longitude": -122.07373046875
+        },
+        "display_phone": "(925) 689-8500",
+        "distance": 7732.783103148226,
+        "id": "8lZQ5oJX7iYVqgD_6mteaA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HzvN9h4oSZALGOzntfSufQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 208",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 208",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Yen Chung K DDS",
+        "phone": "+19256898500",
+        "rating": 3.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yen-chung-k-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "teresina-n-wong-dds-benicia",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.07934640449,
+            "longitude": -122.190999269485
+        },
+        "display_phone": "(707) 745-3838",
+        "distance": 10076.557591759822,
+        "id": "9erllD6YpbTTxNVYz2Y-aQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J5uGf-icRBqGct5HlGj3Yg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2008 Columbus Pkwy",
+            "address2": null,
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "2008 Columbus Pkwy",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Teresina N Wong, DDS",
+        "phone": "+17077453838",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/teresina-n-wong-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "the-dental-center-concord-7",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.965116,
+            "longitude": -122.060399
+        },
+        "display_phone": "(925) 682-3929",
+        "distance": 7070.219267362098,
+        "id": "J0k7tG3SLwJ5M-M3O0ISeQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Yq59fN8VwJqxiTLuzvEYpA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1001 Sunvalley Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1001 Sunvalley Blvd",
+                "Concord, CA 94520"
+            ],
+            "state": "CA",
+            "zip_code": "94520"
+        },
+        "name": "The Dental Center",
+        "phone": "+19256823929",
+        "rating": 3.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/the-dental-center-concord-7?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diablo-valley-dental-pleasant-hill",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94756,
+            "longitude": -122.06507
+        },
+        "display_phone": "(925) 676-5515",
+        "distance": 8272.6421955345,
+        "id": "bVohXWM_WM8vdVstUtatGg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yu2s_PVRJInMoCbgU3mmGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "140 Gregory Ln",
+            "address2": "Ste 100",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "140 Gregory Ln",
+                "Ste 100",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Diablo Valley Dental",
+        "phone": "+19256765515",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diablo-valley-dental-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "randall-lum-dds-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05108,
+            "longitude": -122.15798
+        },
+        "display_phone": "(707) 745-2526",
+        "distance": 5819.203800626789,
+        "id": "oDocq8kgI8igEOaAjuFp6w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S4QNzEnaitUJLjrLkxI0Mw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "815 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "815 1st St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Randall Lum, DDS",
+        "phone": "+17077452526",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/randall-lum-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joe-liang-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.948421,
+            "longitude": -122.060821
+        },
+        "display_phone": "(925) 686-0888",
+        "distance": 8433.614436804326,
+        "id": "A2NIo_YVzYBujpRxiDlGgw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ljbrrZvtDeDWcEVx2l4a3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Gregory Ln",
+            "address2": "Ste 310",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "81 Gregory Ln",
+                "Ste 310",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Joe Liang, DDS",
+        "phone": "+19256860888",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joe-liang-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "houston-brian-a-dds-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04666,
+            "longitude": -122.15956
+        },
+        "display_phone": "(707) 745-8002",
+        "distance": 5518.552205101362,
+        "id": "yZdMUAkWBZkMRz1YNFCqtw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GsqVMmTdvyYRwHFgzQKYTQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "142 E D St",
+            "address2": null,
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "142 E D St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Houston Brian A DDS",
+        "phone": "+17077458002",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/houston-brian-a-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carol-mk-wong-dds-ms-pleasant-hill",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486618,
+            "longitude": -122.0737305
+        },
+        "display_phone": "(925) 681-1801",
+        "distance": 7741.5496359410945,
+        "id": "LTna_qq_2hkTyTru4avCww",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 130",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 130",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Carol MK Wong, DDS, MS",
+        "phone": "+19256811801",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carol-mk-wong-dds-ms-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gregory-ln-family-and-implant-dental-practice-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94866,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 267-8349",
+        "distance": 7732.783103148226,
+        "id": "nb6ZGTOb8yOZ3AqEx2vjPQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2m9nYjWeTz3axwGMFuWWzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 242",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 242",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Gregory Ln Family & Implant Dental Practice",
+        "phone": "+19252678349",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gregory-ln-family-and-implant-dental-practice-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rose-j-endonila-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.948412,
+            "longitude": -122.061701
+        },
+        "display_phone": "(925) 671-9177",
+        "distance": 8370.552002605924,
+        "id": "-ksXsUhn92NHop-rZkhb-w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "91 Gregory Ln",
+            "address2": "Ste 9",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "91 Gregory Ln",
+                "Ste 9",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Rose J Endonila, DDS",
+        "phone": "+19256719177",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rose-j-endonila-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-makers-dental-care-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9633885,
+            "longitude": -122.0604919
+        },
+        "display_phone": "(925) 671-2273",
+        "distance": 7148.155348301247,
+        "id": "jbYe_tOSyEGDhvTSpruYrQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xzXes7GU5abgBXu5jLdRuA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "901 Sunvalley Blvd",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "901 Sunvalley Blvd",
+                "Ste 240",
+                "Concord, CA 94520"
+            ],
+            "state": "CA",
+            "zip_code": "94520"
+        },
+        "name": "Smile Makers Dental Care",
+        "phone": "+19256712273",
+        "rating": 3.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-makers-dental-care-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "singh-sukhmani-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04666,
+            "longitude": -122.15956
+        },
+        "display_phone": "(707) 745-8002",
+        "distance": 5518.552205101362,
+        "id": "Wlg4XAm91e2M6s1LsPu_jQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "142 E D St",
+            "address2": null,
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "142 E D St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "SINGH SUKHMANI",
+        "phone": "+17077458002",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/singh-sukhmani-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "n-street-dental-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05533,
+            "longitude": -122.1535
+        },
+        "display_phone": "(707) 745-0636",
+        "distance": 6012.482607084387,
+        "id": "SvhFz6ktCbuRmyGZG6tB4Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_zox6P6Zq3xUfAexbf8K3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "125 E N St",
+            "address2": "",
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "125 E N St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "N Street Dental",
+        "phone": "+17077450636",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/n-street-dental-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benjamin-cho-dds-pleasant-hill-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.945667,
+            "longitude": -122.053175
+        },
+        "display_phone": "(925) 827-3542",
+        "distance": 9076.303141317412,
+        "id": "IEdOSmf_ikwrSKkDGHEmBQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SZsS0cGiHvMPXKR6x9WaaA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2256 Monument Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2256 Monument Blvd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Benjamin Cho, DDS",
+        "phone": "+19258273542",
+        "rating": 3.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benjamin-cho-dds-pleasant-hill-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "barrett-kathleen-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95838,
+            "longitude": -122.05773
+        },
+        "display_phone": "(925) 682-1312",
+        "distance": 7784.449203517607,
+        "id": "XKGee-oW2OTbi4XfrGVbJQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Longbrook Way",
+            "address2": "Ste 16",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "100 Longbrook Way",
+                "Ste 16",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Barrett Kathleen, DDS",
+        "phone": "+19256821312",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/barrett-kathleen-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amybeth-harmon-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9563825,
+            "longitude": -122.0906154
+        },
+        "display_phone": "(925) 947-1188",
+        "distance": 6301.516948388831,
+        "id": "ZJ9joeOWtf0CqBFpULBx_g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7jW5V169IU99oiPizqwZyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2710 Pleasant Hill Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2710 Pleasant Hill Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Amybeth Harmon, DDS",
+        "phone": "+19259471188",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amybeth-harmon-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "1800-dentist-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0160103,
+            "longitude": -122.1361084
+        },
+        "display_phone": "(877) 423-4205",
+        "distance": 1673.1672360879522,
+        "id": "jaDjNy-JrZNJ9EMEvBhJHg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "647 Green St",
+            "address2": null,
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "647 Green St",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "1800 Dentist",
+        "phone": "+18774234205",
+        "rating": 1.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/1800-dentist-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "crescent-dental-center-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9448204,
+            "longitude": -122.061821
+        },
+        "display_phone": "(925) 798-7570",
+        "distance": 8739.809874188448,
+        "id": "9MnlMqAeMtGc9L3-l-7w-g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xCX4g-8vZlVPV-Q6zW9lqQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "115 Crescent Dr Space M1",
+            "address2": "",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "115 Crescent Dr Space M1",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Crescent Dental Center",
+        "phone": "+19257987570",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/crescent-dental-center-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-campbell-dds-benicia",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04977,
+            "longitude": -122.15688
+        },
+        "display_phone": "(707) 745-1994",
+        "distance": 5653.306233393845,
+        "id": "bErGPkCrYu41q3T5_gEykQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "164 E H St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "164 E H St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Thomas Campbell, DDS",
+        "phone": "+17077451994",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-campbell-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "melvin-t-wells-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.948661,
+            "longitude": -122.07373
+        },
+        "display_phone": "(925) 685-1050",
+        "distance": 7732.783103148226,
+        "id": "kEWizqRPJsIVJrCgSPefew",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7WhctbpvJjIHl05Zh7GuKA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Gregory Ln",
+            "address2": "Ste 218",
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "401 Gregory Ln",
+                "Ste 218",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Melvin T Wells, DDS",
+        "phone": "+19256851050",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/melvin-t-wells-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "perfect-smiles-dental-pleasant-hill",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9483673,
+            "longitude": -122.0599451
+        },
+        "display_phone": "(925) 825-9663",
+        "distance": 8536.371725603223,
+        "id": "zUcOhiDMr7qSnmfFGx4WWg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vFAv7m1phT5i6qhp_r6vYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1952 Contra Costa Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "1952 Contra Costa Blvd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Perfect Smiles Dental",
+        "phone": "+19258259663",
+        "rating": 2.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/perfect-smiles-dental-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wurschmidt-william-c-dds-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.98729,
+            "longitude": -122.07136
+        },
+        "display_phone": "(925) 825-2855",
+        "distance": 4813.090195256889,
+        "id": "V5e0K3ED06dVGlHhyNC6Ng",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5500 Pacheco Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "5500 Pacheco Blvd",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Wurschmidt William C, DDS",
+        "phone": "+19258252855",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wurschmidt-william-c-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vitakes-chris-m-dds-benicia",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04977,
+            "longitude": -122.15688
+        },
+        "display_phone": "(707) 745-1994",
+        "distance": 5653.306233393845,
+        "id": "fzMHCdo75xrQiqVLUbC8WQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "164 E H St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "164 E H St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Vitakes Chris M DDS",
+        "phone": "+17077451994",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vitakes-chris-m-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "basha-dia-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9553902641285,
+            "longitude": -122.090079792136
+        },
+        "display_phone": "(925) 945-7500",
+        "distance": 6402.868829610432,
+        "id": "NNOHTfQoSYKB3o9AtPxI_A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2685 Pleasant Hill Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2685 Pleasant Hill Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "BASHA DIA, DDS",
+        "phone": "+19259457500",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/basha-dia-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "creative-dental-lab-pleasant-hill",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.945621,
+            "longitude": -122.053054
+        },
+        "display_phone": "(925) 521-1192",
+        "distance": 9121.978084297198,
+        "id": "kInLWMdqx9kDrlUdQfdfgA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xJioradK3gwg2Fr5KC4-8A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2100 Monument Blvd",
+            "address2": "",
+            "address3": "15a",
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "2100 Monument Blvd",
+                "15a",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Creative Dental Lab",
+        "phone": "+19255211192",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/creative-dental-lab-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alexei-mizin-pleasant-hill",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9471092224121,
+            "longitude": -122.059181213379
+        },
+        "display_phone": "",
+        "distance": 8171.803999501008,
+        "id": "3dYLOCFVQ_oUv14Y3ZGhXA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": null,
+            "address2": null,
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Alexei Mizin",
+        "phone": "",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alexei-mizin-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "feliciano-turner-michelle-dds-pleasant-hill",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94767,
+            "longitude": -122.08322
+        },
+        "display_phone": "(925) 945-6204",
+        "distance": 7443.913295726031,
+        "id": "9kgwyg6VY1uRgHGaq0Hovw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "710 Grayson Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Pleasant Hill",
+            "country": "US",
+            "display_address": [
+                "710 Grayson Rd",
+                "Pleasant Hill, CA 94523"
+            ],
+            "state": "CA",
+            "zip_code": "94523"
+        },
+        "name": "Feliciano-Turner Michelle DDS",
+        "phone": "+19259456204",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/feliciano-turner-michelle-dds-pleasant-hill?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

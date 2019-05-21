@@ -1,0 +1,927 @@
+[
+    {
+        "alias": "synergy-dental-group-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2895819,
+            "longitude": -122.4637442
+        },
+        "display_phone": "(707) 938-9066",
+        "distance": 63.73336951001914,
+        "id": "pZtfyczwABkRnJoT4CFNSw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KWoDxwCC8hhCnjoQfZme1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "660 3rd St W",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "660 3rd St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Synergy Dental Group",
+        "phone": "+17079389066",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/synergy-dental-group-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marcus-dena-dds-sonoma-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28976,
+            "longitude": -122.46351
+        },
+        "display_phone": "(707) 996-7775",
+        "distance": 46.94894035079185,
+        "id": "NJKMPjzufAo6tnY4uSrQIA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Oo_gBXz4FpVfTylMrKo8HQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "644 3rd St W",
+            "address2": null,
+            "address3": null,
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "644 3rd St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Marcus Dena, DDS",
+        "phone": "+17079967775",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marcus-dena-dds-sonoma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "holifield-stephen-p-dds-sonoma",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28917,
+            "longitude": -122.46565
+        },
+        "display_phone": "(707) 933-9700",
+        "distance": 214.82021882499816,
+        "id": "m2oHQi9PrA0PGUZ4iSJFlQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "375 Perkins St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "375 Perkins St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Holifield Stephen P DDS",
+        "phone": "+17079339700",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/holifield-stephen-p-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alex-e-ivanoff-dds-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.316276550293,
+            "longitude": -122.483612060547
+        },
+        "display_phone": "(707) 935-8200",
+        "distance": 3383.3243070880467,
+        "id": "jPZ9vh6Dmk1FoiaHZ3JNyA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/se8AK0GS8K7mB0pT4YDOSg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17776 Sonoma Hwy",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "17776 Sonoma Hwy",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Alex E Ivanoff DDS",
+        "phone": "+17079358200",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alex-e-ivanoff-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laurent-orthodontics-sonoma",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28984,
+            "longitude": -122.45744
+        },
+        "display_phone": "(707) 938-5255",
+        "distance": 533.0081475134776,
+        "id": "krWUjdSqVuaqR1HV9JrcPA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bgsRUpi_nVFMDvi1rlMusg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "21 Patten St",
+            "address2": null,
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "21 Patten St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Laurent Orthodontics",
+        "phone": "+17079385255",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laurent-orthodontics-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bradd-s-yoshioka-dds-sonoma-valley-dentist-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2913731,
+            "longitude": -122.4634454
+        },
+        "display_phone": "(707) 996-3016",
+        "distance": 142.21558993411657,
+        "id": "qxgxwptpgzOpS40UXvpfOA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Rt2sIHvlvWLSWoelev6KsA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "554 3rd St W",
+            "address2": null,
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "554 3rd St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Bradd S Yoshioka, DDS - Sonoma Valley Dentist",
+        "phone": "+17079963016",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bradd-s-yoshioka-dds-sonoma-valley-dentist-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-n-hillstead-dds-sonoma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2911774,
+            "longitude": -122.4634787
+        },
+        "display_phone": "(707) 996-0813",
+        "distance": 107.4215038141204,
+        "id": "AJgMEm7-E1ebjX7BaOrcuA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6-3es37-9LglNA3wcL9rYQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "574 3rd St W",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "574 3rd St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Michael N Hillstead, DDS",
+        "phone": "+17079960813",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-n-hillstead-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tyler-t-boynton-dmd-sonoma-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2894134521484,
+            "longitude": -122.465759277344
+        },
+        "display_phone": "(707) 996-4519",
+        "distance": 208.2827765213478,
+        "id": "PO1_ioC6LrMA9a1NcZEDlQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jQ_DcxaQ87MVO3o5caD9XA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "378 Perkins St",
+            "address2": null,
+            "address3": null,
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "378 Perkins St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Tyler T Boynton, DMD",
+        "phone": "+17079964519",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tyler-t-boynton-dmd-sonoma-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kristin-b-devincenzi-dds-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28727,
+            "longitude": -122.45902
+        },
+        "display_phone": "(707) 938-8528",
+        "distance": 518.4533811773314,
+        "id": "cHTaiW1u7d7g_tlRAAVk9w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l8gsbpq2WRYIUMMm8AOyTw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "763 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "763 Broadway",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Kristin B Devincenzi, DDS",
+        "phone": "+17079388528",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kristin-b-devincenzi-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonoma-pediatric-dentistry-sonoma",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2890905,
+            "longitude": -122.4629615
+        },
+        "display_phone": "(707) 938-7341",
+        "distance": 133.77334958146915,
+        "id": "4jqVcM8fFg1-R2VheHEpmQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1R_bL2JFtWN5IjXJQogkCw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "248 Perkins St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "248 Perkins St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Sonoma Pediatric Dentistry",
+        "phone": "+17079387341",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonoma-pediatric-dentistry-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cherise-j-wong-dds-sonoma-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.29294,
+            "longitude": -122.4654
+        },
+        "display_phone": "(707) 938-8575",
+        "distance": 338.88743882267,
+        "id": "NUSe6pxbHG7TQJbaezlVdw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G08v0gDb_Tuatjmv1Xo8hA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "390 W Napa St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "390 W Napa St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Cherise J Wong, DDS",
+        "phone": "+17079388575",
+        "rating": 3.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cherise-j-wong-dds-sonoma-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "forstadt-n-julie-dds-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28727,
+            "longitude": -122.45902
+        },
+        "display_phone": "(707) 938-8528",
+        "distance": 518.4533811773314,
+        "id": "mhAfaFJ8l3V6oJ3Kda9z5g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "763 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "763 Broadway",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Forstadt N Julie, DDS",
+        "phone": "+17079388528",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/forstadt-n-julie-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peter-g-meyerhof-phd-dds-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2932913,
+            "longitude": -122.4716221
+        },
+        "display_phone": "(707) 996-8833",
+        "distance": 782.576778124383,
+        "id": "3tQBwypoakz1g4nPr1-1Ww",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eBvKhzk_KE66GcA0XyEg4A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "684 W Napa St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "684 W Napa St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Peter G Meyerhof, PHD DDS",
+        "phone": "+17079968833",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peter-g-meyerhof-phd-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mangrum-yolanda-dds-sonoma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2895819,
+            "longitude": -122.4637442
+        },
+        "display_phone": "(707) 938-9066",
+        "distance": 63.73336951001914,
+        "id": "6ptkp9ikpe6Wp_HhtDhTXg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "660 3rd St W",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "660 3rd St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Mangrum Yolanda DDS",
+        "phone": "+17079389066",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mangrum-yolanda-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nielsen-louise-dds-sonoma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2933616638184,
+            "longitude": -122.465423583984
+        },
+        "display_phone": "(707) 996-3737",
+        "distance": 398.41114611357153,
+        "id": "VSw33iVQyx4Pa5gr38bvBQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "454 4th St W",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "454 4th St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Nielsen Louise DDS",
+        "phone": "+17079963737",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nielsen-louise-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elkhoury-jad-dds-ms-sonoma",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.288259,
+            "longitude": -122.4593074
+        },
+        "display_phone": "(707) 252-7250",
+        "distance": 429.7802408333759,
+        "id": "k67R_u4LeIUOc2mJ7mPcGQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "75 Andrieux",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "75 Andrieux",
+                "Ste A",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Elkhoury Jad DDS MS",
+        "phone": "+17072527250",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elkhoury-jad-dds-ms-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kittleson-daniel-l-dds-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2915077209473,
+            "longitude": -122.463264465332
+        },
+        "display_phone": "(707) 938-3077",
+        "distance": 155.68679446865582,
+        "id": "REfYTYz5IOPTqyXfOBWohA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "548 3rd St W",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "548 3rd St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Kittleson Daniel L, DDS",
+        "phone": "+17079383077",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kittleson-daniel-l-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wong-richard-ken-dntst-sonoma",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.29294,
+            "longitude": -122.46539
+        },
+        "display_phone": "(707) 938-5322",
+        "distance": 338.88743882267,
+        "id": "SrU6XxaSvj1op36WshEYKQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "390 W Napa St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "390 W Napa St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Wong Richard Ken Dntst",
+        "phone": "+17079385322",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wong-richard-ken-dntst-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sai-dental-care-sonoma",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.30849,
+            "longitude": -122.47767
+        },
+        "display_phone": "(707) 933-8600",
+        "distance": 2361.0883437229054,
+        "id": "3ILX7IFh6NN9EDN1XPgTjA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bQENtUY6jzBIdjMHihqOrQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "18615 CA-12",
+            "address2": null,
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "18615 CA-12",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Sai Dental Care",
+        "phone": "+17079338600",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sai-dental-care-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pappas-john-r-dds-md-sonoma",
+        "categories": [
+            {
+                "alias": "physicians",
+                "title": "Doctors"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2923278808594,
+            "longitude": -122.464553833008
+        },
+        "display_phone": "(707) 939-8063",
+        "distance": 259.66763919086134,
+        "id": "XsQCIoSfsLCUfew_Qwc93Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "343 W Napa St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "343 W Napa St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Pappas John R DDS MD",
+        "phone": "+17079398063",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pappas-john-r-dds-md-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-l-daffurn-dds-sonoma",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28767,
+            "longitude": -122.46125
+        },
+        "display_phone": "(707) 996-4585",
+        "distance": 331.36730751914405,
+        "id": "aQg1J9KGvw72N9WcGEqNDw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bPjU-cBFAHZ0kOmMtyVfkA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "181 Andrieux St",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "181 Andrieux St",
+                "Ste 104",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Richard L Daffurn, DDS",
+        "phone": "+17079964585",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-l-daffurn-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "timothy-d-irish-dds-msd-dr-timothy-irish-orthodontics-sonoma",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2894099,
+            "longitude": -122.46904
+        },
+        "display_phone": "(707) 935-6878",
+        "distance": 484.82446810269073,
+        "id": "jGq7EgLZEBYW2DeXxtvMZQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jpKPVzMxjrLqZf8Zr4LxrA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "699 5th St W",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "699 5th St W",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Timothy D Irish DDS, MSD - Dr.Timothy Irish Orthodontics",
+        "phone": "+17079356878",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/timothy-d-irish-dds-msd-dr-timothy-irish-orthodontics-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "politz-jeffrey-d-dds-sonoma",
+        "categories": [
+            {
+                "alias": "physicians",
+                "title": "Doctors"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2923278808594,
+            "longitude": -122.464553833008
+        },
+        "display_phone": "(707) 939-8063",
+        "distance": 259.66763919086134,
+        "id": "EudRTBeI5iBuE_p-83vveg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "343 W Napa St",
+            "address2": "",
+            "address3": "",
+            "city": "Sonoma",
+            "country": "US",
+            "display_address": [
+                "343 W Napa St",
+                "Sonoma, CA 95476"
+            ],
+            "state": "CA",
+            "zip_code": "95476"
+        },
+        "name": "Politz Jeffrey D DDS",
+        "phone": "+17079398063",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/politz-jeffrey-d-dds-sonoma?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

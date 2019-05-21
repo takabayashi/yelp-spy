@@ -1,0 +1,3770 @@
+[
+    {
+        "alias": "lamorinda-dental-care-moraga-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856834,
+            "longitude": -122.123932
+        },
+        "display_phone": "(925) 247-5343",
+        "distance": 1047.0610201070422,
+        "id": "SaYmFQo4gc8097XvJbvFWA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6pzyOM4ssOItEtxcaY4psA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "533 Moraga Rd",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "533 Moraga Rd",
+                "Ste 240",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Lamorinda Dental Care",
+        "phone": "+19252475343",
+        "rating": 4.5,
+        "review_count": 52,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lamorinda-dental-care-moraga-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kevin-ko-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8957949,
+            "longitude": -122.0945593
+        },
+        "display_phone": "(925) 934-0192",
+        "distance": 6125.303807926032,
+        "id": "rF7Yxkdc1zjCKVMIgjEGAQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BshuBsdB7k67Jjn6wGwqbA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3190 Old Tunnel Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3190 Old Tunnel Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Kevin Ko, DDS",
+        "phone": "+19259340192",
+        "rating": 5.0,
+        "review_count": 85,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kevin-ko-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harvest-smile-care-lafayette-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88771,
+            "longitude": -122.11737
+        },
+        "display_phone": "(925) 283-3781",
+        "distance": 4518.116238684195,
+        "id": "5IwUg_HsGXcrMepId1P30g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eOqIeF7ScaLdowJLkySzJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3511 School St",
+            "address2": null,
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3511 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Harvest Smile Care",
+        "phone": "+19252833781",
+        "rating": 5.0,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harvest-smile-care-lafayette-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cobain-orthodontics-lafayette",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8872661,
+            "longitude": -122.1182297
+        },
+        "display_phone": "(925) 283-3355",
+        "distance": 4461.191055464733,
+        "id": "5o2gAWfn6vki7eYebsC16g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nRadHJNFfP2ZkyuLTUThnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "905 Moraga Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "905 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Cobain Orthodontics",
+        "phone": "+19252833355",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cobain-orthodontics-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "moraga-pediatric-dentistry-moraga",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8567941007609,
+            "longitude": -122.123933106003
+        },
+        "display_phone": "(925) 247-0193",
+        "distance": 1044.5626970581982,
+        "id": "wz5BR3s8Wko4Vy_TJDhoQg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4A7B4wecB3l7ecgQJqO0AA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "533 Moraga Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "533 Moraga Rd",
+                "Ste 100",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Moraga Pediatric Dentistry",
+        "phone": "+19252470193",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/moraga-pediatric-dentistry-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laurel-smile-dentistry-oakland-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7926951,
+            "longitude": -122.1995161
+        },
+        "display_phone": "(510) 530-3317",
+        "distance": 8782.434548754702,
+        "id": "KTb5_h8duYPbiM0H0LUUMQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n7Aowcm9r3JdV1sSj52VOg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3630 Macarthur Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3630 Macarthur Blvd",
+                "Oakland, CA 94619"
+            ],
+            "state": "CA",
+            "zip_code": "94619"
+        },
+        "name": "Laurel Smile Dentistry",
+        "phone": "+15105303317",
+        "rating": 4.5,
+        "review_count": 177,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laurel-smile-dentistry-oakland-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "andrew-w-ferrier-dds-east-bay-healthy-smiles-lafayette",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8872676747999,
+            "longitude": -122.118122577667
+        },
+        "display_phone": "(925) 283-0313",
+        "distance": 4453.211584202986,
+        "id": "bcVMAXRSpDMDx7zoqeZxQQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ozvKz9OKMyI3EossVYqxIQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 11",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 11",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Andrew W Ferrier, DDS - East Bay Healthy Smiles",
+        "phone": "+19252830313",
+        "rating": 5.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/andrew-w-ferrier-dds-east-bay-healthy-smiles-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-nisenboym-dds-walnut-creek-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8935417,
+            "longitude": -122.063205
+        },
+        "display_phone": "(925) 934-3395",
+        "distance": 7624.042944291505,
+        "id": "SSs6G4peA9YiSngRdfyVMg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pqkmVYYegOjDIi820o1xng/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "130 Petticoat Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "130 Petticoat Ln",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "David Nisenboym, DDS",
+        "phone": "+19259343395",
+        "rating": 5.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-nisenboym-dds-walnut-creek-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yuko-c-nakamura-md-lafayette",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "laser_hair_removal",
+                "title": "Laser Hair Removal"
+            },
+            {
+                "alias": "medicalspa",
+                "title": "Medical Spas"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8867704,
+            "longitude": -122.118096
+        },
+        "display_phone": "(925) 283-1212",
+        "distance": 4399.48789831784,
+        "id": "zZK61_fNycH9l_X3P8ofkw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nyriPydCgmaSGwmGiJeYow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 7",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Yuko C Nakamura, MD",
+        "phone": "+19252831212",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yuko-c-nakamura-md-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walnut-creek-dental-massood-darvishzadeh-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8953971862793,
+            "longitude": -122.064025878906
+        },
+        "display_phone": "(925) 395-4580",
+        "distance": 7680.3519111931855,
+        "id": "t4HmrPMpgyfe2MwQL0T4-A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t2dFSXqZRuiP4SOXi9Nqyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1855 Olympic Blvd",
+            "address2": "Ste 320",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1855 Olympic Blvd",
+                "Ste 320",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Walnut Creek Dental - Massood Darvishzadeh, DDS",
+        "phone": "+19253954580",
+        "rating": 4.5,
+        "review_count": 52,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walnut-creek-dental-massood-darvishzadeh-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-d-lothamer-dds-moraga-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83211,
+            "longitude": -122.12786
+        },
+        "display_phone": "(925) 376-4602",
+        "distance": 1777.4482884410338,
+        "id": "jXrt10OV29h_iGs8PsUEww",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NKtctwQxIH_CV1PdN9v_Ew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1030 Country Club Dr",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1030 Country Club Dr",
+                "Ste F",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Scott D. Lothamer, DDS",
+        "phone": "+19253764602",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-d-lothamer-dds-moraga-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-j-martin-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8892593383789,
+            "longitude": -122.122840881348
+        },
+        "display_phone": "(925) 283-6564",
+        "distance": 4618.857412096328,
+        "id": "tfnHQ8Nysa2GX0BK64XY6w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jBd-vI-HnCWStACjdPE26g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "938 Dewing Ave",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "938 Dewing Ave",
+                "Ste 2",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "David J Martin, DDS",
+        "phone": "+19252836564",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-j-martin-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tice-valley-dental-sean-karimian-dds-walnut-creek-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.877669,
+            "longitude": -122.0696738
+        },
+        "display_phone": "(925) 231-0972",
+        "distance": 6101.120536586583,
+        "id": "pWDBkFK2k0OhYb956VMqew",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7CLx2rI3caetH3xhf7Jwbg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1220 Rossmoor Pkwy",
+            "address2": "Ste 1",
+            "address3": "Tice Valley Dental",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1220 Rossmoor Pkwy",
+                "Ste 1",
+                "Tice Valley Dental",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Tice Valley Dental: Sean Karimian, DDS",
+        "phone": "+19252310972",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tice-valley-dental-sean-karimian-dds-walnut-creek-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "julia-lee-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88564,
+            "longitude": -122.07563
+        },
+        "display_phone": "(925) 930-8488",
+        "distance": 6225.061405842859,
+        "id": "5Av6qScwr5sExOprpr4eFQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5gqqAIyn698cPn69y1Y-bg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2211 Olympic Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "2211 Olympic Blvd",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Julia Lee, DDS",
+        "phone": "+19259308488",
+        "rating": 4.0,
+        "review_count": 74,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/julia-lee-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-jang-dds-and-associates-orinda-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8810684,
+            "longitude": -122.1860617
+        },
+        "display_phone": "(925) 254-5100",
+        "distance": 6293.418989278543,
+        "id": "JzjWgpD-FEujfl8lwR1qKQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OKtWo2735t-TvB8tJlGMow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1 Santa Maria Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "1 Santa Maria Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Edward Jang, DDS & Associates",
+        "phone": "+19252545100",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-jang-dds-and-associates-orinda-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "procopio-wolter-dental-office-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8854493051767,
+            "longitude": -122.076524868608
+        },
+        "display_phone": "(925) 933-5677",
+        "distance": 6167.216713528645,
+        "id": "TgjlEsUTvrO54lqmSr1EIg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R4Yis8JL5nxLVoc2EPolMQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2229 Olympic Blvd",
+            "address2": "",
+            "address3": "Olympic Professional Offices",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "2229 Olympic Blvd",
+                "Olympic Professional Offices",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Procopio Wolter Dental Office",
+        "phone": "+19259335677",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/procopio-wolter-dental-office-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ali-alijanian-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9053955078125,
+            "longitude": -122.05940246582
+        },
+        "display_phone": "(925) 934-7888",
+        "distance": 8794.719742901054,
+        "id": "IWlI7xlk_ImFa-K4weIhzw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5tj6N7DXu0h1rMi0j-KZGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1150 Civic Dr",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1150 Civic Dr",
+                "Ste 101",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Ali Alijanian, DDS",
+        "phone": "+19259347888",
+        "rating": 4.5,
+        "review_count": 75,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ali-alijanian-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endo-care-group-orinda-orinda",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8808375,
+            "longitude": -122.1857961
+        },
+        "display_phone": "(925) 254-7669",
+        "distance": 6302.5383180887575,
+        "id": "qlGyiyYVn492IjmonTmGTA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/08-qYdhcSVi-9DIAnEBNng/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Orinda Way",
+            "address2": null,
+            "address3": "Endo Care Group",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "10 Orinda Way",
+                "Endo Care Group",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Endo Care Group - Orinda",
+        "phone": "+19252547669",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endo-care-group-orinda-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orinda-dental-care-orinda",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.87694,
+            "longitude": -122.1808
+        },
+        "display_phone": "(925) 254-3725",
+        "distance": 5638.994215123144,
+        "id": "IFYtiPTpzxXBU1g-iqsyDg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O0bGgrJx8rvyrMNInH0PYA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8 Camino Encinas",
+            "address2": "Ste 110",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "8 Camino Encinas",
+                "Ste 110",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Orinda Dental Care",
+        "phone": "+19252543725",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orinda-dental-care-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "keith-gronbach-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8879138,
+            "longitude": -122.1339197
+        },
+        "display_phone": "(925) 283-4050",
+        "distance": 4466.19493297903,
+        "id": "TGLvEMCEDlWipr8U1-FXPg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Itb0558LNvSHIlAkdu6Y2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3799 Mt Diablo Blvd",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3799 Mt Diablo Blvd",
+                "Ste 200",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Keith Gronbach, DDS",
+        "phone": "+19252834050",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/keith-gronbach-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vibhuti-patel-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.890206,
+            "longitude": -122.123587
+        },
+        "display_phone": "(925) 284-7021",
+        "distance": 4709.213410398759,
+        "id": "cJHBrIRvI21lKzHw0_fAhg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "963 Dewing Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "963 Dewing Ave",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Vibhuti Patel, DDS",
+        "phone": "+19252847021",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vibhuti-patel-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "olympic-dental-of-walnut-creek-walnut-creek",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89439,
+            "longitude": -122.06585
+        },
+        "display_phone": "(925) 935-3030",
+        "distance": 7530.373042737979,
+        "id": "MOBujxnRVWOqheuj8ZXlgQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1mENRevogJIdebsud0aqnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1901 Olympic Blvd",
+            "address2": "Ste 105",
+            "address3": null,
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1901 Olympic Blvd",
+                "Ste 105",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Olympic Dental of Walnut Creek",
+        "phone": "+19259353030",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/olympic-dental-of-walnut-creek-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lamorinda-tooth-buds-lafayette",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88768,
+            "longitude": -122.11698
+        },
+        "display_phone": "(925) 385-8051",
+        "distance": 4526.017336226329,
+        "id": "FeXDCmorZOUldiPUGbSK5Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n0HL6gBpNQOIpiJwAMZB-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3501 School St",
+            "address2": null,
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3501 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Lamorinda Tooth Buds",
+        "phone": "+19253858051",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lamorinda-tooth-buds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "matthew-t-herrington-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 283-1144",
+        "distance": 4385.715225906549,
+        "id": "n9E1lvQRUQg8XRBjaBO_gQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 8",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 8",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Matthew T Herrington, DDS",
+        "phone": "+19252831144",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/matthew-t-herrington-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "charles-w-ruefenacht-dds-innovative-dental-solutions-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8877336,
+            "longitude": -122.1169574
+        },
+        "display_phone": "(925) 284-2203",
+        "distance": 4524.849064782539,
+        "id": "tM_YBpSya3BllSDiBlZthQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gVuRYWJSxXyBKGO2K2Z2sA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3509 School St",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3509 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Charles W Ruefenacht, DDS - Innovative Dental Solutions",
+        "phone": "+19252842203",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/charles-w-ruefenacht-dds-innovative-dental-solutions-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cynthia-stephenson-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9057,
+            "longitude": -122.06186
+        },
+        "display_phone": "(925) 938-6000",
+        "distance": 8666.000754187487,
+        "id": "ZQCvXHXARj3c99s_DPysMQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NWx6WjfE8jbnmHbKIfzFgQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1981 N Broadway",
+            "address2": "Ste 212",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1981 N Broadway",
+                "Ste 212",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Cynthia Stephenson, DDS",
+        "phone": "+19259386000",
+        "rating": 4.5,
+        "review_count": 44,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cynthia-stephenson-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "virginia-h-ellis-dds-dental-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8779663,
+            "longitude": -122.1802795
+        },
+        "display_phone": "(925) 254-4043",
+        "distance": 5656.818023678802,
+        "id": "Jewo0bNJ4akqSKH-AwlSxA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AJnw4T1s2sfOwQsDWAyZ1g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "77 Moraga Way",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "77 Moraga Way",
+                "Ste E",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Virginia H. Ellis DDS, Dental",
+        "phone": "+19252544043",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/virginia-h-ellis-dds-dental-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-c-noakes-dds-walnut-creek-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8935093432665,
+            "longitude": -122.063221782446
+        },
+        "display_phone": "(925) 934-0440",
+        "distance": 7622.745530333213,
+        "id": "gKs7-uAfczvhba-x4LSt0w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ScNC3VdnuQIJd6sDXDwp8w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Petticoat Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "150 Petticoat Ln",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "John C Noakes, DDS",
+        "phone": "+19259340440",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-c-noakes-dds-walnut-creek-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "raj-talwar-dds-lafayette-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.887834,
+            "longitude": -122.118668
+        },
+        "display_phone": "(925) 283-3305",
+        "distance": 4505.876831339822,
+        "id": "sqOmyUzhogY9e66u7yoUZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q153FsPvFHzLrAjXd-NULg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "919 Moraga Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "919 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Raj Talwar, DDS",
+        "phone": "+19252833305",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/raj-talwar-dds-lafayette-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ygnacio-dental-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9039,
+            "longitude": -122.06674
+        },
+        "display_phone": "(925) 280-2848",
+        "distance": 8226.280603800074,
+        "id": "LlVCqRALDERdQ8JflckaVg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SFxel-nVp4etOTj8vHNrsA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1766 Lacassie",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1766 Lacassie",
+                "Ste 101",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Ygnacio Dental",
+        "phone": "+19252802848",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ygnacio-dental-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paula-roemer-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89439,
+            "longitude": -122.06585
+        },
+        "display_phone": "(925) 937-2100",
+        "distance": 7530.373042737979,
+        "id": "XQPIeDhh_QXf86UbIzVmCg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wwhe-j2lLyhZBoVoLcrAQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1901 Olympic Blvd",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1901 Olympic Blvd",
+                "Ste 105",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Paula Roemer, DDS",
+        "phone": "+19259372100",
+        "rating": 4.0,
+        "review_count": 39,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paula-roemer-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dental-care-of-walnut-creek-walnut-creek",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.906151,
+            "longitude": -122.05858
+        },
+        "display_phone": "(925) 937-9017",
+        "distance": 8892.484077254825,
+        "id": "XypTTko_kHasulr3gsvSaw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y1eFtVOclhOIY5SzB4Vhmg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1111 Civic Dr",
+            "address2": "Ste 145",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1111 Civic Dr",
+                "Ste 145",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Dental Care of Walnut Creek",
+        "phone": "+19259379017",
+        "rating": 3.5,
+        "review_count": 112,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dental-care-of-walnut-creek-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-martin-dds-ms-lafayette",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8866775,
+            "longitude": -122.1184705
+        },
+        "display_phone": "(925) 283-8101",
+        "distance": 4382.88109251808,
+        "id": "ColwmppH_s2Fx1WuDXxPFg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6hV03EP7U_Gdc3e5H0ll-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 6",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Eric Martin DDS, MS",
+        "phone": "+19252838101",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-martin-dds-ms-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-h-kim-dds-lafayette",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8871737,
+            "longitude": -122.1183633
+        },
+        "display_phone": "(925) 284-9404",
+        "distance": 4438.833364442693,
+        "id": "xtLp1h3QfzeLVR1ypH0u2g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w_0H-3KoEklzFEjq-sOHJg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "901 Moraga Rd",
+            "address2": "Ste B",
+            "address3": "Family & Cosmetic Dental Care",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "901 Moraga Rd",
+                "Ste B",
+                "Family & Cosmetic Dental Care",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "John H Kim, DDS",
+        "phone": "+19252849404",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-h-kim-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "aloha-pediatric-dentistry-orinda-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8824806,
+            "longitude": -122.1857834
+        },
+        "display_phone": "(925) 253-8190",
+        "distance": 6336.19147566367,
+        "id": "lGSWtGrl0yyjFC3v8BK1aw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MTY-LvVU3_aHIhSifiTahA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3 Altarinda Rd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "3 Altarinda Rd",
+                "Ste 210",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Aloha Pediatric Dentistry",
+        "phone": "+19252538190",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/aloha-pediatric-dentistry-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rikli-and-santos-family-dentistry-orinda",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8767733676341,
+            "longitude": -122.179201440627
+        },
+        "display_phone": "(925) 253-0165",
+        "distance": 5506.468998726125,
+        "id": "3ylH9KgyFMaMuXZ_HFzNFA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qHhTrkPK_plbzFyuqOOM1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "93 Moraga Way",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "93 Moraga Way",
+                "Ste 201",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Rikli & Santos Family Dentistry",
+        "phone": "+19252530165",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rikli-and-santos-family-dentistry-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walnut-creek-endodontics-walnut-creek",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8954,
+            "longitude": -122.06403
+        },
+        "display_phone": "(925) 934-4011",
+        "distance": 7680.3519111931855,
+        "id": "Z5bSPEnJQ8Cxp2pxsAeGug",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/50G72kYpFsvByaSDJbuzew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1855 Olympic Blvd",
+            "address2": "Ste 360",
+            "address3": null,
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1855 Olympic Blvd",
+                "Ste 360",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Walnut Creek Endodontics",
+        "phone": "+19259344011",
+        "rating": 4.5,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walnut-creek-endodontics-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "loder-d-david-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8934693163967,
+            "longitude": -122.06325803232
+        },
+        "display_phone": "(925) 932-4811",
+        "distance": 7671.240638948481,
+        "id": "Rwtl1LBNUYPK3uWQLN45_w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "170 Petticoat Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "170 Petticoat Ln",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Loder D David, DDS",
+        "phone": "+19259324811",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/loder-d-david-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dastmalchi-yass-dds-lafayette",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8877176,
+            "longitude": -122.1168064
+        },
+        "display_phone": "(925) 299-0193",
+        "distance": 4525.426731837033,
+        "id": "VVXnUlbsuySPHWdFq7lOdA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9QGgUgRLIPxTil1KiLo0cg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3505 School St",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3505 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Dastmalchi Yass, DDS",
+        "phone": "+19252990193",
+        "rating": 4.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dastmalchi-yass-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peter-m-heckler-dds-heckler-family-dentistry-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8816034,
+            "longitude": -122.1856849
+        },
+        "display_phone": "(925) 254-8380",
+        "distance": 6270.171897393152,
+        "id": "-jaLsGoA7r3G7kxHaryIgQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sKUF4b3sxap1scMxxstm4g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "11 Santa Maria Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "11 Santa Maria Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Peter M Heckler, DDS - Heckler Family Dentistry",
+        "phone": "+19252548380",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peter-m-heckler-dds-heckler-family-dentistry-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dental-implant-center-walnut-creek-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9060467,
+            "longitude": -122.0584716
+        },
+        "display_phone": "(925) 266-3550",
+        "distance": 8890.599957349319,
+        "id": "Qewb_uidfZRd-_hrJYCsQg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ErANdBgS8yW-QUNr-rHAfQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1111 Civic Dr",
+            "address2": "Ste 320",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1111 Civic Dr",
+                "Ste 320",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Dental Implant Center",
+        "phone": "+19252663550",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dental-implant-center-walnut-creek-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jon-e-sammann-dds-lafayette",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 284-4866",
+        "distance": 4385.715225906549,
+        "id": "BF7xCX9OV8223Undu6qmuQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DhdePxGpXxwNo0OIL_M2hA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 9",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 9",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Jon E Sammann, DDS",
+        "phone": "+19252844866",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jon-e-sammann-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orinda-orthodontics-orinda-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88062,
+            "longitude": -122.18093
+        },
+        "display_phone": "(925) 253-4900",
+        "distance": 5873.513023565055,
+        "id": "2AjNZx_goQHgIcVeMzzaCA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jXi2EvER40c496XNE0-iTw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "Ste 1",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Ste 1",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Orinda Orthodontics",
+        "phone": "+19252534900",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orinda-orthodontics-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kristi-doberenz-dds-orinda-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.87694,
+            "longitude": -122.1808
+        },
+        "display_phone": "(925) 254-3725",
+        "distance": 5638.994215123144,
+        "id": "_70FijwFaqrBodcI8SoTfw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4LvQfAT_Wt9aZEev_QYIiA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8 Camino Encinas",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "8 Camino Encinas",
+                "Ste 110",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Kristi Doberenz, DDS",
+        "phone": "+19252543725",
+        "rating": 3.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kristi-doberenz-dds-orinda-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "renaissance-dental-group-lafayette",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8888893,
+            "longitude": -122.11866
+        },
+        "display_phone": "(925) 283-0338",
+        "distance": 4622.5190357655865,
+        "id": "D3lPNYNuN5j5e639VvSfww",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "935 Moraga Rd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "935 Moraga Rd",
+                "Ste 101",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Renaissance Dental Group",
+        "phone": "+19252830338",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/renaissance-dental-group-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jessica-c-schellinck-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8866994,
+            "longitude": -122.1186282
+        },
+        "display_phone": "(925) 283-5454",
+        "distance": 4382.610836974618,
+        "id": "db62KBCGpULojKb_ZY_TNg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LfezK_IVpX3-URK1bDPNfw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 1",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Jessica C Schellinck, DDS",
+        "phone": "+19252835454",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jessica-c-schellinck-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amir-kolini-dds-moraga",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8324966430664,
+            "longitude": -122.128303527832
+        },
+        "display_phone": "(925) 376-0322",
+        "distance": 1710.1115658518072,
+        "id": "n_dCd0cNCe3Spdb8_zAQeQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1002 Country Club Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1002 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Amir Kolini, DDS",
+        "phone": "+19253760322",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amir-kolini-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fatima-beheshti-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.887562,
+            "longitude": -122.118553
+        },
+        "display_phone": "(925) 299-9922",
+        "distance": 4478.767703798028,
+        "id": "OlPG0a1-Xz69KZbUVsf9Zg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "911 Moraga Rd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "911 Moraga Rd",
+                "Ste 102",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Fatima Beheshti, DDS",
+        "phone": "+19252999922",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fatima-beheshti-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kian-p-tavallei-dds-moraga",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832493,
+            "longitude": -122.128296
+        },
+        "display_phone": "(925) 376-0322",
+        "distance": 1710.9343738577224,
+        "id": "21XizdQRiVGUUmyT_Scugg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1002 Country Club Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1002 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Kian P Tavallei, DDS",
+        "phone": "+19253760322",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kian-p-tavallei-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-f-swimmer-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88733,
+            "longitude": -122.11852
+        },
+        "display_phone": "(925) 283-0114",
+        "distance": 4461.191055464733,
+        "id": "JeQ2F_fOj6YzlvLdIdeB_g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "907 Moraga Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "907 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Mark F Swimmer, DDS",
+        "phone": "+19252830114",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-f-swimmer-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ryan-m-miyasaki-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8854009,
+            "longitude": -122.0762103
+        },
+        "display_phone": "(925) 934-3251",
+        "distance": 6170.128307781649,
+        "id": "ULuw7hUAaJzDlJuqVPw_gA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iriJUCEgVaxWkfXviOPNHg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2225 Olympic Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "2225 Olympic Blvd",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Ryan M Miyasaki, DDS",
+        "phone": "+19259343251",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ryan-m-miyasaki-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amin-samadian-dds-dion-health-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8819703,
+            "longitude": -122.1879525
+        },
+        "display_phone": "(925) 254-2360",
+        "distance": 6467.367050174516,
+        "id": "L6p_rwPsbohKzxCw4gdW_w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3z6LXg6YBXjDpXFaTVPdlQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "23 Orinda Way",
+            "address2": "Ste 301",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "23 Orinda Way",
+                "Ste 301",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Amin Samadian, DDS - Dion Health",
+        "phone": "+19252542360",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amin-samadian-dds-dion-health-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orinda-hills-orthodontics-orinda",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88357,
+            "longitude": -122.18393
+        },
+        "display_phone": "(925) 254-4568",
+        "distance": 6285.393446352351,
+        "id": "jykUIzXwc4sTmLoGdJBVhg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yTsbWzshW2w8BM727qDoZQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "15 Altarinda Rd",
+            "address2": "Ste 104A",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "15 Altarinda Rd",
+                "Ste 104A",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Orinda Hills Orthodontics",
+        "phone": "+19252544568",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orinda-hills-orthodontics-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "troy-a-lauritzen-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88733,
+            "longitude": -122.11852
+        },
+        "display_phone": "(925) 283-0114",
+        "distance": 4461.191055464733,
+        "id": "oy5Yj-e0P00ZXnD9W8qu9A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "907 Moraga Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "907 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Troy A Lauritzen, DDS",
+        "phone": "+19252830114",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/troy-a-lauritzen-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "axelrode-orthodontics-moraga",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832728,
+            "longitude": -122.12805
+        },
+        "display_phone": "(925) 376-2800",
+        "distance": 1699.0755257079798,
+        "id": "Qxi89qqDbaqJFepERZ0Mow",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WMwRc88DKOeFMnvp7zaGYA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1016 Country Club Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1016 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Axelrode Orthodontics",
+        "phone": "+19253762800",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/axelrode-orthodontics-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mary-h-smith-dds-a-professional-corporation-orinda-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.880615234375,
+            "longitude": -122.180931091309
+        },
+        "display_phone": "(925) 254-0824",
+        "distance": 5874.342165396871,
+        "id": "1kHPMAvuptpREMJzS_B3Qw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RzXGAIK7mrRYynhIV132pQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Ste 5",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Mary H Smith DDS, A Professional Corporation",
+        "phone": "+19252540824",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mary-h-smith-dds-a-professional-corporation-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wake-ronald-yukio-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88659,
+            "longitude": -122.11869
+        },
+        "display_phone": "(925) 283-0280",
+        "distance": 4385.715225906549,
+        "id": "IttXWqZ4ziw5fOXtsa4qiw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 2",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Wake Ronald Yukio, DDS",
+        "phone": "+19252830280",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wake-ronald-yukio-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "moraga-dental-care-moraga-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832495,
+            "longitude": -122.128303
+        },
+        "display_phone": "(925) 376-0322",
+        "distance": 1725.0211544351582,
+        "id": "eQ_lQDxuu_YfH9gg0bDTgA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PQD6nCZ0BEa7DdpeJ1Dh7g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1002 Country Club Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1002 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Moraga Dental Care",
+        "phone": "+19253760322",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/moraga-dental-care-moraga-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orofacial-integrity-oakland",
+        "categories": [
+            {
+                "alias": "medcenters",
+                "title": "Medical Centers"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8000068664551,
+            "longitude": -122.17106628418
+        },
+        "display_phone": "(510) 479-3591",
+        "distance": 6522.2827960301465,
+        "id": "ISwWo2lSM0vwGT4iePNXSQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NNXHpqbfEorPbzi9XmIE8A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5707 Redwood Rd",
+            "address2": "Ste 19",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5707 Redwood Rd",
+                "Ste 19",
+                "Oakland, CA 94619"
+            ],
+            "state": "CA",
+            "zip_code": "94619"
+        },
+        "name": "Orofacial Integrity",
+        "phone": "+15104793591",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orofacial-integrity-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christopher-thompson-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88517,
+            "longitude": -122.07615
+        },
+        "display_phone": "(925) 934-3251",
+        "distance": 6170.128307781649,
+        "id": "90UuIwJLgskGtqDucbAZCA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VQyD-hkHRyWeKFP70XZjsA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2225 Olympic Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "2225 Olympic Blvd",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Christopher Thompson, DDS",
+        "phone": "+19259343251",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christopher-thompson-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sayegh-robert-m-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88659,
+            "longitude": -122.11869
+        },
+        "display_phone": "(925) 284-4744",
+        "distance": 4385.715225906549,
+        "id": "V8sPJfjiCE36OK-C1vlXBA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 14",
+            "address3": null,
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 14",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Sayegh Robert M DDS",
+        "phone": "+19252844744",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sayegh-robert-m-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endo-care-group-orinda",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8808375,
+            "longitude": -122.1857961
+        },
+        "display_phone": "(925) 254-7669",
+        "distance": 6302.5383180887575,
+        "id": "JissVpAwxmq3SKHF1YkvVA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Orinda Way",
+            "address2": "",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "10 Orinda Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Endo Care Group",
+        "phone": "+19252547669",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endo-care-group-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "art-of-smile-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8945813,
+            "longitude": -122.107803
+        },
+        "display_phone": "(925) 299-1504",
+        "distance": 5477.834838345196,
+        "id": "esPw0cL8wXIliA4oJxax_w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KkW5oe_OpmRxIDNqr3Io5A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3370 Mt Diablo Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3370 Mt Diablo Blvd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Art of Smile",
+        "phone": "+19252991504",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/art-of-smile-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laura-l-halvorsen-dds-moraga",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832802,
+            "longitude": -122.128366
+        },
+        "display_phone": "(925) 376-4626",
+        "distance": 1690.9404292333118,
+        "id": "l_56y4tCp9rzZYJLBnYMYQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uX2nz131h1tJOvZXSdnKag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1004 Country Club Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1004 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Laura L Halvorsen, DDS",
+        "phone": "+19253764626",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laura-l-halvorsen-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "matsunaga-chris-s-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8931264579296,
+            "longitude": -122.05682605505
+        },
+        "display_phone": "(925) 934-1777",
+        "distance": 8037.399252988652,
+        "id": "Z5Vx36HGKzvrHEM_0AidYg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1402 Maria Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1402 Maria Ln",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Matsunaga Chris S DDS",
+        "phone": "+19259341777",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/matsunaga-chris-s-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "clearchoice-dental-implant-center-walnut-creek",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9056994,
+            "longitude": -122.0617799
+        },
+        "display_phone": "(925) 705-4434",
+        "distance": 8664.81742138571,
+        "id": "rmuT2JhM4ovrZYZwcgtBhA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sd9Xc5Bq8tu9VyAhhSC9nA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1981 N Broadway",
+            "address2": "Ste 180",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1981 N Broadway",
+                "Ste 180",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "ClearChoice Dental Implant Center",
+        "phone": "+19257054434",
+        "rating": 3.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/clearchoice-dental-implant-center-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "highland-dentistry-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89320617,
+            "longitude": -122.11506267
+        },
+        "display_phone": "(925) 298-5386",
+        "distance": 5183.184810518721,
+        "id": "oVwfEdLpnIEha2UVH1egDA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wN-xeB3XmrR23CuiFlUQAA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3466 Mt Diablo Blvd",
+            "address2": "Ste C207",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3466 Mt Diablo Blvd",
+                "Ste C207",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Highland Dentistry",
+        "phone": "+19252985386",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/highland-dentistry-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endocare-orinda-orinda",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8808375,
+            "longitude": -122.1857961
+        },
+        "display_phone": "(925) 254-7669",
+        "distance": 6302.5383180887575,
+        "id": "ked5nU8ipY0UYPjIEo18sw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Orinda Way",
+            "address2": "",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "10 Orinda Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "EndoCare - Orinda",
+        "phone": "+19252547669",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endocare-orinda-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fong-karen-t-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8931264579296,
+            "longitude": -122.05682605505
+        },
+        "display_phone": "(925) 934-4777",
+        "distance": 8037.399252988652,
+        "id": "YOGtB49xHePg121JDwPlMA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1402 Maria Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1402 Maria Ln",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Fong Karen T DDS",
+        "phone": "+19259344777",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fong-karen-t-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "koopah-and-koopah-inc-orinda-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8804608,
+            "longitude": -122.180992
+        },
+        "display_phone": "(925) 254-4877",
+        "distance": 5877.501335195796,
+        "id": "FF3E8BR0riiSblhIh4kPpA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bRaPVa1QAyYLqhQ8rdNgGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "Ste 6",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Ste 6",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Koopah & Koopah, Inc.",
+        "phone": "+19252544877",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/koopah-and-koopah-inc-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jess-santucci-dds-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8846482,
+            "longitude": -122.1919236
+        },
+        "display_phone": "(925) 254-4633",
+        "distance": 6926.458599634746,
+        "id": "t-3SiGiBUQka3hjX_EDqyg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JsfB3sR027vnnpQFeiy1Hg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "61 Avenida De Orinda",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "61 Avenida De Orinda",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Jess Santucci, DDS",
+        "phone": "+19252544633",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jess-santucci-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walcott-robt-c-dds-moraga",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83305,
+            "longitude": -122.12781
+        },
+        "display_phone": "(925) 376-4246",
+        "distance": 1648.9902838205967,
+        "id": "o3zqoAfsF2IMu9xrqA0VTw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1001 Country Club Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1001 Country Club Dr",
+                "Ste A",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Walcott Robt C DDS",
+        "phone": "+19253764246",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walcott-robt-c-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "osterman-orthodontics-lafayette",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 283-1921",
+        "distance": 4385.715225906549,
+        "id": "bXWXJXzDZA_Wlb9ACESQIg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NtiD8-DnlsegqcJ1dn_rxw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 3",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Osterman Orthodontics",
+        "phone": "+19252831921",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/osterman-orthodontics-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-j-sayegh-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 284-4744",
+        "distance": 4385.715225906549,
+        "id": "qghBuBYKhEqsbT9j5GpZgw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 14",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 14",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Michael J Sayegh,DDS",
+        "phone": "+19252844744",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-j-sayegh-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "callahan-timothy-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90357,
+            "longitude": -122.06918
+        },
+        "display_phone": "(925) 947-0616",
+        "distance": 8059.230014704232,
+        "id": "HnQBakjSxPuDmOWNyfUpvQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1801 Oakland Blvd",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1801 Oakland Blvd",
+                "Ste 120",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Callahan Timothy DDS",
+        "phone": "+19259470616",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/callahan-timothy-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ernest-a-kahl-dds-orinda",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8807875,
+            "longitude": -122.1857261
+        },
+        "display_phone": "(925) 254-2318",
+        "distance": 6293.811546488332,
+        "id": "IjjZqTSRrgzlXm-0rfR6Tg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "6 Orinda Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "6 Orinda Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Ernest A Kahl , DDS",
+        "phone": "+19252542318",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ernest-a-kahl-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-e-ogro-dds-orinda",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88165,
+            "longitude": -122.18586
+        },
+        "display_phone": "(925) 254-2133",
+        "distance": 6300.604805746876,
+        "id": "jvHQW5sRJGVMKzXbK4G4gw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LV27fToxeUlmIi9uXAxRhQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5 Santa Maria Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "5 Santa Maria Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "John E Ogro, DDS",
+        "phone": "+19252542133",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-e-ogro-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "trent-e-graves-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8851889,
+            "longitude": -122.076455
+        },
+        "display_phone": "(925) 937-5020",
+        "distance": 6138.3778448858675,
+        "id": "y1qkyhvm-OIRESGXsJGPzg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MPbIJ3Eb-Owlg4KoAmO6mA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2231 Olympic Blvd",
+            "address2": null,
+            "address3": null,
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "2231 Olympic Blvd",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Trent E Graves, DDS",
+        "phone": "+19259375020",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/trent-e-graves-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-f-aimar-d-d-s-walnut-creek",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.895396,
+            "longitude": -122.064028
+        },
+        "display_phone": "(925) 934-4011",
+        "distance": 7709.560608139972,
+        "id": "G710r7T_nQVZPPXwXpQ_PQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1855 Olympic Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1855 Olympic Blvd",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "David F. Aimar, D D S,",
+        "phone": "+19259344011",
+        "rating": 4.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-f-aimar-d-d-s-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "t-christine-eng-dds-inc-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9064352,
+            "longitude": -122.0588511
+        },
+        "display_phone": "(925) 932-1888",
+        "distance": 8899.200123780689,
+        "id": "eOTR84qkaiQeh_vEPHV-vA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wfik9_-4-J_9Hc3TA_vZFw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1111 Civic Dr",
+            "address2": "Ste 310",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1111 Civic Dr",
+                "Ste 310",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "T. Christine Eng, DDS Inc.",
+        "phone": "+19259321888",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/t-christine-eng-dds-inc-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "renew-dental-implants-specialists-burlingame",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9061713,
+            "longitude": -122.060041
+        },
+        "display_phone": "(888) 275-2336",
+        "distance": 8806.592008870484,
+        "id": "FhLhbVSrs0VGq-1g0ZxO7w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RS_26NwiMOG6UbE8OIvMZA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1740 Marco Polo Way",
+            "address2": "Ste 10",
+            "address3": null,
+            "city": "Burlingame",
+            "country": "US",
+            "display_address": [
+                "1740 Marco Polo Way",
+                "Ste 10",
+                "Burlingame, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Renew Dental Implants Specialists",
+        "phone": "+18882752336",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/renew-dental-implants-specialists-burlingame?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "todd-wedeking-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.906116,
+            "longitude": -122.060035
+        },
+        "display_phone": "(925) 813-0402",
+        "distance": 8818.205505970105,
+        "id": "17UtEwZdDw1ihmyNoT2eeA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "675 Ygnacio Valley Rd",
+            "address2": "Ste B105",
+            "address3": "renew Dental Implant Specialists",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "675 Ygnacio Valley Rd",
+                "Ste B105",
+                "renew Dental Implant Specialists",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Todd Wedeking, DDS",
+        "phone": "+19258130402",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/todd-wedeking-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lin-han-c-dds-oakland",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7927525,
+            "longitude": -122.1994969
+        },
+        "display_phone": "(510) 530-2928",
+        "distance": 8769.271953585667,
+        "id": "JexAKLpsekVwl8BY9rPeVg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3628 MacArthur Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3628 MacArthur Blvd",
+                "Oakland, CA 94619"
+            ],
+            "state": "CA",
+            "zip_code": "94619"
+        },
+        "name": "Lin Han C,DDS",
+        "phone": "+15105302928",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lin-han-c-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rossmoor-dental-walnut-creek",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.877693,
+            "longitude": -122.069648
+        },
+        "display_phone": "(925) 935-5800",
+        "distance": 6102.0923922606635,
+        "id": "nHe8xTZR-Dp1lU87lZxFTw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9mxse8I_iaVEPAf4vmo7Sw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1220 Rossmoor Pkwy",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1220 Rossmoor Pkwy",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Rossmoor Dental",
+        "phone": "+19259355800",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rossmoor-dental-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "victoria-dillingham-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88727,
+            "longitude": -122.134188
+        },
+        "display_phone": "(925) 283-1220",
+        "distance": 4397.857677531557,
+        "id": "9E3VVb0EXuh0-dOfe5yDhQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z19TL9o3TY-6Tnofz6lCTQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "915 Village Ctr",
+            "address2": null,
+            "address3": null,
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "915 Village Ctr",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Victoria Dillingham, DDS",
+        "phone": "+19252831220",
+        "rating": 2.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/victoria-dillingham-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-pink-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8943977355957,
+            "longitude": -122.065826416016
+        },
+        "display_phone": "(925) 935-3030",
+        "distance": 7530.373042737979,
+        "id": "jf1_i7PV3xdKkaGnmXaIUw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1901 Olympic Blvd",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1901 Olympic Blvd",
+                "Ste 105",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Michael Pink, DDS",
+        "phone": "+19259353030",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-pink-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amos-arthur-dds-orinda",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.880615234375,
+            "longitude": -122.180931091309
+        },
+        "display_phone": "(925) 254-4877",
+        "distance": 5874.342165396871,
+        "id": "HkrviN4PVxRkvrV6c7v6vQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Amos Arthur, DDS",
+        "phone": "+19252544877",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amos-arthur-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diabloview-family-dentists-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88659,
+            "longitude": -122.11869
+        },
+        "display_phone": "(925) 254-0084",
+        "distance": 4385.715225906549,
+        "id": "Uz0fx4gaaiSZZvTZP_9XFQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 5",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "DiabloView Family Dentists",
+        "phone": "+19252540084",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diabloview-family-dentists-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "britesmile-walnut-creek",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89812,
+            "longitude": -122.064
+        },
+        "display_phone": "(925) 944-6030",
+        "distance": 7954.6896626468015,
+        "id": "oYAmHz1rIw2u3P7ZmZMeUg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1333 N California Blvd",
+            "address2": "Ste SL-30",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1333 N California Blvd",
+                "Ste SL-30",
+                "Walnut Creek, CA 94596"
+            ],
+            "state": "CA",
+            "zip_code": "94596"
+        },
+        "name": "Britesmile",
+        "phone": "+19259446030",
+        "rating": 2.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/britesmile-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "shepard-cecile-dpm-walnut-creek",
+        "categories": [
+            {
+                "alias": "internalmed",
+                "title": "Internal Medicine"
+            },
+            {
+                "alias": "optometrists",
+                "title": "Optometrists"
+            },
+            {
+                "alias": "podiatrists",
+                "title": "Podiatrists"
+            },
+            {
+                "alias": "opthamalogists",
+                "title": "Ophthalmologists"
+            },
+            {
+                "alias": "orthopedists",
+                "title": "Orthopedists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8776931762695,
+            "longitude": -122.069648742676
+        },
+        "display_phone": "(925) 941-1220",
+        "distance": 6101.120536586583,
+        "id": "GJ_2754kjwb9QuO4CxpZRQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1220 Rossmoor Pkwy",
+            "address2": "",
+            "address3": "",
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1220 Rossmoor Pkwy",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Shepard Cecile DPM",
+        "phone": "+19259411220",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/shepard-cecile-dpm-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "katsura-neil-m-dds-orinda",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8824882507324,
+            "longitude": -122.18578338623
+        },
+        "display_phone": "(925) 253-8190",
+        "distance": 6350.918998934324,
+        "id": "wSZgL72SESXCeQyU1XX7hQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3 Altarinda Rd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "3 Altarinda Rd",
+                "Ste 210",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Katsura Neil M,DDS",
+        "phone": "+19252538190",
+        "rating": 2.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/katsura-neil-m-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walnut-creek-cosmetic-dental-design-walnut-creek",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8945879999971,
+            "longitude": -122.074709210804
+        },
+        "display_phone": "(925) 939-3692",
+        "distance": 6987.4993916054555,
+        "id": "uprxirUPcShmpXaAq8u8sw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1181 Boulevard Way",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "1181 Boulevard Way",
+                "Ste C",
+                "Walnut Creek, CA 94595"
+            ],
+            "state": "CA",
+            "zip_code": "94595"
+        },
+        "name": "Walnut Creek Cosmetic Dental Design",
+        "phone": "+19259393692",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walnut-creek-cosmetic-dental-design-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

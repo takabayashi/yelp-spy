@@ -1,0 +1,860 @@
+[
+    {
+        "alias": "villaggio-dental-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.62583,
+            "longitude": -122.87206
+        },
+        "display_phone": "(707) 433-5052",
+        "distance": 884.153611110157,
+        "id": "gad6Y5O3QZKgzdchbqiVaw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dhiYxGR76u1jQlcTLxQLhg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1260 Healdsburg Ave",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "1260 Healdsburg Ave",
+                "Ste 101",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Villaggio Dental",
+        "phone": "+17074335052",
+        "rating": 4.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/villaggio-dental-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rodriguez-mccann-gil-dds-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.62627,
+            "longitude": -122.86452
+        },
+        "display_phone": "(707) 433-6925",
+        "distance": 660.5515086013421,
+        "id": "1mLHUtfmZ0q6utpYjZbJFA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GapHe9KF-Zeq1lICtDZVGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "451 March Ave",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "451 March Ave",
+                "Ste C",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Rodriguez-McCann Gil, DDS",
+        "phone": "+17074336925",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rodriguez-mccann-gil-dds-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-k-tom-ms-dds-healdsburg",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.6263099,
+            "longitude": -122.86475
+        },
+        "display_phone": "(707) 433-0231",
+        "distance": 660.5235194805824,
+        "id": "oTho_IhJXPq7sFw9eU3e7w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "445 March Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "445 March Ave",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "William K Tom Ms DDS",
+        "phone": "+17074330231",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-k-tom-ms-dds-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roger-r-bartels-dds-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.61051,
+            "longitude": -122.86857
+        },
+        "display_phone": "(707) 433-8888",
+        "distance": 1138.6954641905709,
+        "id": "YhMFR1oUjy5KAZ6w-clUVQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "138 Matheson St",
+            "address2": null,
+            "address3": null,
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "138 Matheson St",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Roger R Bartels, DDS",
+        "phone": "+17074338888",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roger-r-bartels-dds-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pamela-a-everson-dds-pc-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.63037,
+            "longitude": -122.87213
+        },
+        "display_phone": "(707) 433-0210",
+        "distance": 1270.8415033069687,
+        "id": "LCXUeqIoHA-OmdxhMLyQXA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M7BTsuZ44PIVYlWFUT75Ww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1526 Healdsburg Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "1526 Healdsburg Ave",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Pamela A Everson, DDS, PC",
+        "phone": "+17074330210",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pamela-a-everson-dds-pc-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "boettger-steven-r-dds-healdsburg",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.6263099,
+            "longitude": -122.86475
+        },
+        "display_phone": "(707) 433-0231",
+        "distance": 660.5235194805824,
+        "id": "wXM_RY-ec6TmEOT9rziFuA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "445 March Ave",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "445 March Ave",
+                "Ste B",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Boettger Steven R, DDS",
+        "phone": "+17074330231",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/boettger-steven-r-dds-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-w-neal-dds-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.6263046264648,
+            "longitude": -122.86499786377
+        },
+        "display_phone": "(707) 433-6910",
+        "distance": 663.1436681029213,
+        "id": "XEdBbZoVE2OSsA7XjSQnew",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "441 March Ave",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "441 March Ave",
+                "Ste B",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Michael W Neal, DDS",
+        "phone": "+17074336910",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-w-neal-dds-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alliance-medical-dental-clinic-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.6271514,
+            "longitude": -122.8638849
+        },
+        "display_phone": "(707) 433-8161",
+        "distance": 747.449845586591,
+        "id": "vHk-okY0FIOrYR42QgvWwA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3sB8881H7F2XgrlTmLRvWw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1381 University Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "1381 University Ave",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Alliance Medical Dental Clinic",
+        "phone": "+17074338161",
+        "rating": 3.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alliance-medical-dental-clinic-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-orthodontics-windsor-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5500483959913,
+            "longitude": -122.80573502183
+        },
+        "display_phone": "(707) 546-8600",
+        "distance": 9357.360568092621,
+        "id": "ZLdWuK3aXqjb7Na38rPy5g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/javzIH1HRib1Wwq65t7PTA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8911 Lakewood Dr",
+            "address2": "Ste 12",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8911 Lakewood Dr",
+                "Ste 12",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Smile Orthodontics",
+        "phone": "+17075468600",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-orthodontics-windsor-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bozeman-brian-dds-practice-limited-to-endodontics-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.61785,
+            "longitude": -122.87168
+        },
+        "display_phone": "(707) 433-2464",
+        "distance": 653.9353288006357,
+        "id": "Ya0ll9yOUfPZH74eQ12rww",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "704 Healdsburg Ave",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "704 Healdsburg Ave",
+                "Ste C",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "BOZEMAN BRIAN DDS PRACTICE LIMITED TO ENDODONTICS",
+        "phone": "+17074332464",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bozeman-brian-dds-practice-limited-to-endodontics-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bernstein-orthodontics-windsor",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.54786,
+            "longitude": -122.80694
+        },
+        "display_phone": "(707) 836-8360",
+        "distance": 9527.50738079906,
+        "id": "LKC7R6d9FEmNjA5KsGQcmA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z09jPDW1kchAsYVKq2iWXw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8741 Brooks Rd S",
+            "address2": null,
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8741 Brooks Rd S",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Bernstein Orthodontics",
+        "phone": "+17078368360",
+        "rating": 3.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bernstein-orthodontics-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-l-scheiner-dds-windsor",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5477196,
+            "longitude": -122.8067042
+        },
+        "display_phone": "(707) 837-8311",
+        "distance": 9529.788073855992,
+        "id": "mKNgzs-qoQNjaMpE2WEHDQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hdsthHy8LmMJz9oyBhm_Og/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8741 Brooks Rd S",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8741 Brooks Rd S",
+                "Ste 100",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "David L Scheiner, DDS",
+        "phone": "+17078378311",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-l-scheiner-dds-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ritz-franklin-e-dds-healdsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.6138343811035,
+            "longitude": -122.869476318359
+        },
+        "display_phone": "(707) 433-3583",
+        "distance": 815.5107895730991,
+        "id": "GQy_duqwRrohfxOqwkNEpg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "441 E St",
+            "address2": "",
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "441 E St",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Ritz, Franklin E, DDS",
+        "phone": "+17074333583",
+        "rating": 2.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ritz-franklin-e-dds-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "charles-aikawa-dds-windsor",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.547824,
+            "longitude": -122.806792
+        },
+        "display_phone": "(707) 579-1201",
+        "distance": 9515.896858334629,
+        "id": "sYOByMWwcKuB0Yzp9k5zaQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "8741 Brooks Rd",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8741 Brooks Rd",
+                "Ste 201",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Charles Aikawa, DDS",
+        "phone": "+17075791201",
+        "rating": 3.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/charles-aikawa-dds-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-laura-van-roy-dds-windsor",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5478553771973,
+            "longitude": -122.806938171387
+        },
+        "display_phone": "(707) 838-1686",
+        "distance": 9527.50738079906,
+        "id": "4cDg7pZ-A_F5tq9Akm8v3w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DIJpY0_I79_U-ZB6zzrM1w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8741 Brooks Rd S",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8741 Brooks Rd S",
+                "Ste 202",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Dr Laura Van Roy, DDS",
+        "phone": "+17078381686",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-laura-van-roy-dds-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brooks-road-dental-care-windsor",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.549208,
+            "longitude": -122.8072039
+        },
+        "display_phone": "(707) 837-2150",
+        "distance": 9395.236155017335,
+        "id": "oEMkxQpSIZlJs4dJimDbqA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "8968 Brooks Rd S",
+            "address2": "",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8968 Brooks Rd S",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Brooks Road Dental Care",
+        "phone": "+17078372150",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brooks-road-dental-care-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "healdsburg-orthodontics-healdsburg",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.619241,
+            "longitude": -122.872215
+        },
+        "display_phone": "(707) 433-4829",
+        "distance": 646.093026481028,
+        "id": "jwP0cqh1udaWaVHQOfS0ag",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "737 Healdsburg Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Healdsburg",
+            "country": "US",
+            "display_address": [
+                "737 Healdsburg Ave",
+                "Healdsburg, CA 95448"
+            ],
+            "state": "CA",
+            "zip_code": "95448"
+        },
+        "name": "Healdsburg Orthodontics",
+        "phone": "+17074334829",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/healdsburg-orthodontics-healdsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lakewood-dental-windsor",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5504925,
+            "longitude": -122.8072851
+        },
+        "display_phone": "(707) 836-8685",
+        "distance": 9262.701998380566,
+        "id": "Y64NUsg4Up7Rh5KQFxv_Ww",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jwrP66Wbzs07ovqmHT16jg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "9046 Brooks Rd S",
+            "address2": "",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "9046 Brooks Rd S",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Lakewood Dental",
+        "phone": "+17078368685",
+        "rating": 2.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lakewood-dental-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "payne-orthodontics-windsor-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5487369,
+            "longitude": -122.8115699
+        },
+        "display_phone": "(707) 838-4959",
+        "distance": 9068.689543381479,
+        "id": "74da4p5Haephe-LP0qrfsw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xok0gjWjbCcjx8YQ9U2YEw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "9240 Old Redwood Hwy",
+            "address2": "Ste 106",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "9240 Old Redwood Hwy",
+                "Ste 106",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Payne Orthodontics",
+        "phone": "+17078384959",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/payne-orthodontics-windsor-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "serafica-regina-dds-windsor",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5504925,
+            "longitude": -122.8072851
+        },
+        "display_phone": "(707) 836-8685",
+        "distance": 9262.701998380566,
+        "id": "sPVuiRpXRRAEHFnxG7NyLQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "9046 Brooks Rd S",
+            "address2": "",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "9046 Brooks Rd S",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Serafica Regina DDS",
+        "phone": "+17078368685",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/serafica-regina-dds-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "windsor-oral-and-maxillofacial-surgery-center-windsor",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.5478499,
+            "longitude": -122.80693
+        },
+        "display_phone": "(707) 838-8836",
+        "distance": 9527.50738079906,
+        "id": "v-xRvU9pjphR7nn5uOwcgA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "8741 Brooks Rd S",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8741 Brooks Rd S",
+                "Ste 101",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Windsor Oral & Maxillofacial Surgery Center",
+        "phone": "+17078388836",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/windsor-oral-and-maxillofacial-surgery-center-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bernstein-rael-dds-windsor",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.54786,
+            "longitude": -122.80694
+        },
+        "display_phone": "(707) 836-8360",
+        "distance": 9527.50738079906,
+        "id": "VvoadAMo9ArecKJMEm14TA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "8741 Brooks Rd S",
+            "address2": "Ste 200",
+            "address3": null,
+            "city": "Windsor",
+            "country": "US",
+            "display_address": [
+                "8741 Brooks Rd S",
+                "Ste 200",
+                "Windsor, CA 95492"
+            ],
+            "state": "CA",
+            "zip_code": "95492"
+        },
+        "name": "Bernstein Rael, DDS",
+        "phone": "+17078368360",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bernstein-rael-dds-windsor?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

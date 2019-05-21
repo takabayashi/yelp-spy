@@ -1,0 +1,394 @@
+[
+    {
+        "alias": "coastside-dentistry-half-moon-bay",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45771,
+            "longitude": -122.43042
+        },
+        "display_phone": "(650) 726-6884",
+        "distance": 1771.926029345287,
+        "id": "JIJy3oiGdGcnsNlbQfoqeQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U2F1c_mTOygKSq9ynLBD0w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "840 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "840 Main St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Coastside Dentistry",
+        "phone": "+16507266884",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/coastside-dentistry-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-c-moon-dds-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46232,
+            "longitude": -122.43101
+        },
+        "display_phone": "(650) 726-7597",
+        "distance": 1327.2643597977003,
+        "id": "uD-xlEs8yrTJ6Ue0i-EAzg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a8t7vNhaArN1-0S6I0DdOw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "611 Church St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "611 Church St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "John C Moon, DDS",
+        "phone": "+16507267597",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-c-moon-dds-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-r-maahs-dds-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4646649,
+            "longitude": -122.4302357
+        },
+        "display_phone": "(650) 726-7581",
+        "distance": 1202.8408298983602,
+        "id": "HiTipIMcvZR2BAZVg7mPgg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UOqj9Fqbb5jM79TzRG_kKw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "640 Mill St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "640 Mill St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "David R Maahs, DDS",
+        "phone": "+16507267581",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-r-maahs-dds-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "johannes-knueppel-dds-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45771,
+            "longitude": -122.43042
+        },
+        "display_phone": "(650) 726-6884",
+        "distance": 1771.926029345287,
+        "id": "SflQwG4APqMitHbnxYtEHQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aCcQbd4m_NJvSDcaJQ8ubw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "840 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "840 Main St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Johannes Knueppel, DDS",
+        "phone": "+16507266884",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/johannes-knueppel-dds-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sheppard-family-dentistry-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4573899,
+            "longitude": -122.43036
+        },
+        "display_phone": "(650) 726-3355",
+        "distance": 1784.2174728536254,
+        "id": "nu5k7INALlJRcj7_DXEYZg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r7o8dVPjgloQsB22y7zfNA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "890 Main St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "890 Main St",
+                "Ste A",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Sheppard Family Dentistry",
+        "phone": "+16507263355",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sheppard-family-dentistry-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rand-ollerton-dds-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4599838256836,
+            "longitude": -122.43049621582
+        },
+        "display_phone": "(650) 726-2156",
+        "distance": 1548.5051190351242,
+        "id": "WwBFpUiSL7tIQbqqjWtpaA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "780 Purissima St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "780 Purissima St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Rand Ollerton, DDS",
+        "phone": "+16507262156",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rand-ollerton-dds-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alexa-alborzi-dds-mds-half-moon-bay-4",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.461382,
+            "longitude": -122.430236
+        },
+        "display_phone": "(650) 726-6321",
+        "distance": 1448.0962654644898,
+        "id": "bdO5PZQlqPE-7w1SDaJeyg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SuNZjb0Dha0GmHDSMsFi8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "705 Purissima St",
+            "address2": "",
+            "address3": "Alborzi Orthodontics",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "705 Purissima St",
+                "Alborzi Orthodontics",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Alexa Alborzi, DDS MDS",
+        "phone": "+16507266321",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alexa-alborzi-dds-mds-half-moon-bay-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-e-moody-dmd-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46294,
+            "longitude": -122.42961
+        },
+        "display_phone": "(650) 726-9046",
+        "distance": 1366.2372688770884,
+        "id": "lKWnD1zCCHKlfEHCBYu22Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2ONu1b68b09UckRDjBpzgA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "538 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "538 Main St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Robert E Moody, DMD",
+        "phone": "+16507269046",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-e-moody-dmd-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stasun-kenneth-l-dds-orthodontist-half-moon-bay",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4640197753906,
+            "longitude": -122.427932739258
+        },
+        "display_phone": "(650) 726-7523",
+        "distance": 1404.8647270051958,
+        "id": "Dt_8JakRjjbEryM0SdcL_g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hoKNUYVmrY1p-lvUcytqJQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "423 Johnston St",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "423 Johnston St",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Stasun Kenneth L DDS Orthodontist",
+        "phone": "+16507267523",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stasun-kenneth-l-dds-orthodontist-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonrisas-dental-health-coastside-center-half-moon-bay",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4686013758779,
+            "longitude": -122.430166450401
+        },
+        "display_phone": "(650) 726-2144",
+        "distance": 1015.1221354223698,
+        "id": "gb5t-r8XlGJCq2COfPFncg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GseH7dPdOoQDPXyJKXHbmA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "210 San Mateo Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Half Moon Bay",
+            "country": "US",
+            "display_address": [
+                "210 San Mateo Rd",
+                "Half Moon Bay, CA 94019"
+            ],
+            "state": "CA",
+            "zip_code": "94019"
+        },
+        "name": "Sonrisas Dental Health - Coastside Center",
+        "phone": "+16507262144",
+        "rating": 3.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonrisas-dental-health-coastside-center-half-moon-bay?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

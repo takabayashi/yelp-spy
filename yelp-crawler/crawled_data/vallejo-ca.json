@@ -1,0 +1,3187 @@
+[
+    {
+        "alias": "marina-vista-dental-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.099923547049,
+            "longitude": -122.261888980865
+        },
+        "display_phone": "(707) 552-2228",
+        "distance": 2426.3287081091653,
+        "id": "JLgyWlErT-zM047zsLThPA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-eNJDOczKNwsIeOv1veQDw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "285 Mare Island Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "285 Mare Island Way",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Marina Vista Dental",
+        "phone": "+17075522228",
+        "rating": 4.5,
+        "review_count": 53,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marina-vista-dental-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-elder-dds-md-vallejo-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.11403,
+            "longitude": -122.22919
+        },
+        "display_phone": "(707) 552-5644",
+        "distance": 904.0104082468991,
+        "id": "QD5Qa4J3-3LwcqMMuN1O1g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UXNGbf0R2geBHPlnGQKI6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Admiral Callaghan Dr",
+            "address2": "",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "150 Admiral Callaghan Dr",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Mark Elder, DDS, MD",
+        "phone": "+17075525644",
+        "rating": 4.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-elder-dds-md-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cervantes-and-prado-dental-care-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12673,
+            "longitude": -122.22975
+        },
+        "display_phone": "(707) 557-5822",
+        "distance": 1775.2250134340284,
+        "id": "eL35KUHll-xcuK5H7YrrAw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vNY2D9DzYYxl_SbJKWg9Pw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1620 Valle Vista Ave",
+            "address2": "Ste 150",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1620 Valle Vista Ave",
+                "Ste 150",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Cervantes and Prado Dental Care",
+        "phone": "+17075575822",
+        "rating": 5.0,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cervantes-and-prado-dental-care-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "galvan-dental-care-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.123124007927,
+            "longitude": -122.227367645582
+        },
+        "display_phone": "(707) 206-7086",
+        "distance": 1567.1440001552064,
+        "id": "lkqZrDNWfqZN28U3O7NsPA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1QdG6gR_PPtLXuqwzqcu7A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2809 Redwood Pkwy",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2809 Redwood Pkwy",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Galvan Dental Care",
+        "phone": "+17072067086",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/galvan-dental-care-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "golden-state-endo-vallejo",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12532,
+            "longitude": -122.22536
+        },
+        "display_phone": "(707) 554-1764",
+        "distance": 1868.6646380458715,
+        "id": "MssTlfBpiyEdUTZur5VLZQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ui0nC628L7fqqcoG5vGHvA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "29 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "29 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "GOLDEN STATE ENDO",
+        "phone": "+17075541764",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/golden-state-endo-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "american-canyon-pediatric-dentistry-american-canyon",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.16893,
+            "longitude": -122.25354
+        },
+        "display_phone": "(707) 346-2400",
+        "distance": 6374.095866388781,
+        "id": "mowBi0Rmz1Oyht-LO1gQpQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VXqIoTxeQQD6FX45-OufbA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3417 Broadway St",
+            "address2": "Ste J-1",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "3417 Broadway St",
+                "Ste J-1",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "American Canyon Pediatric Dentistry",
+        "phone": "+17073462400",
+        "rating": 5.0,
+        "review_count": 72,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/american-canyon-pediatric-dentistry-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "plaza-dental-care-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12542,
+            "longitude": -122.22585
+        },
+        "display_phone": "(707) 642-1360",
+        "distance": 1851.587963215537,
+        "id": "Y9geL8PfhLc-X2IOhaPLVw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q9LpsE8InRf_qMp9y-p14w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17 Rotary Way",
+            "address2": null,
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "17 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Plaza Dental Care",
+        "phone": "+17076421360",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/plaza-dental-care-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffery-r-graves-dds-vallejo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1253395080566,
+            "longitude": -122.225807189941
+        },
+        "display_phone": "(707) 642-0433",
+        "distance": 1842.563585010258,
+        "id": "lgIVBcHCzZsU1ETHf0cX9w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mHBtAbNfIOg4ebrw6TT2qg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "19 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "19 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Jeffery R. Graves, DDS",
+        "phone": "+17076420433",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffery-r-graves-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "32-dental-american-canyon-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.18184,
+            "longitude": -122.25421
+        },
+        "display_phone": "(707) 247-5999",
+        "distance": 7805.843252687975,
+        "id": "uq-GcjESG1og6peIIdQLcQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qX7rYMUlbLxO2SiYBHs3Ug/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6040 Main St",
+            "address2": "Ste 148",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "6040 Main St",
+                "Ste 148",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "32 Dental",
+        "phone": "+17072475999",
+        "rating": 5.0,
+        "review_count": 114,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/32-dental-american-canyon-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "crossroads-dental-care-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1106878151697,
+            "longitude": -122.228866020803
+        },
+        "display_phone": "(707) 552-3816",
+        "distance": 945.8454988079507,
+        "id": "6AgAOnQ0LoCJ3i1VkL10_Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WboxRU3lOJQIMlXjOAvAOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "41 Admiral Callaghan Ln",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "41 Admiral Callaghan Ln",
+                "Ste E",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Crossroads Dental Care",
+        "phone": "+17075523816",
+        "rating": 4.0,
+        "review_count": 37,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/crossroads-dental-care-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-g-salacup-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10934,
+            "longitude": -122.25114
+        },
+        "display_phone": "(707) 645-1728",
+        "distance": 1094.3704830657966,
+        "id": "l7CJgriGGWkmu9WZ5xbvVg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TpEvUGJSm46Aliopy03OQQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1512 Napa St",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1512 Napa St",
+                "Ste B",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Thomas G Salacup, DDS",
+        "phone": "+17076451728",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-g-salacup-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vallejo-childrens-dentistry-vallejo",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1098949,
+            "longitude": -122.2390473
+        },
+        "display_phone": "(707) 642-3710",
+        "distance": 277.71285328936165,
+        "id": "n50TGqtnkUAKwfp5-GzfcA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vyslXHDbiK3RPu-05nUzjg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1532 Tennessee St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1532 Tennessee St",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Vallejo Children's Dentistry",
+        "phone": "+17076423710",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vallejo-childrens-dentistry-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "caoili-dental-care-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.137035,
+            "longitude": -122.255081
+        },
+        "display_phone": "(707) 643-5709",
+        "distance": 3068.190617323694,
+        "id": "HSa5juvEcBmElqrtb1aV5Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j7ZMsz-Y0Yb9CsRZjAuWNw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4380 Sonoma Blvd",
+            "address2": "Ste 177",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "4380 Sonoma Blvd",
+                "Ste 177",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Caoili Dental Care",
+        "phone": "+17076435709",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/caoili-dental-care-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "glen-cove-dental-vallejo-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0836458,
+            "longitude": -122.2110062
+        },
+        "display_phone": "(707) 645-8400",
+        "distance": 4089.7510062536,
+        "id": "aF7yBCorS6V6vtkm4Nshkw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O3HTUouUwi-ouW87izu9DA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "140 Robles Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "140 Robles Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Glen Cove Dental",
+        "phone": "+17076458400",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/glen-cove-dental-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "chaney-family-dentistry-vallejo",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1098956,
+            "longitude": -122.2394582
+        },
+        "display_phone": "(707) 643-1703",
+        "distance": 285.1330138112036,
+        "id": "xPKrwadUBi5UhQUGrlaLnw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y9GG1StYUPWGZRXWOI2VRw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1524 Tennessee St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1524 Tennessee St",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Chaney Family Dentistry",
+        "phone": "+17076431703",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/chaney-family-dentistry-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brisbain-pucan-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1046451,
+            "longitude": -122.2171229
+        },
+        "display_phone": "(707) 552-3952",
+        "distance": 2164.3546312744675,
+        "id": "b-CVp0_C2r4p5u8YvQjwtw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oh9f85nkAfrVqMiTB891wA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "51 Springstowne Ctr",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "51 Springstowne Ctr",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Brisbain Pucan, DMD",
+        "phone": "+17075523952",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brisbain-pucan-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "buchanan-chun-orthodontics-vallejo",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.113883,
+            "longitude": -122.229049
+        },
+        "display_phone": "(707) 643-1011",
+        "distance": 913.8544948923108,
+        "id": "39QHm5i-JMX7TH3SKG4sdg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tqdbc4xqG6k_Cqtk2HWQCg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "140 Admiral Callaghan Ln",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "140 Admiral Callaghan Ln",
+                "Ste A",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Buchanan | Chun Orthodontics",
+        "phone": "+17076431011",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/buchanan-chun-orthodontics-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "encore-dental-american-canyon",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.18184,
+            "longitude": -122.25421
+        },
+        "display_phone": "(707) 562-4090",
+        "distance": 7805.843252687975,
+        "id": "W256p425VMBBFpBoSB_lZA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y82CU7X6TPVDYnt-4SNEPQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6040 Main St",
+            "address2": "Ste 146",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "6040 Main St",
+                "Ste 146",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "Encore Dental",
+        "phone": "+17075624090",
+        "rating": 5.0,
+        "review_count": 76,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/encore-dental-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tan-thai-dental-studios-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.13045,
+            "longitude": -122.25396
+        },
+        "display_phone": "(707) 643-7885",
+        "distance": 2337.1882523538657,
+        "id": "WyFdLlqWgnPL13wC3_pm7g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pUyNTFdzUnsEfbdI9hTF5g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1761 Broadway St",
+            "address2": "Ste 224",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1761 Broadway St",
+                "Ste 224",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Tan Thai Dental Studios",
+        "phone": "+17076437885",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tan-thai-dental-studios-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wah-k-mark-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.070952,
+            "longitude": -122.212869
+        },
+        "display_phone": "(707) 649-8000",
+        "distance": 5186.489567917928,
+        "id": "VviLSgJNaWhxVJplk0Lnbg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ezr3f0ReP76WIi_uoDyzlA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "195 Glen Cv Marina Rd E",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "195 Glen Cv Marina Rd E",
+                "Ste 100",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Wah K Mark, DDS",
+        "phone": "+17076498000",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wah-k-mark-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pickett-steven-r-dds-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.125601,
+            "longitude": -122.225408
+        },
+        "display_phone": "(707) 642-2800",
+        "distance": 1887.2919863482298,
+        "id": "dm06S0VwZ5Lv_sxFQ_obvQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aWglHyEupzz0LUhn-5opfA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "25 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "25 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Pickett Steven R, DDS",
+        "phone": "+17076422800",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pickett-steven-r-dds-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-m-gordon-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1251373291016,
+            "longitude": -122.225807189941
+        },
+        "display_phone": "(707) 557-2200",
+        "distance": 1825.4186633038348,
+        "id": "XCgk82QTjZfGjgK1DBm14A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "23 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "23 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "David M Gordon, DDS",
+        "phone": "+17075572200",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-m-gordon-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "clift-r-suzanne-dds-vallejo",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1252365112305,
+            "longitude": -122.225807189941
+        },
+        "display_phone": "(707) 643-7654",
+        "distance": 1833.8200940425104,
+        "id": "lQ79S_TgvtH-NfM3FCtXrA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kT8R3lvt51Mk6Rj_4SKW7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "21 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "21 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Clift R Suzanne, DDS",
+        "phone": "+17076437654",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/clift-r-suzanne-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "morgan-nordstrom-dds-vallejo-5",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1097865,
+            "longitude": -122.2394486
+        },
+        "display_phone": "(707) 643-2660",
+        "distance": 320.51144998599347,
+        "id": "6cZIrH9YJrWhDDgh0N3CJg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6O49PKZPexzKIi-_pwcW4Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1528 Tennessee St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1528 Tennessee St",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Morgan Nordstrom DDS",
+        "phone": "+17076432660",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/morgan-nordstrom-dds-vallejo-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alan-v-pickett-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12557,
+            "longitude": -122.2254
+        },
+        "display_phone": "(707) 642-2800",
+        "distance": 1887.2919863482298,
+        "id": "APHOlytpR_cFQEF7CFdRWA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Jf74PEkNbMLgkJWJ5kkYxA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "25 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "25 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Alan V Pickett, DDS",
+        "phone": "+17076422800",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alan-v-pickett-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wow-smiles-vallejo",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12673,
+            "longitude": -122.22975
+        },
+        "display_phone": "(707) 552-4940",
+        "distance": 1775.2250134340284,
+        "id": "at_KjAAnS-RvgrgD8MIwSQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M23ad2mKpC49TR2OpmPkGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1620 Valle Vista Ave",
+            "address2": "Ste 200",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1620 Valle Vista Ave",
+                "Ste 200",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Wow Smiles",
+        "phone": "+17075524940",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wow-smiles-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "artmond-g-louie-dds-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1235847473145,
+            "longitude": -122.230865478516
+        },
+        "display_phone": "(707) 552-8195",
+        "distance": 1420.3571159377511,
+        "id": "BTOHvRKF6epfTSEBI6AYgQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-iZwWz05dUPD03DWvuklmQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "200 Fairgrounds Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "200 Fairgrounds Dr",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Artmond G Louie, DDS",
+        "phone": "+17075528195",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/artmond-g-louie-dds-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mak-dental-mounir-guirguis-dds-vallejo",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.123357,
+            "longitude": -122.260251
+        },
+        "display_phone": "(707) 554-2600",
+        "distance": 2178.5880221665125,
+        "id": "Av-eWhGElNPwiJ3IOAXn1Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WjScyU_pAsQsig9MnmSREQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "480 Redwood St",
+            "address2": "Ste 13",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "480 Redwood St",
+                "Ste 13",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "MAK Dental - Mounir Guirguis, DDS",
+        "phone": "+17075542600",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mak-dental-mounir-guirguis-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "affordable-dentures-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1316555755081,
+            "longitude": -122.220526138616
+        },
+        "display_phone": "(707) 998-5001",
+        "distance": 2679.0914491366507,
+        "id": "DtKWD9nZQzxS-zBcqK8vFw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3t1aPpyL5GcWhyFghgkisw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "125 Plaza Dr",
+            "address2": "",
+            "address3": "Ste 407, Gateway Plaza Shopping Center",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "125 Plaza Dr",
+                "Ste 407, Gateway Plaza Shopping Center",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Affordable Dentures",
+        "phone": "+17079985001",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/affordable-dentures-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "editha-m-aquino-dmd-vallejo-3",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10616,
+            "longitude": -122.20827
+        },
+        "display_phone": "(707) 642-3711",
+        "distance": 2789.523082526647,
+        "id": "vXpKojcKrpIbmjbkHCP0nA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/okRKlJ3KZOyAYfpQ7PeeLQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2600 Springs Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2600 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Editha M Aquino, DMD",
+        "phone": "+17076423711",
+        "rating": 3.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/editha-m-aquino-dmd-vallejo-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "francis-s-cruz-dds-vallejo-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1058,
+            "longitude": -122.219825
+        },
+        "display_phone": "(707) 643-8800",
+        "distance": 1867.1664477539464,
+        "id": "RLKDHB1WOYB-O7ILKbK7fw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1915 Springs Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1915 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Francis S Cruz, DDS",
+        "phone": "+17076438800",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/francis-s-cruz-dds-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "axelrode-orthodontics-vallejo-vallejo",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1255095590468,
+            "longitude": -122.226215586508
+        },
+        "display_phone": "(707) 643-2307",
+        "distance": 1834.4000855274771,
+        "id": "8lqlhPt60DmE95gS1oMNxA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-hS8sZ9EJiY0URs3El0Teg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "15 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "15 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Axelrode Orthodontics Vallejo",
+        "phone": "+17076432307",
+        "rating": 4.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/axelrode-orthodontics-vallejo-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "porteous-family-dentistry-vallejo-7",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.133401,
+            "longitude": -122.222453
+        },
+        "display_phone": "(707) 648-3384",
+        "distance": 2739.90787311832,
+        "id": "7St9-7LHZUlVyGdEHGbaOQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZxrXCJq9pAUlYpI7VmO_dA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "972 Admiral Callaghan Ln",
+            "address2": "Ste F",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "972 Admiral Callaghan Ln",
+                "Ste F",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Porteous Family Dentistry",
+        "phone": "+17076483384",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/porteous-family-dentistry-vallejo-7?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "california-dental-care-american-canyon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.17678,
+            "longitude": -122.25376
+        },
+        "display_phone": "(707) 553-8008",
+        "distance": 7254.072526132761,
+        "id": "x3LXzQx9_npLkGdNO72_qg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WW1pmgdXQEpp7bo9Y1yUgw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3860 Broadway St",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "3860 Broadway St",
+                "Ste 104",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "California Dental Care",
+        "phone": "+17075538008",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/california-dental-care-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peterson-michael-w-dds-vallejo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1095657348633,
+            "longitude": -122.241577148438
+        },
+        "display_phone": "(707) 552-3160",
+        "distance": 396.5837588842959,
+        "id": "a_Rt9UEagQtIZnOSrTCKHw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1319 Tennessee St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1319 Tennessee St",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Peterson Michael W DDS",
+        "phone": "+17075523160",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peterson-michael-w-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "access-dental-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1207427978516,
+            "longitude": -122.25456237793
+        },
+        "display_phone": "(707) 554-4000",
+        "distance": 1601.888500756701,
+        "id": "nAj4zt1GXrECzF40eXopRA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RZ7a2jIw8PQqLZNKnrA0nw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3400 Sonoma Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "3400 Sonoma Blvd",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Access Dental",
+        "phone": "+17075544000",
+        "rating": 3.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/access-dental-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "american-canyon-orthodontics-american-canyon",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.168634,
+            "longitude": -122.254837
+        },
+        "display_phone": "(707) 651-9244",
+        "distance": 6368.208672943292,
+        "id": "ZOn0ROx-TFhml6BODcbnYA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0oH2VQ-RKald2TUI_54aGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3419 Broadway St",
+            "address2": "Ste H1",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "3419 Broadway St",
+                "Ste H1",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "American Canyon Orthodontics",
+        "phone": "+17076519244",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/american-canyon-orthodontics-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-day-dental-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1131262,
+            "longitude": -122.2543835
+        },
+        "display_phone": "(707) 552-8684",
+        "distance": 1313.6176253733006,
+        "id": "V32wv91ABlcOSwRIkVCrhw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M40r82j1m3CFKU0_qgm60Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2900 Sonoma Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2900 Sonoma Blvd",
+                "Ste A",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Dr Day Dental",
+        "phone": "+17075528684",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-day-dental-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-w-bristow-dds-vallejo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12514,
+            "longitude": -122.22581
+        },
+        "display_phone": "(707) 642-3319",
+        "distance": 1825.4186633038348,
+        "id": "3tZsXqrTwrmZPq1eZJyDwg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rru9eaj-r5CpqteKtSEKsQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "23 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "23 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "John W Bristow DDS",
+        "phone": "+17076423319",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-w-bristow-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "escobar-portia-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.125774,
+            "longitude": -122.254475
+        },
+        "display_phone": "(707) 557-6680",
+        "distance": 1966.5754676263862,
+        "id": "hS-5jk5dwymhkcunu5YPrg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3772 Sonoma Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "3772 Sonoma Blvd",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Escobar Portia DMD",
+        "phone": "+17075576680",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/escobar-portia-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "family-dentistry-caro-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12627,
+            "longitude": -122.25024
+        },
+        "display_phone": "(707) 649-1800",
+        "distance": 1793.8644614168752,
+        "id": "WyC4P0qyumrTIKXunjtBvQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hvgTbaUxUmyBJMUqQ_cpWA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1660 Broadway St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1660 Broadway St",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Family Dentistry Caro",
+        "phone": "+17076491800",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/family-dentistry-caro-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-vallejo",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1227589506993,
+            "longitude": -122.25593821256
+        },
+        "display_phone": "(707) 561-9213",
+        "distance": 1832.2726647015145,
+        "id": "JLdaYaV2ZJF1Jm_YxQdAkA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rBksJkuPFE3FZnrnGdNS9A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3587 Sonoma Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "3587 Sonoma Blvd",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+17075619213",
+        "rating": 2.0,
+        "review_count": 138,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "family-dental-health-benicia-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.067676,
+            "longitude": -122.181855
+        },
+        "display_phone": "(707) 745-2121",
+        "distance": 7097.4103580297215,
+        "id": "3Zfz9-laE4ShpMLytVUTJQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x83wabMZ7IlQhsppibP34A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 Military W",
+            "address2": null,
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "1440 Military W",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Family Dental Health",
+        "phone": "+17077452121",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/family-dental-health-benicia-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "noel-a-fernandez-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1057951,
+            "longitude": -122.2078826
+        },
+        "display_phone": "(707) 674-2777",
+        "distance": 2858.081678512158,
+        "id": "-cByvNZicvf27JW3fWIGuw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lTEH-cfdOk0D9nM44TTPLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2629 Springs Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2629 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Noel A Fernandez, DMD",
+        "phone": "+17076742777",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/noel-a-fernandez-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jerry-s-redd-dds-orthodontic-specialist-vallejo-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12673,
+            "longitude": -122.22975
+        },
+        "display_phone": "(707) 552-4940",
+        "distance": 1776.0885982272778,
+        "id": "ZgoA16cGQPTtbKEuLO2TeA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pQvwKVTe-1rb38bVHaRjsg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1620 Valle Vista Ave",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1620 Valle Vista Ave",
+                "Ste 200",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Jerry S. Redd, DDS - Orthodontic Specialist",
+        "phone": "+17075524940",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jerry-s-redd-dds-orthodontic-specialist-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "craig-s-gainza-dds-vallejo",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1254692077637,
+            "longitude": -122.225410461426
+        },
+        "display_phone": "(707) 642-4119",
+        "distance": 1875.9050539096413,
+        "id": "dFU8FzUO6KNkpScW_IJs8Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "27 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "27 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Craig S Gainza, DDS",
+        "phone": "+17076424119",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/craig-s-gainza-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steve-dacasin-dds-dacasin-dental-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1049149,
+            "longitude": -122.2162473
+        },
+        "display_phone": "(707) 644-5528",
+        "distance": 2277.8182898024597,
+        "id": "cBSct5CXAMy99fam4uJYrg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tggvRU2XXUmZ6bFOhPQnzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Springstowne Ctr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "96 Springstowne Ctr",
+                "Ste A",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Steve Dacasin, DDS/Dacasin Dental",
+        "phone": "+17076445528",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steve-dacasin-dds-dacasin-dental-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "north-bay-dental-group-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.122755,
+            "longitude": -122.259144
+        },
+        "display_phone": "(707) 643-1714",
+        "distance": 2060.9166985889524,
+        "id": "dppooG5Mn7G4w22n-ioLLQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XdsL7PwWIz0zoUH6Bsj7Ag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "475 Redwood St",
+            "address2": "Ste 30",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "475 Redwood St",
+                "Ste 30",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "North Bay Dental Group",
+        "phone": "+17076431714",
+        "rating": 3.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/north-bay-dental-group-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rocky-c-baysa-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12187,
+            "longitude": -122.23678
+        },
+        "display_phone": "(707) 644-1888",
+        "distance": 1052.2267155400814,
+        "id": "vLEkeN9Izhwjb-kHo3k_3A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2121 Redwood St",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2121 Redwood St",
+                "Ste B",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Rocky C Baysa, DMD",
+        "phone": "+17076441888",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rocky-c-baysa-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "castillo-dental-care-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1095771789551,
+            "longitude": -122.24267578125
+        },
+        "display_phone": "(707) 644-4901",
+        "distance": 446.1101008422422,
+        "id": "IfQm-6WVac4_u0m5ZmUrJw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1vnqhzrXcn3dDKqLf6cWgg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1207 Tennessee St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1207 Tennessee St",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Castillo Dental Care",
+        "phone": "+17076444901",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/castillo-dental-care-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-comyns-dds-smiletenders-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10579,
+            "longitude": -122.2198
+        },
+        "display_phone": "(707) 642-4462",
+        "distance": 1867.1664477539464,
+        "id": "Bee3G94olFHdCs-K-fvQzA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EB2-R7izkRIbkyrR_pBfsQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1915 Springs Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1915 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "John Comyns, DDS - Smiletenders",
+        "phone": "+17076424462",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-comyns-dds-smiletenders-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "canyon-ranch-dental-care-american-canyon",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1660669,
+            "longitude": -122.2622468
+        },
+        "display_phone": "(707) 557-9080",
+        "distance": 6170.927757538119,
+        "id": "hKzjysYJ2C0fxyRsrJsl_A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eLHAZBRF2snyhYHVhLOiRQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "120 W American Canyon Rd",
+            "address2": "Ste M-8",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "120 W American Canyon Rd",
+                "Ste M-8",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "Canyon Ranch Dental Care",
+        "phone": "+17075579080",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/canyon-ranch-dental-care-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "esguerra-carolina-p-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10579,
+            "longitude": -122.21891
+        },
+        "display_phone": "(707) 649-1694",
+        "distance": 1949.5675574864572,
+        "id": "O4PQwWN7C9TGeO8wmpRzEQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Springs Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2001 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Esguerra Carolina P DMD",
+        "phone": "+17076491694",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/esguerra-carolina-p-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alegria-dental-care-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1233730038234,
+            "longitude": -122.255112968418
+        },
+        "display_phone": "(707) 643-1987",
+        "distance": 2116.054125590791,
+        "id": "JoPMOAKaDaDiUKt5yc_P-Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M4tuC3g8oyEc6hABndI-YA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3630 Sonoma Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "3630 Sonoma Blvd",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Alegria Dental Care",
+        "phone": "+17076431987",
+        "rating": 3.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alegria-dental-care-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "teresina-n-wong-dds-benicia",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.07934640449,
+            "longitude": -122.190999269485
+        },
+        "display_phone": "(707) 745-3838",
+        "distance": 5626.086588280466,
+        "id": "9erllD6YpbTTxNVYz2Y-aQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J5uGf-icRBqGct5HlGj3Yg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2008 Columbus Pkwy",
+            "address2": null,
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "2008 Columbus Pkwy",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Teresina N Wong, DDS",
+        "phone": "+17077453838",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/teresina-n-wong-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bay-side-dental-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1219292,
+            "longitude": -122.2367628
+        },
+        "display_phone": "(707) 644-7600",
+        "distance": 1054.894632051815,
+        "id": "7U09E67Jl3Md520oTq3TYg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ra7otuTaZ50WVXd5SWlvoQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2121 Redwood St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2121 Redwood St",
+                "Ste A",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Bay Side Dental",
+        "phone": "+17076447600",
+        "rating": 2.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bay-side-dental-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "darren-j-wong-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1097749,
+            "longitude": -122.227671
+        },
+        "display_phone": "(707) 643-8399",
+        "distance": 1049.0150259201478,
+        "id": "Arzq__zKc1DIRUxRt_U_Tw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2254 Tennessee St",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2254 Tennessee St",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Darren J. Wong, DDS",
+        "phone": "+17076438399",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/darren-j-wong-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "southampton-dental-care-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0660426339561,
+            "longitude": -122.167704239356
+        },
+        "display_phone": "(707) 887-5075",
+        "distance": 8137.993675476583,
+        "id": "inhRbCIdsR5VbR3X5sRcjw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PLllkdFFptiA8Sj20B63uw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "884 Southampton Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "884 Southampton Rd",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Southampton Dental Care",
+        "phone": "+17078875075",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/southampton-dental-care-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "american-canyon-dental-care-american-canyon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.17014,
+            "longitude": -122.25397
+        },
+        "display_phone": "(707) 557-5057",
+        "distance": 6519.081735674965,
+        "id": "AbNq4-s2XlpO__pwJiSzQQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RjBKUyOu9MNP3xqqUpCn1A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3431 Broadway St",
+            "address2": "Ste A-7",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "3431 Broadway St",
+                "Ste A-7",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "American Canyon Dental Care",
+        "phone": "+17075575057",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/american-canyon-dental-care-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amy-g-english-dds-with-pediatric-associates-vallejo",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1098949,
+            "longitude": -122.2390473
+        },
+        "display_phone": "(707) 642-3710",
+        "distance": 277.71285328936165,
+        "id": "UlbvT1NY0PtPW6mAIEPxYA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1532 Tennessee St",
+            "address2": null,
+            "address3": "Vallejo Children's Dentistry",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1532 Tennessee St",
+                "Vallejo Children's Dentistry",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Amy G English, DDS with Pediatric Associates",
+        "phone": "+17076423710",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amy-g-english-dds-with-pediatric-associates-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "annoni-jerry-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1103994697332,
+            "longitude": -122.228419035673
+        },
+        "display_phone": "(707) 552-3383",
+        "distance": 940.7166946140701,
+        "id": "y9G_rXB2UsN8c0hHZjdADQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "41 Admiral Callaghan Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "41 Admiral Callaghan Ln",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Annoni, Jerry, DDS",
+        "phone": "+17075523383",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/annoni-jerry-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "francisco-j-pestana-dmd-american-canyon",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.169475,
+            "longitude": -122.255037
+        },
+        "display_phone": "(707) 980-7274",
+        "distance": 6463.304096336485,
+        "id": "Am4pFIMs3a2ogxCKB4dQlw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MNUl_pLh8JgzmcaTqpXCVQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3429 Broadway St",
+            "address2": "Ste C1-C2",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "3429 Broadway St",
+                "Ste C1-C2",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "Francisco J Pestana, DMD",
+        "phone": "+17079807274",
+        "rating": 4.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/francisco-j-pestana-dmd-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "douglas-m-yarris-dds-crockett-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0526816,
+            "longitude": -122.2237849
+        },
+        "display_phone": "(510) 787-1471",
+        "distance": 6796.76355047056,
+        "id": "v_JDkAskbV_q6XNTnAN7Ww",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tNc9uTVdtEj6BT0xNi4pEA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "716 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Crockett",
+            "country": "US",
+            "display_address": [
+                "716 2nd Ave",
+                "Crockett, CA 94525"
+            ],
+            "state": "CA",
+            "zip_code": "94525"
+        },
+        "name": "Douglas M Yarris, DDS",
+        "phone": "+15107871471",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/douglas-m-yarris-dds-crockett-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tri-city-dental-vallejo-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1233730038234,
+            "longitude": -122.255112968418
+        },
+        "display_phone": "(707) 643-1987",
+        "distance": 2116.054125590791,
+        "id": "GImdeIcfvLcr3ThFEKM2Tg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3630 Sonoma Blvd",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "3630 Sonoma Blvd",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Tri City Dental Vallejo",
+        "phone": "+17076431987",
+        "rating": 2.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tri-city-dental-vallejo-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "de-joya-ruth-s-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1218681335449,
+            "longitude": -122.236778259277
+        },
+        "display_phone": "(707) 644-5943",
+        "distance": 1052.2267155400814,
+        "id": "75k4sLdnNa1K9BCOza_Cew",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LbIVAw6NgrieetD-0tNFlQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2121 Redwood St",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2121 Redwood St",
+                "Ste F",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "De Joya Ruth S, DMD",
+        "phone": "+17076445943",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/de-joya-ruth-s-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-d-prigmore-dds-vallejo-6",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12673,
+            "longitude": -122.22975
+        },
+        "display_phone": "(707) 552-7744",
+        "distance": 1775.2250134340284,
+        "id": "8EidCz8X5Y2etcHAEzCy0A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8eyJP1MZGjvJ_aUQ6h2ohw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1620 Valle Vista Ave",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1620 Valle Vista Ave",
+                "Ste 100",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "James D Prigmore, DDS",
+        "phone": "+17075527744",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-d-prigmore-dds-vallejo-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "la-cl\u00ednica-vallejo-dental-vallejo-2",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1135343,
+            "longitude": -122.2545051
+        },
+        "display_phone": "(707) 558-2000",
+        "distance": 1312.7937664987694,
+        "id": "lAu21Z0WMolv1dTyjxzP8Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VTGxn_j5Ut96NpEg0hYykw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2920 Sonoma Blvd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2920 Sonoma Blvd",
+                "Ste A",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "La Cl\u00ednica - Vallejo Dental",
+        "phone": "+17075582000",
+        "rating": 2.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/la-cl%C3%ADnica-vallejo-dental-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "barut-roberto-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.13227,
+            "longitude": -122.238143
+        },
+        "display_phone": "(707) 644-7945",
+        "distance": 2204.5671474481455,
+        "id": "KtxPW-wwlZO8op9Cxqxp3A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HXy16_1tJkp64vUOgJ1Mtw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1460 North Camino Alto",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1460 North Camino Alto",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Barut Roberto, DDS",
+        "phone": "+17076447945",
+        "rating": 3.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/barut-roberto-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "veterans-dental-and-medical-clinic-mare-island-vallejo",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "hospitals",
+                "title": "Hospitals"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0978813171387,
+            "longitude": -122.271873474121
+        },
+        "display_phone": "(707) 562-8225",
+        "distance": 3263.149392030177,
+        "id": "M2yzfw8fQMOoFRhGkgCcKg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rki3s7z-3NBzeV8MUf9gwQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "Walnut Ave",
+            "address2": "Bldg 201",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "Walnut Ave",
+                "Bldg 201",
+                "Vallejo, CA 94592"
+            ],
+            "state": "CA",
+            "zip_code": "94592"
+        },
+        "name": "Veterans Dental and Medical Clinic-Mare Island",
+        "phone": "+17075628225",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/veterans-dental-and-medical-clinic-mare-island-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-f-edziak-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1308704,
+            "longitude": -122.2387374
+        },
+        "display_phone": "(707) 642-4403",
+        "distance": 2024.745233404773,
+        "id": "SY2sraonKf9BGBxF1phviA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h_bteXDV8ZFOqbTzHToiVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "127 Hospital Dr",
+            "address2": "Ste 204",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "127 Hospital Dr",
+                "Ste 204",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Michael F Edziak, DDS",
+        "phone": "+17076424403",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-f-edziak-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mosley-julius-ii-dds-vallejo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1218681335449,
+            "longitude": -122.236778259277
+        },
+        "display_phone": "(707) 558-1660",
+        "distance": 1052.2267155400814,
+        "id": "k7qNrx_YMlsFyapcdAKO0Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2121 Redwood St",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2121 Redwood St",
+                "Ste E",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "Mosley Julius II, DDS",
+        "phone": "+17075581660",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mosley-julius-ii-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dentist-todaycom-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.155196,
+            "longitude": -122.25493
+        },
+        "display_phone": "(707) 554-2200",
+        "distance": 4920.540345586549,
+        "id": "Rxgmi2aHXjGgRZiRy5gwKA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5201 Sonoma Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "5201 Sonoma Blvd",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Dentist Todaycom",
+        "phone": "+17075542200",
+        "rating": 2.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dentist-todaycom-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "meredith-beltran-dmd-inc-american-canyon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.17476,
+            "longitude": -122.25313
+        },
+        "display_phone": "(707) 643-4048",
+        "distance": 7004.1749240756435,
+        "id": "hceitXoaikQrn0NEBhbBAA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mfZKzBzbRPBaQ2LPZk0SZg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "91 Antonina Ave",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "American Canyon",
+            "country": "US",
+            "display_address": [
+                "91 Antonina Ave",
+                "Ste B",
+                "American Canyon, CA 94503"
+            ],
+            "state": "CA",
+            "zip_code": "94503"
+        },
+        "name": "Meredith Beltran, DMD, Inc.",
+        "phone": "+17076434048",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/meredith-beltran-dmd-inc-american-canyon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "victa-chua-marie-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10486,
+            "longitude": -122.215315
+        },
+        "display_phone": "(707) 642-2938",
+        "distance": 2277.4974199434173,
+        "id": "JQAF9zikNY8kEJ52HjJplw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Springstowne Ctr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "96 Springstowne Ctr",
+                "Ste A",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Victa-Chua Marie DMD",
+        "phone": "+17076422938",
+        "rating": 2.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/victa-chua-marie-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-w-bruns-dds-vallejo",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.104802,
+            "longitude": -122.246774
+        },
+        "display_phone": "(707) 648-3600",
+        "distance": 1087.9472204451845,
+        "id": "-cwkKg_z6GyPOtmp2QmNAA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UA9rSGPygJVu6vq7eKNJdA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2121 Redwood St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2121 Redwood St",
+                "Ste C",
+                "Vallejo, CA 94590"
+            ],
+            "state": "CA",
+            "zip_code": "94590"
+        },
+        "name": "John W Bruns, DDS",
+        "phone": "+17076483600",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-w-bruns-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "burton-eugene-h-dds-park-place-dental-group-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1325035,
+            "longitude": -122.2557394
+        },
+        "display_phone": "(707) 643-2500",
+        "distance": 2509.521482168338,
+        "id": "2BEyOsNoIH-ZrD_h8OJ--Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "4300 Sonoma Blvd",
+            "address2": "Ste 124",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "4300 Sonoma Blvd",
+                "Ste 124",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Burton Eugene H DDS Park Place Dental Group",
+        "phone": "+17076432500",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/burton-eugene-h-dds-park-place-dental-group-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "valle-smiles-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.132655,
+            "longitude": -122.220623
+        },
+        "display_phone": "(707) 557-6245",
+        "distance": 2762.4666763592045,
+        "id": "KM7Qp90-Yy8kE9svtd7n_g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p1GwFWr0Q1Sg9AFoRVAoNw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "133 Plaza Dr",
+            "address2": "Ste R",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "133 Plaza Dr",
+                "Ste R",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Valle Smiles",
+        "phone": "+17075576245",
+        "rating": 2.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/valle-smiles-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "redwood-family-and-cosmetic-dentistry-vallejo",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.124216,
+            "longitude": -122.237207
+        },
+        "display_phone": "(707) 552-8668",
+        "distance": 1298.0241224840363,
+        "id": "NLxKY4_HdoVnel7itGxqCA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/anlkf3WMsV3SXg9nx3G-GQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1782 Tuolumne St",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1782 Tuolumne St",
+                "Vallejo, CA 94589"
+            ],
+            "state": "CA",
+            "zip_code": "94589"
+        },
+        "name": "Redwood Family & Cosmetic Dentistry",
+        "phone": "+17075528668",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/redwood-family-and-cosmetic-dentistry-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sue-chohan-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0704727172852,
+            "longitude": -122.211669921875
+        },
+        "display_phone": "(707) 980-6945",
+        "distance": 5278.781325874837,
+        "id": "7qEF_T0LpCu9X72Qr35c7g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Glen Cove Marina Rd",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "150 Glen Cove Marina Rd",
+                "Ste 104",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Sue Chohan, DDS",
+        "phone": "+17079806945",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sue-chohan-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

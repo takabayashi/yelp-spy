@@ -1,0 +1,152 @@
+[
+    {
+        "alias": "sanderson-james-d-dds-dixon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.4472351074219,
+            "longitude": -121.83757019043
+        },
+        "display_phone": "(707) 678-2078",
+        "distance": 1660.224821890399,
+        "id": "-af0FK-Ck4Siq-NDj2lLbw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Yjgg7ggEwqB3gi_JY334aQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1155 Rehrmann Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Dixon",
+            "country": "US",
+            "display_address": [
+                "1155 Rehrmann Dr",
+                "Dixon, CA 95620"
+            ],
+            "state": "CA",
+            "zip_code": "95620"
+        },
+        "name": "Sanderson James D DDS",
+        "phone": "+17076782078",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sanderson-james-d-dds-dixon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wiley-l-kristina-dds-dixon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.4460334777832,
+            "longitude": -121.823547363281
+        },
+        "display_phone": "(707) 678-9248",
+        "distance": 1299.6922496660288,
+        "id": "6TNuSUVUuhPUQTex17pbNA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "140 N Jackson St",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Dixon",
+            "country": "US",
+            "display_address": [
+                "140 N Jackson St",
+                "Ste 1",
+                "Dixon, CA 95620"
+            ],
+            "state": "CA",
+            "zip_code": "95620"
+        },
+        "name": "Wiley L Kristina, DDS",
+        "phone": "+17076789248",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wiley-l-kristina-dds-dixon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "comm-s-todd-dds-dixon-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.45824,
+            "longitude": -121.83791
+        },
+        "display_phone": "(707) 678-9296",
+        "distance": 2773.851531592826,
+        "id": "PjDy_OFLtIywIqdqjotEXg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 N Lincoln St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Dixon",
+            "country": "US",
+            "display_address": [
+                "1300 N Lincoln St",
+                "Ste A",
+                "Dixon, CA 95620"
+            ],
+            "state": "CA",
+            "zip_code": "95620"
+        },
+        "name": "Comm S Todd, DDS",
+        "phone": "+17076789296",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/comm-s-todd-dds-dixon-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ramirez-ted-m-dds-dixon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.446949005127,
+            "longitude": -121.836837768555
+        },
+        "display_phone": "(707) 678-1657",
+        "distance": 1602.140769089033,
+        "id": "GsIMMWztnKx-fhG6SYPSrQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "255 N Lincoln St",
+            "address2": "",
+            "address3": "",
+            "city": "Dixon",
+            "country": "US",
+            "display_address": [
+                "255 N Lincoln St",
+                "Dixon, CA 95620"
+            ],
+            "state": "CA",
+            "zip_code": "95620"
+        },
+        "name": "Ramirez Ted M DDS",
+        "phone": "+17076781657",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ramirez-ted-m-dds-dixon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

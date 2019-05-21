@@ -1,0 +1,5336 @@
+[
+    {
+        "alias": "grace-dental-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44778,
+            "longitude": -122.15273
+        },
+        "display_phone": "(650) 322-4750",
+        "distance": 8389.683710856358,
+        "id": "SazkNKwSAG1wnoGahi5qZA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LO4tpKwsT3hho61hFl3tzw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "850 Middlefield Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "850 Middlefield Rd",
+                "Ste 2",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Grace Dental",
+        "phone": "+16503224750",
+        "rating": 4.5,
+        "review_count": 122,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/grace-dental-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alok-arora-dmd-menlo-park-7",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45299,
+            "longitude": -122.18504
+        },
+        "display_phone": "(650) 321-1223",
+        "distance": 7616.426056835472,
+        "id": "qG7pV9ejY2IX0dSqEUef6g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xypCt6c8bF7trIUjGb7lmA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "695 Oak Grove Ave",
+            "address2": "Ste 300",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "695 Oak Grove Ave",
+                "Ste 300",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Alok Arora, DMD",
+        "phone": "+16503211223",
+        "rating": 4.5,
+        "review_count": 79,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alok-arora-dmd-menlo-park-7?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tim-choy-dmd-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.454177,
+            "longitude": -122.228337
+        },
+        "display_phone": "(650) 716-4888",
+        "distance": 7616.3158282621835,
+        "id": "v-tPSNNw8-HRsYPm9LWd-w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q6dvsU8EViTwVGKnGFc_Sw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 100",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Tim Choy, DMD",
+        "phone": "+16507164888",
+        "rating": 5.0,
+        "review_count": 49,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tim-choy-dmd-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fotovatjah-mehran-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.429387,
+            "longitude": -122.150619
+        },
+        "display_phone": "(650) 328-1860",
+        "distance": 6994.492929630165,
+        "id": "wTEzwI0MnVz6zuaNJiLRvQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 El Camino Real",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1805 El Camino Real",
+                "Ste 201",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Fotovatjah Mehran, DDS",
+        "phone": "+16503281860",
+        "rating": 5.0,
+        "review_count": 43,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fotovatjah-mehran-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alexander-hoghooghi-md-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43665,
+            "longitude": -122.1782
+        },
+        "display_phone": "(650) 617-1900",
+        "distance": 6119.577888989244,
+        "id": "h6oKaAeUFFCK6SP53-e3ZQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Doi591WDUvhRyIasMywMFw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "900 Welch Rd",
+            "address2": "Ste 100",
+            "address3": "Palo Alto Oral & Maxillofacial Surgery",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "900 Welch Rd",
+                "Ste 100",
+                "Palo Alto Oral & Maxillofacial Surgery",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Alexander Hoghooghi, MD DDS",
+        "phone": "+16506171900",
+        "rating": 4.0,
+        "review_count": 93,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alexander-hoghooghi-md-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "woodside-endodontics-redwood-city",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45502,
+            "longitude": -122.22905
+        },
+        "display_phone": "(650) 369-2555",
+        "distance": 7732.988757865151,
+        "id": "NNYSkbaCoVXBuI0NnLgoJw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SbjcgomiOeTY4asVKatr2A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1690 Woodside Rd",
+            "address2": "Ste 209",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1690 Woodside Rd",
+                "Ste 209",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Woodside Endodontics",
+        "phone": "+16503692555",
+        "rating": 5.0,
+        "review_count": 46,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/woodside-endodontics-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gregory-tseng-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4460945129395,
+            "longitude": -122.166084289551
+        },
+        "display_phone": "(650) 327-8822",
+        "distance": 7572.91369406654,
+        "id": "mKX-cVza8sXEcvavpKMx5Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z6x6o2QOkasPmYFTSDx-Iw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "251 High St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "251 High St",
+                "Ste A",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Gregory Tseng, DDS",
+        "phone": "+16503278822",
+        "rating": 5.0,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gregory-tseng-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-s-pyon-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.42686,
+            "longitude": -122.14539
+        },
+        "display_phone": "(650) 326-6384",
+        "distance": 7167.662100018597,
+        "id": "07biYi3ubnU-_kOslgQcPA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5WoaFcb27zYHeD3OHJlwUA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "405 Cambridge Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "405 Cambridge Ave",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Scott S Pyon, DDS",
+        "phone": "+16503266384",
+        "rating": 4.5,
+        "review_count": 51,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-s-pyon-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ala-din-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.447639,
+            "longitude": -122.151447
+        },
+        "display_phone": "(650) 484-5733",
+        "distance": 8441.60418949488,
+        "id": "197wxwHbUm_cXmVTUF5__A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2NJBky8LDtgjFaaW13BXBg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "905 Middlefield Rd",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "905 Middlefield Rd",
+                "Ste B",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Ala Din, DDS",
+        "phone": "+16504845733",
+        "rating": 5.0,
+        "review_count": 57,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ala-din-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "little-bytes-pediatric-dentistry-palo-alto",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44802,
+            "longitude": -122.15185
+        },
+        "display_phone": "(650) 322-9837",
+        "distance": 8445.483949396832,
+        "id": "3FWqizBxl-u0dh1t3Of60Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9Uzdr0IDtn8z-smfAiIow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "853 Middlefield Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "853 Middlefield Rd",
+                "Ste 2",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Little Bytes Pediatric Dentistry",
+        "phone": "+16503229837",
+        "rating": 5.0,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/little-bytes-pediatric-dentistry-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kris-s-hamamoto-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.42686,
+            "longitude": -122.145385
+        },
+        "display_phone": "(650) 326-6319",
+        "distance": 7163.446076664624,
+        "id": "A4sLGn_4g8_BMEIA-Knw_Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z8zk3mon6GmL_hBGNS-ApA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "409 Cambridge Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "409 Cambridge Ave",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Kris S Hamamoto, DDS",
+        "phone": "+16503266319",
+        "rating": 4.5,
+        "review_count": 65,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kris-s-hamamoto-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "andrea-yaley-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45137,
+            "longitude": -122.18636
+        },
+        "display_phone": "(650) 325-8030",
+        "distance": 7413.833037491767,
+        "id": "TNBc8ATyuoknDKV3Eu9szA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YKBYl9MYQrVcinQKHbcZGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "825 Oak Grove Ave",
+            "address2": "Ste 401",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "825 Oak Grove Ave",
+                "Ste 401",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Andrea Yaley, DDS",
+        "phone": "+16503258030",
+        "rating": 5.0,
+        "review_count": 48,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/andrea-yaley-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "woodside-pediatric-dentistry-redwood-city",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45418,
+            "longitude": -122.22834
+        },
+        "display_phone": "(650) 366-5437",
+        "distance": 7637.6612745368975,
+        "id": "6mwJSZ9ZP65uX3h9YlV-bg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Affu-ZGIuEvtk5rPnuQS7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 280",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Woodside Pediatric Dentistry",
+        "phone": "+16503665437",
+        "rating": 5.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/woodside-pediatric-dentistry-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "s-brian-liu-dds-ms-palo-alto",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.424648,
+            "longitude": -122.147102
+        },
+        "display_phone": "(650) 351-6789",
+        "distance": 6899.455444700043,
+        "id": "Sd09sSXOIAwO3XUuUec2EA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c6TRM3usZUvjsvWcsCF2uQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2345 Yale St",
+            "address2": "Fl 2B",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2345 Yale St",
+                "Fl 2B",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "S Brian Liu, DDS MS",
+        "phone": "+16503516789",
+        "rating": 4.5,
+        "review_count": 39,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/s-brian-liu-dds-ms-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "reza-riahi-dds-mmsc-palo-alto-3",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44779,
+            "longitude": -122.15267
+        },
+        "display_phone": "(650) 485-2514",
+        "distance": 8389.683710856358,
+        "id": "vVQfFstARA2ZY2G8k-2X7Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VxYLBGVW2EKG4UnEUgfhSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "850 Middlefield Rd",
+            "address2": "Ste 4",
+            "address3": "Palo Alto Endodontic Ctr",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "850 Middlefield Rd",
+                "Ste 4",
+                "Palo Alto Endodontic Ctr",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Reza Riahi, DDS MMSc",
+        "phone": "+16504852514",
+        "rating": 5.0,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/reza-riahi-dds-mmsc-palo-alto-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wu-orthodontics-palo-alto",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.42912,
+            "longitude": -122.1502
+        },
+        "display_phone": "(650) 322-0288",
+        "distance": 6998.6801344196965,
+        "id": "NiLiLdGRFX-KdKE_QXG5MA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TwlgWy1lJ7oMJkzGFXkHBQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1865 El Camino Real",
+            "address2": null,
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1865 El Camino Real",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Wu Orthodontics",
+        "phone": "+16503220288",
+        "rating": 4.5,
+        "review_count": 40,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wu-orthodontics-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "babak-mostaan-dds-palo-alto-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.429399,
+            "longitude": -122.150463
+        },
+        "display_phone": "(650) 322-7716",
+        "distance": 7005.6363364308445,
+        "id": "N2jCSUZF7nHxqauPA0r5Ig",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/onunz1n6pcVRzDty4luZUA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 El Camino Real",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1805 El Camino Real",
+                "Ste 202",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Babak Mostaan, DDS",
+        "phone": "+16503227716",
+        "rating": 4.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/babak-mostaan-dds-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mid-peninsula-orthodontics-palo-alto-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.440502166748,
+            "longitude": -122.157257080078
+        },
+        "display_phone": "(650) 328-1600",
+        "distance": 7508.997435739522,
+        "id": "Lj4XxFmDtn4UnqpFkMs5OA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KwyNtsJxCCHa0kIjJFHbiA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "965 High St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "965 High St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Mid Peninsula Orthodontics",
+        "phone": "+16503281600",
+        "rating": 4.5,
+        "review_count": 58,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mid-peninsula-orthodontics-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "palo-alto-orthodontics-palo-alto",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44761,
+            "longitude": -122.15144
+        },
+        "display_phone": "(650) 327-2310",
+        "distance": 8439.14623841457,
+        "id": "jEU_erbTLBXhRK-x7uSDNw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MwKZHGYSFyq1MW8RcvsKyA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "905 Middlefield Rd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "905 Middlefield Rd",
+                "Ste A",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Palo Alto Orthodontics",
+        "phone": "+16503272310",
+        "rating": 5.0,
+        "review_count": 37,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/palo-alto-orthodontics-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-c-baird-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44633,
+            "longitude": -122.15645
+        },
+        "display_phone": "(650) 328-6622",
+        "distance": 8060.389634266828,
+        "id": "rq9k-Dl2eyWWsr_pOPY13g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/j7TgZ91stO9LNVc-lRigtA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "720 Cowper St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "720 Cowper St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Scott C Baird, DMD",
+        "phone": "+16503286622",
+        "rating": 4.5,
+        "review_count": 72,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-c-baird-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "victoria-berezina-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4366493,
+            "longitude": -122.1781998
+        },
+        "display_phone": "(650) 324-3818",
+        "distance": 6119.5501183212955,
+        "id": "4s9Jq3KtCRah4_UptB1eog",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Pr9kH2yV-59D_5dAUMM1Fw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "900 Welch Rd",
+            "address2": "Ste 106",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "900 Welch Rd",
+                "Ste 106",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Victoria Berezina, DDS",
+        "phone": "+16503243818",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/victoria-berezina-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "morrill-larry-r-dds-palo-alto-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43594,
+            "longitude": -122.17885
+        },
+        "display_phone": "(650) 322-2817",
+        "distance": 6045.318129321832,
+        "id": "jC6Bocd9vcx43U5T6lIXsQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-Qg8BvzYJYhDw-udnytA9w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1000 Welch Rd",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1000 Welch Rd",
+                "Ste 201",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Morrill Larry R, DDS",
+        "phone": "+16503222817",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/morrill-larry-r-dds-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "blue-turtle-dental-palo-alto",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4279,
+            "longitude": -122.14521
+        },
+        "display_phone": "(650) 503-6777",
+        "distance": 7252.5177080666035,
+        "id": "fMRbOac4DJCHZUJwjOnRJw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sx3-lWPRlAo7J71qxbG7-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2290 Birch St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2290 Birch St",
+                "Ste A",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Blue Turtle Dental",
+        "phone": "+16505036777",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/blue-turtle-dental-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elliot-singer-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.42687,
+            "longitude": -122.1454
+        },
+        "display_phone": "(650) 329-9124",
+        "distance": 7161.862763689403,
+        "id": "qG0dqHTFf81D7FXlZ0NjGw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9h3U3SxtNJVBR4lRuyYHqA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "407 Cambridge Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "407 Cambridge Ave",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Elliot Singer, DDS",
+        "phone": "+16503299124",
+        "rating": 4.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elliot-singer-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "boyarsky-harvey-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4476343,
+            "longitude": -122.152185
+        },
+        "display_phone": "(650) 327-3172",
+        "distance": 8398.598708412572,
+        "id": "846y7qe0hWIVOqJgLWbcIg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z73J_Qafi2j8Nhge87mS6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Middlefield Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "888 Middlefield Rd",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Boyarsky Harvey, DMD",
+        "phone": "+16503273172",
+        "rating": 4.5,
+        "review_count": 38,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/boyarsky-harvey-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "prima-dental-redwood-city-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45502,
+            "longitude": -122.22905
+        },
+        "display_phone": "(650) 365-1400",
+        "distance": 7732.988757865151,
+        "id": "hYmb1mWA0XvBx7cJLNHX-A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/175Y8PIeo3nPapaxCm5ZLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1690 Woodside Rd",
+            "address2": "Ste 118",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1690 Woodside Rd",
+                "Ste 118",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Prima Dental",
+        "phone": "+16503651400",
+        "rating": 5.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/prima-dental-redwood-city-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cox-and-miranda-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4368591308594,
+            "longitude": -122.17610168457
+        },
+        "display_phone": "(650) 326-7257",
+        "distance": 6244.363644239417,
+        "id": "3WJauOH_p4g0Moess0G9oA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JhTdpXTnyZpML3MnZJ8qdQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "777 Welch Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "777 Welch Rd",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Cox & Miranda, DDS",
+        "phone": "+16503267257",
+        "rating": 4.5,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cox-and-miranda-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "javidan-endodontics-palo-alto",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4269276170985,
+            "longitude": -122.145908374344
+        },
+        "display_phone": "(650) 328-3636",
+        "distance": 7137.417165303239,
+        "id": "c_WdfzZ3uOoDMDvsQZ2ewQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gR-lxtkme7vFJzd0UltAbQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "420 Cambridge Ave",
+            "address2": "",
+            "address3": "Ground Fl",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "420 Cambridge Ave",
+                "Ground Fl",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Javidan Endodontics",
+        "phone": "+16503283636",
+        "rating": 4.5,
+        "review_count": 44,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/javidan-endodontics-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mckenna-family-dentistry-palo-alto-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4303589846521,
+            "longitude": -122.15154467791
+        },
+        "display_phone": "(650) 321-4544",
+        "distance": 7007.222899982928,
+        "id": "up9Pj-UYPNf53z73YuV8KQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VgMuwPpSytRpUf9P9U5yyA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1691 El Camino Real",
+            "address2": "Ste 300",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1691 El Camino Real",
+                "Ste 300",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "McKenna Family Dentistry",
+        "phone": "+16503214544",
+        "rating": 4.0,
+        "review_count": 45,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mckenna-family-dentistry-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peninsula-endodontics-group-palo-alto",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.42935,
+            "longitude": -122.1505
+        },
+        "display_phone": "(650) 328-1860",
+        "distance": 6995.906956386092,
+        "id": "_no9bVCgUvYtVQ6RThW_tw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g3z3sh6GrRPaRDMUa01a8A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 El Camino Real",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1805 El Camino Real",
+                "Ste 201",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Peninsula Endodontics Group",
+        "phone": "+16503281860",
+        "rating": 4.5,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peninsula-endodontics-group-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "palo-alto-central-dental-palo-alto-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4284712,
+            "longitude": -122.1426882
+        },
+        "display_phone": "(650) 321-8731",
+        "distance": 7467.220143639834,
+        "id": "a3kJSSEz9bT7MFh8I-Nc7A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aenWB53aToEH9nrOYdTDsg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "117 S California Ave",
+            "address2": "Ste D200",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "117 S California Ave",
+                "Ste D200",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Palo Alto Central Dental",
+        "phone": "+16503218731",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/palo-alto-central-dental-palo-alto-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ihab-andrawess-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44815,
+            "longitude": -122.15386
+        },
+        "display_phone": "(650) 838-9400",
+        "distance": 8361.784601620648,
+        "id": "fbg-2bkkdfflU1wHGDOUXw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a3u5MQL6y_iGmGaug31LjQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Homer Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "655 Homer Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Ihab Andrawess, DMD",
+        "phone": "+16508389400",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ihab-andrawess-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kurtis-r-finley-dds-palo-alto-endodontic-group-palo-alto",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4506393683424,
+            "longitude": -122.156754550072
+        },
+        "display_phone": "(650) 328-6356",
+        "distance": 8434.172714978611,
+        "id": "Nbv5Eq_N98RiC5adOPgODw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EqadA0z5nHRvwqoW6Cmrcg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Middlefield Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "500 Middlefield Rd",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Kurtis R. Finley, DDS - Palo Alto Endodontic Group",
+        "phone": "+16503286356",
+        "rating": 4.5,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kurtis-r-finley-dds-palo-alto-endodontic-group-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pediatric-dentistry-of-palo-alto-palo-alto",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43803,
+            "longitude": -122.17533
+        },
+        "display_phone": "(650) 321-6448",
+        "distance": 6393.695911642843,
+        "id": "5eMBkfK4UsbdFBGLteOpaA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p-RsefbYqGEUotBHRAGzlg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "750 Welch Rd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "750 Welch Rd",
+                "Ste 102",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Pediatric Dentistry of Palo Alto",
+        "phone": "+16503216448",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pediatric-dentistry-of-palo-alto-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gary-roberts-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43802,
+            "longitude": -122.17531
+        },
+        "display_phone": "(650) 328-6684",
+        "distance": 6393.315092157598,
+        "id": "25Vev09aL1b_Wl5gCaDXVA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "750 Welch Rd",
+            "address2": "Ste 118",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "750 Welch Rd",
+                "Ste 118",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Gary Roberts, DDS",
+        "phone": "+16503286684",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gary-roberts-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gerber-paul-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45152,
+            "longitude": -122.18829
+        },
+        "display_phone": "(650) 323-0264",
+        "distance": 7365.064979145107,
+        "id": "ZM8ulmMtkTS6RzoKFEssxg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fet-lJ6TJdLOsperDtzAhQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 8",
+            "address3": "Menlo Pediatric Dental",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 8",
+                "Menlo Pediatric Dental",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Gerber Paul, DDS",
+        "phone": "+16503230264",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gerber-paul-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "woodside-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4543408,
+            "longitude": -122.2284784
+        },
+        "display_phone": "(650) 716-1500",
+        "distance": 7636.820088471954,
+        "id": "7cTV65cdQpzITRoSBGzoQw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SLdY9wz3TUq87kM27UoqTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 110",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Woodside Dental",
+        "phone": "+16507161500",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/woodside-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mulcahy-family-dentistry-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4297370910645,
+            "longitude": -122.150871276855
+        },
+        "display_phone": "(650) 328-1223",
+        "distance": 6998.513530429312,
+        "id": "vc9Ff2LIzCRgQzyZWz59fw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IL8fzeiVIggdukAo7BIX1g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1795 El Camino Real",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "1795 El Camino Real",
+                "Ste 100",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Mulcahy Family Dentistry",
+        "phone": "+16503281223",
+        "rating": 4.5,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mulcahy-family-dentistry-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "palo-alto-dental-group-palo-alto-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4500961303711,
+            "longitude": -122.157073974609
+        },
+        "display_phone": "(650) 323-1381",
+        "distance": 8375.484102746452,
+        "id": "FrnPfNpmAbLz3H9qfSBdBw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jO6wvb5oU7784cBvuQV24A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "511 Byron St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "511 Byron St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Palo Alto Dental Group",
+        "phone": "+16503231381",
+        "rating": 4.0,
+        "review_count": 60,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/palo-alto-dental-group-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "r-glenn-kitasoe-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4513740539551,
+            "longitude": -122.186363220215
+        },
+        "display_phone": "(650) 323-5211",
+        "distance": 7413.833037491767,
+        "id": "C1kEUAP84wpE6PkuKJSz6w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WpJGvWqgcmkUE7esOGpS6g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "825 Oak Grove Ave",
+            "address2": "Ste C-501",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "825 Oak Grove Ave",
+                "Ste C-501",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "R. Glenn Kitasoe, DDS",
+        "phone": "+16503235211",
+        "rating": 4.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/r-glenn-kitasoe-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nidhi-pai-dds-palo-alto-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4278989,
+            "longitude": -122.145211
+        },
+        "display_phone": "(650) 323-4222",
+        "distance": 7252.64242087505,
+        "id": "X1C9RJlJffqL8aRFRAu2Jw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8s4P2IpSVP9CSxc0fTNzbg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2290 Birch St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2290 Birch St",
+                "Ste C",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Nidhi Pai, DDS",
+        "phone": "+16503234222",
+        "rating": 3.5,
+        "review_count": 62,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nidhi-pai-dds-palo-alto-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pristine-orthodontics-palo-alto",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43803,
+            "longitude": -122.17533
+        },
+        "display_phone": "(650) 325-2496",
+        "distance": 6393.695911642843,
+        "id": "FUu_c4ZW7wFn6bR2E6odSw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t6KAPY5weBShinJx04HfJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "750 Welch Rd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "750 Welch Rd",
+                "Ste 102",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Pristine Orthodontics",
+        "phone": "+16503252496",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pristine-orthodontics-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-hoffman-dds-menlo-park-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45137,
+            "longitude": -122.18636
+        },
+        "display_phone": "(650) 325-1332",
+        "distance": 7414.720408313227,
+        "id": "ZRXaHlIeAU6aHJj_N0Mb7Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sj2C_O3tWbMQxDlNYkQUvA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "825 Oak Grove Ave",
+            "address2": "Ste 301",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "825 Oak Grove Ave",
+                "Ste 301",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Scott Hoffman, DDS",
+        "phone": "+16503251332",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-hoffman-dds-menlo-park-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cabreza-elaine-m-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4281609,
+            "longitude": -122.142357
+        },
+        "display_phone": "(650) 328-1580",
+        "distance": 7474.2582792388375,
+        "id": "TL59VZaIbvmSBmAG_qZAjg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2421 Park Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2421 Park Blvd",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Cabreza Elaine M, DDS",
+        "phone": "+16503281580",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cabreza-elaine-m-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-h-burkholder-dmd-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.431821,
+            "longitude": -122.201287
+        },
+        "display_phone": "(650) 854-3346",
+        "distance": 5008.033001539756,
+        "id": "yiF5BOPmuV7-u5-IXTclUA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mXt4roYf9Z99ZFXNN1c0dA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2095 Avy Ave",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "2095 Avy Ave",
+                "Ste 3",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "John H Burkholder, DMD",
+        "phone": "+16508543346",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-h-burkholder-dmd-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "menlo-park-dental-excellence-menlo-park-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45221,
+            "longitude": -122.18646
+        },
+        "display_phone": "(650) 838-0260",
+        "distance": 7502.109608790056,
+        "id": "vcvVhf5zXTCURyo5sRSKHQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KhYQIq4X0mx2LfGKAV3i3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "724 Oak Grove Ave",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "724 Oak Grove Ave",
+                "Ste 120",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Menlo Park Dental Excellence",
+        "phone": "+16508380260",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/menlo-park-dental-excellence-menlo-park-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christine-e-hansen-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44745,
+            "longitude": -122.16144
+        },
+        "display_phone": "(650) 326-3290",
+        "distance": 7926.329352088051,
+        "id": "z_nALckf-1mnKvsZUIS5Cw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/91bGvO8L63pyvvAE2kysWg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "416 Waverley St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "416 Waverley St",
+                "Ste A",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Christine E Hansen, DDS",
+        "phone": "+16503263290",
+        "rating": 4.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christine-e-hansen-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carter-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.457389831543,
+            "longitude": -122.226974487305
+        },
+        "display_phone": "(650) 368-4553",
+        "distance": 7949.6406619570025,
+        "id": "cT78BK4FGiGrhfJy3ntAdQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FEMrSmeDPNsnpwHwd7GViA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1391 Woodside Rd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1391 Woodside Rd",
+                "Ste 210",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Carter Dental",
+        "phone": "+16503684553",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carter-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ann-ho-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.425252,
+            "longitude": -122.147248
+        },
+        "display_phone": "(650) 351-6728",
+        "distance": 6929.79613210174,
+        "id": "vUJwbt37KOSGofCI1N6pjA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6rrTj2ABwoplWGlrF5iy8w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2345 Yale St",
+            "address2": "Ste Fl 2A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2345 Yale St",
+                "Ste Fl 2A",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Ann Ho, DDS",
+        "phone": "+16503516728",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ann-ho-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "katherine-a-brown-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticsurgeons",
+                "title": "Cosmetic Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4520797729492,
+            "longitude": -122.181999206543
+        },
+        "display_phone": "(650) 328-8544",
+        "distance": 7605.163249906825,
+        "id": "4g-lYzzbY3jhY9x4_J_LKQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SEkRiREE5RVwDocbRh0H-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 5",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Katherine A Brown, DDS",
+        "phone": "+16503288544",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/katherine-a-brown-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "perfecto-notario-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44815,
+            "longitude": -122.15386
+        },
+        "display_phone": "(650) 321-7747",
+        "distance": 8361.784601620648,
+        "id": "0bs44nDVk3EaykLmytomXg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Homer Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "655 Homer Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Perfecto Notario DDS",
+        "phone": "+16503217747",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/perfecto-notario-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christopher-h-joy-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4478,
+            "longitude": -122.15322
+        },
+        "display_phone": "(650) 324-8360",
+        "distance": 8372.356052829817,
+        "id": "BJpTJScHe-EDqCSJROYM2w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/egDYPEkj2MB_JmPnmJ3vrQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "668 Homer Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "668 Homer Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Christopher H Joy, DMD",
+        "phone": "+16503248360",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christopher-h-joy-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "chris-e-lindsey-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4478064119702,
+            "longitude": -122.152724215344
+        },
+        "display_phone": "(650) 327-3770",
+        "distance": 8388.476950931616,
+        "id": "znlO2N9HNBxPcbRXF7HgUQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "850 Middlefield Rd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "850 Middlefield Rd",
+                "Ste 5",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Chris E. Lindsey, DDS",
+        "phone": "+16503273770",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/chris-e-lindsey-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kristian-lundgren-koszeghy-dmd-mmsc-palo-alto",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4477766,
+            "longitude": -122.1526813
+        },
+        "display_phone": "(650) 326-1400",
+        "distance": 8388.087641824366,
+        "id": "OMgxh9-sRzW_fuAqyAKMDA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "850 Middlefield Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "850 Middlefield Rd",
+                "Ste 1",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Kristian Lundgren-Koszeghy, DMD, MMSc",
+        "phone": "+16503261400",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kristian-lundgren-koszeghy-dmd-mmsc-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-c-quo-dds-palo-alto-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4415,
+            "longitude": -122.15821
+        },
+        "display_phone": "(650) 853-8883",
+        "distance": 7536.327682496176,
+        "id": "1lkUmMqvsktWLp-ddUX0Kw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "882 Emerson St",
+            "address2": "Ste A",
+            "address3": "Peninsula Pediatric Dentistry",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "882 Emerson St",
+                "Ste A",
+                "Peninsula Pediatric Dentistry",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Brian C Quo, DDS",
+        "phone": "+16508538883",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-c-quo-dds-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffery-starr-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4562517,
+            "longitude": -122.1683814
+        },
+        "display_phone": "(650) 327-7101",
+        "distance": 8480.502972095113,
+        "id": "HRcoEUnOlhoWYb8rj9RMJA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SE016MhQHrOGFHuR5NtQng/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "321 Middlefield Rd",
+            "address2": "Ste 145",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "321 Middlefield Rd",
+                "Ste 145",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Jeffery Starr, DDS",
+        "phone": "+16503277101",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffery-starr-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lipson-david-a-dds-ms-palo-alto",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4504127502441,
+            "longitude": -122.156761169434
+        },
+        "display_phone": "(650) 328-6120",
+        "distance": 8420.312984658807,
+        "id": "u9eskWT6RZ3gE1XRN4sx3Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "680 University Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "680 University Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Lipson David A, DDS, MS",
+        "phone": "+16503286120",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lipson-david-a-dds-ms-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-ponce-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43803,
+            "longitude": -122.17533
+        },
+        "display_phone": "(650) 321-6448",
+        "distance": 6393.695911642843,
+        "id": "tcLgEMDytsh3kcNMf99HGw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eNFJ5CJjjZRpjJOnCqLHqw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "750 Welch Rd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "750 Welch Rd",
+                "Ste 102",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Daniel Ponce, DDS",
+        "phone": "+16503216448",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-ponce-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "heritage-park-dental-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4430426,
+            "longitude": -122.1573378
+        },
+        "display_phone": "(650) 327-1570",
+        "distance": 7713.260608212984,
+        "id": "8xnsVpJOEEJR8QIeeIYxEA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uQcE9YlaBEtTFrqAj1ljMg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "826 Bryant St",
+            "address2": null,
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "826 Bryant St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Heritage Park Dental",
+        "phone": "+16503271570",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/heritage-park-dental-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-m-schulze-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45207,
+            "longitude": -122.18199
+        },
+        "display_phone": "(650) 322-4943",
+        "distance": 7605.163249906825,
+        "id": "AuPqbqKmsJUhoHj5dTtFDg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/odrDL_wBOKri0N6Vc5z-Qg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 8",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 8",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Daniel M Schulze, DDS",
+        "phone": "+16503224943",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-m-schulze-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-s-durando-dds-menlo-park-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45207,
+            "longitude": -122.18199
+        },
+        "display_phone": "(650) 323-8328",
+        "distance": 7605.163249906825,
+        "id": "x1JQ7mR1fFwr2L6OxmqDzA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lcP04zHF6nAD9HXbkdMN2w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 4",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Richard S. Durando, DDS",
+        "phone": "+16503238328",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-s-durando-dds-menlo-park-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "galina-nasakin-dds-palo-alto-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4282396,
+            "longitude": -122.1424086
+        },
+        "display_phone": "(650) 325-2457",
+        "distance": 7471.0557073764485,
+        "id": "di6rZgjCYw22xEEeDqiPdg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3tOC9vENwWn-lPrvAHWCOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2421 Park Blvd",
+            "address2": "Ste A 200",
+            "address3": "Palo Alto Dental",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2421 Park Blvd",
+                "Ste A 200",
+                "Palo Alto Dental",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Galina Nasakin, DDS",
+        "phone": "+16503252457",
+        "rating": 4.0,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/galina-nasakin-dds-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "delores-w-eberhart-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4476725,
+            "longitude": -122.1522437
+        },
+        "display_phone": "(650) 328-3384",
+        "distance": 8401.293095318577,
+        "id": "ZDDVJmAjc5720fWfDfUIDQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KFl5R60fn5GnbLfQFz_8WA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "880 Middlefield Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "880 Middlefield Rd",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Delores W Eberhart, DDS",
+        "phone": "+16503283384",
+        "rating": 4.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/delores-w-eberhart-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "negar-parravi-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.451522,
+            "longitude": -122.188293
+        },
+        "display_phone": "(650) 325-2829",
+        "distance": 7365.064979145107,
+        "id": "2PY18INU0RrADtM0aFUxMQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tjDP1nusTtdCG_4itAKT2A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 3",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Negar Parravi, DDS",
+        "phone": "+16503252829",
+        "rating": 3.5,
+        "review_count": 37,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/negar-parravi-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-fross-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4559707641602,
+            "longitude": -122.168426513672
+        },
+        "display_phone": "(650) 328-2322",
+        "distance": 8483.61818093693,
+        "id": "me2Gjpn3SR-ghEQw6RB0Gw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/StQRXZiDS_vZaBwvH_PFNg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "321 Middlefield Rd",
+            "address2": "Ste 110",
+            "address3": "Palo Alto Oral Surgery",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "321 Middlefield Rd",
+                "Ste 110",
+                "Palo Alto Oral Surgery",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Scott Fross, DDS",
+        "phone": "+16503282322",
+        "rating": 4.0,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-fross-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "evergreen-park-dental-palo-alto",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4279,
+            "longitude": -122.14521
+        },
+        "display_phone": "(650) 561-3906",
+        "distance": 7252.5177080666035,
+        "id": "QSB0F6Rg6IJzUKklnryopg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-zTgIPZxO5kJGkat3f9LQQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2290 Birch St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2290 Birch St",
+                "Ste B",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Evergreen Park Dental",
+        "phone": "+16505613906",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/evergreen-park-dental-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "douglas-s-lew-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43048,
+            "longitude": -122.15166
+        },
+        "display_phone": "(650) 324-1292",
+        "distance": 7008.950604121449,
+        "id": "qMjk00t-zgsK4664QDRokg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/snQTGMYSUkNohDznVyk9BQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "Bay Area Prosthodontics",
+            "address2": "1691 El Camino Real, Ste 200",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "Bay Area Prosthodontics",
+                "1691 El Camino Real, Ste 200",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Douglas S Lew, DDS",
+        "phone": "+16503241292",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/douglas-s-lew-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elizabeth-moncada-dds-ms-menlo-park",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45299,
+            "longitude": -122.18504
+        },
+        "display_phone": "(650) 304-9565",
+        "distance": 7616.426056835472,
+        "id": "afsmJUHaVGjkPNBSIgGu4A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uX48ZxO44oeqcL5DOuT3LA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "695 Oak Grove Ave",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "695 Oak Grove Ave",
+                "Ste 200",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Elizabeth Moncada, DDS, MS",
+        "phone": "+16503049565",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elizabeth-moncada-dds-ms-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roshan-emam-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.447794,
+            "longitude": -122.152675
+        },
+        "display_phone": "(650) 321-0340",
+        "distance": 8389.970470687718,
+        "id": "v6atwUNt3I3h2rvbsQhrwg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IWsM5Z1YZoqnt6k5SwXhpw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "850 Middlefield Rd",
+            "address2": "Ste 8",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "850 Middlefield Rd",
+                "Ste 8",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Roshan Emam, DDS",
+        "phone": "+16503210340",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roshan-emam-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "andrea-braun-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45206,
+            "longitude": -122.174476
+        },
+        "display_phone": "(650) 325-1555",
+        "distance": 7842.310775404146,
+        "id": "CLUYpY9uBlZRWHczjvDtqg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8TOrYOEsmg5oyGgAYlIwDg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "425 Burgess Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "425 Burgess Dr",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Andrea Braun, DDS",
+        "phone": "+16503251555",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/andrea-braun-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tavarez-orthodontics-menlo-park",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.450073,
+            "longitude": -122.184394
+        },
+        "display_phone": "(650) 329-9600",
+        "distance": 7320.495771623956,
+        "id": "oxR3zYzp7JJp3Ln6Nz1H3A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S2x5v2wSyPJnM_JEuukIxg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "800 Menlo Ave",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "800 Menlo Ave",
+                "Ste 101",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Tavarez Orthodontics",
+        "phone": "+16503299600",
+        "rating": 4.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tavarez-orthodontics-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laurence-s-wong-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44815,
+            "longitude": -122.15386
+        },
+        "display_phone": "(650) 328-7333",
+        "distance": 8361.784601620648,
+        "id": "Rcb0unQ3o4Nm-P9nnSbA4Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OsyVhhPRVnFlcOcR4Y8lEw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Homer Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "655 Homer Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Laurence S Wong, DDS",
+        "phone": "+16503287333",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laurence-s-wong-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rabindra-sahdev-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4415,
+            "longitude": -122.15821
+        },
+        "display_phone": "(650) 566-0999",
+        "distance": 7537.164880339335,
+        "id": "dWpVllWw0OTKxgTAd4cQFQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/waxmU3bSFwqpMC3Y-78d-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "882 C Emerson St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "882 C Emerson St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Rabindra Sahdev, DDS",
+        "phone": "+16505660999",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rabindra-sahdev-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elizabeth-p-doi-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45102,
+            "longitude": -122.1875
+        },
+        "display_phone": "(650) 529-4004",
+        "distance": 7335.290805381748,
+        "id": "N4FGDRUg69cbc9Pxki52hQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7EzT6SbbiNbd5lxT1xdQAg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove Ave",
+                "Ste 1",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Elizabeth P. Doi, DDS",
+        "phone": "+16505294004",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elizabeth-p-doi-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "azeem-k-lakha-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44633,
+            "longitude": -122.15645
+        },
+        "display_phone": "(650) 328-6622",
+        "distance": 8060.220243274444,
+        "id": "JPqd6JdD3NwyQsxstAoOHg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "720 Cowper St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "720 Cowper St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Azeem K Lakha, DMD",
+        "phone": "+16503286622",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/azeem-k-lakha-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marisa-walker-dds-menlo-park-3",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.455207,
+            "longitude": -122.164625
+        },
+        "display_phone": "(650) 328-2072",
+        "distance": 8524.785538239861,
+        "id": "Mkz4F1F_0urKeGQOXfiQqQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LagmxnujO7mC9xpAZ7h90w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Middlefield Rd",
+            "address2": "Ste 101",
+            "address3": null,
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "150 Middlefield Rd",
+                "Ste 101",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Marisa Walker, DDS",
+        "phone": "+16503282072",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marisa-walker-dds-menlo-park-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "menlo-park-periodontics-menlo-park",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4521597,
+            "longitude": -122.1820056
+        },
+        "display_phone": "(650) 327-0625",
+        "distance": 7606.589446836537,
+        "id": "v4v6uBx8Jpzc69rVU-KU0Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/36CgiX617-5xDh1vpHKldg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 1",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Menlo Park Periodontics",
+        "phone": "+16503270625",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/menlo-park-periodontics-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jollymour-a-peter-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45102,
+            "longitude": -122.1875
+        },
+        "display_phone": "(650) 322-1864",
+        "distance": 7335.290805381748,
+        "id": "NOOfOx5d4T7LC2kmyWQnRA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove Ave",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Jollymour A Peter DDS",
+        "phone": "+16503221864",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jollymour-a-peter-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gentle-dental-palo-alto-palo-alto-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44802,
+            "longitude": -122.15185
+        },
+        "display_phone": "(650) 433-9343",
+        "distance": 8445.483949396832,
+        "id": "diErLeInRQIiYG67YUeVyg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SfUZUFIl8bkb6VKoAt74NA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "853 Middlefield Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "853 Middlefield Rd",
+                "Ste 1",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Gentle Dental Palo Alto",
+        "phone": "+16504339343",
+        "rating": 2.5,
+        "review_count": 130,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gentle-dental-palo-alto-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-b-armistead-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.43,
+            "longitude": -122.14213
+        },
+        "display_phone": "(650) 326-4466",
+        "distance": 7617.884340989825,
+        "id": "UC_zf9NFAW_YTpRhbqn2Mw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4w-Y_6wPDdWKLdrMc0fsig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2233 Alma St",
+            "address2": null,
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2233 Alma St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Daniel B Armistead, DDS",
+        "phone": "+16503264466",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-b-armistead-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yekta-rafaty-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45102,
+            "longitude": -122.187506
+        },
+        "display_phone": "(650) 325-0465",
+        "distance": 7343.396793720019,
+        "id": "ugMWQaMnjE9OaXOjHph1lw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xAWumRW9kKvVB2UBh_R4Qw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove",
+                "Ste 2",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Yekta Rafaty, DDS",
+        "phone": "+16503250465",
+        "rating": 3.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yekta-rafaty-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kevin-low-and-whitney-lorenz-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4477272033691,
+            "longitude": -122.153190612793
+        },
+        "display_phone": "(650) 327-7060",
+        "distance": 8345.796273755586,
+        "id": "a7DH7QOvBUvkdtjF688wBw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "652 Homer Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "652 Homer Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Kevin Low and Whitney Lorenz",
+        "phone": "+16503277060",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kevin-low-and-whitney-lorenz-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "earl-whetstone-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44849,
+            "longitude": -122.15374
+        },
+        "display_phone": "(650) 322-8572",
+        "distance": 8395.336588360506,
+        "id": "S_NdTUNLaHUk31lVNXjvkw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uwSGjLSNTObmq6H4Z7VPYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "744 Middlefield Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "744 Middlefield Rd",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Earl Whetstone, DDS",
+        "phone": "+16503228572",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/earl-whetstone-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "zahra-hakim-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4512268,
+            "longitude": -122.1572861
+        },
+        "display_phone": "(650) 321-3220",
+        "distance": 8470.330209212472,
+        "id": "rFEOcb9_iFuVdZnC142_wA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4tRz9ZVvAJStSGhFlu3HiQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "435 Middlefield Rd",
+            "address2": "",
+            "address3": "Extraordinary Smile",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "435 Middlefield Rd",
+                "Extraordinary Smile",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Zahra Hakim DDS",
+        "phone": "+16503213220",
+        "rating": 3.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/zahra-hakim-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tanya-zaghi-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45102,
+            "longitude": -122.1875
+        },
+        "display_phone": "(650) 327-8081",
+        "distance": 7335.290805381748,
+        "id": "TZFirx1jry1xCX5cgqpzvw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sTPeCuIElqly2b8CpjhqAA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove Ave",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove Ave",
+                "Ste 6",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Tanya Zaghi, DDS",
+        "phone": "+16503278081",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tanya-zaghi-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "altick-frank-l-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.443052,
+            "longitude": -122.1573519
+        },
+        "display_phone": "(650) 327-1787",
+        "distance": 7713.260608212984,
+        "id": "XIviW5T88RhLVDRguUG75Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "824 Bryant St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "824 Bryant St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Altick Frank L, DDS",
+        "phone": "+16503271787",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/altick-frank-l-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-cox-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.436856,
+            "longitude": -122.176086
+        },
+        "display_phone": "(650) 326-7257",
+        "distance": 6244.363644239417,
+        "id": "d7yb-rUIVHldta3Wngrohg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "777 Welch Rd",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "777 Welch Rd",
+                "Ste H",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "James Cox, DDS",
+        "phone": "+16503267257",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-cox-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-sarkosh-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.451019,
+            "longitude": -122.187507
+        },
+        "display_phone": "(650) 327-8081",
+        "distance": 7335.290805381748,
+        "id": "fnbKRjoWpDWCwbG3xWqCWQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8GJDesHsMcEFsxuPHhgekw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove Ave",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove Ave",
+                "Ste 6",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Joseph Sarkosh, DDS",
+        "phone": "+16503278081",
+        "rating": 2.5,
+        "review_count": 51,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-sarkosh-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "timothy-mulcahy-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4297370910645,
+            "longitude": -122.150871276855
+        },
+        "display_phone": "(650) 328-1223",
+        "distance": 7000.468016478478,
+        "id": "sa5TS4sYbmJ19GuA1VUKvg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "Mulcahy Family Dentistry",
+            "address2": "",
+            "address3": "1795 El Camino Real",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "Mulcahy Family Dentistry",
+                "1795 El Camino Real",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Timothy Mulcahy, DDS",
+        "phone": "+16503281223",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/timothy-mulcahy-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-nabeta-dds-peninsula-smiles-menlo-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45206,
+            "longitude": -122.17447
+        },
+        "display_phone": "(650) 321-0915",
+        "distance": 7841.687500797439,
+        "id": "JSVvow1Oe5_VqttE1gvZ3Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2zQ6KsRaSLATMTuEwIpztA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "425 Burgess Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "425 Burgess Dr",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Scott Nabeta, DDS - Peninsula Smiles",
+        "phone": "+16503210915",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-nabeta-dds-peninsula-smiles-menlo-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kate-matin-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4562347,
+            "longitude": -122.1683502
+        },
+        "display_phone": "(650) 329-8160",
+        "distance": 8479.975663523932,
+        "id": "tg_worgSdjb5nE67s9o7hQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4rLDuZzOUlw1UDOmFyrGGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "321 Middlefield Rd",
+            "address2": "Ste 275",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "321 Middlefield Rd",
+                "Ste 275",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Kate Matin, DDS",
+        "phone": "+16503298160",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kate-matin-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cameron-l-aboudara-dds-ms-menlo-park-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.451135,
+            "longitude": -122.187506
+        },
+        "display_phone": "(650) 566-1735",
+        "distance": 7355.728705335397,
+        "id": "dreKYGKjE8qvaXZwRPzRSQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove Ave",
+            "address2": "Ste 11",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove Ave",
+                "Ste 11",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Cameron L Aboudara, DDS MS",
+        "phone": "+16505661735",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cameron-l-aboudara-dds-ms-menlo-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dustin-ford-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4515228271484,
+            "longitude": -122.188293457031
+        },
+        "display_phone": "(650) 326-1682",
+        "distance": 7365.064979145107,
+        "id": "9g1pLk08J49rUVmqgK3uYg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kxv1JopXIkjTUHfWNxkfNg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 7",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Dustin Ford, DDS",
+        "phone": "+16503261682",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dustin-ford-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-b-jones-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45502,
+            "longitude": -122.22905
+        },
+        "display_phone": "(650) 364-5800",
+        "distance": 7732.988757865151,
+        "id": "HuS7_S5Za_pnajKx8_ohTg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vn3mXIUbg345tQQvrDv8WA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1690 Woodside Rd",
+            "address2": "Ste 204",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1690 Woodside Rd",
+                "Ste 204",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Jeffrey B. Jones, DDS",
+        "phone": "+16503645800",
+        "rating": 3.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-b-jones-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mazzetti-family-dentistry-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4300184,
+            "longitude": -122.1424298
+        },
+        "display_phone": "(650) 327-1530",
+        "distance": 7617.046204982245,
+        "id": "J0H4FaWL_o_8ccOFsn_DGQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2235 Alma St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2235 Alma St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Mazzetti Family Dentistry",
+        "phone": "+16503271530",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mazzetti-family-dentistry-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-w-kaloust-dds-menlo-park-orthodontics-menlo-park",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45152,
+            "longitude": -122.18829
+        },
+        "display_phone": "(650) 326-0250",
+        "distance": 7365.064979145107,
+        "id": "f2tT28EWir91spZjDtkXMg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JynJxULuuKsWUPAebWF-Qw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 2",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Scott W. Kaloust,  DDS -  Menlo Park Orthodontics",
+        "phone": "+16503260250",
+        "rating": 4.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-w-kaloust-dds-menlo-park-orthodontics-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "denise-henderson-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44912,
+            "longitude": -122.1547
+        },
+        "display_phone": "(650) 327-4755",
+        "distance": 8410.342640698093,
+        "id": "v2DzIjXHj91WU-HlQqk9Ow",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V30cC2f4L0Xre3LyjicIww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "660 Middlefield Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "660 Middlefield Rd",
+                "Ste A",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Denise Henderson, DDS",
+        "phone": "+16503274755",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/denise-henderson-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fred-d-fullmer-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4510192871094,
+            "longitude": -122.187507629395
+        },
+        "display_phone": "(650) 322-8442",
+        "distance": 7335.290805381748,
+        "id": "AySCRk2s_EsoP8tQvyUe3w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MyT1FesXLQsC52E0K_s1Rg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "888 Oak Grove Ave",
+            "address2": "Ste 11",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "888 Oak Grove Ave",
+                "Ste 11",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Fred D Fullmer, DDS",
+        "phone": "+16503228442",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fred-d-fullmer-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "menlo-pediatric-dental-menlo-park",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45152,
+            "longitude": -122.18829
+        },
+        "display_phone": "(650) 323-0264",
+        "distance": 7365.064979145107,
+        "id": "R5rsfB2QgatOvexY2I11Fg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Swj-TwvpuvbLZiNDdFWVKg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 8",
+            "address3": null,
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 8",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Menlo Pediatric Dental",
+        "phone": "+16503230264",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/menlo-pediatric-dental-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "donald-r-hermansen-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4543639432804,
+            "longitude": -122.228498663824
+        },
+        "display_phone": "(650) 716-2500",
+        "distance": 7639.72337393081,
+        "id": "iS0CIm1WbvFyi3JCGzbWYQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YFAmho1bejhfJgmewAHxTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 110",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Donald R Hermansen, DDS",
+        "phone": "+16507162500",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/donald-r-hermansen-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "serenity-dental-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4501686,
+            "longitude": -122.1571516
+        },
+        "display_phone": "(650) 327-7525",
+        "distance": 8378.448702236483,
+        "id": "XNzOba9ETTmjXeCwfE1LjA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ECOY7PMlX3EoHXocxRyu_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "517 Byron St",
+            "address2": null,
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "517 Byron St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Serenity Dental",
+        "phone": "+16503277525",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/serenity-dental-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "terry-g-fiori-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4521210576505,
+            "longitude": -122.182349209294
+        },
+        "display_phone": "(650) 327-4464",
+        "distance": 7605.163249906825,
+        "id": "wRvYPkJE0eDvNThUn9LxLg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QfaOFRabM07YKzU2xcC1NA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 1",
+            "address3": "Menlo Park Periodontics",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 1",
+                "Menlo Park Periodontics",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Terry G Fiori, DDS",
+        "phone": "+16503274464",
+        "rating": 3.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/terry-g-fiori-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leary-timothy-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4520797729492,
+            "longitude": -122.181999206543
+        },
+        "display_phone": "(650) 328-8544",
+        "distance": 7605.163249906825,
+        "id": "7ulqWttOTeeVE9qRXnUMmA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Leary Timothy, DDS",
+        "phone": "+16503288544",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leary-timothy-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "inouye-randall-dds-msd-palo-alto",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44745,
+            "longitude": -122.16143
+        },
+        "display_phone": "(650) 321-3266",
+        "distance": 7926.329352088051,
+        "id": "epXQnrZccQ7BAXg63MG32A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "416 Waverley St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "416 Waverley St",
+                "Ste A",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Inouye Randall, DDS, MSD",
+        "phone": "+16503213266",
+        "rating": 3.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/inouye-randall-dds-msd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michelle-demarta-dmd-demarta-dental-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45596,
+            "longitude": -122.16842
+        },
+        "display_phone": "(650) 321-7270",
+        "distance": 8483.682501434974,
+        "id": "A17BZV1TU1jcucmHjHI7cg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R4tvVjVxaHc1TzaYKNUiTA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "321 Middlefield Rd",
+            "address2": "Ste 100",
+            "address3": null,
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "321 Middlefield Rd",
+                "Ste 100",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Michelle DeMarta, DMD - DeMarta Dental",
+        "phone": "+16503217270",
+        "rating": 3.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michelle-demarta-dmd-demarta-dental-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "constance-o-mazzetti-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4300184,
+            "longitude": -122.1424298
+        },
+        "display_phone": "(650) 327-1530",
+        "distance": 7617.046204982245,
+        "id": "ubnrWnc40hOXtTk44yC_zA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2235 Alma St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "2235 Alma St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Constance O Mazzetti, DDS",
+        "phone": "+16503271530",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/constance-o-mazzetti-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "menlo-park-family-dental-menlo-park-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45152,
+            "longitude": -122.18829
+        },
+        "display_phone": "(650) 325-7711",
+        "distance": 7365.064979145107,
+        "id": "EkJU9GlHuR7yUkM-i2hRmA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wVK6aQBgda97yL8chTd2DQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 5",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Menlo Park Family Dental",
+        "phone": "+16503257711",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/menlo-park-family-dental-menlo-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peninsula-smiles-menlo-park",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45206,
+            "longitude": -122.17447
+        },
+        "display_phone": "(650) 321-0915",
+        "distance": 7842.310775404146,
+        "id": "T2CtpNZItGzstOjB2jiw0w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/H2E7FbfxvqibtJZXwh828Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "425 Burgess Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "425 Burgess Dr",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Peninsula Smiles",
+        "phone": "+16503210915",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peninsula-smiles-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "albert-sadakian-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4108451987005,
+            "longitude": -122.272483322754
+        },
+        "display_phone": "(650) 363-8525",
+        "distance": 6146.456141594058,
+        "id": "QL7Mn2MTvhXHV0dOj4Qs5A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h33uImrm8m_tankeOgmzVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "114 Birch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "114 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Albert Sadakian DDS",
+        "phone": "+16503638525",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/albert-sadakian-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dentartiste-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4415,
+            "longitude": -122.15821
+        },
+        "display_phone": "(650) 566-0999",
+        "distance": 7537.164880339335,
+        "id": "2LnX-P0Cwag95IwVq0aJNA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "882 Emerson St",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "882 Emerson St",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Dentartiste",
+        "phone": "+16505660999",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dentartiste-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steven-m-loy-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45,
+            "longitude": -122.18736
+        },
+        "display_phone": "(650) 321-9867",
+        "distance": 7234.763732101551,
+        "id": "V3yZNVKFpT747nz-vLsf5A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1155 University Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1155 University Dr",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Steven M Loy, DDS",
+        "phone": "+16503219867",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steven-m-loy-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brown-w-paul-dds-palo-alto-2",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.436856,
+            "longitude": -122.176086
+        },
+        "display_phone": "(650) 326-7257",
+        "distance": 6244.363644239417,
+        "id": "IbfiN_LPuAOWAyPv8Jgfkg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "777 Welch Rd",
+            "address2": "Ste H",
+            "address3": null,
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "777 Welch Rd",
+                "Ste H",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Brown W Paul, DDS",
+        "phone": "+16503267257",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brown-w-paul-dds-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "allison-kumata-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4268608093262,
+            "longitude": -122.145385742188
+        },
+        "display_phone": "(650) 326-6319",
+        "distance": 7163.446076664624,
+        "id": "6uKynWoMiMdenJInTKjMDg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "409 Cambridge Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "409 Cambridge Ave",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Allison Kumata, Dmd",
+        "phone": "+16503266319",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/allison-kumata-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jan-gabus-dds-menlo-park-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45123,
+            "longitude": -122.1884846
+        },
+        "display_phone": "(650) 325-7711",
+        "distance": 7343.590212942968,
+        "id": "ofn4aOSP6torIB_RGiw4rQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "Ste 5",
+            "address3": "J Gabus Dental Care",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Ste 5",
+                "J Gabus Dental Care",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Jan Gabus, DDS",
+        "phone": "+16503257711",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jan-gabus-dds-menlo-park-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fogel-bruce-b-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4513740539551,
+            "longitude": -122.186363220215
+        },
+        "display_phone": "(650) 322-5381",
+        "distance": 7414.720408313227,
+        "id": "SI7U4ysODLL_s0CjnT-KRQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "825 Oak Grove Ave",
+            "address2": "Ste A102",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "825 Oak Grove Ave",
+                "Ste A102",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Fogel Bruce B, DDS",
+        "phone": "+16503225381",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fogel-bruce-b-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-thomas-yob-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4520797729492,
+            "longitude": -122.181999206543
+        },
+        "display_phone": "(650) 324-9272",
+        "distance": 7605.163249906825,
+        "id": "byJT09BlSo9u4J5Y8cQZGg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 6",
+            "address3": null,
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 6",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Dr. Thomas Yob",
+        "phone": "+16503249272",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-thomas-yob-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ridgley-richard-dds-palo-alto-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.436859,
+            "longitude": -122.176101
+        },
+        "display_phone": "(650) 326-7257",
+        "distance": 6244.363644239417,
+        "id": "DaXCUTmmeqND732of5LQnQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "777 Welch Rd",
+            "address2": "777 Welch Rd, Ste H",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "777 Welch Rd",
+                "777 Welch Rd, Ste H",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Ridgley Richard, DDS",
+        "phone": "+16503267257",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ridgley-richard-dds-palo-alto-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sundahl-lana-j-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.451522,
+            "longitude": -122.188293
+        },
+        "display_phone": "(650) 329-0167",
+        "distance": 7365.064979145107,
+        "id": "Vj8Dm0ssURcHxHWtRabdqw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Sundahl Lana J DDS",
+        "phone": "+16503290167",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sundahl-lana-j-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tracy-leclerc-dds-palo-alto-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.447795,
+            "longitude": -122.1532895
+        },
+        "display_phone": "(650) 327-0802",
+        "distance": 8355.071109335291,
+        "id": "z1RF9RTN8jyLeFQmeZ3DWw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d9w2nBkCVTqatWwX4R2Wjw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "662 Homer Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "662 Homer Ave",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Tracy Leclerc, DDS",
+        "phone": "+16503270802",
+        "rating": 4.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tracy-leclerc-dds-palo-alto-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "shachi-bahl-dmd-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4501,
+            "longitude": -122.15707
+        },
+        "display_phone": "(650) 323-1381",
+        "distance": 8375.484102746452,
+        "id": "9WT92Q7anFiDLuldCGnwpQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "511 Byron St",
+            "address2": null,
+            "address3": "Palo Alto Dental Group",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "511 Byron St",
+                "Palo Alto Dental Group",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Shachi Bahl, DMD",
+        "phone": "+16503231381",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/shachi-bahl-dmd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stanley-lent-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45207,
+            "longitude": -122.18199
+        },
+        "display_phone": "(650) 324-9272",
+        "distance": 7605.163249906825,
+        "id": "6bUck38hoJIEG-3tgmXkyA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "625 Menlo Ave",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "625 Menlo Ave",
+                "Ste 6",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Stanley Lent, DDS",
+        "phone": "+16503249272",
+        "rating": 1.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stanley-lent-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alex-yen-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4268608093262,
+            "longitude": -122.145385742188
+        },
+        "display_phone": "(650) 326-6319",
+        "distance": 7163.446076664624,
+        "id": "SF5VrQXTijJ8rHgC0UiHLQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Dc3ZZy0f_O5IoaSeev10RA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "409 Cambridge Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "409 Cambridge Ave",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Alex Yen, DDS",
+        "phone": "+16503266319",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alex-yen-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-marlinski-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4268608093262,
+            "longitude": -122.145385742188
+        },
+        "display_phone": "(650) 593-4500",
+        "distance": 7163.446076664624,
+        "id": "kDBt__x8xFMrr4Qt34ntqg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "409 Cambridge Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "409 Cambridge Ave",
+                "Palo Alto, CA 94306"
+            ],
+            "state": "CA",
+            "zip_code": "94306"
+        },
+        "name": "Richard Marlinski, DDS",
+        "phone": "+16505934500",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-marlinski-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "palo-alto-oral-and-maxillofacial-surgery-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4366493,
+            "longitude": -122.1781998
+        },
+        "display_phone": "(650) 617-1900",
+        "distance": 6119.577888989244,
+        "id": "EBJUAV1dMD4hcWJhpIvQvg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "900 Welch Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "900 Welch Rd",
+                "Ste 100",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Palo Alto Oral & Maxillofacial Surgery",
+        "phone": "+16506171900",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/palo-alto-oral-and-maxillofacial-surgery-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jessie-vall\u00e9e-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45152,
+            "longitude": -122.18829
+        },
+        "display_phone": "(650) 325-7711",
+        "distance": 7365.064979145107,
+        "id": "Q6a8uOduf2gWxZBT3puMwQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 University Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "1300 University Dr",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Jessie Vall\u00e9e, DDS",
+        "phone": "+16503257711",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jessie-vall%C3%A9e-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "myrabelle-salcedo-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4521466,
+            "longitude": -122.174473
+        },
+        "display_phone": "(650) 321-0915",
+        "distance": 7843.045726702342,
+        "id": "mYacCi3Pd2r3eAbH2cchDA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aa7esmyyLdZJgu7VM0z_Bg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "425 Burgess Dr",
+            "address2": "",
+            "address3": "Peninsula Smiles Dentistry",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "425 Burgess Dr",
+                "Peninsula Smiles Dentistry",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Myrabelle Salcedo, DDS",
+        "phone": "+16503210915",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/myrabelle-salcedo-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roberta-jurash-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44745,
+            "longitude": -122.16143
+        },
+        "display_phone": "(650) 326-3290",
+        "distance": 7926.329352088051,
+        "id": "E4JJ4GWIubPGbrpem817GQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "416 Waverley St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "416 Waverley St",
+                "Ste A",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Roberta Jurash, DDS",
+        "phone": "+16503263290",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roberta-jurash-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peter-c-kono-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4500961303711,
+            "longitude": -122.157073974609
+        },
+        "display_phone": "(650) 323-1381",
+        "distance": 8375.484102746452,
+        "id": "zqRIrLJFYrrM95s-a6Eh7g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "511 Byron St",
+            "address2": "",
+            "address3": "Palo Alto Dental Group",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "511 Byron St",
+                "Palo Alto Dental Group",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Peter C. Kono, DDS",
+        "phone": "+16503231381",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peter-c-kono-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dhillon-randeep-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.44511,
+            "longitude": -122.15401
+        },
+        "display_phone": "(650) 473-9789",
+        "distance": 7956.046105895483,
+        "id": "MpivQYQbOxz8aZEsqcq63A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Dhillon Randeep DDS",
+        "phone": "+16504739789",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dhillon-randeep-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jurosky-kathryn-dds-palo-alto",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4506397545338,
+            "longitude": -122.156754434109
+        },
+        "display_phone": "(650) 328-6356",
+        "distance": 8434.172714978611,
+        "id": "4Cvmpe2hCrmXFhOxnco5mQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "500 Middlefield Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "500 Middlefield Rd",
+                "Palo Alto, CA 94301"
+            ],
+            "state": "CA",
+            "zip_code": "94301"
+        },
+        "name": "Jurosky Kathryn, DDS",
+        "phone": "+16503286356",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jurosky-kathryn-dds-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "onsite-dental-palo-alto",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.3945808,
+            "longitude": -122.1432453
+        },
+        "display_phone": "(650) 339-1327",
+        "distance": 5909.458708056141,
+        "id": "SMWk3LME8zABr5989U-mcQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oT96XGMc8wZoScecg4rhzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3601 Hillview Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "3601 Hillview Ave",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Onsite Dental",
+        "phone": "+16503391327",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/onsite-dental-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "girod-sabine-md-dds-phd-palo-alto",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4362573624087,
+            "longitude": -122.17620226171
+        },
+        "display_phone": "(650) 617-1900",
+        "distance": 6184.563208454241,
+        "id": "NI94LfxRgkbFX59_eZjZ2w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "900 Blake Wilbur Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Palo Alto",
+            "country": "US",
+            "display_address": [
+                "900 Blake Wilbur Dr",
+                "Palo Alto, CA 94304"
+            ],
+            "state": "CA",
+            "zip_code": "94304"
+        },
+        "name": "Girod Sabine, MD, DDS, PHD",
+        "phone": "+16506171900",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/girod-sabine-md-dds-phd-palo-alto?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

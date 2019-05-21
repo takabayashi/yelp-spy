@@ -1,0 +1,2403 @@
+[
+    {
+        "alias": "benicia-family-dentistry-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.054905,
+            "longitude": -122.15255
+        },
+        "display_phone": "(707) 745-8264",
+        "distance": 1140.9043766600046,
+        "id": "-j4LUf1Lh_quogmCiAH0eA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9QZ8AORu3dNgM5PPngiYOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "175 E N St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "175 E N St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Benicia Family Dentistry",
+        "phone": "+17077458264",
+        "rating": 4.5,
+        "review_count": 85,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benicia-family-dentistry-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-family-dentistry-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0556,
+            "longitude": -122.16008
+        },
+        "display_phone": "(707) 297-6240",
+        "distance": 1190.7587051364571,
+        "id": "xD5mwaCriIhr0tH-k7R6xw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nsbZ6tESSGeK5DxgxArmqQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "300 Military W",
+            "address2": "Ste 304",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "300 Military W",
+                "Ste 304",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Solano Family Dentistry",
+        "phone": "+17072976240",
+        "rating": 4.0,
+        "review_count": 82,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-family-dentistry-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-endodontic-specialists-benicia",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05057,
+            "longitude": -122.15721
+        },
+        "display_phone": "(707) 747-0728",
+        "distance": 1647.7586553697797,
+        "id": "Hsh5cmqIYTnRHMpGYd7mYw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N4mJs9vkb0p-o20kJXbpbg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "127 E H St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "127 E H St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Solano Endodontic Specialists",
+        "phone": "+17077470728",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-endodontic-specialists-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "buchanan-chun-orthodontics-benicia-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0556257,
+            "longitude": -122.1600066
+        },
+        "display_phone": "(707) 745-2525",
+        "distance": 1182.7592223584104,
+        "id": "zzILZKJIkZH6xJcglMV4UQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/snRM7GfMEVuVdup4r8FbtA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "300 Military W",
+            "address2": "Ste 306",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "300 Military W",
+                "Ste 306",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Buchanan Chun Orthodontics",
+        "phone": "+17077452525",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/buchanan-chun-orthodontics-benicia-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "meridian-dental-martinez-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9963601,
+            "longitude": -122.1188766
+        },
+        "display_phone": "(925) 229-3337",
+        "distance": 8236.969660394141,
+        "id": "hyuPkvHUNiA5u5tbfV2YcA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SOmv5mnPia7pi-cy3o0rag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "742 Arnold Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "742 Arnold Dr",
+                "Ste A",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Meridian Dental",
+        "phone": "+19252293337",
+        "rating": 5.0,
+        "review_count": 70,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/meridian-dental-martinez-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "family-dental-health-benicia-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.067676,
+            "longitude": -122.181855
+        },
+        "display_phone": "(707) 745-2121",
+        "distance": 2464.490321016365,
+        "id": "3Zfz9-laE4ShpMLytVUTJQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x83wabMZ7IlQhsppibP34A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 Military W",
+            "address2": null,
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "1440 Military W",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Family Dental Health",
+        "phone": "+17077452121",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/family-dental-health-benicia-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benicia-dental-care-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0483665466309,
+            "longitude": -122.158706665039
+        },
+        "display_phone": "(707) 747-1110",
+        "distance": 1882.9729318067193,
+        "id": "_I6Z3p5p622IzyCSvZXWTA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AtHYIZ29OwpWjGE1lQLsrw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "560 1st St",
+            "address2": "Ste B111",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "560 1st St",
+                "Ste B111",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Benicia Dental Care",
+        "phone": "+17077471110",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benicia-dental-care-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carquinez-dental-group-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04666,
+            "longitude": -122.15956
+        },
+        "display_phone": "(707) 745-8002",
+        "distance": 2107.40185326563,
+        "id": "xC8V6KHZuVT-Ql_BIFPTGg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pAHPsHg2Xln652qbaWLOCw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "142 E D St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "142 E D St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Carquinez Dental Group",
+        "phone": "+17077458002",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carquinez-dental-group-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ronald-j-tosch-dds-benicia",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05306,
+            "longitude": -122.15692
+        },
+        "display_phone": "(707) 745-2130",
+        "distance": 1364.6086781761314,
+        "id": "vFKbJGNEu6ogmhdICTlHEQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C-YQPC4S4sCManieieB8Bw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "118 W K St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "118 W K St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Ronald J Tosch, DDS",
+        "phone": "+17077452130",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ronald-j-tosch-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "southampton-dental-care-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0660426339561,
+            "longitude": -122.167704239356
+        },
+        "display_phone": "(707) 887-5075",
+        "distance": 1213.5687236982255,
+        "id": "inhRbCIdsR5VbR3X5sRcjw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PLllkdFFptiA8Sj20B63uw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "884 Southampton Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "884 Southampton Rd",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Southampton Dental Care",
+        "phone": "+17078875075",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/southampton-dental-care-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amanda-backstrom-dmd-artesa-dental-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99354,
+            "longitude": -122.130772
+        },
+        "display_phone": "(925) 370-9900",
+        "distance": 8211.911911591382,
+        "id": "HyXotDbMw5fSOdOV2ccRZw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sk02BSEjK-QMpPka1AE8rQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4041 Alhambra Ave",
+            "address2": "Ste 109",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "4041 Alhambra Ave",
+                "Ste 109",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Amanda Backstrom, DMD - Artesa Dental",
+        "phone": "+19253709900",
+        "rating": 4.5,
+        "review_count": 50,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amanda-backstrom-dmd-artesa-dental-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "glen-cove-dental-vallejo-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0836458,
+            "longitude": -122.2110062
+        },
+        "display_phone": "(707) 645-8400",
+        "distance": 5346.990199733178,
+        "id": "aF7yBCorS6V6vtkm4Nshkw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O3HTUouUwi-ouW87izu9DA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "140 Robles Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "140 Robles Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Glen Cove Dental",
+        "phone": "+17076458400",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/glen-cove-dental-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harbor-dental-benicia-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05343,
+            "longitude": -122.15296
+        },
+        "display_phone": "(707) 746-1234",
+        "distance": 1304.68641515816,
+        "id": "km49hD06LaTIV1gjY5z6mw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8xvxmcgjfZB4zUR9cfp7uw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "202 Military E",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "202 Military E",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Harbor Dental",
+        "phone": "+17077461234",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harbor-dental-benicia-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harper-orthodontics-martinez",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0043296813965,
+            "longitude": -122.130851745605
+        },
+        "display_phone": "(925) 228-8330",
+        "distance": 7047.61877225503,
+        "id": "LQtxNdBH9ryibc-nmY7n_w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B0tfSp46vwlJ0xs8k6lDCQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2805 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "2805 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Harper Orthodontics",
+        "phone": "+19252288330",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harper-orthodontics-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wah-k-mark-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.070952,
+            "longitude": -122.212869
+        },
+        "display_phone": "(707) 649-8000",
+        "distance": 5203.575987050378,
+        "id": "VviLSgJNaWhxVJplk0Lnbg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ezr3f0ReP76WIi_uoDyzlA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "195 Glen Cv Marina Rd E",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "195 Glen Cv Marina Rd E",
+                "Ste 100",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Wah K Mark, DDS",
+        "phone": "+17076498000",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wah-k-mark-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "golden-state-endo-vallejo",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12532,
+            "longitude": -122.22536
+        },
+        "display_phone": "(707) 554-1764",
+        "distance": 9164.436457072352,
+        "id": "MssTlfBpiyEdUTZur5VLZQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ui0nC628L7fqqcoG5vGHvA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "29 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "29 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "GOLDEN STATE ENDO",
+        "phone": "+17075541764",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/golden-state-endo-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mona-mokarram-dds-martinez-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01606,
+            "longitude": -122.13753
+        },
+        "display_phone": "(925) 228-6734",
+        "distance": 5642.290616210523,
+        "id": "ISoyhvN4oGRAvt8L8sXMpg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vECmB1e6i1orUBAtI3aHfg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "735 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "735 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Mona Mokarram, DDS",
+        "phone": "+19252286734",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mona-mokarram-dds-martinez-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "plaza-dental-care-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12542,
+            "longitude": -122.22585
+        },
+        "display_phone": "(707) 642-1360",
+        "distance": 9198.093323281042,
+        "id": "Y9geL8PfhLc-X2IOhaPLVw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q9LpsE8InRf_qMp9y-p14w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "17 Rotary Way",
+            "address2": null,
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "17 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Plaza Dental Care",
+        "phone": "+17076421360",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/plaza-dental-care-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-smile-orthodontics-and-pediatric-dentistry-benicia-benicia",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.047157883307,
+            "longitude": -122.160724100407
+        },
+        "display_phone": "(707) 748-0500",
+        "distance": 2083.957878366717,
+        "id": "fDSDJksbOv8hDEJYR-L0RA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zIZrwFT-TcCKBCMAN6zRig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "321 1st St",
+            "address2": "Ste 203",
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "321 1st St",
+                "Ste 203",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Solano Smile Orthodontics & Pediatric Dentistry - Benicia",
+        "phone": "+17077480500",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-smile-orthodontics-and-pediatric-dentistry-benicia-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffery-r-graves-dds-vallejo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1253395080566,
+            "longitude": -122.225807189941
+        },
+        "display_phone": "(707) 642-0433",
+        "distance": 9190.186961588883,
+        "id": "lgIVBcHCzZsU1ETHf0cX9w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mHBtAbNfIOg4ebrw6TT2qg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "19 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "19 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Jeffery R. Graves, DDS",
+        "phone": "+17076420433",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffery-r-graves-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brisbain-pucan-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1046451,
+            "longitude": -122.2171229
+        },
+        "display_phone": "(707) 552-3952",
+        "distance": 7035.089486322336,
+        "id": "b-CVp0_C2r4p5u8YvQjwtw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oh9f85nkAfrVqMiTB891wA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "51 Springstowne Ctr",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "51 Springstowne Ctr",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Brisbain Pucan, DMD",
+        "phone": "+17075523952",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brisbain-pucan-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "teresina-n-wong-dds-benicia",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.07934640449,
+            "longitude": -122.190999269485
+        },
+        "display_phone": "(707) 745-3838",
+        "distance": 3613.3610309328656,
+        "id": "9erllD6YpbTTxNVYz2Y-aQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J5uGf-icRBqGct5HlGj3Yg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2008 Columbus Pkwy",
+            "address2": null,
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "2008 Columbus Pkwy",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Teresina N Wong, DDS",
+        "phone": "+17077453838",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/teresina-n-wong-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-swoboda-dds-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0533396166174,
+            "longitude": -122.152937105464
+        },
+        "display_phone": "(707) 746-1234",
+        "distance": 1311.5663096198227,
+        "id": "9Q4gvJqz9hNLnOc76V0d3g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TPNanPhNInCZtu-0cpoY9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "202 Military E",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "202 Military E",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Scott Swoboda, DDS",
+        "phone": "+17077461234",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-swoboda-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "benicia-oral-surgery-benicia",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0550679125828,
+            "longitude": -122.151874670146
+        },
+        "display_phone": "(707) 747-9621",
+        "distance": 1130.6063717491184,
+        "id": "WGCva61vsd3C_mtty6Wgrg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 E 2nd St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "1440 E 2nd St",
+                "Ste B",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Benicia Oral Surgery",
+        "phone": "+17077479621",
+        "rating": 3.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/benicia-oral-surgery-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kurt-schwartz-dmd-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9965324401855,
+            "longitude": -122.132041931152
+        },
+        "display_phone": "(925) 372-6969",
+        "distance": 7849.047557944628,
+        "id": "ll9hniQlIPe590bsKBBung",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pR4bjjAeoTWjLa-lXK0FRg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3801 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "3801 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Kurt Schwartz, DMD",
+        "phone": "+19253726969",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kurt-schwartz-dmd-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "douglas-m-yarris-dds-crockett-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0526816,
+            "longitude": -122.2237849
+        },
+        "display_phone": "(510) 787-1471",
+        "distance": 6278.541033110415,
+        "id": "v_JDkAskbV_q6XNTnAN7Ww",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tNc9uTVdtEj6BT0xNi4pEA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "716 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Crockett",
+            "country": "US",
+            "display_address": [
+                "716 2nd Ave",
+                "Crockett, CA 94525"
+            ],
+            "state": "CA",
+            "zip_code": "94525"
+        },
+        "name": "Douglas M Yarris, DDS",
+        "phone": "+15107871471",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/douglas-m-yarris-dds-crockett-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pickett-steven-r-dds-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.125601,
+            "longitude": -122.225408
+        },
+        "display_phone": "(707) 642-2800",
+        "distance": 9187.3299403897,
+        "id": "dm06S0VwZ5Lv_sxFQ_obvQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aWglHyEupzz0LUhn-5opfA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "25 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "25 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Pickett Steven R, DDS",
+        "phone": "+17076422800",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pickett-steven-r-dds-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-m-gordon-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1251373291016,
+            "longitude": -122.225807189941
+        },
+        "display_phone": "(707) 557-2200",
+        "distance": 9173.35452401731,
+        "id": "XCgk82QTjZfGjgK1DBm14A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "23 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "23 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "David M Gordon, DDS",
+        "phone": "+17075572200",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-m-gordon-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "union-dental-martinez",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticsurgeons",
+                "title": "Cosmetic Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9929287,
+            "longitude": -122.1308132
+        },
+        "display_phone": "(925) 957-0148",
+        "distance": 8261.332986612286,
+        "id": "NYRNxEk0KcOa5qD72k1JCw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrwHWPcd0DFxXTBFdOQngw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4111 Alhambra Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "4111 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Union Dental",
+        "phone": "+19259570148",
+        "rating": 4.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/union-dental-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "clift-r-suzanne-dds-vallejo",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1252365112305,
+            "longitude": -122.225807189941
+        },
+        "display_phone": "(707) 643-7654",
+        "distance": 9181.84701309455,
+        "id": "lQ79S_TgvtH-NfM3FCtXrA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kT8R3lvt51Mk6Rj_4SKW7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "21 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "21 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Clift R Suzanne, DDS",
+        "phone": "+17076437654",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/clift-r-suzanne-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "randall-lum-dds-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05108,
+            "longitude": -122.15798
+        },
+        "display_phone": "(707) 745-2526",
+        "distance": 1607.275228772453,
+        "id": "oDocq8kgI8igEOaAjuFp6w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S4QNzEnaitUJLjrLkxI0Mw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "815 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "815 1st St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Randall Lum, DDS",
+        "phone": "+17077452526",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/randall-lum-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alan-v-pickett-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12557,
+            "longitude": -122.2254
+        },
+        "display_phone": "(707) 642-2800",
+        "distance": 9187.3299403897,
+        "id": "APHOlytpR_cFQEF7CFdRWA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Jf74PEkNbMLgkJWJ5kkYxA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "25 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "25 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Alan V Pickett, DDS",
+        "phone": "+17076422800",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alan-v-pickett-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "editha-m-aquino-dmd-vallejo-3",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10616,
+            "longitude": -122.20827
+        },
+        "display_phone": "(707) 642-3711",
+        "distance": 6619.748268285813,
+        "id": "vXpKojcKrpIbmjbkHCP0nA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/okRKlJ3KZOyAYfpQ7PeeLQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2600 Springs Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2600 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Editha M Aquino, DMD",
+        "phone": "+17076423711",
+        "rating": 3.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/editha-m-aquino-dmd-vallejo-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-c-francis-dds-muir-family-dentristry-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99364,
+            "longitude": -122.103651
+        },
+        "display_phone": "(925) 372-4747",
+        "distance": 9084.184571324118,
+        "id": "RsBdrl6iiNnL-RF6L1WPoA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ts_rPqQk7ASdPajBmXEpdQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1124 Arnold Dr",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1124 Arnold Dr",
+                "Ste 201",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Stephen C Francis, DDS- Muir Family Dentristry",
+        "phone": "+19253724747",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-c-francis-dds-muir-family-dentristry-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "francis-s-cruz-dds-vallejo-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1058,
+            "longitude": -122.219825
+        },
+        "display_phone": "(707) 643-8800",
+        "distance": 7339.78291333086,
+        "id": "RLKDHB1WOYB-O7ILKbK7fw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1915 Springs Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1915 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Francis S Cruz, DDS",
+        "phone": "+17076438800",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/francis-s-cruz-dds-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "houston-brian-a-dds-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04666,
+            "longitude": -122.15956
+        },
+        "display_phone": "(707) 745-8002",
+        "distance": 2106.3854298507126,
+        "id": "yZdMUAkWBZkMRz1YNFCqtw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GsqVMmTdvyYRwHFgzQKYTQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "142 E D St",
+            "address2": null,
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "142 E D St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Houston Brian A DDS",
+        "phone": "+17077458002",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/houston-brian-a-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "affordable-dentures-vallejo-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1316555755081,
+            "longitude": -122.220526138616
+        },
+        "display_phone": "(707) 998-5001",
+        "distance": 9420.696785279371,
+        "id": "DtKWD9nZQzxS-zBcqK8vFw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3t1aPpyL5GcWhyFghgkisw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "125 Plaza Dr",
+            "address2": "",
+            "address3": "Ste 407, Gateway Plaza Shopping Center",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "125 Plaza Dr",
+                "Ste 407, Gateway Plaza Shopping Center",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Affordable Dentures",
+        "phone": "+17079985001",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/affordable-dentures-vallejo-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parham-karbassi-dds-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0160115,
+            "longitude": -122.1361056
+        },
+        "display_phone": "(925) 228-0436",
+        "distance": 5666.978279970229,
+        "id": "jvi1cD4nBNiuUcOhlZZY9Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cNw3RJFzqVYW2HPw4qCdDQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "647 Green St",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "647 Green St",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Parham Karbassi, DDS",
+        "phone": "+19252280436",
+        "rating": 3.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parham-karbassi-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kasper-denise-df-dds-martinez",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9965324401855,
+            "longitude": -122.132041931152
+        },
+        "display_phone": "(925) 372-6969",
+        "distance": 7849.047557944628,
+        "id": "5Xh6Wa4hM4SS1TCJTBLtuQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3801 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "3801 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Kasper, Denise DF, DDS",
+        "phone": "+19253726969",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kasper-denise-df-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "noel-a-fernandez-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1057951,
+            "longitude": -122.2078826
+        },
+        "display_phone": "(707) 674-2777",
+        "distance": 6539.55567793517,
+        "id": "-cByvNZicvf27JW3fWIGuw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lTEH-cfdOk0D9nM44TTPLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2629 Springs Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2629 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Noel A Fernandez, DMD",
+        "phone": "+17076742777",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/noel-a-fernandez-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parkway-smiles-dental-martinez",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.996817,
+            "longitude": -122.107947
+        },
+        "display_phone": "(925) 229-8890",
+        "distance": 8590.73414174875,
+        "id": "dcDNVYKaLWqO3T7ikYX8LQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C2nnhOjT82dtrRNpYzb_KA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1029 Arnold Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1029 Arnold Dr",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Parkway Smiles Dental",
+        "phone": "+19252298890",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parkway-smiles-dental-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "axelrode-orthodontics-vallejo-vallejo",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1255095590468,
+            "longitude": -122.226215586508
+        },
+        "display_phone": "(707) 643-2307",
+        "distance": 9228.214651194548,
+        "id": "8lqlhPt60DmE95gS1oMNxA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-hS8sZ9EJiY0URs3El0Teg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "15 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "15 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Axelrode Orthodontics Vallejo",
+        "phone": "+17076432307",
+        "rating": 4.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/axelrode-orthodontics-vallejo-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steve-dacasin-dds-dacasin-dental-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1049149,
+            "longitude": -122.2162473
+        },
+        "display_phone": "(707) 644-5528",
+        "distance": 6959.185733550464,
+        "id": "cBSct5CXAMy99fam4uJYrg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tggvRU2XXUmZ6bFOhPQnzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Springstowne Ctr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "96 Springstowne Ctr",
+                "Ste A",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Steve Dacasin, DDS/Dacasin Dental",
+        "phone": "+17076445528",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steve-dacasin-dds-dacasin-dental-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "n-street-dental-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.05533,
+            "longitude": -122.1535
+        },
+        "display_phone": "(707) 745-0636",
+        "distance": 1094.8662421908423,
+        "id": "SvhFz6ktCbuRmyGZG6tB4Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_zox6P6Zq3xUfAexbf8K3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "125 E N St",
+            "address2": "",
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "125 E N St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "N Street Dental",
+        "phone": "+17077450636",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/n-street-dental-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "porteous-family-dentistry-vallejo-7",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.133401,
+            "longitude": -122.222453
+        },
+        "display_phone": "(707) 648-3384",
+        "distance": 9677.459061751508,
+        "id": "7St9-7LHZUlVyGdEHGbaOQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZxrXCJq9pAUlYpI7VmO_dA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "972 Admiral Callaghan Ln",
+            "address2": "Ste F",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "972 Admiral Callaghan Ln",
+                "Ste F",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Porteous Family Dentistry",
+        "phone": "+17076483384",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/porteous-family-dentistry-vallejo-7?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-w-bristow-dds-vallejo",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12514,
+            "longitude": -122.22581
+        },
+        "display_phone": "(707) 642-3319",
+        "distance": 9173.35452401731,
+        "id": "3tZsXqrTwrmZPq1eZJyDwg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rru9eaj-r5CpqteKtSEKsQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "23 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "23 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "John W Bristow DDS",
+        "phone": "+17076423319",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-w-bristow-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-comyns-dds-smiletenders-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10579,
+            "longitude": -122.2198
+        },
+        "display_phone": "(707) 642-4462",
+        "distance": 7339.78291333086,
+        "id": "Bee3G94olFHdCs-K-fvQzA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EB2-R7izkRIbkyrR_pBfsQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1915 Springs Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "1915 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "John Comyns, DDS - Smiletenders",
+        "phone": "+17076424462",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-comyns-dds-smiletenders-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "village-oaks-dentistry-martinez",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9939794,
+            "longitude": -122.101246
+        },
+        "display_phone": "(925) 229-3232",
+        "distance": 9102.815064491817,
+        "id": "2moRib5jEsHZMU132YQkeQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p4PiPUZvkvB7OkCkkHAdSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1175 Arnold Dr",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1175 Arnold Dr",
+                "Ste C",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Village Oaks Dentistry",
+        "phone": "+19252293232",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/village-oaks-dentistry-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "swanson-george-w-dds-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01494,
+            "longitude": -122.12963
+        },
+        "display_phone": "(925) 228-1124",
+        "distance": 5964.54424781276,
+        "id": "KwtaONHJ6os3jyz8lXP8Cg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1407 Pine St",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1407 Pine St",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Swanson George W, DDS",
+        "phone": "+19252281124",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/swanson-george-w-dds-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "singh-sukhmani-benicia",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04666,
+            "longitude": -122.15956
+        },
+        "display_phone": "(707) 745-8002",
+        "distance": 2106.3854298507126,
+        "id": "Wlg4XAm91e2M6s1LsPu_jQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "142 E D St",
+            "address2": null,
+            "address3": null,
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "142 E D St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "SINGH SUKHMANI",
+        "phone": "+17077458002",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/singh-sukhmani-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "craig-s-gainza-dds-vallejo",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1254692077637,
+            "longitude": -122.225410461426
+        },
+        "display_phone": "(707) 642-4119",
+        "distance": 9176.832169183213,
+        "id": "dFU8FzUO6KNkpScW_IJs8Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "27 Rotary Way",
+            "address2": "",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "27 Rotary Way",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Craig S Gainza, DDS",
+        "phone": "+17076424119",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/craig-s-gainza-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "esguerra-carolina-p-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10579,
+            "longitude": -122.21891
+        },
+        "display_phone": "(707) 649-1694",
+        "distance": 7264.831276469789,
+        "id": "O4PQwWN7C9TGeO8wmpRzEQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2001 Springs Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "2001 Springs Rd",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Esguerra Carolina P DMD",
+        "phone": "+17076491694",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/esguerra-carolina-p-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "unlimited-smiles-martinez-martinez-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9933349,
+            "longitude": -122.1314113
+        },
+        "display_phone": "(925) 313-9700",
+        "distance": 8220.42406197382,
+        "id": "6rs0hH7L65_JAtKrDE_NTw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RO-FZeVuOYy5JV2miPTEig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4040 Alhambra Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "4040 Alhambra Ave",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Unlimited Smiles - Martinez",
+        "phone": "+19253139700",
+        "rating": 1.5,
+        "review_count": 62,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/unlimited-smiles-martinez-martinez-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bright-now-dental-martinez-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99346,
+            "longitude": -122.10241
+        },
+        "display_phone": "(925) 372-7100",
+        "distance": 9167.221108269794,
+        "id": "VndxsCZIsNX6q3AxNWB7Yg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wWvXfwLE0LKM2WW33Kxr4w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1160 Arnold Dr",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "1160 Arnold Dr",
+                "Ste G",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "Bright Now! Dental",
+        "phone": "+19253727100",
+        "rating": 2.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bright-now-dental-martinez-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-campbell-dds-benicia",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04977,
+            "longitude": -122.15688
+        },
+        "display_phone": "(707) 745-1994",
+        "distance": 1722.4047289275738,
+        "id": "bErGPkCrYu41q3T5_gEykQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "164 E H St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "164 E H St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Thomas Campbell, DDS",
+        "phone": "+17077451994",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-campbell-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vitakes-chris-m-dds-benicia",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.04977,
+            "longitude": -122.15688
+        },
+        "display_phone": "(707) 745-1994",
+        "distance": 1722.4047289275738,
+        "id": "fzMHCdo75xrQiqVLUbC8WQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "164 E H St",
+            "address2": "",
+            "address3": "",
+            "city": "Benicia",
+            "country": "US",
+            "display_address": [
+                "164 E H St",
+                "Benicia, CA 94510"
+            ],
+            "state": "CA",
+            "zip_code": "94510"
+        },
+        "name": "Vitakes Chris M DDS",
+        "phone": "+17077451994",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vitakes-chris-m-dds-benicia?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "1800-dentist-martinez",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0160103,
+            "longitude": -122.1361084
+        },
+        "display_phone": "(877) 423-4205",
+        "distance": 5666.9355448397055,
+        "id": "jaDjNy-JrZNJ9EMEvBhJHg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "647 Green St",
+            "address2": null,
+            "address3": "",
+            "city": "Martinez",
+            "country": "US",
+            "display_address": [
+                "647 Green St",
+                "Martinez, CA 94553"
+            ],
+            "state": "CA",
+            "zip_code": "94553"
+        },
+        "name": "1800 Dentist",
+        "phone": "+18774234205",
+        "rating": 1.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/1800-dentist-martinez?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "victa-chua-marie-dmd-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10486,
+            "longitude": -122.215315
+        },
+        "display_phone": "(707) 642-2938",
+        "distance": 6959.478521714288,
+        "id": "JQAF9zikNY8kEJ52HjJplw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Springstowne Ctr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "96 Springstowne Ctr",
+                "Ste A",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Victa-Chua Marie DMD",
+        "phone": "+17076422938",
+        "rating": 2.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/victa-chua-marie-dmd-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sue-chohan-dds-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0704727172852,
+            "longitude": -122.211669921875
+        },
+        "display_phone": "(707) 980-6945",
+        "distance": 5096.398124860331,
+        "id": "7qEF_T0LpCu9X72Qr35c7g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Glen Cove Marina Rd",
+            "address2": "Ste 104",
+            "address3": "",
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "150 Glen Cove Marina Rd",
+                "Ste 104",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Sue Chohan, DDS",
+        "phone": "+17079806945",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sue-chohan-dds-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "valle-smiles-vallejo",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.132655,
+            "longitude": -122.220623
+        },
+        "display_phone": "(707) 557-6245",
+        "distance": 9513.408138306084,
+        "id": "KM7Qp90-Yy8kE9svtd7n_g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p1GwFWr0Q1Sg9AFoRVAoNw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "133 Plaza Dr",
+            "address2": "Ste R",
+            "address3": null,
+            "city": "Vallejo",
+            "country": "US",
+            "display_address": [
+                "133 Plaza Dr",
+                "Ste R",
+                "Vallejo, CA 94591"
+            ],
+            "state": "CA",
+            "zip_code": "94591"
+        },
+        "name": "Valle Smiles",
+        "phone": "+17075576245",
+        "rating": 2.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/valle-smiles-vallejo?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

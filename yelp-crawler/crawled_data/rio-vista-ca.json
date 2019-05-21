@@ -1,0 +1,126 @@
+[
+    {
+        "alias": "dentistry-of-the-delta-rio-vista",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1543,
+            "longitude": -121.69352
+        },
+        "display_phone": "(707) 374-6863",
+        "distance": 2417.1758362607698,
+        "id": "dzl7hZneGsjeR7CzmVx-vw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/L7GZI-RUnpizEvGmmlrGhg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "139 Bruning Ave",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Rio Vista",
+            "country": "US",
+            "display_address": [
+                "139 Bruning Ave",
+                "Ste A",
+                "Rio Vista, CA 94571"
+            ],
+            "state": "CA",
+            "zip_code": "94571"
+        },
+        "name": "Dentistry of the Delta",
+        "phone": "+17073746863",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dentistry-of-the-delta-rio-vista?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pearson-melvin-dmd-rio-vista",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1543,
+            "longitude": -121.69352
+        },
+        "display_phone": "(707) 374-6863",
+        "distance": 2417.1758362607698,
+        "id": "BJmNoXjk_oyWI95mD9ySpA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "139 Bruning Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Rio Vista",
+            "country": "US",
+            "display_address": [
+                "139 Bruning Ave",
+                "Rio Vista, CA 94571"
+            ],
+            "state": "CA",
+            "zip_code": "94571"
+        },
+        "name": "Pearson Melvin DMD",
+        "phone": "+17073746863",
+        "rating": 2.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pearson-melvin-dmd-rio-vista?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vera-sunada-dds-rio-vista",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1543,
+            "longitude": -121.69352
+        },
+        "display_phone": "(707) 285-7663",
+        "distance": 2417.1758362607698,
+        "id": "UcJ0A5jEWq3iq2az_oHolw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "139 Bruning Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Rio Vista",
+            "country": "US",
+            "display_address": [
+                "139 Bruning Ave",
+                "Rio Vista, CA 94571"
+            ],
+            "state": "CA",
+            "zip_code": "94571"
+        },
+        "name": "Vera Sunada, DDS",
+        "phone": "+17072857663",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vera-sunada-dds-rio-vista?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

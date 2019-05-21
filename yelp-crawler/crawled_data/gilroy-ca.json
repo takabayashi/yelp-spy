@@ -1,0 +1,1859 @@
+[
+    {
+        "alias": "gilroy-pediatric-dentistry-gilroy-3",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 847-1118",
+        "distance": 453.63079195506907,
+        "id": "Mowr-DIfEJd9pf29mooNuA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u-QlNok58L477-6-2UkgOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste A111",
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste A111",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Pediatric Dentistry",
+        "phone": "+14088471118",
+        "rating": 5.0,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-pediatric-dentistry-gilroy-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kinberly-antrim-dds-fagd-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 337-8950",
+        "distance": 453.63079195506907,
+        "id": "m_mGAEXSTPHm-WMyB6poyw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ygNRUgdH3yOb3XQlCygsBg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste A113",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste A113",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Kinberly Antrim, DDS FAGD",
+        "phone": "+14083378950",
+        "rating": 5.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kinberly-antrim-dds-fagd-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gar-n-chan-dds-gilroy-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0098571777344,
+            "longitude": -121.585777282715
+        },
+        "display_phone": "(408) 847-1234",
+        "distance": 453.63079195506907,
+        "id": "wfXs3tZEBXs-pJcVb_jDEw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9hGEJPmTNWG7ormNhKRuJQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste E154",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste E154",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gar N Chan, DDS",
+        "phone": "+14088471234",
+        "rating": 5.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gar-n-chan-dds-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-dental-associates-gilroy",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 842-2818",
+        "distance": 453.63079195506907,
+        "id": "v0sffCT-8gTiV2NOlqDm9g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fuo5Ryo120ZpmgjOBzorVA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste B125",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste B125",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Dental Associates",
+        "phone": "+14088422818",
+        "rating": 4.0,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-dental-associates-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dawn-pan-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.014778,
+            "longitude": -121.598651
+        },
+        "display_phone": "(408) 846-8899",
+        "distance": 1699.4403118348296,
+        "id": "ZwlfzP0zX0xi5vP_K6wY7A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/41i_mwL_k24Tsy8kYyH39Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8060 Santa Teresa Blvd",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "8060 Santa Teresa Blvd",
+                "Ste 120",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Dawn Pan, DDS",
+        "phone": "+14088468899",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dawn-pan-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nick-chiotellis-dds-gilroy-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00377,
+            "longitude": -121.57739
+        },
+        "display_phone": "(408) 847-7358",
+        "distance": 677.2107833094111,
+        "id": "Cs3fTwlkkTd6AOXTkERtGQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CRbVjUlOpPSd3EXnpY3gYg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "700 W 6th St",
+            "address2": "Ste N",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "700 W 6th St",
+                "Ste N",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Nick Chiotellis, DDS",
+        "phone": "+14088477358",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nick-chiotellis-dds-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "luma-ajlouni-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0140132,
+            "longitude": -121.5738807
+        },
+        "display_phone": "(408) 848-5040",
+        "distance": 828.7845703847703,
+        "id": "PxguIveNAeEMdu1bP-dAiQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cSgdTSVN-DXlPTsVJRXB7w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7897 Eigleberry St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7897 Eigleberry St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Luma Ajlouni, DDS",
+        "phone": "+14088485040",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/luma-ajlouni-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sandaldeep-singh-dds-sunny-smiles-dentistry-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.008861,
+            "longitude": -121.5538858
+        },
+        "display_phone": "(669) 209-1998",
+        "distance": 2397.653694036591,
+        "id": "V4Rjsx2-wDE3tYtHheMq8g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h1oTwQpmV7EFNGfhRGqevg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7210 Camino Arroyo",
+            "address2": "Ste 106",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7210 Camino Arroyo",
+                "Ste 106",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Sandaldeep Singh, DDS - Sunny Smiles Dentistry",
+        "phone": "+16692091998",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sandaldeep-singh-dds-sunny-smiles-dentistry-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-c-mcmurray-dmd-mba-gilroy-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0098571777344,
+            "longitude": -121.585777282715
+        },
+        "display_phone": "(408) 847-6725",
+        "distance": 453.63079195506907,
+        "id": "jWW2FVXw60G-9OlSDwL9AQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d565_V1Irr2MV_pK8WXUgg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste E152",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste E152",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Joseph C McMurray, DMD, MBA",
+        "phone": "+14088476725",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-c-mcmurray-dmd-mba-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kusum-atraya-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.013855540721,
+            "longitude": -121.596736603056
+        },
+        "display_phone": "(408) 842-5037",
+        "distance": 1503.8396151216225,
+        "id": "yJrZN3OxTYq5CjpOkJEtcQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EEIi89AZW1RtHZmFXTV7XQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1395 1st St",
+            "address2": "Ste D102",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "1395 1st St",
+                "Ste D102",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Kusum Atraya, DDS",
+        "phone": "+14088425037",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kusum-atraya-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-dental-smiles-gilroy-4",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.013743,
+            "longitude": -121.581365
+        },
+        "display_phone": "(408) 842-0418",
+        "distance": 519.3255127522858,
+        "id": "wFj0TO5CWxz7p7F7qBgrdg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UoEHpqIV_-tIpKgWebA1aQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "681 First St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "681 First St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Dental Smiles",
+        "phone": "+14088420418",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-dental-smiles-gilroy-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jernell-escobar-dds-ma-gilroy",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 847-2658",
+        "distance": 453.63079195506907,
+        "id": "um5rHAM0ZcBzA1aOCu17nw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ohltn2o3eW2jF1ZYbFDamQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste D-142",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste D-142",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Jernell Escobar, DDS, MA",
+        "phone": "+14088472658",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jernell-escobar-dds-ma-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tommy-tong-dds-msd-gilroy-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0100332,
+            "longitude": -121.5862514
+        },
+        "display_phone": "(408) 842-0314",
+        "distance": 487.7870204349715,
+        "id": "OKHuFs8owGfYreIh4MX0xg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AJIi9iUhKp7X9ODTdPOTTA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste C132",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste C132",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Tommy Tong, DDS, MSD",
+        "phone": "+14088420314",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tommy-tong-dds-msd-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laveroni-jeffrey-r-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.01384,
+            "longitude": -121.59573
+        },
+        "display_phone": "(408) 842-6660",
+        "distance": 1413.2143515410994,
+        "id": "wYvKyiVptbM8y3siBJXVmQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1335 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "1335 1st St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Laveroni Jeffrey R DDS",
+        "phone": "+14088426660",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laveroni-jeffrey-r-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "binh-p-pham-dds-gilroy-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 842-3151",
+        "distance": 453.63079195506907,
+        "id": "alsDONCdKOO4u1fXxzv7xA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LkC3NFTkuyULf6-NNIE0mw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste C131",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste C131",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Binh P Pham, DDS",
+        "phone": "+14088423151",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/binh-p-pham-dds-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-plaza-dental-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0012287,
+            "longitude": -121.5604436
+        },
+        "display_phone": "(408) 847-4111",
+        "distance": 2014.7350133469513,
+        "id": "olo9ByHcgmfiotxvDMilqA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fDlDhvtn8q_XWIeLjMQhZQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6974 Automall Pkwy",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "6974 Automall Pkwy",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Plaza Dental",
+        "phone": "+14088474111",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-plaza-dental-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "raissi-abbas-dds-gilroy",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 848-3471",
+        "distance": 453.63079195506907,
+        "id": "BYmuThZxXl6AfKm71iGQSQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Raissi Abbas DDS",
+        "phone": "+14088483471",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/raissi-abbas-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-gilroy",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.01307,
+            "longitude": -121.58615
+        },
+        "display_phone": "(408) 796-3110",
+        "distance": 642.3317138538663,
+        "id": "-ekSm25Dy_G4GGCZRAy-ZQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FdLi8wcsS8Uxk2VGOmuP1g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "780 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "780 1st St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+14087963110",
+        "rating": 2.0,
+        "review_count": 100,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "williams-dental-lab-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0120391845703,
+            "longitude": -121.558654785156
+        },
+        "display_phone": "(408) 842-6269",
+        "distance": 2000.6462505115508,
+        "id": "tv7YMkooUpe-HBQI-fUQ1g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rCWMI3txPdygYaJ8-7UrTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7510 Arroyo Cir",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7510 Arroyo Cir",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Williams Dental Lab",
+        "phone": "+14088426269",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/williams-dental-lab-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mimi-tran-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.01404,
+            "longitude": -121.57375
+        },
+        "display_phone": "(408) 848-5040",
+        "distance": 828.591315632933,
+        "id": "ihYCnONbj7XfJiYg3MNvdA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7897 Eigleberry St",
+            "address2": null,
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7897 Eigleberry St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Mimi Tran, DDS",
+        "phone": "+14088485040",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mimi-tran-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bruce-sarhaddi-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0098571777344,
+            "longitude": -121.585777282715
+        },
+        "display_phone": "(408) 842-6811",
+        "distance": 453.63079195506907,
+        "id": "wAJqdLDNnig3Fd69nfhyxw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nVswzpsfqNfBSuf8-PWtsQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste E155",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste E155",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Bruce Sarhaddi, DDS",
+        "phone": "+14088426811",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bruce-sarhaddi-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wafelbakker-anderson-orthodontics-gilroy",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 847-1106",
+        "distance": 453.63079195506907,
+        "id": "rfGl-nrFegiGn9uz35RAPg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RVJxebtSKLHKPkFBUikB_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste F-165",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste F-165",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Wafelbakker Anderson Orthodontics",
+        "phone": "+14088471106",
+        "rating": 3.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wafelbakker-anderson-orthodontics-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ehsan-rezvan-dds-ms-gilroy",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0109,
+            "longitude": -121.58665
+        },
+        "display_phone": "(408) 842-9045",
+        "distance": 549.5555885371281,
+        "id": "EYVLKuDk-F5zKUoLWwu_5A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YxLRLCirTEDgEmK164PBFw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7888 Wren Ave",
+            "address2": "Ste B120",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7888 Wren Ave",
+                "Ste B120",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Ehsan Rezvan, DDS, MS",
+        "phone": "+14088429045",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ehsan-rezvan-dds-ms-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-family-dental-center-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0138487,
+            "longitude": -121.5968724
+        },
+        "display_phone": "(408) 842-5037",
+        "distance": 1514.8632387051218,
+        "id": "xKZz-V7aFEGi1DMBNXv40w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o46A0BozaM2ZHu4C-Ss2lA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1395 1st St",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "1395 1st St",
+                "Ste 102",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Family Dental Center",
+        "phone": "+14088425037",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-family-dental-center-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "valley-oak-dental-michael-tai-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.01373,
+            "longitude": -121.57224
+        },
+        "display_phone": "(408) 842-9999",
+        "distance": 927.7192150238205,
+        "id": "oth4l2QYKz37Ma84zg3rHg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7845 Monterey St",
+            "address2": null,
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7845 Monterey St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Valley Oak Dental Michael Tai DDS",
+        "phone": "+14088429999",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/valley-oak-dental-michael-tai-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "accu-dental-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00233,
+            "longitude": -121.55284
+        },
+        "display_phone": "(408) 847-4938",
+        "distance": 2636.8970466391465,
+        "id": "7A-RfrVqEn7YVNYBXDaUdg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3jyaTQlMMmfq64nuyLE9WQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6955 Camino Arroyo",
+            "address2": "Ste 50",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "6955 Camino Arroyo",
+                "Ste 50",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "ACCU Dental",
+        "phone": "+14088474938",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/accu-dental-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-crossing-dental-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0023384094238,
+            "longitude": -121.552841186523
+        },
+        "display_phone": "(408) 847-4938",
+        "distance": 2636.8970466391465,
+        "id": "Xa28ukihWQEnS4m8nKZnLw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iK8Kl5TM52uWwBIJsnTjgA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6955 Camino Arroyo",
+            "address2": "Ste 50",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "6955 Camino Arroyo",
+                "Ste 50",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Crossing Dental",
+        "phone": "+14088474938",
+        "rating": 3.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-crossing-dental-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amy-n-tran-dds-gilroy",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 847-0795",
+        "distance": 453.63079195506907,
+        "id": "TEeZU5Q2S16IP0hKeFfZ8A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NUtG0b74v9iwpJlWSVHx5Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste D141",
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste D141",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Amy N Tran, DDS",
+        "phone": "+14088470795",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amy-n-tran-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-village-dental-care-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0134527010001,
+            "longitude": -121.581026910969
+        },
+        "display_phone": "(408) 842-9439",
+        "distance": 485.46675177926375,
+        "id": "lkwffUqbBBpKv81Pgm7rdw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HyN-XqE6n0VjYAuQEsLMUw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "220 E 10th St",
+            "address2": "Ste K",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "220 E 10th St",
+                "Ste K",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Village Dental Care",
+        "phone": "+14088429439",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-village-dental-care-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nagareda-eric-r-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.009594,
+            "longitude": -121.586216
+        },
+        "display_phone": "(408) 847-0795",
+        "distance": 476.52352741037754,
+        "id": "7kKVbYEe2UEFcqyn911yCA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/286-mhv0P-o2R-pxfhlh8A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Nagareda Eric R DDS",
+        "phone": "+14088470795",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nagareda-eric-r-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ramsey-clor-dds-and-susan-clor-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.01384,
+            "longitude": -121.59573
+        },
+        "display_phone": "(408) 842-5620",
+        "distance": 1413.2143515410994,
+        "id": "uQ_BjwjfIiY1rcvdQ2jyJQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1335 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "1335 1st St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Ramsey Clor DDS & Susan Clor DDS",
+        "phone": "+14088425620",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ramsey-clor-dds-and-susan-clor-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "linga-m-vuppala-dds-gilroy",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0098571777344,
+            "longitude": -121.585777282715
+        },
+        "display_phone": "(408) 842-2818",
+        "distance": 453.63079195506907,
+        "id": "oZgbpakV1T-zXigjZdKzAA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste B-125",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste B-125",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Linga M Vuppala, DDS",
+        "phone": "+14088422818",
+        "rating": 4.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/linga-m-vuppala-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gary-banner-dds-gilroy-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 458-8629",
+        "distance": 453.63079195506907,
+        "id": "LNKHfAFMooNEc9q3gxDEkw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_n5x7yNjf93-gdRmCJvaWQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste A-115",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste A-115",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gary Banner, DDS",
+        "phone": "+14084588629",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gary-banner-dds-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lowell-o-tan-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.010005,
+            "longitude": -121.586067
+        },
+        "display_phone": "(408) 842-5805",
+        "distance": 471.1228431583187,
+        "id": "c9JNGnEXyUdFX3NHI488sQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste 122",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste 122",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Lowell O Tan, DDS",
+        "phone": "+14088425805",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lowell-o-tan-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-r-gallagher-dds-msd-mse-phd-gilroy-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.01315,
+            "longitude": -121.58254
+        },
+        "display_phone": "(408) 846-5887",
+        "distance": 477.6604178112691,
+        "id": "Z9iJHdXTUucdmArEVtHPsQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/flFIjJ0oid3nMlCfTYAFpg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "752 1st St",
+            "address2": null,
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "752 1st St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Richard R Gallagher, DDS MSD MSE PhD",
+        "phone": "+14088465887",
+        "rating": 3.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-r-gallagher-dds-msd-mse-phd-gilroy-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-b-perez-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.010414,
+            "longitude": -121.587788
+        },
+        "display_phone": "(408) 847-4550",
+        "distance": 630.2562979297834,
+        "id": "NHA2blhn_wVrqeugL2c7kg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oNnFkYOwJ64NxBvSw4x6nA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste F162",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste F162",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "John B. Perez, DDS",
+        "phone": "+14088474550",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-b-perez-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "city-dental-center-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0109024047852,
+            "longitude": -121.570930480957
+        },
+        "display_phone": "(408) 842-5000",
+        "distance": 902.456321183013,
+        "id": "XJwe0sQIuhOX5LU4EExUrA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CfRTrT171jfR9DsqWb6xNQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7671 Monterey St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7671 Monterey St",
+                "Ste C",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "City Dental Center",
+        "phone": "+14088425000",
+        "rating": 2.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/city-dental-center-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sunny-smiles-dentistry-gilroy-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00894,
+            "longitude": -121.55382
+        },
+        "display_phone": "(669) 209-1999",
+        "distance": 2401.7208840497924,
+        "id": "yAUNw3AYLHSn3-MLEEzZdg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7210 Camino Arroyo",
+            "address2": "Ste 106",
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7210 Camino Arroyo",
+                "Ste 106",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Sunny Smiles Dentistry",
+        "phone": "+16692091999",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sunny-smiles-dentistry-gilroy-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "the-dental-center-gilroy",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0032043457031,
+            "longitude": -121.577507019043
+        },
+        "display_phone": "(408) 842-0365",
+        "distance": 677.2107833094111,
+        "id": "IOHxOZVv3Oc1UOVDtL9-HQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "700 W 6th St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "700 W 6th St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "The Dental Center",
+        "phone": "+14088420365",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/the-dental-center-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-kim-khuc-phung-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.0005,
+            "longitude": -121.56268
+        },
+        "display_phone": "(408) 842-9439",
+        "distance": 1869.1382011081544,
+        "id": "kX-2bRx_vGNwn35sQPaw6Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pMn3kygfqWpvpLRhTMsK1A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "220 E 10th St",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "220 E 10th St",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Dr Kim Khuc Phung",
+        "phone": "+14088429439",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-kim-khuc-phung-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "villarreal-adriana-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.010035,
+            "longitude": -121.586251
+        },
+        "display_phone": "(408) 847-6060",
+        "distance": 487.795489348707,
+        "id": "voP8hs3ewiM5wNbUc_8Ebg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste D145",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste D145",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Villarreal Adriana DDS",
+        "phone": "+14088476060",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/villarreal-adriana-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gifford-timothy-w-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 842-8899",
+        "distance": 453.63079195506907,
+        "id": "3uXieubGt4MOwGWcyONoUw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gifford Timothy W DDS",
+        "phone": "+14088428899",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gifford-timothy-w-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gilroy-medical-park-gilroy-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00985,
+            "longitude": -121.58577
+        },
+        "display_phone": "(408) 842-2320",
+        "distance": 453.63079195506907,
+        "id": "0w9KMJKTa3wXGAzOkXhfBQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7880 Wren Ave",
+            "address2": "Ste A113",
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "7880 Wren Ave",
+                "Ste A113",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Gilroy Medical Park",
+        "phone": "+14088422320",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gilroy-medical-park-gilroy-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lotus-dental-spa-gilroy",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.003562,
+            "longitude": -121.578048
+        },
+        "display_phone": "(408) 842-5037",
+        "distance": 676.7739212992893,
+        "id": "Lj-VYoW0E_Oc5wI0yx4NmA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "700 W 6th St",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "700 W 6th St",
+                "Ste D",
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Lotus Dental Spa",
+        "phone": "+14088425037",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lotus-dental-spa-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nishimura-gary-dds-gilroy",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.00439,
+            "longitude": -121.57167
+        },
+        "display_phone": "(408) 847-1073",
+        "distance": 1178.679589481117,
+        "id": "27eS9KbTu_YyplcTX3uKOQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "",
+            "address2": "",
+            "address3": "",
+            "city": "Gilroy",
+            "country": "US",
+            "display_address": [
+                "Gilroy, CA 95020"
+            ],
+            "state": "CA",
+            "zip_code": "95020"
+        },
+        "name": "Nishimura Gary DDS",
+        "phone": "+14088471073",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nishimura-gary-dds-gilroy?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

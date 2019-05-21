@@ -1,0 +1,892 @@
+[
+    {
+        "alias": "sky-dental-pittsburg",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0068403248536,
+            "longitude": -121.867110333188
+        },
+        "display_phone": "(925) 432-2444",
+        "distance": 3893.7329026411603,
+        "id": "DWqWRX7rh4vrzX-gp10d0g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OgNUNI59bZfXwJLQoS1MYg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2230 Gladstone Dr",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "2230 Gladstone Dr",
+                "Ste 100",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Sky Dental",
+        "phone": "+19254322444",
+        "rating": 4.0,
+        "review_count": 92,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sky-dental-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "highland-dentistry-pittsburg",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.998007,
+            "longitude": -121.872859
+        },
+        "display_phone": "(925) 473-9440",
+        "distance": 4725.144844469316,
+        "id": "dm6YQJM2crdXyMUSm-fZpw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lRKlChNwdPUJ2BiWztqzmg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1357 Buchanan Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "1357 Buchanan Rd",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Highland Dentistry",
+        "phone": "+19254739440",
+        "rating": 5.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/highland-dentistry-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pittsburg-family-dental-pittsburg-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0013613,
+            "longitude": -121.8954669
+        },
+        "display_phone": "(925) 432-2929",
+        "distance": 4456.961052247927,
+        "id": "oP66lg2pd8I0TYyQyM2WaQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HDiam5jJEveVH3zFB5jfqQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4020 Railroad Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "4020 Railroad Ave",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Pittsburg Family Dental",
+        "phone": "+19254322929",
+        "rating": 4.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pittsburg-family-dental-pittsburg-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yosemite-dental-care-pittsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0049133300781,
+            "longitude": -121.89298248291
+        },
+        "display_phone": "(925) 432-3838",
+        "distance": 4023.932566009295,
+        "id": "RCdK4r-51VyW1gA3NoGT0A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K9WX-EtFxnhV2dxfsqoOcA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "120 Yosemite Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "120 Yosemite Dr",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Yosemite Dental Care",
+        "phone": "+19254323838",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yosemite-dental-care-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bahia-dental-group-pittsburg",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01198,
+            "longitude": -121.88778
+        },
+        "display_phone": "(925) 432-7757",
+        "distance": 3186.3576124337737,
+        "id": "ME2UyFfURy0vElHMT3swWA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f9S0fMuIpruhmvjw4mYCGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "295 E Leland Rd",
+            "address2": "",
+            "address3": null,
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "295 E Leland Rd",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Bahia Dental Group",
+        "phone": "+19254327757",
+        "rating": 4.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bahia-dental-group-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sanjay-patel-dds-pittsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.017601,
+            "longitude": -121.9431253
+        },
+        "display_phone": "(925) 709-0200",
+        "distance": 5930.600160296277,
+        "id": "QJrKDw81phBTbpKyfxyTzQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8UDJh5N9CL4lra8p61PyuA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "538 Bailey Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "538 Bailey Rd",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Sanjay Patel, DDS",
+        "phone": "+19257090200",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sanjay-patel-dds-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mercedes-roberts-dds-pittsburg",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.011907,
+            "longitude": -121.890276
+        },
+        "display_phone": "(925) 432-2995",
+        "distance": 3207.078400568093,
+        "id": "kYz1DqauYNWFuYcgfzndig",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QGN8_MeIRHrCcSvedAeW-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "130 E Leland Rd",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "130 E Leland Rd",
+                "Ste D",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Mercedes Roberts, DDS",
+        "phone": "+19254322995",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mercedes-roberts-dds-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "abc-dental-group-antioch-4",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.001346,
+            "longitude": -121.836139
+        },
+        "display_phone": "(925) 778-1234",
+        "distance": 5856.316810078876,
+        "id": "CD2LASfAitZn_k0K84ue-A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1HSXhDVvihZma0SzNPPXfA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2734 Delta Fair Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2734 Delta Fair Blvd",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "ABC Dental Group",
+        "phone": "+19257781234",
+        "rating": 3.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/abc-dental-group-antioch-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "loveridge-dental-group-pittsburg",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0079508,
+            "longitude": -121.8705659
+        },
+        "display_phone": "(925) 427-2222",
+        "distance": 3686.308536681432,
+        "id": "D9g3MTQi0IlIasGrZZo-jg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Lk8iAUGh-QheUtnfj8D_fg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1270 E Leland Rd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "1270 E Leland Rd",
+                "Ste 101",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Loveridge Dental Group",
+        "phone": "+19254272222",
+        "rating": 3.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/loveridge-dental-group-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ostomel-ron-dmd-pittsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.00645,
+            "longitude": -121.89268
+        },
+        "display_phone": "(925) 432-3347",
+        "distance": 3849.693149160419,
+        "id": "CV-5HqcQLAk5TnAWdpcCzQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a29KRrZoZO6tR6IN7Kv4JA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3715 Railroad Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "3715 Railroad Ave",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Ostomel Ron DMD",
+        "phone": "+19254323347",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ostomel-ron-dmd-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "shelby-j-smith-dds-ms-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.998512,
+            "longitude": -121.836233
+        },
+        "display_phone": "(925) 755-5115",
+        "distance": 6085.648970189129,
+        "id": "GDNgqRjGj2yQe1Edebtdpw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UgW1BTCmxv25xWRhefSjDg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2213 Buchanan Rd",
+            "address2": "Ste 112",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2213 Buchanan Rd",
+                "Ste 112",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Shelby J Smith, DDS, MS",
+        "phone": "+19257555115",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/shelby-j-smith-dds-ms-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-antioch",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.00653,
+            "longitude": -121.83363
+        },
+        "display_phone": "(925) 206-3555",
+        "distance": 5599.529187263422,
+        "id": "N37Iz-WqIkCRKpoXcEnd6g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zOp-HVFbTmRihhqJqI2PtQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2590 Sycamore Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2590 Sycamore Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19252063555",
+        "rating": 2.5,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-pittsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.01544,
+            "longitude": -121.89062
+        },
+        "display_phone": "(925) 203-3079",
+        "distance": 2821.2694835600487,
+        "id": "0BBI0kEbrS50iwErwdptIw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pcQSufqKTIcO0RvauoKsYQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2120 Railroad Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "2120 Railroad Ave",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19252033079",
+        "rating": 1.5,
+        "review_count": 94,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "buchanan-dental-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99836,
+            "longitude": -121.83674
+        },
+        "display_phone": "(925) 978-9714",
+        "distance": 6074.623869743852,
+        "id": "68xWd1oRaeIeiVIQALSTXA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VhZ6DSqJhh6Mut33raHJnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2219 Buchanan Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2219 Buchanan Rd",
+                "Ste 1",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Buchanan Dental",
+        "phone": "+19259789714",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/buchanan-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "la-cl\u00ednica-pittsburg-dental-pittsburg-2",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0114955,
+            "longitude": -121.8874123
+        },
+        "display_phone": "(925) 431-1250",
+        "distance": 3171.5005356752226,
+        "id": "pjAlPE0jDWpxCSQXAWwTYg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_4KGa9dvs-zKJRsV3GlAEQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "337 E Leland Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "337 E Leland Rd",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "La Cl\u00ednica  Pittsburg Dental",
+        "phone": "+19254311250",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/la-cl%C3%ADnica-pittsburg-dental-pittsburg-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marosario-exconde-dds-pittsburg",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.008416,
+            "longitude": -121.88618
+        },
+        "display_phone": "(925) 427-9496",
+        "distance": 3525.9047273102515,
+        "id": "CyKdI355zMKvrfAoPFzSMQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2931 Harbor St",
+            "address2": "Ste I",
+            "address3": null,
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "2931 Harbor St",
+                "Ste I",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Marosario Exconde DDS",
+        "phone": "+19254279496",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marosario-exconde-dds-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "s-ghannam-dds-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9985041,
+            "longitude": -121.8376651
+        },
+        "display_phone": "(925) 779-1112",
+        "distance": 6005.0817610203585,
+        "id": "XpNNMGcIZEYxeBXvzWfR5w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-5H2WanVr-XvmoOAou4i8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2225 Buchanan Rd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2225 Buchanan Rd",
+                "Ste A",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "S. Ghannam, DDS",
+        "phone": "+19257791112",
+        "rating": 2.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/s-ghannam-dds-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bay-view-dental-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99827,
+            "longitude": -121.83754
+        },
+        "display_phone": "(925) 237-3738",
+        "distance": 6036.032624960373,
+        "id": "IpPv3ptzb8S6ksIl3lrniA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2225 Buchanan Rd",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2225 Buchanan Rd",
+                "Ste G",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Bay View Dental",
+        "phone": "+19252373738",
+        "rating": 2.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bay-view-dental-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "perfect-smiles-family-dentistry-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.99836,
+            "longitude": -121.83674
+        },
+        "display_phone": "(925) 978-9800",
+        "distance": 6074.623869743852,
+        "id": "vIDGSVIvfONAv6U3YvTdxw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QIQWxH3i_dDv7J8fSZnHyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2219 Buchanan Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2219 Buchanan Rd",
+                "Ste 1",
+                "Antioch, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "Perfect Smiles Family Dentistry",
+        "phone": "+19259789800",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/perfect-smiles-family-dentistry-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-antioch-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0061968319803,
+            "longitude": -121.833235152706
+        },
+        "display_phone": "(925) 206-3609",
+        "distance": 5602.994121107211,
+        "id": "WUBGiQ2_xXFVXPq4gsMRTA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SAFtZBXCf2wA-j_DuMfhDw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2500 Sycamore Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2500 Sycamore Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19252063609",
+        "rating": 2.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-antioch-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-affordable-dentistry-antioch-antioch",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0065308,
+            "longitude": -121.8336334
+        },
+        "display_phone": "(925) 206-3555",
+        "distance": 5599.529187263422,
+        "id": "xAxhWoq8dtGitJ_6W3Z6Aw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2590 Sycamore Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Antioch",
+            "country": "US",
+            "display_address": [
+                "2590 Sycamore Dr",
+                "Antioch, CA 94509"
+            ],
+            "state": "CA",
+            "zip_code": "94509"
+        },
+        "name": "Western Dental Affordable Dentistry Antioch",
+        "phone": "+19252063555",
+        "rating": 1.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-affordable-dentistry-antioch-antioch?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

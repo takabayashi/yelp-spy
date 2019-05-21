@@ -1,0 +1,2047 @@
+[
+    {
+        "alias": "novato-pediatric-dentistry-novato",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1102538,
+            "longitude": -122.5685519
+        },
+        "display_phone": "(415) 897-5566",
+        "distance": 2066.8273462415636,
+        "id": "hJJ83e9qXOxBMTNpBPHnHQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/10B4sFjyxohKnGvxpu6iIQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7428 Redwood Blvd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "7428 Redwood Blvd",
+                "Ste 101",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Novato Pediatric Dentistry",
+        "phone": "+14158975566",
+        "rating": 5.0,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/novato-pediatric-dentistry-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dentistry-by-design-of-marin-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10809,
+            "longitude": -122.58401
+        },
+        "display_phone": "(415) 892-6901",
+        "distance": 2590.6788247421687,
+        "id": "d-a_Y1M9Ztk8qWddFLpR3A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vwVcpD4kALK-60s-vjJW8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 5",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Dentistry By Design Of Marin",
+        "phone": "+14158926901",
+        "rating": 5.0,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dentistry-by-design-of-marin-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bales-orthodontics-novato",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10616,
+            "longitude": -122.5802
+        },
+        "display_phone": "(415) 897-3141",
+        "distance": 2214.7356946444525,
+        "id": "fNbACvfnrZU46nb89qmnLg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_2_l2UxJyo_0oUxK06wnBQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1713 Novato Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1713 Novato Blvd",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Bales Orthodontics",
+        "phone": "+14158973141",
+        "rating": 5.0,
+        "review_count": 39,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bales-orthodontics-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-j-poksay-dmd-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0663948059082,
+            "longitude": -122.54029083252
+        },
+        "display_phone": "(415) 883-0588",
+        "distance": 3464.164159726077,
+        "id": "j11ojZhtX8AmyQkF1F2ikA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JGna2O9DCntMIEl45CmiHA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "330 Ignacio Blvd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "330 Ignacio Blvd",
+                "Ste 102",
+                "Novato, CA 94949"
+            ],
+            "state": "CA",
+            "zip_code": "94949"
+        },
+        "name": "Thomas J. Poksay, DMD",
+        "phone": "+14158830588",
+        "rating": 4.5,
+        "review_count": 63,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-j-poksay-dmd-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "don-wilson-dds-msd-novato-4",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10462,
+            "longitude": -122.56968
+        },
+        "display_phone": "(415) 878-0240",
+        "distance": 1508.2716288160864,
+        "id": "vOq83r57u6xh7vtUQ10g4A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9r-xDvZqa8dUG4a_UDZIkA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7250 Redwood Blvd",
+            "address2": "Ste 107",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "7250 Redwood Blvd",
+                "Ste 107",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Don Wilson, DDS, MSD",
+        "phone": "+14158780240",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/don-wilson-dds-msd-novato-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daryl-dudum-dds-marin-endodontics-novato-2",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1079251,
+            "longitude": -122.5816396
+        },
+        "display_phone": "(415) 898-7093",
+        "distance": 2431.6798773951696,
+        "id": "yoFNYt8vM90ldQlw_ipbrQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pFJscoseVQQ-vGjd1Kxq5g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1748 Novato Blvd",
+            "address2": "Ste 200",
+            "address3": null,
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1748 Novato Blvd",
+                "Ste 200",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Daryl Dudum, DDS- Marin Endodontics",
+        "phone": "+14158987093",
+        "rating": 5.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daryl-dudum-dds-marin-endodontics-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alan-chui-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1079063415527,
+            "longitude": -122.581703186035
+        },
+        "display_phone": "(415) 897-4884",
+        "distance": 2436.988841546471,
+        "id": "LlMjf4Ytye0oLfsgbE3big",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bBp9dVGlHZaWgKsD0_hr3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1748 Novato Blvd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1748 Novato Blvd",
+                "Ste 110",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Alan Chui, DDS",
+        "phone": "+14158974884",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alan-chui-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lawson-evans-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10809,
+            "longitude": -122.58401
+        },
+        "display_phone": "(415) 898-0696",
+        "distance": 2590.6788247421687,
+        "id": "ScF3cf7RKRhFbA_zDdvf1A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/csiTIrM25jOuxlcgYvFGTQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 4",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Lawson Evans DDS",
+        "phone": "+14158980696",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lawson-evans-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steven-mcconnell-dds-cosmetic-dentistry-marin-novato-4",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1076622009277,
+            "longitude": -122.580940246582
+        },
+        "display_phone": "(415) 450-6284",
+        "distance": 2367.9825345628246,
+        "id": "SyA4mZD42bU_MsAHcHNykQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-d3-A-b2YrLC4Uy_QqvDRw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste A",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Steven McConnell, DDS - Cosmetic Dentistry Marin",
+        "phone": "+14154506284",
+        "rating": 4.5,
+        "review_count": 40,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steven-mcconnell-dds-cosmetic-dentistry-marin-novato-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endoart-nader-m-vafaie-dmd-mmsc-novato",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.097369,
+            "longitude": -122.578966
+        },
+        "display_phone": "(415) 209-6000",
+        "distance": 1576.7702517164,
+        "id": "gxnECw6tvBfxp68RaxHRHA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6O5YFj0b6ZEaG_C_PMkRIA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1615 Hill Rd",
+            "address2": "Ste 19",
+            "address3": null,
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1615 Hill Rd",
+                "Ste 19",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Endoart Nader M Vafaie, DMD MMSC",
+        "phone": "+14152096000",
+        "rating": 4.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endoart-nader-m-vafaie-dmd-mmsc-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leahn-j-huffman-dds-novato-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.096856,
+            "longitude": -122.578715
+        },
+        "display_phone": "(415) 897-3411",
+        "distance": 1536.7974288288879,
+        "id": "XTN-hgoBQMIEQrOpMEF8XA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1615 Hill Rd",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1615 Hill Rd",
+                "Ste 3",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Leahn J Huffman, DDS",
+        "phone": "+14158973411",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leahn-j-huffman-dds-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "novato-dental-care-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1077385,
+            "longitude": -122.5814438
+        },
+        "display_phone": "(415) 895-6014",
+        "distance": 2403.6497946444947,
+        "id": "Fbb_3qRgbz1QSMla8kIzjg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j_Q1w1xXcrxtk_MSuyT85A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1744 Novato Blvd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1744 Novato Blvd",
+                "Ste 110",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Novato Dental Care",
+        "phone": "+14158956014",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/novato-dental-care-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marin-braces-novato-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10765,
+            "longitude": -122.580944
+        },
+        "display_phone": "(415) 897-4191",
+        "distance": 2367.237485998651,
+        "id": "E7EbDtqwAVAO58PfVKqZ4Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z-3H6tmx6996iV7rN-bm2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste I",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste I",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Marin Braces",
+        "phone": "+14158974191",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marin-braces-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "san-marin-dental-care-novato-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1221850961447,
+            "longitude": -122.601671889424
+        },
+        "display_phone": "(415) 209-6060",
+        "distance": 4793.2186103093145,
+        "id": "DGm_rVCDLIkMr4P0FUyNhA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EseoHrhdw1qxYyt9HBqyyg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "197 San Marin Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "197 San Marin Dr",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "San Marin Dental Care",
+        "phone": "+14152096060",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/san-marin-dental-care-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-w-epstein-dds-novato-7",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1059494018555,
+            "longitude": -122.579742431641
+        },
+        "display_phone": "(415) 897-6453",
+        "distance": 2159.7359394667915,
+        "id": "2iiIXVP4MnODa0RAVwHsgA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UNwX-mtPGnN7_yAeTsyAnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1701 Novato Blvd",
+            "address2": "Ste 306",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1701 Novato Blvd",
+                "Ste 306",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "David W Epstein, DDS",
+        "phone": "+14158976453",
+        "rating": 4.0,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-w-epstein-dds-novato-7?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paul-schafer-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.116982,
+            "longitude": -122.609534
+        },
+        "display_phone": "(415) 897-9910",
+        "distance": 4971.0405020581275,
+        "id": "p4VJAn0dwGItYYyjJmwY3Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qAP40hr3D2Up4pjL03pyVQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "896 Sutro Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "896 Sutro Ave",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Paul Schafer, DDS",
+        "phone": "+14158979910",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paul-schafer-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mckell-perry-dds-and-eric-tyler-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12166,
+            "longitude": -122.602
+        },
+        "display_phone": "(415) 897-6877",
+        "distance": 4771.930454210747,
+        "id": "1AEaXzjjLsoSPuF3zUnrHg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cGDhhXOhOvCKZQk7hq64Fw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "190 San Marin Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "190 San Marin Dr",
+                "Ste A",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "McKell Perry, DDS and Eric Tyler, DDS",
+        "phone": "+14158976877",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mckell-perry-dds-and-eric-tyler-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rick-chelemedos-family-dentistry-novato-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1052351,
+            "longitude": -122.5664091
+        },
+        "display_phone": "(415) 897-9969",
+        "distance": 1479.053626503425,
+        "id": "D0-pk1JnLC9NJi-JO71Oiw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ALYaJ-ks1NuUzHK1old2lA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "852 Reichert Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "852 Reichert Ave",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Rick Chelemedos Family Dentistry",
+        "phone": "+14158979969",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rick-chelemedos-family-dentistry-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vintage-oaks-dental-group-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0887934,
+            "longitude": -122.5518621
+        },
+        "display_phone": "(415) 898-5100",
+        "distance": 980.6358039509723,
+        "id": "1HFrNEXHwuHsXNtMZLGiIA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FEfVeyXtOl3YdNTANI8LcA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "208 Vintage Way",
+            "address2": "Ste K23",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "208 Vintage Way",
+                "Ste K23",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Vintage Oaks Dental Group",
+        "phone": "+14158985100",
+        "rating": 4.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vintage-oaks-dental-group-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marin-modern-dentistry-novato-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1075994,
+            "longitude": -122.5809908
+        },
+        "display_phone": "(415) 450-6284",
+        "distance": 2366.0621444364365,
+        "id": "NbYVY1baiO6qV0C8Liqeww",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5wYb_AB8rK6qk2kc5wDmeA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste A",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Marin Modern Dentistry",
+        "phone": "+14154506284",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marin-modern-dentistry-novato-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "patrice-espinosa-dds-novato",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1080093,
+            "longitude": -122.5735626
+        },
+        "display_phone": "(415) 892-6969",
+        "distance": 2013.174528277439,
+        "id": "Fzp9WtlcpQIcHUAhZ3qF-A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UaGOzcTVD-cNlu7PUOMgQw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1223 Grant Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1223 Grant Ave",
+                "Ste A",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Patrice Espinosa, DDS",
+        "phone": "+14158926969",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/patrice-espinosa-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-elder-dds-md-novato-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.108081,
+            "longitude": -122.584085
+        },
+        "display_phone": "(415) 892-1190",
+        "distance": 2598.2100057505477,
+        "id": "JrMsw1sdRcQqCbT73hp3aw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lQPFjAg_M5wR9G42N_prVA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 1",
+            "address3": null,
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 1",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Mark Elder, DDS, MD",
+        "phone": "+14158921190",
+        "rating": 3.5,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-elder-dds-md-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-n-hollander-ms-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.097372,
+            "longitude": -122.578967
+        },
+        "display_phone": "(415) 898-6660",
+        "distance": 1576.9696865630938,
+        "id": "l2kWocVRGCMx7ho4Whym0w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EfZBVsLlCdpBilbgJmXoDw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1615 Hill Rd",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1615 Hill Rd",
+                "Ste 4",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Brian N Hollander, Ms DDS",
+        "phone": "+14158986660",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-n-hollander-ms-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "myron-l-donesky-d-d-s-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1044955,
+            "longitude": -122.5700481
+        },
+        "display_phone": "(415) 897-9642",
+        "distance": 1516.7306883398169,
+        "id": "FtEo3tInrecXaaB5DggLCQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EwUYtXChNgqMfEPRK5ECkw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7250 Redwood Blvd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "7250 Redwood Blvd",
+                "Ste 210",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Myron L. Donesky, D.D.S.",
+        "phone": "+14158979642",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/myron-l-donesky-d-d-s-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "novato-smiles-dentistry-novato-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.101793,
+            "longitude": -122.570327
+        },
+        "display_phone": "(415) 897-8020",
+        "distance": 1270.8868542909834,
+        "id": "-klopLxC0foEDUoiIzxXng",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fhPDgPNZBnIy9_Z4LBvQzw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "948 Diablo Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "948 Diablo Ave",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Novato Smiles Dentistry",
+        "phone": "+14158978020",
+        "rating": 3.0,
+        "review_count": 54,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/novato-smiles-dentistry-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "novato-family-dental-care-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.11059,
+            "longitude": -122.56829
+        },
+        "display_phone": "(415) 897-3914",
+        "distance": 2097.0189932135454,
+        "id": "oAsPIB-JVXaekrBlw6t8tA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/37O4XTWWNCeDIhD0FUXRxg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7460 Redwood Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "7460 Redwood Blvd",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Novato Family Dental Care",
+        "phone": "+14158973914",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/novato-family-dental-care-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ira-r-simon-dds-novato",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10765,
+            "longitude": -122.58094
+        },
+        "display_phone": "(415) 897-7770",
+        "distance": 2373.507779492883,
+        "id": "6bp1h0zOYoQcdzSevf8a8A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste G",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Ira R Simon, DDS",
+        "phone": "+14158977770",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ira-r-simon-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hickle-dallas-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.097613,
+            "longitude": -122.578728
+        },
+        "display_phone": "(415) 892-1564",
+        "distance": 1567.1783888524174,
+        "id": "L-Retk8W1_gsHLU8KMWXgA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1615 Hill Rd",
+            "address2": "Ste 12",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1615 Hill Rd",
+                "Ste 12",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Hickle Dallas, DDS",
+        "phone": "+14158921564",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hickle-dallas-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "norman-elloway-dds-novato-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.108492,
+            "longitude": -122.57419
+        },
+        "display_phone": "(415) 234-1141",
+        "distance": 2081.174174339477,
+        "id": "MGzDuKnP36vKNI91NPbJTw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZH12XHCOf4sjUGxJwFxANA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1316 Grant Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1316 Grant Ave",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Norman Elloway, DDS",
+        "phone": "+14152341141",
+        "rating": 2.5,
+        "review_count": 46,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/norman-elloway-dds-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nancy-derham-dds-novato-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10809,
+            "longitude": -122.58401
+        },
+        "display_phone": "(415) 892-4721",
+        "distance": 2591.413566792945,
+        "id": "obD7Mv5wV7NG0SBuBtGFyA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zF0AW7iRPg_nw9rCiQP8TA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 6",
+            "address3": null,
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 6",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Nancy Derham, DDS",
+        "phone": "+14158924721",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nancy-derham-dds-novato-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "modern-dentistry-of-novato-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10809,
+            "longitude": -122.58401
+        },
+        "display_phone": "(415) 892-4721",
+        "distance": 2590.7256836305637,
+        "id": "BhYG1nNYzmcLfOE-xOm7-A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X_wfChDfYlFM8aFKK1ON3Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Modern Dentistry of Novato",
+        "phone": "+14158924721",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/modern-dentistry-of-novato-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "louie-r-limchayseng-dmd-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1060931,
+            "longitude": -122.5796542
+        },
+        "display_phone": "(415) 892-8613",
+        "distance": 2164.776280707629,
+        "id": "SCd8Q5EyXO_Vx2YxjnC2-g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2SFOd9nHLs_swMdl5zXD2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1701 Novato Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1701 Novato Blvd",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Louie R Limchayseng, DMD",
+        "phone": "+14158928613",
+        "rating": 3.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/louie-r-limchayseng-dmd-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "neal-patel-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1059494018555,
+            "longitude": -122.579742431641
+        },
+        "display_phone": "(415) 897-7777",
+        "distance": 2159.1573350920175,
+        "id": "ekgYuPYRC0lxKXzl-zJP-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lNJF8IjkzV4ECLWadNJ1LA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1701 Novato Blvd",
+            "address2": "Ste 305",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1701 Novato Blvd",
+                "Ste 305",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Neal Patel, DDS",
+        "phone": "+14158977777",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/neal-patel-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "theodore-rist-jr-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10765,
+            "longitude": -122.58094
+        },
+        "display_phone": "(415) 892-3761",
+        "distance": 2373.507779492883,
+        "id": "kooi-ZJTdtroPFmToGFBuQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste F",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Theodore Rist Jr., DDS",
+        "phone": "+14158923761",
+        "rating": 4.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/theodore-rist-jr-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "susana-chou-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.09738,
+            "longitude": -122.578968
+        },
+        "display_phone": "(415) 898-0091",
+        "distance": 1577.3652978847454,
+        "id": "ADgbMOl2H264ReWOqcS-Jw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1615 Hill Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1615 Hill Rd",
+                "Ste 2",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Susana Chou, DDS",
+        "phone": "+14158980091",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/susana-chou-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gast-and-nielsen-orthodontics-novato",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12166,
+            "longitude": -122.602
+        },
+        "display_phone": "(415) 892-0736",
+        "distance": 4771.930454210747,
+        "id": "YsKiwFswSwVW6oZ2chU_Zg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/41jAfyc9mx4QgExLC85Q6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "190 San Marin Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "190 San Marin Dr",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Gast & Nielsen Orthodontics",
+        "phone": "+14158920736",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gast-and-nielsen-orthodontics-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marin-community-clinics-novato-2",
+        "categories": [
+            {
+                "alias": "familydr",
+                "title": "Family Practice"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "c_and_mh",
+                "title": "Counseling & Mental Health"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.095949,
+            "longitude": -122.562394
+        },
+        "display_phone": "(415) 448-1500",
+        "distance": 398.50452831773464,
+        "id": "HJSp0ilT6ssWjMZjqmr_tw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6a7VhoOgQ8NwnnsRftD8jQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6090 Redwood Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "6090 Redwood Blvd",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Marin Community Clinics",
+        "phone": "+14154481500",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marin-community-clinics-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jonathan-l-maclean-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.089236,
+            "longitude": -122.552211
+        },
+        "display_phone": "(415) 898-5100",
+        "distance": 933.3232436436498,
+        "id": "i3JEZS4YOzo3r_-HqzbaxA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "208 Vintage Way",
+            "address2": "Ste K23",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "208 Vintage Way",
+                "Ste K23",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Jonathan L MacLean, DDS",
+        "phone": "+14158985100",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jonathan-l-maclean-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rosenthal-michael-l-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10809,
+            "longitude": -122.58401
+        },
+        "display_phone": "(415) 892-6901",
+        "distance": 2590.6788247421687,
+        "id": "Pthksh6zywCHZjB_QPHTBA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 5",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Rosenthal Michael L ,DDS",
+        "phone": "+14158926901",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rosenthal-michael-l-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jennifer-i-dole-dds-novato",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1216846,
+            "longitude": -122.6019688
+        },
+        "display_phone": "(415) 898-6042",
+        "distance": 4773.855447420281,
+        "id": "jZvEj9iYmzQgygDo-MriCQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "190 San Marin Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "190 San Marin Dr",
+                "Ste B",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Jennifer I. Dole, DDS",
+        "phone": "+14158986042",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jennifer-i-dole-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "core-dental-novato-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1080841,
+            "longitude": -122.5839686
+        },
+        "display_phone": "(415) 892-4721",
+        "distance": 2590.9112161175967,
+        "id": "XZssTXUQOuDy8kCouv3tyg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_KeFQYsIloXMJIYpZBFtPg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 6",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "CORE Dental Novato",
+        "phone": "+14158924721",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/core-dental-novato-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-a-hansen-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1075666,
+            "longitude": -122.5809884
+        },
+        "display_phone": "(415) 897-5070",
+        "distance": 2363.306996442329,
+        "id": "y6tRwJnWyf4E6w2wbER4zw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Sj5iRMCebCKgXI2Ny6whoQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste H",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Mark A. Hansen DDS",
+        "phone": "+14158975070",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-a-hansen-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hoffman-robert-w-dds-san-rafael",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.03307,
+            "longitude": -122.54403
+        },
+        "display_phone": "(415) 472-7662",
+        "distance": 6778.0121514629445,
+        "id": "bXCLSwHMzvAeI6MzlUsQUw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2400 Las Gallinas Ave",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "San Rafael",
+            "country": "US",
+            "display_address": [
+                "2400 Las Gallinas Ave",
+                "Ste 120",
+                "San Rafael, CA 94903"
+            ],
+            "state": "CA",
+            "zip_code": "94903"
+        },
+        "name": "Hoffman Robert W, DDS",
+        "phone": "+14154727662",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hoffman-robert-w-dds-san-rafael?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jessica-a-dehnert-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1075994,
+            "longitude": -122.5809908
+        },
+        "display_phone": "(415) 897-4149",
+        "distance": 2366.0621444364365,
+        "id": "_Gv8tu1p-dhPxTaU2ActRw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zb-Hfxnccs14FdS-oXA5-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1730 Novato Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1730 Novato Blvd",
+                "Ste A",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Jessica A Dehnert, DDS",
+        "phone": "+14158974149",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jessica-a-dehnert-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gast-garry-g-orthodontist-novato",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.12166,
+            "longitude": -122.602
+        },
+        "display_phone": "(415) 892-0736",
+        "distance": 4771.930454210747,
+        "id": "WHRHp5QEBEn9hMygxulVqg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "190 San Marin Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "190 San Marin Dr",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Gast Garry G Orthodontist",
+        "phone": "+14158920736",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gast-garry-g-orthodontist-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "christine-s-juhn-dds-novato",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.1080841,
+            "longitude": -122.5839686
+        },
+        "display_phone": "(415) 892-4721",
+        "distance": 2590.9112161175967,
+        "id": "xIlwff7CO3_CwgdXPCgZWQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n8vNN-hmsxfjbZDd6oRtYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 6",
+            "address3": "CORE Dental Novato",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 6",
+                "CORE Dental Novato",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Christine S Juhn, DDS",
+        "phone": "+14158924721",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christine-s-juhn-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rajiv-anand-dds-novato",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.10809,
+            "longitude": -122.58401
+        },
+        "display_phone": "(415) 892-6981",
+        "distance": 2591.413566792945,
+        "id": "7e1G-6mEXVtsKodLQZuRbQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1805 Novato Blvd",
+            "address2": "Ste 5",
+            "address3": null,
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1805 Novato Blvd",
+                "Ste 5",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Rajiv Anand, DDS",
+        "phone": "+14158926981",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rajiv-anand-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "maureen-valley-dmd-san-rafael-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0330952,
+            "longitude": -122.5440578
+        },
+        "display_phone": "(415) 479-2400",
+        "distance": 6778.0121514629445,
+        "id": "pvE_FMfMeE9ec8XvqhB03w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NkPd-YD8uc1eHAjoNLsXdg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2400 Las Gallinas Ave",
+            "address2": "Ste 130",
+            "address3": "Valley Orthodontics",
+            "city": "San Rafael",
+            "country": "US",
+            "display_address": [
+                "2400 Las Gallinas Ave",
+                "Ste 130",
+                "Valley Orthodontics",
+                "San Rafael, CA 94903"
+            ],
+            "state": "CA",
+            "zip_code": "94903"
+        },
+        "name": "Maureen Valley, DMD",
+        "phone": "+14154792400",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/maureen-valley-dmd-san-rafael-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "matthew-menasco-dmd-novato-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.09756,
+            "longitude": -122.57883
+        },
+        "display_phone": "(415) 898-2100",
+        "distance": 1570.9650174508051,
+        "id": "_yM4dXo9EfkSOq5w2FVCvw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/InsYuU9NA343GS1zRoQw9A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1615 Hill Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "1615 Hill Rd",
+                "Ste A",
+                "Novato, CA 94947"
+            ],
+            "state": "CA",
+            "zip_code": "94947"
+        },
+        "name": "Matthew Menasco, DMD",
+        "phone": "+14158982100",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/matthew-menasco-dmd-novato-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "perry-j-clayton-dds-novato",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.11059,
+            "longitude": -122.56829
+        },
+        "display_phone": "(415) 897-3914",
+        "distance": 2097.0189932135454,
+        "id": "eYaUxV_2SR_pjmQ6KsdQgA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7460 Redwood Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Novato",
+            "country": "US",
+            "display_address": [
+                "7460 Redwood Blvd",
+                "Novato, CA 94945"
+            ],
+            "state": "CA",
+            "zip_code": "94945"
+        },
+        "name": "Perry J Clayton, DDS",
+        "phone": "+14158973914",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/perry-j-clayton-dds-novato?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

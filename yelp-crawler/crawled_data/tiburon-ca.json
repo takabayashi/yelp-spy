@@ -1,0 +1,2235 @@
+[
+    {
+        "alias": "suparna-vohra-dds-sausalito-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.858476,
+            "longitude": -122.48458
+        },
+        "display_phone": "(415) 332-1414",
+        "distance": 3183.4582841942615,
+        "id": "dU5-bT4OaVTgvIaPPgfytA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/duiBTPCWR-6Qv2dw_4VSMw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "30 Caledonia St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "30 Caledonia St",
+                "Ste C",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Suparna Vohra, DDS",
+        "phone": "+14153321414",
+        "rating": 5.0,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/suparna-vohra-dds-sausalito-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "denys-kovalchuk-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.889025,
+            "longitude": -122.518394
+        },
+        "display_phone": "(415) 381-4321",
+        "distance": 4911.066600416621,
+        "id": "xTereBajMv2HAMGpAdZb-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RPzgUuSJwa1eVhY84Spq_Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "591 Redwood Hwy",
+            "address2": "Ste 2110",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "591 Redwood Hwy",
+                "Ste 2110",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Denys Kovalchuk, DDS",
+        "phone": "+14153814321",
+        "rating": 5.0,
+        "review_count": 56,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/denys-kovalchuk-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alex-kashef-dds-md-marin-oral-surgery-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 924-6936",
+        "distance": 6862.0945964664625,
+        "id": "vWlf8vODJFyZRm-GbkktbQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2chtt4QcHhUkurm5d0cDcw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 408",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 408",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Alex Kashef, DDS, MD - Marin Oral Surgery",
+        "phone": "+14159246936",
+        "rating": 5.0,
+        "review_count": 84,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alex-kashef-dds-md-marin-oral-surgery-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "patrick-h-lee-dds-sausalito",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85873,
+            "longitude": -122.48594
+        },
+        "display_phone": "(415) 331-5656",
+        "distance": 3236.346398472077,
+        "id": "itnczi_WUsZSy_PP4M3C8w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f5tdcHitufpH4KdYy3fLzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "107 Caledonia St",
+            "address2": "Ste I",
+            "address3": "Sausalito Dentistry",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "107 Caledonia St",
+                "Ste I",
+                "Sausalito Dentistry",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Patrick H Lee, DDS",
+        "phone": "+14153315656",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/patrick-h-lee-dds-sausalito?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jamison-m-gate-dds-sausalito",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8624877929688,
+            "longitude": -122.493309020996
+        },
+        "display_phone": "(415) 332-1411",
+        "distance": 3380.5231522630197,
+        "id": "oNLDlHo77rabylhEFHvJRg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Liberty Ship Way",
+            "address2": "",
+            "address3": "",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "10 Liberty Ship Way",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Jamison M Gate, DDS",
+        "phone": "+14153321411",
+        "rating": 4.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jamison-m-gate-dds-sausalito?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mill-valley-dentistry-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.881264,
+            "longitude": -122.52507
+        },
+        "display_phone": "(415) 383-2232",
+        "distance": 5427.801221283463,
+        "id": "Bd9pokDhxBhkbcNWpecCIg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7QMfZUgWsF2jyCOjIigVCg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "247 Shoreline Hwy",
+            "address2": "Ste B3",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "247 Shoreline Hwy",
+                "Ste B3",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mill Valley Dentistry",
+        "phone": "+14153832232",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mill-valley-dentistry-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anthony-leite-dds-personalized-dentistry-mill-valley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90024,
+            "longitude": -122.52726
+        },
+        "display_phone": "(415) 388-6006",
+        "distance": 5989.543890591466,
+        "id": "y-w2NC_98H_Kbz_9M-mWew",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nC_I1vinrlfbUgu0OkRT5Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "650 E Blithedale Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "650 E Blithedale Ave",
+                "Ste A",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Anthony Leite, DDS - Personalized Dentistry",
+        "phone": "+14153886006",
+        "rating": 5.0,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anthony-leite-dds-personalized-dentistry-mill-valley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gavros-dora-dds-belvedere-tiburon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.87527,
+            "longitude": -122.45995
+        },
+        "display_phone": "(415) 435-3111",
+        "distance": 729.5982466445482,
+        "id": "KzM7IyyXidY4j-7HbWsFbQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y84HnPhwZ_SKvCHP3ThJGQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1550 Tiburon Blvd",
+            "address2": null,
+            "address3": null,
+            "city": "Belvedere Tiburon",
+            "country": "US",
+            "display_address": [
+                "1550 Tiburon Blvd",
+                "Belvedere Tiburon, CA 94920"
+            ],
+            "state": "CA",
+            "zip_code": "94920"
+        },
+        "name": "Gavros Dora, DDS",
+        "phone": "+14154353111",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gavros-dora-dds-belvedere-tiburon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laurence-m-brownstein-dds-sausalito-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8583799,
+            "longitude": -122.48465
+        },
+        "display_phone": "(415) 332-2458",
+        "distance": 3196.634638609143,
+        "id": "2BN2s5ryjErevvGxMZVROw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "30 Caledonia St",
+            "address2": "",
+            "address3": "",
+            "city": "Sausalito",
+            "country": "US",
+            "display_address": [
+                "30 Caledonia St",
+                "Sausalito, CA 94965"
+            ],
+            "state": "CA",
+            "zip_code": "94965"
+        },
+        "name": "Laurence M Brownstein, DDS",
+        "phone": "+14153322458",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laurence-m-brownstein-dds-sausalito-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffery-bellinger-dds-belvedere-tiburon",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.874345,
+            "longitude": -122.458211
+        },
+        "display_phone": "(415) 435-3371",
+        "distance": 920.6525317886319,
+        "id": "L7Ivd7iczK15Ly2b7HuFEQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_uFbN_CGPgnDf4CQSRihFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1606 Juanita Ln",
+            "address2": "Ste GD",
+            "address3": "",
+            "city": "Belvedere Tiburon",
+            "country": "US",
+            "display_address": [
+                "1606 Juanita Ln",
+                "Ste GD",
+                "Belvedere Tiburon, CA 94920"
+            ],
+            "state": "CA",
+            "zip_code": "94920"
+        },
+        "name": "Jeffery Bellinger, DDS",
+        "phone": "+14154353371",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffery-bellinger-dds-belvedere-tiburon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mindy-buoncristiani-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.891304,
+            "longitude": -122.5173854
+        },
+        "display_phone": "(415) 383-1200",
+        "distance": 4873.431883539262,
+        "id": "k0aKG6O1dpPRIath33h7bw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FzniyaJV2yWD2Bq2MLi57A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 120",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mindy Buoncristiani, DDS",
+        "phone": "+14153831200",
+        "rating": 4.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mindy-buoncristiani-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cameron-garrett-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9245895454675,
+            "longitude": -122.517665605248
+        },
+        "display_phone": "(415) 924-4772",
+        "distance": 6756.223722037796,
+        "id": "r3PEdDSa63Xv3PE0qSG_tg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/71NzXE8ahwPAX-VU4Q5u4g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Cameron Garrett, DDS",
+        "phone": "+14159244772",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cameron-garrett-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-l-nebenzahl-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 383-0350",
+        "distance": 4820.140054315215,
+        "id": "2m3-gy81e3sXBy2wi1-WiQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 7",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Jeffrey L Nebenzahl, DDS",
+        "phone": "+14153830350",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-l-nebenzahl-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gorton-and-schmohl-orthodontics-larkspur",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9486477960013,
+            "longitude": -122.509879264266
+        },
+        "display_phone": "(415) 459-8006",
+        "distance": 8503.154476327014,
+        "id": "VncS-YAmEy6ks5xYebU9og",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PxX-QRiMcq51t4XHOE6HxQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "900 Larkspur Landing Cir",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Larkspur",
+            "country": "US",
+            "display_address": [
+                "900 Larkspur Landing Cir",
+                "Ste 200",
+                "Larkspur, CA 94939"
+            ],
+            "state": "CA",
+            "zip_code": "94939"
+        },
+        "name": "Gorton & Schmohl Orthodontics",
+        "phone": "+14154598006",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gorton-and-schmohl-orthodontics-larkspur?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gast-garry-g-dds-belvedere-tiburon",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8752746582031,
+            "longitude": -122.459953308105
+        },
+        "display_phone": "(415) 435-0941",
+        "distance": 729.5982466445482,
+        "id": "hoRSFXe2VDX-UfjjzFXeow",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1550 Tiburon Blvd",
+            "address2": "Ste Y",
+            "address3": "",
+            "city": "Belvedere Tiburon",
+            "country": "US",
+            "display_address": [
+                "1550 Tiburon Blvd",
+                "Ste Y",
+                "Belvedere Tiburon, CA 94920"
+            ],
+            "state": "CA",
+            "zip_code": "94920"
+        },
+        "name": "Gast Garry G DDS",
+        "phone": "+14154350941",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gast-garry-g-dds-belvedere-tiburon?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-schmotter-dds-corte-madera-5",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-4000",
+        "distance": 6861.943221833835,
+        "id": "4pWKoUulzu3aJpnvp2Qwhw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I5-rfyfoiAT-JfjwKloAzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 304",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 304",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Richard Schmotter, DDS",
+        "phone": "+14159274000",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-schmotter-dds-corte-madera-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sma-dental-corte-madera-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-4000",
+        "distance": 6862.0945964664625,
+        "id": "ua4C12AQjVLTZ5Br5Z89DQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_o9bbXPVUMie9crn5vCqiw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 304",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 304",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "SMA Dental",
+        "phone": "+14159274000",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sma-dental-corte-madera-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ashraf-orthodontics-mill-valley-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8975962,
+            "longitude": -122.5304063
+        },
+        "display_phone": "(415) 388-2876",
+        "distance": 6157.280703941772,
+        "id": "H2xFCUsYGfEKGsvxaKE8ZA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FhHcWfC7iJeJalV_UBbz9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Ste 5",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Ashraf Orthodontics",
+        "phone": "+14153882876",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ashraf-orthodontics-mill-valley-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marin-advanced-dental-care-corte-madera-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9363024,
+            "longitude": -122.519503
+        },
+        "display_phone": "(415) 464-9989",
+        "distance": 7832.727508022871,
+        "id": "AklrPwAubpx4ctpW0QegPw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lGBj5bAo4lL1hMz4Pbk-Vg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Tamal Plz",
+            "address2": "Ste 125",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "100 Tamal Plz",
+                "Ste 125",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Marin Advanced Dental Care",
+        "phone": "+14154649989",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marin-advanced-dental-care-corte-madera-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bob-nadjibi-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92467,
+            "longitude": -122.51754
+        },
+        "display_phone": "(415) 924-4760",
+        "distance": 6753.039431263574,
+        "id": "FC4pSpSAKBLJDLin9rqF7Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DfPdnkvaRBlROln0nYvBIg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Ste 1",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Bob Nadjibi, DDS",
+        "phone": "+14159244760",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bob-nadjibi-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vivian-broadway-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89755,
+            "longitude": -122.53038
+        },
+        "display_phone": "(415) 388-6025",
+        "distance": 6150.981922641201,
+        "id": "2a5thbbEoPNfQZ8Lq9Ubfg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n1rN2LLbAKtiaU_PYhTxbw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Vivian Broadway, DDS",
+        "phone": "+14153886025",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vivian-broadway-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sherman-chan-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8976025,
+            "longitude": -122.5303548
+        },
+        "display_phone": "(415) 389-8520",
+        "distance": 6153.1558374692895,
+        "id": "Xvb7Kx6qSRmHkRgruauBFQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_3N3T6CWMV_0S_d74xFy9A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Ste 4",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Sherman Chan, DDS",
+        "phone": "+14153898520",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sherman-chan-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fred-j-cameron-and-paul-cameron-and-kristina-cameron-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9246756,
+            "longitude": -122.5175345
+        },
+        "display_phone": "(415) 924-4435",
+        "distance": 6754.873536374117,
+        "id": "TMwg84zZnYzpni7MYVY1BQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6sC8IKOfF-nWrhi7TdxuVw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Ste 4",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Fred J Cameron & Paul Cameron & Kristina Cameron, DDS",
+        "phone": "+14159244435",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fred-j-cameron-and-paul-cameron-and-kristina-cameron-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jl-orthodontics-corte-madera",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252052,
+            "longitude": -122.5174789
+        },
+        "display_phone": "(415) 924-5533",
+        "distance": 6853.429188993195,
+        "id": "g8MYJu4-7PqsCoPPLSfr3A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tiSM7M-j4SGYRiB5QDyzJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 401A",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 401A",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "JL Orthodontics",
+        "phone": "+14159245533",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jl-orthodontics-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marin-periodontics-dental-group-larkspur-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.945365,
+            "longitude": -122.506969
+        },
+        "display_phone": "(415) 461-5280",
+        "distance": 8058.936093569462,
+        "id": "vLtd1sxR_G72lHTWscC5rg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C6C7sb8aczZPWT8CfjskhQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2200 Larkspur Landing Cir",
+            "address2": "",
+            "address3": "",
+            "city": "Larkspur",
+            "country": "US",
+            "display_address": [
+                "2200 Larkspur Landing Cir",
+                "Larkspur, CA 94939"
+            ],
+            "state": "CA",
+            "zip_code": "94939"
+        },
+        "name": "Marin Periodontics Dental Group",
+        "phone": "+14154615280",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marin-periodontics-dental-group-larkspur-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-lebus-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 388-6710",
+        "distance": 4820.0859456313165,
+        "id": "yoDppkxj6_XLkK58lcaE7Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 2",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Scott Lebus, DDS",
+        "phone": "+14153886710",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-lebus-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gila-c-dorostkar-dds-pediatric-dentistry-mill-valley-6",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90024,
+            "longitude": -122.52726
+        },
+        "display_phone": "(415) 448-8120",
+        "distance": 5989.543890591466,
+        "id": "iosFZgGqxg5K_Q8LJLDDqQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VGoL7pNVFQ5CGK1EhvLgOw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "650 E Blithedale Ave",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "650 E Blithedale Ave",
+                "Ste C",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Gila C. Dorostkar DDS, Pediatric Dentistry",
+        "phone": "+14154488120",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gila-c-dorostkar-dds-pediatric-dentistry-mill-valley-6?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sohrab-saghezchi-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8913041,
+            "longitude": -122.5175968
+        },
+        "display_phone": "(415) 383-2256",
+        "distance": 4891.529300214508,
+        "id": "k2IbbsrWEJQxADmzVIzAaA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QXdolHT1FzKv8giP5o8DrA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 367",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 367",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Sohrab Saghezchi, DDS",
+        "phone": "+14153832256",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sohrab-saghezchi-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "luisa-ambrosiano-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 924-2022",
+        "distance": 6861.943221833835,
+        "id": "V6K1mW9FZhMgZSeSSMTqaA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 205",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 205",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Luisa Ambrosiano, DDS",
+        "phone": "+14159242022",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/luisa-ambrosiano-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roger-a-solow-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8915445,
+            "longitude": -122.517507
+        },
+        "display_phone": "(415) 388-1108",
+        "distance": 4889.8000487256295,
+        "id": "Na87zWbIKir0xjxDxwTLjw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy Frontage Rd",
+            "address2": "Ste 251",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy Frontage Rd",
+                "Ste 251",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Roger A Solow, DDS",
+        "phone": "+14153881108",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roger-a-solow-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-zaremski-dds-greenbrae",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9438743591309,
+            "longitude": -122.533424377441
+        },
+        "display_phone": "(415) 461-3141",
+        "distance": 9257.715118246646,
+        "id": "tDyDi9qrMEl4-B_DUE65-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cTjErnfwI8oZQ3U65kFZAA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1000 S Eliseo Dr",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Greenbrae",
+            "country": "US",
+            "display_address": [
+                "1000 S Eliseo Dr",
+                "Ste 202",
+                "Greenbrae, CA 94904"
+            ],
+            "state": "CA",
+            "zip_code": "94904"
+        },
+        "name": "Eric Zaremski, DDS",
+        "phone": "+14154613141",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-zaremski-dds-greenbrae?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "boland-john-e-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-9052",
+        "distance": 6861.943221833835,
+        "id": "9T8i_wqUHkeFe-MHW4zELg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 404",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 404",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Boland John E DDS",
+        "phone": "+14159279052",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/boland-john-e-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "natanya-marracino-dmd-mill-valley-endodontics-mill-valley",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89129,
+            "longitude": -122.51758
+        },
+        "display_phone": "(415) 383-1200",
+        "distance": 4873.076229570615,
+        "id": "202Z8--rr5wWt8m3AYDqPA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IZqSTN1WDwU-4AV1fEDD6w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 120",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Natanya Marracino, DMD - Mill Valley Endodontics",
+        "phone": "+14153831200",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/natanya-marracino-dmd-mill-valley-endodontics-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "timothy-g-bricca-dds-larkspur",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9476823835199,
+            "longitude": -122.510458234014
+        },
+        "display_phone": "(415) 461-6060",
+        "distance": 8434.06426468056,
+        "id": "FFS1AnNl5Es87ztw7Brcpw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1201 Larkspur Landing Cir",
+            "address2": "",
+            "address3": "",
+            "city": "Larkspur",
+            "country": "US",
+            "display_address": [
+                "1201 Larkspur Landing Cir",
+                "Larkspur, CA 94939"
+            ],
+            "state": "CA",
+            "zip_code": "94939"
+        },
+        "name": "Timothy G. Bricca, DDS",
+        "phone": "+14154616060",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/timothy-g-bricca-dds-larkspur?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "downes-holly-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 388-5151",
+        "distance": 4820.140054315215,
+        "id": "qm6_EXBjsqyqkLfqImdjoA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hz8FOeqstp-kA5tUzVBAUg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 6",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Downes Holly, DDS",
+        "phone": "+14153885151",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/downes-holly-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "strawberry-village-dental-care-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8990151,
+            "longitude": -122.5138292
+        },
+        "display_phone": "(415) 380-3600",
+        "distance": 4885.320138059485,
+        "id": "aYtvLWyllMD7I4NPjIsbdQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "613 Strawberry Village",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "613 Strawberry Village",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Strawberry Village Dental Care",
+        "phone": "+14153803600",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/strawberry-village-dental-care-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tan-frederick-y-dds-mill-valley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88027,
+            "longitude": -122.52569
+        },
+        "display_phone": "(415) 388-8730",
+        "distance": 5486.472266714456,
+        "id": "m3MB0pXwNjspc6DMrX-DMg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "231 Flamingo Rd",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "231 Flamingo Rd",
+                "Ste B",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Tan Frederick Y, DDS",
+        "phone": "+14153888730",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tan-frederick-y-dds-mill-valley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonia-raina-dmd-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89755,
+            "longitude": -122.53038
+        },
+        "display_phone": "(415) 383-2200",
+        "distance": 6150.981922641201,
+        "id": "4LG_DaYBOu_kYlsBah92NA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1pw7uaMa5LolUG-ssEeoEw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Camino Alto",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "141 Camino Alto",
+                "Ste 3",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Sonia Raina, DMD",
+        "phone": "+14153832200",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonia-raina-dmd-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-e-boland-msd-corte-madera",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 927-7711",
+        "distance": 6861.943221833835,
+        "id": "lJkJFc4BLGgtWhbTWr_y2w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 404",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 404",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "John E Boland, MSD",
+        "phone": "+14159277711",
+        "rating": 4.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-e-boland-msd-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "julie-young-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92462,
+            "longitude": -122.51746
+        },
+        "display_phone": "(415) 924-5300",
+        "distance": 6753.039431263574,
+        "id": "tiLLOQVxQZXntmYv684XzQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PqYohjAJFAlEcFH9rvwAEA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Casa Buena Dr",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "81 Casa Buena Dr",
+                "Ste 6",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Julie Young, DDS",
+        "phone": "+14159245300",
+        "rating": 4.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/julie-young-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rachel-brinker-dmd-mill-valley",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8917116,
+            "longitude": -122.5162452
+        },
+        "display_phone": "(415) 389-9600",
+        "distance": 4786.309185881754,
+        "id": "2XTL2wZfoygb42aZ8YEe_g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k6XcAtWLY1QjIN3mzzEUww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 110",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Rachel Brinker, DMD",
+        "phone": "+14153899600",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rachel-brinker-dmd-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-fowler-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9381697,
+            "longitude": -122.5191621
+        },
+        "display_phone": "(415) 924-2861",
+        "distance": 7976.517435011656,
+        "id": "GUjASQ7ub_p7qZQvIYjUmw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EXmx5YsQjoqtDyc_6FrF0A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "240 Tamal Vista Blvd",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "240 Tamal Vista Blvd",
+                "Ste 280",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Robert Fowler, DDS",
+        "phone": "+14159242861",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-fowler-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "larkspur-family-dentistry-larkspur",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.934841001603,
+            "longitude": -122.535425390973
+        },
+        "display_phone": "(415) 924-7900",
+        "distance": 8668.763266061995,
+        "id": "m_s83J5CJNX5vDmpS9JAvA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "428 Magnolia Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Larkspur",
+            "country": "US",
+            "display_address": [
+                "428 Magnolia Ave",
+                "Larkspur, CA 94939"
+            ],
+            "state": "CA",
+            "zip_code": "94939"
+        },
+        "name": "Larkspur Family Dentistry",
+        "phone": "+14159247900",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/larkspur-family-dentistry-larkspur?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stuart-dennis-d-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92556,
+            "longitude": -122.52263
+        },
+        "display_phone": "(415) 924-5042",
+        "distance": 7133.120715487524,
+        "id": "ATvPX_NFL3m_ioeXYDUnjg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "520 Tamalpais Dr",
+            "address2": "Ste 204",
+            "address3": null,
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "520 Tamalpais Dr",
+                "Ste 204",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Stuart Dennis D DDS",
+        "phone": "+14159245042",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stuart-dennis-d-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "simon-ira-r-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9252049,
+            "longitude": -122.5174758
+        },
+        "display_phone": "(415) 924-2501",
+        "distance": 6862.0945964664625,
+        "id": "5w6AHkKYvfIglwt5k2DOAA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Tamalpais Dr",
+            "address2": "Ste 317",
+            "address3": null,
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "770 Tamalpais Dr",
+                "Ste 317",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Simon Ira R DDS",
+        "phone": "+14159242501",
+        "rating": 3.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/simon-ira-r-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mill-valley-dental-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.891240814989,
+            "longitude": -122.517660326424
+        },
+        "display_phone": "(415) 383-2256",
+        "distance": 4895.42649693315,
+        "id": "OLJHPgIxX_cMSy-dj1_xTg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J8jdKwhOPTcrI2cR92sgMA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "655 Redwood Hwy",
+            "address2": "Ste 367",
+            "address3": null,
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "655 Redwood Hwy",
+                "Ste 367",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Mill Valley Dental",
+        "phone": "+14153832256",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mill-valley-dental-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "judy-l-husen-dds-larkspur",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.934741973877,
+            "longitude": -122.535194396973
+        },
+        "display_phone": "(415) 924-4244",
+        "distance": 8646.442853597016,
+        "id": "NzP3qiuExBYn9aKtMwJf8g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_h4YqfjEgwLwY3tqyvBi_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "426 Magnolia Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Larkspur",
+            "country": "US",
+            "display_address": [
+                "426 Magnolia Ave",
+                "Larkspur, CA 94939"
+            ],
+            "state": "CA",
+            "zip_code": "94939"
+        },
+        "name": "Judy L Husen, DDS",
+        "phone": "+14159244244",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/judy-l-husen-dds-larkspur?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harris-lloyd-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9027,
+            "longitude": -122.51119
+        },
+        "display_phone": "(415) 388-7466",
+        "distance": 4820.140054315215,
+        "id": "4WaB0S7wVv-zL4FsCXqi_Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "7 N Knoll Rd",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "7 N Knoll Rd",
+                "Ste 7",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Harris Lloyd, DDS",
+        "phone": "+14153887466",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harris-lloyd-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-bauer-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89873,
+            "longitude": -122.514496
+        },
+        "display_phone": "(415) 380-3600",
+        "distance": 4884.969962006216,
+        "id": "prRkim6O8mp-RPlZi51njw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "613 Strawberry Village",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "613 Strawberry Village",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Joseph Bauer, DDS",
+        "phone": "+14153803600",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-bauer-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carly-schneider-orofacial-myology-mill-valley",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9020273,
+            "longitude": -122.5280575
+        },
+        "display_phone": "(415) 942-8415",
+        "distance": 6125.036012591551,
+        "id": "La4eOjAc7RyQTfijnVkSHg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BhPlE5o8TqPyCkh8M9qSrQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "147 Lomita Dr",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "147 Lomita Dr",
+                "Ste D",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Carly Schneider Orofacial Myology",
+        "phone": "+14159428415",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carly-schneider-orofacial-myology-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-a-michna-dds-greenbrae",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.949489,
+            "longitude": -122.533901
+        },
+        "display_phone": "(415) 461-4614",
+        "distance": 9767.056894715723,
+        "id": "MRwdPJSwbCkQJp9UZJKebQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "599 Sir Francis Drake",
+            "address2": "Ste 306",
+            "address3": "",
+            "city": "Greenbrae",
+            "country": "US",
+            "display_address": [
+                "599 Sir Francis Drake",
+                "Ste 306",
+                "Greenbrae, CA 94904"
+            ],
+            "state": "CA",
+            "zip_code": "94904"
+        },
+        "name": "Mark A Michna, DDS",
+        "phone": "+14154614614",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-a-michna-dds-greenbrae?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wilson-mark-dds-southern-marin-dental-center-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.90361,
+            "longitude": -122.52553
+        },
+        "display_phone": "(415) 388-9495",
+        "distance": 5975.877996607063,
+        "id": "NWwjCSCuVtsefU3MVTqr4w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "147 Lomita Dr",
+            "address2": "Ste D1",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "147 Lomita Dr",
+                "Ste D1",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Wilson Mark DDS-Southern Marin Dental Center",
+        "phone": "+14153889495",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wilson-mark-dds-southern-marin-dental-center-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-j-foster-dds-greenbrae",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9500617980957,
+            "longitude": -122.533355712891
+        },
+        "display_phone": "(415) 461-5033",
+        "distance": 9782.911539749402,
+        "id": "AYWk00-KpQ1amdKp4jVnkw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "599 Sir Francis Drake Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Greenbrae",
+            "country": "US",
+            "display_address": [
+                "599 Sir Francis Drake Blvd",
+                "Greenbrae, CA 94904"
+            ],
+            "state": "CA",
+            "zip_code": "94904"
+        },
+        "name": "Michael J Foster, DDS",
+        "phone": "+14154615033",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-j-foster-dds-greenbrae?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "suzie-yang-dds-mill-valley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.894227,
+            "longitude": -122.5318854
+        },
+        "display_phone": "(415) 388-2172",
+        "distance": 6186.27918276401,
+        "id": "wjAqlTqjG_oHQkuWiwlu0Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "535 Miller Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Mill Valley",
+            "country": "US",
+            "display_address": [
+                "535 Miller Ave",
+                "Mill Valley, CA 94941"
+            ],
+            "state": "CA",
+            "zip_code": "94941"
+        },
+        "name": "Suzie Yang, DDS",
+        "phone": "+14153882172",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/suzie-yang-dds-mill-valley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smith-brian-j-dds-corte-madera",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.92685,
+            "longitude": -122.53026
+        },
+        "display_phone": "(415) 924-6551",
+        "distance": 7741.856126443021,
+        "id": "TSrk3fWfcfjf8HUW8rRzxw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yc1RLWthh5FXKIT-IZJI7w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "33 Montecito Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Corte Madera",
+            "country": "US",
+            "display_address": [
+                "33 Montecito Dr",
+                "Corte Madera, CA 94925"
+            ],
+            "state": "CA",
+            "zip_code": "94925"
+        },
+        "name": "Smith Brian J DDS",
+        "phone": "+14159246551",
+        "rating": 1.5,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smith-brian-j-dds-corte-madera?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

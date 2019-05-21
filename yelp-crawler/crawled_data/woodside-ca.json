@@ -1,0 +1,3250 @@
+[
+    {
+        "alias": "tim-choy-dmd-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.454177,
+            "longitude": -122.228337
+        },
+        "display_phone": "(650) 716-4888",
+        "distance": 5202.40078224202,
+        "id": "v-tPSNNw8-HRsYPm9LWd-w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q6dvsU8EViTwVGKnGFc_Sw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 100",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Tim Choy, DMD",
+        "phone": "+16507164888",
+        "rating": 5.0,
+        "review_count": 49,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tim-choy-dmd-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "woodside-endodontics-redwood-city",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45502,
+            "longitude": -122.22905
+        },
+        "display_phone": "(650) 369-2555",
+        "distance": 5258.51206471356,
+        "id": "NNYSkbaCoVXBuI0NnLgoJw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SbjcgomiOeTY4asVKatr2A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1690 Woodside Rd",
+            "address2": "Ste 209",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1690 Woodside Rd",
+                "Ste 209",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Woodside Endodontics",
+        "phone": "+16503692555",
+        "rating": 5.0,
+        "review_count": 46,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/woodside-endodontics-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-w-fong-dmd-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48577,
+            "longitude": -122.23948
+        },
+        "display_phone": "(650) 474-0551",
+        "distance": 8057.607047212148,
+        "id": "xJQ7FdqlN3P0hMaTe5eU4Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/azzcQRc5poe6QpphX6k2Xg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3023 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3023 Broadway",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Brian W. Fong, DMD",
+        "phone": "+16504740551",
+        "rating": 4.5,
+        "review_count": 120,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-w-fong-dmd-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "woodside-pediatric-dentistry-redwood-city",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45418,
+            "longitude": -122.22834
+        },
+        "display_phone": "(650) 366-5437",
+        "distance": 5210.306761456305,
+        "id": "6mwJSZ9ZP65uX3h9YlV-bg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Affu-ZGIuEvtk5rPnuQS7Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 280",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Woodside Pediatric Dentistry",
+        "phone": "+16503665437",
+        "rating": 5.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/woodside-pediatric-dentistry-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roos-dental-care-redwood-city-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4689979,
+            "longitude": -122.2134408
+        },
+        "display_phone": "(650) 366-3812",
+        "distance": 7306.006016336405,
+        "id": "Q6v5kDTY0JFw-0mCalI-kw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bpj6mPk9-D517MdrhYnSHA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "51 Renato Ct",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "51 Renato Ct",
+                "Ste C",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Roos Dental Care",
+        "phone": "+16503663812",
+        "rating": 5.0,
+        "review_count": 69,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roos-dental-care-redwood-city-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sequoia-pediatric-dentistry-redwood-city",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48626,
+            "longitude": -122.23907
+        },
+        "display_phone": "(650) 569-1680",
+        "distance": 8116.650923878936,
+        "id": "sZJf6aRGZJK0pYZ-GVBLBA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hnfvreUI31cCAEnQejD3uQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2946 Broadway St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2946 Broadway St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Sequoia Pediatric Dentistry",
+        "phone": "+16505691680",
+        "rating": 5.0,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sequoia-pediatric-dentistry-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "holman-orthodontics-redwood-city",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4693018,
+            "longitude": -122.2477236
+        },
+        "display_phone": "(650) 257-3955",
+        "distance": 6110.423597069237,
+        "id": "ZPANd03iUj7iGveL_0MNfw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hRPAA9f8HCa-3Uic1MuelQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3221 Jefferson Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3221 Jefferson Ave",
+                "Ste 1",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Holman Orthodontics",
+        "phone": "+16502573955",
+        "rating": 5.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/holman-orthodontics-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peninsula-dental-care-redwood-city-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4878592,
+            "longitude": -122.2393286
+        },
+        "display_phone": "(650) 701-1122",
+        "distance": 8285.588617950823,
+        "id": "drcRiBQzjJZ6WwlXDTnrdQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OTP7kbCArJU5VHhSYv76eg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1122 Hopkins Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1122 Hopkins Ave",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Peninsula Dental Care",
+        "phone": "+16507011122",
+        "rating": 5.0,
+        "review_count": 50,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peninsula-dental-care-redwood-city-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "prima-dental-redwood-city-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45502,
+            "longitude": -122.22905
+        },
+        "display_phone": "(650) 365-1400",
+        "distance": 5258.51206471356,
+        "id": "hYmb1mWA0XvBx7cJLNHX-A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/175Y8PIeo3nPapaxCm5ZLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1690 Woodside Rd",
+            "address2": "Ste 118",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1690 Woodside Rd",
+                "Ste 118",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Prima Dental",
+        "phone": "+16503651400",
+        "rating": 5.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/prima-dental-redwood-city-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "minal-j-patel-dmd-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4692999,
+            "longitude": -122.24771
+        },
+        "display_phone": "(650) 366-0998",
+        "distance": 6107.971428899207,
+        "id": "iYGtobiPRm4BnA9SN4OO4g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JAUUDAqNfNGD19z6eRFqqA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3221 Jefferson Ave",
+            "address2": "Ste 2B",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3221 Jefferson Ave",
+                "Ste 2B",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Minal J Patel, DMD",
+        "phone": "+16503660998",
+        "rating": 5.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/minal-j-patel-dmd-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gregory-w-ding-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4882164001465,
+            "longitude": -122.23999786377
+        },
+        "display_phone": "(650) 368-2817",
+        "distance": 8308.533082273798,
+        "id": "rWPjfLRfqJGrkO2aK-h0Rw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "77 Birch St",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "77 Birch St",
+                "Ste E",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Gregory W Ding, DDS",
+        "phone": "+16503682817",
+        "rating": 5.0,
+        "review_count": 36,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gregory-w-ding-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "woodside-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4543408,
+            "longitude": -122.2284784
+        },
+        "display_phone": "(650) 716-1500",
+        "distance": 5210.529790761045,
+        "id": "7cTV65cdQpzITRoSBGzoQw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SLdY9wz3TUq87kM27UoqTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 110",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Woodside Dental",
+        "phone": "+16507161500",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/woodside-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "avalon-dental-dr-elizabeth-dinh-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4834989350505,
+            "longitude": -122.232433000708
+        },
+        "display_phone": "(650) 368-9444",
+        "distance": 7988.347433615905,
+        "id": "cjLyG-_HVzujRWfxUcAvNA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YsXoHDcQFZY-srqrHdTW8Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1048 El Camino Real St",
+            "address2": "Ste F",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1048 El Camino Real St",
+                "Ste F",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Avalon Dental - Dr. Elizabeth Dinh",
+        "phone": "+16503689444",
+        "rating": 4.5,
+        "review_count": 42,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/avalon-dental-dr-elizabeth-dinh-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "arch-dental-care-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48704,
+            "longitude": -122.23789
+        },
+        "display_phone": "(650) 368-5551",
+        "distance": 8233.903126608651,
+        "id": "K3MlurW_1RxNpszPO6JRmw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nwSnrC0xJM6UyTUwy3KhOg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "154 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "154 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Arch Dental Care",
+        "phone": "+16503685551",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/arch-dental-care-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michelle-m-lacues-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.487190246582,
+            "longitude": -122.238082885742
+        },
+        "display_phone": "(650) 366-3112",
+        "distance": 8235.758583240438,
+        "id": "D3G3bTnKQRXwzwfXOlZ3eQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Arch St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "150 Arch St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Michelle M Lacues, DDS",
+        "phone": "+16503663112",
+        "rating": 5.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michelle-m-lacues-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "carter-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.457389831543,
+            "longitude": -122.226974487305
+        },
+        "display_phone": "(650) 368-4553",
+        "distance": 5568.881396595497,
+        "id": "cT78BK4FGiGrhfJy3ntAdQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FEMrSmeDPNsnpwHwd7GViA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1391 Woodside Rd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1391 Woodside Rd",
+                "Ste 210",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Carter Dental",
+        "phone": "+16503684553",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/carter-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lotus-dental-care-redwood-city",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48719,
+            "longitude": -122.23807
+        },
+        "display_phone": "(650) 299-9990",
+        "distance": 8235.758583240438,
+        "id": "Mk_gdOc-i9gJzuo8-qpIcA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g0ohVLxMHIbnMEBSh2Wlxw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Arch St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "150 Arch St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Lotus Dental Care",
+        "phone": "+16502999990",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lotus-dental-care-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steven-g-kolokithas-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4862734,
+            "longitude": -122.238555
+        },
+        "display_phone": "(650) 368-1353",
+        "distance": 8130.92139885825,
+        "id": "bgeU2DmtVIJIIBJ3L50VJg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DUCT6sMJRYWjlJKpJxbmQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2920 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2920 Broadway",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Steven G Kolokithas, DDS",
+        "phone": "+16503681353",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steven-g-kolokithas-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-abramson-california-center-for-craniomandibular-disorder-redwood-city-2",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4692099,
+            "longitude": -122.21308
+        },
+        "display_phone": "(650) 369-9227",
+        "distance": 7337.503699764016,
+        "id": "R3XWh5GAwAunYfipm0fweg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uuE4bQS3tjkQX0ZSzag1Uw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "35 Renato Ct",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "35 Renato Ct",
+                "Ste C",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Mark Abramson -  California Center For Craniomandibular Disorder",
+        "phone": "+16503699227",
+        "rating": 4.0,
+        "review_count": 36,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-abramson-california-center-for-craniomandibular-disorder-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-savage-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4878961,
+            "longitude": -122.2396141
+        },
+        "display_phone": "(650) 367-8833",
+        "distance": 8283.702713674189,
+        "id": "-Eea_kOA4wRLrnh0gnFxfw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qu4tfLyMqM_8qAQNV33Fhw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1130 Hopkins Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1130 Hopkins Ave",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Robert Savage, DDS",
+        "phone": "+16503678833",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-savage-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-b-mendoza-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.487850189209,
+            "longitude": -122.237976074219
+        },
+        "display_phone": "(650) 262-1736",
+        "distance": 8319.622663340977,
+        "id": "-MZxOQJQX7WiMoAqArLjww",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RZMOiHqi2AfB3UcWzhHXYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "133 Arch St",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "133 Arch St",
+                "Ste 1",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Daniel B Mendoza, DDS",
+        "phone": "+16502621736",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-b-mendoza-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "glenn-g-lew-dmd-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4692077636719,
+            "longitude": -122.213081359863
+        },
+        "display_phone": "(650) 369-0366",
+        "distance": 7338.245558108565,
+        "id": "uPaOURDq5cxNfst4waBF6g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fzztd6fq5J29IAlIRjaYBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "35 Renato Ct",
+            "address2": "Ste A",
+            "address3": "Bay Creek Dental Care",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "35 Renato Ct",
+                "Ste A",
+                "Bay Creek Dental Care",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Glenn G Lew, DMD",
+        "phone": "+16503690366",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/glenn-g-lew-dmd-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "trillium-dental-clinic-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4879542,
+            "longitude": -122.2399755
+        },
+        "display_phone": "(650) 365-1078",
+        "distance": 8282.660921923798,
+        "id": "ctAGsGg6w1jyQrDZjaE98Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JunHHsRyUQP35fBDKsMcfg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Birch St",
+            "address2": "",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "81 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Trillium Dental Clinic",
+        "phone": "+16503651078",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/trillium-dental-clinic-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nazila-doroodian-dmd-atherton-dental-atherton",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46651,
+            "longitude": -122.20738
+        },
+        "display_phone": "(650) 562-0590",
+        "distance": 7421.298531169845,
+        "id": "rMHSZwZNzb6qRL5e9zPxQA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WhELhmd4olGvWSvNnmjmag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3301 El Camino Real",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3301 El Camino Real",
+                "Ste 280",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Nazila Doroodian, DMD - Atherton Dental",
+        "phone": "+16505620590",
+        "rating": 4.5,
+        "review_count": 24,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nazila-doroodian-dmd-atherton-dental-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kare-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48786,
+            "longitude": -122.23876
+        },
+        "display_phone": "(650) 260-2600",
+        "distance": 8302.095469639195,
+        "id": "h3Qi7ubjVzg7lk9v7u_gtQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hcWGvtiV8phaGFlx5UBgGQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Arch St",
+            "address2": "Ste 4",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "100 Arch St",
+                "Ste 4",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "KARE Dental",
+        "phone": "+16502602600",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kare-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-direct-club-redwood-city",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.486165,
+            "longitude": -122.2286868
+        },
+        "display_phone": "(800) 688-4010",
+        "distance": 8377.77445845303,
+        "id": "knYzkUxrqHPxKoxn92SK-Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gl5en5iiOy4yQFS7qfA3Vg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2115 Broadway St",
+            "address2": "",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2115 Broadway St",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Smile Direct Club",
+        "phone": "+18006884010",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-direct-club-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "martin-hoff-dds-md-redwood-city",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4877,
+            "longitude": -122.23778
+        },
+        "display_phone": "(650) 365-1028",
+        "distance": 8309.204146176648,
+        "id": "MyWA9d6BGn8uvP45Ekr6aw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aHfW6aej9xeskIbHjmngrw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "139 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "139 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Martin Hoff, DDS, MD",
+        "phone": "+16503651028",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/martin-hoff-dds-md-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-h-burkholder-dmd-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.431821,
+            "longitude": -122.201287
+        },
+        "display_phone": "(650) 854-3346",
+        "distance": 5616.078250334447,
+        "id": "yiF5BOPmuV7-u5-IXTclUA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mXt4roYf9Z99ZFXNN1c0dA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2095 Avy Ave",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "2095 Avy Ave",
+                "Ste 3",
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "John H Burkholder, DMD",
+        "phone": "+16508543346",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-h-burkholder-dmd-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jean-e-barthman-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4881667875901,
+            "longitude": -122.23374915582
+        },
+        "display_phone": "(650) 367-4967",
+        "distance": 8447.526010024523,
+        "id": "v0sAXCwDpwQWK2Qqyo-rXQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1SFcaoWVd0ejH9NnhHuuZg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "801 Brewster Ave",
+            "address2": "Ste 255",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "801 Brewster Ave",
+                "Ste 255",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Jean E Barthman, DDS",
+        "phone": "+16503674967",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jean-e-barthman-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orthoworks-invisalign-and-braces-atherton",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4649847,
+            "longitude": -122.2056712
+        },
+        "display_phone": "(650) 589-4563",
+        "distance": 7384.780130778931,
+        "id": "ro9YLG0JUIvDD0Uf-w2Enw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/medW-XKYRE1BSWKTZb9hbw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3351 El Camino Real",
+            "address2": "Ste 235",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3351 El Camino Real",
+                "Ste 235",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "OrthoWorks Invisalign and Braces",
+        "phone": "+16505894563",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orthoworks-invisalign-and-braces-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rubinchik-cohen-dental-care-redwood-city-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "dentalhygienists",
+                "title": "Dental Hygienists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46497,
+            "longitude": -122.22494
+        },
+        "display_phone": "(650) 365-8982",
+        "distance": 6379.842388063887,
+        "id": "d5koINWxSURYwwmYHNmxRg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/paJkeACSDEbrwzevRS9wgQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "902 Woodside Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "902 Woodside Rd",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Rubinchik Cohen Dental Care",
+        "phone": "+16503658982",
+        "rating": 3.5,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rubinchik-cohen-dental-care-redwood-city-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jay-n-cohen-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46497,
+            "longitude": -122.22494
+        },
+        "display_phone": "(650) 365-8982",
+        "distance": 6379.623638359787,
+        "id": "xW2m-l9-9iMW7EuSLJDCUA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UuIRcId2Rz-t8KIcr7c7wQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "902 Woodside Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "902 Woodside Rd",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Jay N Cohen, DDS",
+        "phone": "+16503658982",
+        "rating": 3.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jay-n-cohen-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paramita-roy-dds-roy-dental-redwood-city-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4784326,
+            "longitude": -122.2552414
+        },
+        "display_phone": "(650) 200-1178",
+        "distance": 7026.823949980894,
+        "id": "-Br0ZOHF2CZrUXocIWK1PA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KwJNoO6j9OpNpYv8H8iNhA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2950 Whipple Ave",
+            "address2": "Ste 9",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2950 Whipple Ave",
+                "Ste 9",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Paramita Roy DDS - Roy Dental",
+        "phone": "+16502001178",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paramita-roy-dds-roy-dental-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "charles-j-caruana-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4870452880859,
+            "longitude": -122.237892150879
+        },
+        "display_phone": "(650) 368-5551",
+        "distance": 8233.440380268286,
+        "id": "B31v87nyuuSYBlbGGB8ljw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YcY7-s1Mvf3jb9BkPsvxpw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "154 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "154 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Charles J Caruana, DDS",
+        "phone": "+16503685551",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/charles-j-caruana-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "redwood-city-smile-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.473647,
+            "longitude": -122.218641
+        },
+        "display_phone": "(650) 216-8488",
+        "distance": 7491.994487933031,
+        "id": "dS0kayDNpkrAdvddZ4-27A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/51uec4dBSyp1la_2G2o9cw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2480 El Camino Real",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2480 El Camino Real",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Redwood City Smile Dental",
+        "phone": "+16502168488",
+        "rating": 4.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/redwood-city-smile-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dale-rubinchik-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46497,
+            "longitude": -122.22494
+        },
+        "display_phone": "(650) 365-8982",
+        "distance": 6379.842388063887,
+        "id": "avkTRLHrLo6a095E6WEcMg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ktLXDrkLAKpKtvNGp9_itQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "902 Woodside Rd",
+            "address2": "",
+            "address3": "Rubinchik Cohen Dental Care",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "902 Woodside Rd",
+                "Rubinchik Cohen Dental Care",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Dale Rubinchik, DDS",
+        "phone": "+16503658982",
+        "rating": 3.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dale-rubinchik-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-k-yee-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4837067,
+            "longitude": -122.2315522
+        },
+        "display_phone": "(650) 299-0608",
+        "distance": 8199.74320170555,
+        "id": "7jRVxHbxotpDORTcIbd2Cg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A_aSHYFQExh0bYB5mrRnTw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1059 El Camino Real",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1059 El Camino Real",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Brian K Yee, DDS",
+        "phone": "+16502990608",
+        "rating": 4.5,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-k-yee-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "casey-m-herrera-dds-atherton-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46651,
+            "longitude": -122.20738
+        },
+        "display_phone": "(650) 556-9999",
+        "distance": 7421.298531169845,
+        "id": "3BR1A95sV-LVKiKZ7QU11w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3301 El Camino Real",
+            "address2": "Ste 270",
+            "address3": null,
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3301 El Camino Real",
+                "Ste 270",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Casey M Herrera, DDS",
+        "phone": "+16505569999",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/casey-m-herrera-dds-atherton-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-a-sala-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.487190246582,
+            "longitude": -122.238082885742
+        },
+        "display_phone": "(650) 366-2088",
+        "distance": 8235.758583240438,
+        "id": "mHJhRegIu4JS1T3Vw0-0bQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DDO2LJotYlD9FXALb6NPFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "150 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Michael A Sala, DDS",
+        "phone": "+16503662088",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-a-sala-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pinal-viraparia-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4869689,
+            "longitude": -122.2394426
+        },
+        "display_phone": "(650) 216-6822",
+        "distance": 8187.008184052422,
+        "id": "dTonEyTOstRO0gcwP2hOlg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cJiFLCVE4xsRyfaBTr6VyQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "114 Birch St",
+            "address2": "Ste D",
+            "address3": "Viraparia Dental",
+            "city": "Redwood city",
+            "country": "US",
+            "display_address": [
+                "114 Birch St",
+                "Ste D",
+                "Viraparia Dental",
+                "Redwood city, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Pinal Viraparia, DDS",
+        "phone": "+16502166822",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pinal-viraparia-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "redwood-smiles-redwood-city",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48642,
+            "longitude": -122.23867
+        },
+        "display_phone": "(650) 369-3695",
+        "distance": 8145.4213059044505,
+        "id": "UpPyJdf95x8F_tk8k-ajwA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZEcecn47hWMRwlzx76JtHQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "160 Birch St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "160 Birch St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Redwood Smiles",
+        "phone": "+16503693695",
+        "rating": 3.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/redwood-smiles-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-b-jones-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.45502,
+            "longitude": -122.22905
+        },
+        "display_phone": "(650) 364-5800",
+        "distance": 5258.51206471356,
+        "id": "HuS7_S5Za_pnajKx8_ohTg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vn3mXIUbg345tQQvrDv8WA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1690 Woodside Rd",
+            "address2": "Ste 204",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1690 Woodside Rd",
+                "Ste 204",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Jeffrey B. Jones, DDS",
+        "phone": "+16503645800",
+        "rating": 3.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-b-jones-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thodas-m-gabrielle-dds-msd-redwood-city-5",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4833297729492,
+            "longitude": -122.239486694336
+        },
+        "display_phone": "(650) 368-8348",
+        "distance": 8067.918364539494,
+        "id": "3TvL-2l_A-JjNPMWnCe3rQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z1GAIYlaKJm0bq4KuFxCtQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "",
+            "address2": null,
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Thodas M Gabrielle, DDS, MSD",
+        "phone": "+16503688348",
+        "rating": 4.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thodas-m-gabrielle-dds-msd-redwood-city-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "millennium-dental-redwood-city-4",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4693095,
+            "longitude": -122.2477244
+        },
+        "display_phone": "(650) 835-4426",
+        "distance": 6111.249118123535,
+        "id": "A7kYaNRRuvW1nTS99nC8nA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gB_ewJ2CWVI1bu8y8k9foA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3221 Jefferson Ave",
+            "address2": "Ste 2A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3221 Jefferson Ave",
+                "Ste 2A",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Millennium Dental",
+        "phone": "+16508354426",
+        "rating": 3.5,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/millennium-dental-redwood-city-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-j-brugos-dds-atherton",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4661521911621,
+            "longitude": -122.206924438477
+        },
+        "display_phone": "(650) 365-1533",
+        "distance": 7413.016662584989,
+        "id": "XIUVPbpfwtR239WAZxsziA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Qn6ixzHTdYqgjxXws16O7A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3351 El Camino Real",
+            "address2": "Ste 235",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3351 El Camino Real",
+                "Ste 235",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Michael J Brugos, DDS",
+        "phone": "+16503651533",
+        "rating": 4.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-j-brugos-dds-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nicole-rashidi-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.488203,
+            "longitude": -122.240906
+        },
+        "display_phone": "(650) 365-3516",
+        "distance": 8291.333300962906,
+        "id": "BNXJG-n4hM-wAupso4WkuQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k5wKi-GRM_mp4smMtE_pAQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "40 Birch St",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "40 Birch St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Nicole Rashidi, DDS",
+        "phone": "+16503653516",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nicole-rashidi-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-w-wolf-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48687,
+            "longitude": -122.23691
+        },
+        "display_phone": "(650) 366-8591",
+        "distance": 8231.96868619517,
+        "id": "EZjVdPeJqMBxsVaWKo8G3Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GDI9OcLEYpX7ePhHb7zxxw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "193 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "193 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Robert W Wolf, DDS",
+        "phone": "+16503668591",
+        "rating": 4.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-w-wolf-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sanford-s-daniel-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.487190246582,
+            "longitude": -122.238082885742
+        },
+        "display_phone": "(650) 368-3160",
+        "distance": 8235.758583240438,
+        "id": "0DaCP1Y5sqrAIuZ3mfaofg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vkq-rcdbg62-aapcXR6l3g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "150 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Sanford S Daniel, DDS",
+        "phone": "+16503683160",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sanford-s-daniel-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "donald-r-hermansen-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4543639432804,
+            "longitude": -122.228498663824
+        },
+        "display_phone": "(650) 716-2500",
+        "distance": 5211.670833442346,
+        "id": "iS0CIm1WbvFyi3JCGzbWYQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YFAmho1bejhfJgmewAHxTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1733 Woodside Rd",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1733 Woodside Rd",
+                "Ste 110",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Donald R Hermansen, DDS",
+        "phone": "+16507162500",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/donald-r-hermansen-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "albert-sadakian-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4108451987005,
+            "longitude": -122.272483322754
+        },
+        "display_phone": "(650) 363-8525",
+        "distance": 1107.1508930890395,
+        "id": "QL7Mn2MTvhXHV0dOj4Qs5A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h33uImrm8m_tankeOgmzVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "114 Birch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "114 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Albert Sadakian DDS",
+        "phone": "+16503638525",
+        "rating": 3.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/albert-sadakian-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-krauss-dds-atherton",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46615,
+            "longitude": -122.20693
+        },
+        "display_phone": "(650) 365-1533",
+        "distance": 7413.016662584989,
+        "id": "9PHmHs77cCQDyFYBN_6-bg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3351 El Camino Real",
+            "address2": "Ste 235",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3351 El Camino Real",
+                "Ste 235",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Joseph Krauss, DDS",
+        "phone": "+16503651533",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-krauss-dds-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dentistry-and-all-that-jazz-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.488002,
+            "longitude": -122.2399679
+        },
+        "display_phone": "(650) 763-9505",
+        "distance": 8287.988979500824,
+        "id": "6THFrETdF68Ba_z1-FSJNA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/73Tfmve6Z9zWvVWGCwqY1w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "81 Birch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "81 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Dentistry and All That Jazz",
+        "phone": "+16507639505",
+        "rating": 3.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dentistry-and-all-that-jazz-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "freckelton-dds-virginia-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4862480163574,
+            "longitude": -122.240653991699
+        },
+        "display_phone": "(650) 366-7781",
+        "distance": 8081.182057644771,
+        "id": "4axO1Xybz1anNmJa5vUTMg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "115 Duane St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "115 Duane St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Freckelton DDS Virginia",
+        "phone": "+16503667781",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/freckelton-dds-virginia-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jack-yeung-dds-sequoia-pediatric-dentistry-redwood-city",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48626,
+            "longitude": -122.23907
+        },
+        "display_phone": "(650) 569-1680",
+        "distance": 8116.650923878936,
+        "id": "gEce15TlZH3WOpsSe8B3EA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TbpjNa3z3QwuXEgxF3002A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2946 Broadway",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2946 Broadway",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Jack Yeung, DDS - Sequoia Pediatric Dentistry",
+        "phone": "+16505691680",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jack-yeung-dds-sequoia-pediatric-dentistry-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "redwood-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4692077636719,
+            "longitude": -122.213081359863
+        },
+        "display_phone": "(650) 200-1179",
+        "distance": 7337.503699764016,
+        "id": "JpmrgpDrJQQG-Vo0zeXqjQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RhvK-nHm9WkXnwjRIZd1iA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "35 Renato Ct",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "35 Renato Ct",
+                "Ste B",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Redwood Dental",
+        "phone": "+16502001179",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/redwood-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elite-dental-group-redwood-city",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4882006,
+            "longitude": -122.2409702
+        },
+        "display_phone": "(650) 365-3516",
+        "distance": 8289.840994273662,
+        "id": "JwxVFQRBfFWHvQdB1XHsww",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2FXRvqVCRSIBNcld6FSIPQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "40 Birch St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "40 Birch St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Elite Dental Group",
+        "phone": "+16503653516",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elite-dental-group-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mayra-escobar-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4867935180664,
+            "longitude": -122.238212585449
+        },
+        "display_phone": "(650) 261-9834",
+        "distance": 8199.46584746637,
+        "id": "xkB4D6rRfheJY75BAhQTow",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "155 Birch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "155 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Mayra Escobar, DDS",
+        "phone": "+16502619834",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mayra-escobar-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "atherton-dental-atherton",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.46651,
+            "longitude": -122.20738
+        },
+        "display_phone": "(650) 562-0590",
+        "distance": 7421.298531169845,
+        "id": "CaRh7vs1PpQ-CnBY18R-rw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3301 El Camino Real",
+            "address2": "Ste 280",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3301 El Camino Real",
+                "Ste 280",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Atherton Dental",
+        "phone": "+16505620590",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/atherton-dental-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "birim-boyer-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.470907,
+            "longitude": -122.248063
+        },
+        "display_phone": "(650) 366-0998",
+        "distance": 6279.847636370353,
+        "id": "uHpcpsTNH-_uRNtow73mOA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3221 Jefferson Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3221 Jefferson Ave",
+                "Ste 1",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Birim Boyer, DDS",
+        "phone": "+16503660998",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/birim-boyer-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michelle-olsen-dds-peninsula-endodontics-atherton",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4661326,
+            "longitude": -122.2068694
+        },
+        "display_phone": "(650) 361-0180",
+        "distance": 7411.397723241748,
+        "id": "tssnYVN4RRWX0oqM8Y7Ueg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3351 El Camino Real",
+            "address2": "Ste 222",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3351 El Camino Real",
+                "Ste 222",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Michelle Olsen, DDS - Peninsula Endodontics",
+        "phone": "+16503610180",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michelle-olsen-dds-peninsula-endodontics-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "birch-dental-group-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4867935180664,
+            "longitude": -122.238212585449
+        },
+        "display_phone": "(650) 366-0552",
+        "distance": 8199.46584746637,
+        "id": "jPDzYSwfnmIlzum6BC5n5A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "155 Birch St",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "155 Birch St",
+                "Ste 4",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Birch Dental Group",
+        "phone": "+16503660552",
+        "rating": 2.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/birch-dental-group-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "oumnov-sergey-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4869995117188,
+            "longitude": -122.239402770996
+        },
+        "display_phone": "(650) 365-5546",
+        "distance": 8187.008184052422,
+        "id": "1m7Rs1sXGLY4Fwv7HMTNIg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "114 Birch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "114 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Oumnov Sergey, DDS",
+        "phone": "+16503655546",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/oumnov-sergey-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "doreen-m-toy-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.487852,
+            "longitude": -122.2397738
+        },
+        "display_phone": "(650) 368-0180",
+        "distance": 8284.573496203546,
+        "id": "uAzw8V8Tmgxkhkr-qVsWyg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DQ2duSENsRrjTjWfg4Jrig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "93 Birch St",
+            "address2": null,
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "93 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Doreen M. Toy, DDS",
+        "phone": "+16503680180",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/doreen-m-toy-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "holloszy-frederic-dr-dntst-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48786,
+            "longitude": -122.23876
+        },
+        "display_phone": "(650) 367-1225",
+        "distance": 8302.095469639195,
+        "id": "Y6sxgHS7JxQ7aFZnTHSgLw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "100 Arch St",
+            "address2": "",
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "100 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Holloszy Frederic Dr Dntst",
+        "phone": "+16503671225",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/holloszy-frederic-dr-dntst-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "chicchon-ramon-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48614,
+            "longitude": -122.2160833
+        },
+        "display_phone": "(650) 364-4566",
+        "distance": 8820.291738282753,
+        "id": "wxvuqj6jf4_dOejj7hWeLQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mywORUZPMtGdd_Q7TgrbIQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1375 Broadway St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1375 Broadway St",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Chicchon Ramon, DDS",
+        "phone": "+16503644566",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/chicchon-ramon-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "triplett-dental-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4869995117188,
+            "longitude": -122.239402770996
+        },
+        "display_phone": "(650) 368-7079",
+        "distance": 8187.008184052422,
+        "id": "kCJceUnDbYQSQo9O8YXu0w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "114 Birch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "114 Birch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Triplett Dental, DDS",
+        "phone": "+16503687079",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/triplett-dental-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "goly-m-barar-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.488203,
+            "longitude": -122.240906
+        },
+        "display_phone": "(650) 365-3516",
+        "distance": 8291.333300962906,
+        "id": "eVk6nmOiGOuXZ4pePE44bg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q_A_5xlhZOaYSK-I5mBn3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "40 Birch St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "40 Birch St",
+                "Ste A",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Goly M Barar, DDS",
+        "phone": "+16503653516",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/goly-m-barar-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "siva-cherukuri-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48687,
+            "longitude": -122.23691
+        },
+        "display_phone": "(650) 369-4616",
+        "distance": 8231.96868619517,
+        "id": "zymftjyHf8VNAWbQJysB9Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6UcdvbTiF6akyUHxUsWS7w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "193 Arch St",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "193 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Siva Cherukuri, DDS",
+        "phone": "+16503694616",
+        "rating": 2.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/siva-cherukuri-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "luis-m-meza-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4730112,
+            "longitude": -122.2056141
+        },
+        "display_phone": "(650) 365-7217",
+        "distance": 8076.4479709457655,
+        "id": "0T0uOpxCVwerbYFb7Izq5A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3115 Middlefield Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3115 Middlefield Rd",
+                "Redwood City, CA 94063"
+            ],
+            "state": "CA",
+            "zip_code": "94063"
+        },
+        "name": "Luis M Meza, DDS",
+        "phone": "+16503657217",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/luis-m-meza-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gardner-packard-childrens-health-center-atherton",
+        "categories": [
+            {
+                "alias": "pediatricians",
+                "title": "Pediatricians"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "nutritionists",
+                "title": "Nutritionists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.466192,
+            "longitude": -122.2069289
+        },
+        "display_phone": "(650) 362-2500",
+        "distance": 7413.016662584989,
+        "id": "HaXu0qyMgMWIxHep3DgNDg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TVAif0H7Zt5f77GPJ86WFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3351 El Camino Real",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Atherton",
+            "country": "US",
+            "display_address": [
+                "3351 El Camino Real",
+                "Ste 100",
+                "Atherton, CA 94027"
+            ],
+            "state": "CA",
+            "zip_code": "94027"
+        },
+        "name": "Gardner Packard Children's Health Center",
+        "phone": "+16503622500",
+        "rating": 2.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gardner-packard-childrens-health-center-atherton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alfred-s-ding-dds-ms-redwood-city",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.487190246582,
+            "longitude": -122.238082885742
+        },
+        "display_phone": "(650) 361-8868",
+        "distance": 8235.758583240438,
+        "id": "Q6aZfqoc6G6rM32cg582pQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AboW0LKXQ2Ei3r6auhAWaA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "150 Arch St",
+            "address2": null,
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "150 Arch St",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Alfred S Ding, DDS MS",
+        "phone": "+16503618868",
+        "rating": 3.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alfred-s-ding-dds-ms-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alvizar-rocio-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4702119,
+            "longitude": -122.212636
+        },
+        "display_phone": "(650) 365-1949",
+        "distance": 7457.214716943799,
+        "id": "spQTjhd6RfQQxqkYGLybFg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2825 El Camino Real",
+            "address2": null,
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2825 El Camino Real",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Alvizar Rocio, DDS",
+        "phone": "+16503651949",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alvizar-rocio-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gayatri-d-sakhrani-dmd-redwood-city-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4833297729492,
+            "longitude": -122.239486694336
+        },
+        "display_phone": "",
+        "distance": 8067.918364539494,
+        "id": "jEYobVwUsFK_k5b2nGj56Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YJXYgyG2-0_UyWDlY6j84w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": null,
+            "address2": null,
+            "address3": null,
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Gayatri D Sakhrani, DMD",
+        "phone": "",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gayatri-d-sakhrani-dmd-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "martinez-f-rosario-dds-menlo-park",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4711054127691,
+            "longitude": -122.202371380907
+        },
+        "display_phone": "",
+        "distance": 8089.890420305143,
+        "id": "7nreyyB6e3r5zw8dXOHZXw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/skY2coBcdZHkNaVFKxY8wQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "",
+            "address2": "",
+            "address3": "",
+            "city": "Menlo Park",
+            "country": "US",
+            "display_address": [
+                "Menlo Park, CA 94025"
+            ],
+            "state": "CA",
+            "zip_code": "94025"
+        },
+        "name": "Martinez F Rosario, DDS",
+        "phone": "",
+        "rating": 4.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/martinez-f-rosario-dds-menlo-park?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "manzo-arthur-g-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48795,
+            "longitude": -122.23967
+        },
+        "display_phone": "(650) 367-8833",
+        "distance": 8283.702713674189,
+        "id": "URgG_IsiJHM85Cw8LxFQAg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1130 Hopkins Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1130 Hopkins Ave",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Manzo Arthur G, DDS",
+        "phone": "+16503678833",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/manzo-arthur-g-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "manzo-dental-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48795,
+            "longitude": -122.23967
+        },
+        "display_phone": "(650) 367-8833",
+        "distance": 8284.643771278668,
+        "id": "BDqjsVtQXcn3qcie6NdTvQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j6y3wtp5sSUVJn5ZqgwwpQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1130 Hopkins Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "1130 Hopkins Ave",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Manzo Dental",
+        "phone": "+16503678833",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/manzo-dental-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "siva-s-cherukuri-dds-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.48687,
+            "longitude": -122.23691
+        },
+        "display_phone": "(650) 369-4616",
+        "distance": 8231.96868619517,
+        "id": "zGH11S9eE2pkyFn2Her0ag",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "193 Arch St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "193 Arch St",
+                "Ste B",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Siva S. Cherukuri, DDS",
+        "phone": "+16503694616",
+        "rating": 3.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/siva-s-cherukuri-dds-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-gallery-pleasanton",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.466447,
+            "longitude": -122.223806
+        },
+        "display_phone": "(925) 846-4491",
+        "distance": 6570.777262608222,
+        "id": "MAQkbABVw7nsUClIxggCiQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ets0SS6uh6LEL0OndXhNGA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1488 Cedarwood Ln",
+            "address2": "Unit D",
+            "address3": "",
+            "city": "Pleasanton",
+            "country": "US",
+            "display_address": [
+                "1488 Cedarwood Ln",
+                "Unit D",
+                "Pleasanton, CA 94566"
+            ],
+            "state": "CA",
+            "zip_code": "94566"
+        },
+        "name": "Smile Gallery",
+        "phone": "+19258464491",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-gallery-pleasanton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-craft-dental-redwood-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4743,
+            "longitude": -122.21695
+        },
+        "display_phone": "(650) 880-1550",
+        "distance": 7622.293125927168,
+        "id": "d6LJVntUskhjhZ1sr8mcfw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dqQIMvNiJRTbOHdd-ISgiw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2531 El Camino Real",
+            "address2": null,
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "2531 El Camino Real",
+                "Redwood City, CA 94061"
+            ],
+            "state": "CA",
+            "zip_code": "94061"
+        },
+        "name": "Smile Craft Dental",
+        "phone": "+16508801550",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-craft-dental-redwood-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "birim-boyer-dds-redwood-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.4692999,
+            "longitude": -122.24771
+        },
+        "display_phone": "(650) 366-0998",
+        "distance": 6107.971428899207,
+        "id": "6HklkR6dihE18g9UhZFkZA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3221 Jefferson Ave",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Redwood City",
+            "country": "US",
+            "display_address": [
+                "3221 Jefferson Ave",
+                "Ste 1",
+                "Redwood City, CA 94062"
+            ],
+            "state": "CA",
+            "zip_code": "94062"
+        },
+        "name": "Birim Boyer, DDS",
+        "phone": "+16503660998",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/birim-boyer-dds-redwood-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

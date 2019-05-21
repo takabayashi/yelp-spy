@@ -1,0 +1,44 @@
+[
+    {
+        "alias": "boyd-p-dennington-dds-yountville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.401589,
+            "longitude": -122.362793
+        },
+        "display_phone": "(707) 944-8806",
+        "distance": 204.8271567177165,
+        "id": "59lUkY9pc5LORF3YcQQjQg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IXnloHrAKiGjGzLhnkDtYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6525 Washington St",
+            "address2": "",
+            "address3": "Yountville Dental",
+            "city": "Yountville",
+            "country": "US",
+            "display_address": [
+                "6525 Washington St",
+                "Yountville Dental",
+                "Yountville, CA 94599"
+            ],
+            "state": "CA",
+            "zip_code": "94599"
+        },
+        "name": "Boyd P Dennington, DDS",
+        "phone": "+17079448806",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/boyd-p-dennington-dds-yountville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

@@ -1,0 +1,1448 @@
+[
+    {
+        "alias": "christina-p-mason-dds-clayton-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.952897,
+            "longitude": -121.9538092
+        },
+        "display_phone": "(925) 672-1559",
+        "distance": 2772.9576866831326,
+        "id": "UZO3VD5v3mGr3qhG71PvNg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2jn-rSIvxNIIEQskOGZXGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5433 Clayton Rd",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Clayton",
+            "country": "US",
+            "display_address": [
+                "5433 Clayton Rd",
+                "Ste D",
+                "Clayton, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "Christina P Mason, DDS",
+        "phone": "+19256721559",
+        "rating": 4.5,
+        "review_count": 68,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/christina-p-mason-dds-clayton-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "todd-a-loftin-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9494388,
+            "longitude": -121.9562604
+        },
+        "display_phone": "(925) 672-7997",
+        "distance": 2737.599376810726,
+        "id": "MfufE73HJ9yJyAD08SWEBw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/34hkDd9KA19rrUM3jYJr3g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1440 Washington Blvd",
+            "address2": "Ste B-3",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1440 Washington Blvd",
+                "Ste B-3",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Todd A Loftin, DDS",
+        "phone": "+19256727997",
+        "rating": 5.0,
+        "review_count": 51,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/todd-a-loftin-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "the-grove-family-dentistry-clayton",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9403852,
+            "longitude": -121.9332943
+        },
+        "display_phone": "(925) 350-8592",
+        "distance": 473.9034158824159,
+        "id": "fyOtYnHw65jl2ziabJ8uzg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yGw8ilT8JZ_kZHjCbBVzYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6200 Center St",
+            "address2": "",
+            "address3": "Ste I and J",
+            "city": "Clayton",
+            "country": "US",
+            "display_address": [
+                "6200 Center St",
+                "Ste I and J",
+                "Clayton, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "The Grove Family Dentistry",
+        "phone": "+19253508592",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/the-grove-family-dentistry-clayton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "clayton-valley-orthodontics-concord",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9510116577148,
+            "longitude": -121.955833435059
+        },
+        "display_phone": "(925) 672-6200",
+        "distance": 2783.1022511803876,
+        "id": "k5spY_6UqHux76LiL0iilw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SDj20eGgm67QjP4ilvOZOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1494 Washington Blvd",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494 Washington Blvd",
+                "Ste D",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Clayton Valley Orthodontics",
+        "phone": "+19256726200",
+        "rating": 5.0,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/clayton-valley-orthodontics-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "keith-bradburn-dds-clayton",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.94155,
+            "longitude": -121.93429
+        },
+        "display_phone": "(925) 672-0110",
+        "distance": 653.9643879209823,
+        "id": "mZl-_5UQ-nqEQ4FDoYN9Mg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fiMO84Nc0Ko_sqOvHaUmWw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6123 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Clayton",
+            "country": "US",
+            "display_address": [
+                "6123 Main St",
+                "Clayton, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "Keith Bradburn DDS",
+        "phone": "+19256720110",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/keith-bradburn-dds-clayton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stephen-ludwig-dmd-ms-clayton-valley-orthodontics-concord",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.950951,
+            "longitude": -121.9557583
+        },
+        "display_phone": "(925) 672-6200",
+        "distance": 2786.343882600257,
+        "id": "MkKpy06sIlybh37Z8ouDXA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EGFtI1JZ604mpwqLFgaflQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1494 Washington Blvd",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494 Washington Blvd",
+                "Ste D",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Stephen  Ludwig, DMD, MS - Clayton Valley Orthodontics",
+        "phone": "+19256726200",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stephen-ludwig-dmd-ms-clayton-valley-orthodontics-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "perfect-smiles-family-dentistry-clayton-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.940734,
+            "longitude": -121.9365
+        },
+        "display_phone": "(925) 833-8702",
+        "distance": 754.0812211833982,
+        "id": "cvdLyhHk4_5ZQEpJUW0BSg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xKJxKvVioAJnFAz4PA3JHA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1026 Oak St",
+            "address2": "Ste 206",
+            "address3": "",
+            "city": "Clayton",
+            "country": "US",
+            "display_address": [
+                "1026 Oak St",
+                "Ste 206",
+                "Clayton, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "Perfect Smiles Family Dentistry",
+        "phone": "+19258338702",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/perfect-smiles-family-dentistry-clayton-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jenny-h-chong-dds-concord",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95596,
+            "longitude": -121.96659
+        },
+        "display_phone": "(925) 827-5595",
+        "distance": 3885.6780788184788,
+        "id": "kE6i5ypyH0WgKOEj5NweWw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QrOOM4yOGisFb3vY5KZT5w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5167 Clayton Rd",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5167 Clayton Rd",
+                "Ste E",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Jenny H Chong, DDS",
+        "phone": "+19258275595",
+        "rating": 5.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jenny-h-chong-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kent-davis-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9548301696777,
+            "longitude": -121.967887878418
+        },
+        "display_phone": "(925) 825-1130",
+        "distance": 3921.233058135066,
+        "id": "fC6JKUOwm_m5ia9qMaQX1Q",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w1EyAHUAdJgNu4vWmnDGsQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5100 Clayton Rd",
+            "address2": "Ste A19",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5100 Clayton Rd",
+                "Ste A19",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Kent Davis, DDS",
+        "phone": "+19258251130",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kent-davis-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-r-becker-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9510116577148,
+            "longitude": -121.955833435059
+        },
+        "display_phone": "(925) 672-0150",
+        "distance": 2783.1022511803876,
+        "id": "36YDBjnLgfE26zOHg4YAUg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1494 Washington Blvd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494 Washington Blvd",
+                "Ste C",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Michael R Becker, DDS",
+        "phone": "+19256720150",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-r-becker-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "clayton-dental-group-concord",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9504479818397,
+            "longitude": -121.957820217116
+        },
+        "display_phone": "(925) 524-0444",
+        "distance": 2911.910568019639,
+        "id": "ff2gZCdVP8QM9qOf33edqA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HZc-Gae3L_1818hU01fkyg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5442 Ygnacio Valley Rd",
+            "address2": "Ste 70",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5442 Ygnacio Valley Rd",
+                "Ste 70",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Clayton Dental Group",
+        "phone": "+19255240444",
+        "rating": 4.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/clayton-dental-group-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pooja-hegde-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9538109,
+            "longitude": -121.9643745
+        },
+        "display_phone": "(925) 672-7300",
+        "distance": 3596.661504957539,
+        "id": "LMBzn7eCYoG319jpu6kAWg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/96pVpNTAODo5n8QTH5IoyQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1494-A Washington Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494-A Washington Blvd",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Pooja Hegde, DDS",
+        "phone": "+19256727300",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pooja-hegde-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "highland-dentistry-pittsburg",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.998007,
+            "longitude": -121.872859
+        },
+        "display_phone": "(925) 473-9440",
+        "distance": 8344.14152041919,
+        "id": "dm6YQJM2crdXyMUSm-fZpw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lRKlChNwdPUJ2BiWztqzmg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1357 Buchanan Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "1357 Buchanan Rd",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Highland Dentistry",
+        "phone": "+19254739440",
+        "rating": 5.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/highland-dentistry-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sky-dental-pittsburg",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0068403248536,
+            "longitude": -121.867110333188
+        },
+        "display_phone": "(925) 432-2444",
+        "distance": 9435.907648070324,
+        "id": "DWqWRX7rh4vrzX-gp10d0g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OgNUNI59bZfXwJLQoS1MYg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2230 Gladstone Dr",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "2230 Gladstone Dr",
+                "Ste 100",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Sky Dental",
+        "phone": "+19254322444",
+        "rating": 4.0,
+        "review_count": 92,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sky-dental-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "josh-mccormick-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9497147,
+            "longitude": -121.9959335
+        },
+        "display_phone": "(925) 685-3043",
+        "distance": 6030.055743313284,
+        "id": "TayvfDve3iR5bLt47FB3nA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2Ydq7yFtk9jmwXWoh-zHug/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4455 Cowell Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4455 Cowell Rd",
+                "Concord, CA 94518"
+            ],
+            "state": "CA",
+            "zip_code": "94518"
+        },
+        "name": "Josh McCormick, DDS",
+        "phone": "+19256853043",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/josh-mccormick-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pittsburg-family-dental-pittsburg-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0013613,
+            "longitude": -121.8954669
+        },
+        "display_phone": "(925) 432-2929",
+        "distance": 7694.442709177086,
+        "id": "oP66lg2pd8I0TYyQyM2WaQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HDiam5jJEveVH3zFB5jfqQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4020 Railroad Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "4020 Railroad Ave",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Pittsburg Family Dental",
+        "phone": "+19254322929",
+        "rating": 4.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pittsburg-family-dental-pittsburg-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "taylor-h-dixon-dds-msd-concord-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9498748779297,
+            "longitude": -121.995948791504
+        },
+        "display_phone": "(925) 689-9350",
+        "distance": 6029.365179212678,
+        "id": "gfAzVZ-gi0K21UmmLUaaVA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oaLx26q-bmhck76PdG2hfg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4501 Cowell Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4501 Cowell Rd",
+                "Concord, CA 94518"
+            ],
+            "state": "CA",
+            "zip_code": "94518"
+        },
+        "name": "Taylor H Dixon, DDS, MSD",
+        "phone": "+19256899350",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/taylor-h-dixon-dds-msd-concord-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "craig-c-nelson-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.955314,
+            "longitude": -121.969716
+        },
+        "display_phone": "(925) 825-1130",
+        "distance": 4086.173586750923,
+        "id": "W80DaUQ3xA8qHu5mb0OudQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lP6veW9DGi_NbJd-aS2b3g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5100 Clayton Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5100 Clayton Rd",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Craig C Nelson, DDS",
+        "phone": "+19258251130",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/craig-c-nelson-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jerry-pope-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9510099,
+            "longitude": -121.95583
+        },
+        "display_phone": "(925) 672-7300",
+        "distance": 2782.7655345202393,
+        "id": "iRyow2BDGsctzvW9WKcM3g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-ukK5xPtg8VkCWCqPvIuSQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1494 Washington Blvd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494 Washington Blvd",
+                "Ste A",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Jerry Pope, DDS",
+        "phone": "+19256727300",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jerry-pope-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "concord-dental-and-orthodontics-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9648757,
+            "longitude": -121.9925605
+        },
+        "display_phone": "(925) 677-1100",
+        "distance": 6353.375992122741,
+        "id": "0DsOHp1eRu9XeQBx7FwItw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vEoLbrTC5VGEka4_Kyfc7w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4305 Clayton Rd",
+            "address2": "Ste G",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4305 Clayton Rd",
+                "Ste G",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Concord Dental & Orthodontics",
+        "phone": "+19256771100",
+        "rating": 4.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/concord-dental-and-orthodontics-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lyla-turkzadeh-dds-clayton-valley-dental-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96302,
+            "longitude": -121.98854
+        },
+        "display_phone": "(925) 798-2200",
+        "distance": 5936.17399196227,
+        "id": "IqWQIojhE3MzrG8yGbtgdw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/owt2ejQb41RWcxJAWMMO-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4450 Clayton Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4450 Clayton Rd",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Lyla Turkzadeh, DDS - Clayton Valley Dental",
+        "phone": "+19257982200",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lyla-turkzadeh-dds-clayton-valley-dental-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "treat-plaza-dental-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.96295,
+            "longitude": -121.99435
+        },
+        "display_phone": "(925) 363-7715",
+        "distance": 6376.298109079996,
+        "id": "7mEIhLpy6H4X9gBISlgYMA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "4425 Treat Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4425 Treat Blvd",
+                "Ste A",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Treat Plaza Dental",
+        "phone": "+19253637715",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/treat-plaza-dental-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "concord-dental-care-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.956115,
+            "longitude": -121.967251
+        },
+        "display_phone": "(925) 682-8566",
+        "distance": 3945.0020944028956,
+        "id": "9U8MYeFW2xa7NJvQi2qHrw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xggs8ZpK9eFMMYei8IwVVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5167 Clayton Rd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5167 Clayton Rd",
+                "Ste C",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Concord Dental Care",
+        "phone": "+19256828566",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/concord-dental-care-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yosemite-dental-care-pittsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0049133300781,
+            "longitude": -121.89298248291
+        },
+        "display_phone": "(925) 432-3838",
+        "distance": 8137.074536435644,
+        "id": "RCdK4r-51VyW1gA3NoGT0A",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K9WX-EtFxnhV2dxfsqoOcA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "120 Yosemite Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "120 Yosemite Dr",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Yosemite Dental Care",
+        "phone": "+19254323838",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yosemite-dental-care-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steve-h-galvan-dds-concord-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9644643,
+            "longitude": -121.9895448
+        },
+        "display_phone": "(925) 676-6363",
+        "distance": 6100.140125812482,
+        "id": "J7TkMSE25G7fn541HJKKAw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UnVN2DxFm4WycpTfjOmPiQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4375 Clayton Rd",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4375 Clayton Rd",
+                "Ste D",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Steve H Galvan, DDS",
+        "phone": "+19256766363",
+        "rating": 3.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steve-h-galvan-dds-concord-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "concord-dental-group-concord",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.97807,
+            "longitude": -121.9929
+        },
+        "display_phone": "(925) 849-4469",
+        "distance": 7197.083465338126,
+        "id": "3bzLF1uipOePcvJgm4eDQA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UKj78WVc2WRhAQXJVq3Rvw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4125 Concord Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "4125 Concord Blvd",
+                "Ste A",
+                "Concord, CA 94519"
+            ],
+            "state": "CA",
+            "zip_code": "94519"
+        },
+        "name": "Concord Dental Group",
+        "phone": "+19258494469",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/concord-dental-group-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tottle-cynthia-d-dds-concord",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9510116577148,
+            "longitude": -121.955833435059
+        },
+        "display_phone": "(925) 672-0150",
+        "distance": 2783.1022511803876,
+        "id": "ofhBC2Wo0svINhW5rdvRTA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1494 Washington Blvd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494 Washington Blvd",
+                "Ste C",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Tottle Cynthia D, DDS",
+        "phone": "+19256720150",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tottle-cynthia-d-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marivic-angeles-dds-concord",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95737,
+            "longitude": -121.97115
+        },
+        "display_phone": "(925) 676-4500",
+        "distance": 4309.309366453077,
+        "id": "6iYiEK-pgWbx_eMwc8BJ9Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z25J_zs2aYfK6lZnfYhQyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5047 Clayton Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5047 Clayton Rd",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Marivic Angeles, DDS",
+        "phone": "+19256764500",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marivic-angeles-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gardner-randell-f-dds-clayton",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9415473937988,
+            "longitude": -121.934288024902
+        },
+        "display_phone": "(925) 672-0110",
+        "distance": 653.9643879209823,
+        "id": "jyni4XA5CUKCK64nlrehAw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "6123 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Clayton",
+            "country": "US",
+            "display_address": [
+                "6123 Main St",
+                "Clayton, CA 94517"
+            ],
+            "state": "CA",
+            "zip_code": "94517"
+        },
+        "name": "Gardner Randell F, DDS",
+        "phone": "+19256720110",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gardner-randell-f-dds-clayton?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ostomel-ron-dmd-pittsburg",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.00645,
+            "longitude": -121.89268
+        },
+        "display_phone": "(925) 432-3347",
+        "distance": 8304.475985329927,
+        "id": "CV-5HqcQLAk5TnAWdpcCzQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a29KRrZoZO6tR6IN7Kv4JA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3715 Railroad Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "3715 Railroad Ave",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Ostomel Ron DMD",
+        "phone": "+19254323347",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ostomel-ron-dmd-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "loveridge-dental-group-pittsburg",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.0079508,
+            "longitude": -121.8705659
+        },
+        "display_phone": "(925) 427-2222",
+        "distance": 9368.13798002523,
+        "id": "D9g3MTQi0IlIasGrZZo-jg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Lk8iAUGh-QheUtnfj8D_fg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1270 E Leland Rd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "1270 E Leland Rd",
+                "Ste 101",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Loveridge Dental Group",
+        "phone": "+19254272222",
+        "rating": 3.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/loveridge-dental-group-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bita-matin-dds-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95216,
+            "longitude": -121.96298
+        },
+        "display_phone": "(925) 446-4242",
+        "distance": 3407.642625917723,
+        "id": "DnUK_SRPcZDt3oXO_dAvGQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d7FQyCp3pGMrASRmTXVXag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1494 Balhan Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "1494 Balhan Dr",
+                "Ste B",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Bita Matin, DDS",
+        "phone": "+19254464242",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bita-matin-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-family-dentistry-concord",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.955094,
+            "longitude": -121.969678
+        },
+        "display_phone": "(925) 825-1130",
+        "distance": 4071.4021478663703,
+        "id": "RAxD_OFCZZV-rdMTj1-RTQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rVK4o8UKFFWuqv1J07jEzA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5100 Clayton Rd",
+            "address2": "Ste A19",
+            "address3": "",
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5100 Clayton Rd",
+                "Ste A19",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Smile Family Dentistry",
+        "phone": "+19258251130",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-family-dentistry-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marosario-exconde-dds-pittsburg",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.008416,
+            "longitude": -121.88618
+        },
+        "display_phone": "(925) 427-9496",
+        "distance": 8747.272671552833,
+        "id": "CyKdI355zMKvrfAoPFzSMQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2931 Harbor St",
+            "address2": "Ste I",
+            "address3": null,
+            "city": "Pittsburg",
+            "country": "US",
+            "display_address": [
+                "2931 Harbor St",
+                "Ste I",
+                "Pittsburg, CA 94565"
+            ],
+            "state": "CA",
+            "zip_code": "94565"
+        },
+        "name": "Marosario Exconde DDS",
+        "phone": "+19254279496",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marosario-exconde-dds-pittsburg?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gene-allen-herrera-dds-concord",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.95615,
+            "longitude": -121.96711
+        },
+        "display_phone": "(925) 682-8566",
+        "distance": 3945.163897498069,
+        "id": "nBxq8DvEw6AEQehXJV8ThQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5161 Clayton Rd",
+            "address2": "Ste B",
+            "address3": null,
+            "city": "Concord",
+            "country": "US",
+            "display_address": [
+                "5161 Clayton Rd",
+                "Ste B",
+                "Concord, CA 94521"
+            ],
+            "state": "CA",
+            "zip_code": "94521"
+        },
+        "name": "Gene Allen Herrera, DDS",
+        "phone": "+19256828566",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gene-allen-herrera-dds-concord?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

@@ -1,0 +1,3093 @@
+[
+    {
+        "alias": "granada-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68489,
+            "longitude": -121.76438
+        },
+        "display_phone": "(925) 447-0324",
+        "distance": 316.8258617557753,
+        "id": "H7TP1d3Ly5cmky-YjzoLdg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7otDPrs00iYwayYNk9TMdw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2677 Old First St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2677 Old First St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Granada Dental",
+        "phone": "+19254470324",
+        "rating": 5.0,
+        "review_count": 62,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/granada-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "xiao-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68022,
+            "longitude": -121.76467
+        },
+        "display_phone": "(925) 373-7311",
+        "distance": 753.6308906848537,
+        "id": "QqnBPl3uEcVq_bBMpYMCYg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4JjkSiJCJM-38xAI13ruhw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2418 East Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2418 East Ave",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Xiao Dental",
+        "phone": "+19253737311",
+        "rating": 4.5,
+        "review_count": 69,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/xiao-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "livermore-dental-care-livermore-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6756999,
+            "longitude": -121.7802533
+        },
+        "display_phone": "(925) 455-9510",
+        "distance": 2042.3488279229837,
+        "id": "KooSo7ktUzP0rLz0-LUSgA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i9BhLfStWlOzq6qeN_ZR6Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1171 Murrieta Blvd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1171 Murrieta Blvd",
+                "Ste 101",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Livermore Dental Care",
+        "phone": "+19254559510",
+        "rating": 4.5,
+        "review_count": 90,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/livermore-dental-care-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "awesome-smiles-dental-care-livermore-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.70015,
+            "longitude": -121.74489
+        },
+        "display_phone": "(925) 724-2422",
+        "distance": 2100.7787576568517,
+        "id": "HmnTE7etC6GRDBpbiltvCA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zoX2gHxZSBZxukEj6JESLg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4432 Las Positas Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "4432 Las Positas Rd",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Awesome Smiles Dental Care",
+        "phone": "+19257242422",
+        "rating": 4.5,
+        "review_count": 69,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/awesome-smiles-dental-care-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "las-positas-family-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6992955378217,
+            "longitude": -121.765765765047
+        },
+        "display_phone": "(925) 449-7900",
+        "distance": 1472.8462715058058,
+        "id": "VEdOkQ1FdwsWrLyQMFudeQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4Wxg3eP89p6kI71W1sphMQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2832 Las Positas Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2832 Las Positas Rd",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Las Positas Family Dental",
+        "phone": "+19254497900",
+        "rating": 5.0,
+        "review_count": 36,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/las-positas-family-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endre-selmeczy-dmd-livermore-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6863288879395,
+            "longitude": -121.773941040039
+        },
+        "display_phone": "(925) 447-8344",
+        "distance": 1099.9960476870765,
+        "id": "vCA7knQtHEnG9bXjdwTSEg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0xQl6Vn-dms0qNM3IoNoRg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "489 N L St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "489 N L St",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Endre Selmeczy, DMD",
+        "phone": "+19254478344",
+        "rating": 5.0,
+        "review_count": 54,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endre-selmeczy-dmd-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-levine-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67972,
+            "longitude": -121.76139
+        },
+        "display_phone": "(925) 447-5110",
+        "distance": 750.9121859872891,
+        "id": "NMWjw2zOt9wRpCG5TnAFvQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nkoWLvELi6T3HXlXY0KNvQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2807 East Ave",
+            "address2": "",
+            "address3": "Levine Family Dental",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2807 East Ave",
+                "Levine Family Dental",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Jeffrey Levine, DDS",
+        "phone": "+19254475110",
+        "rating": 5.0,
+        "review_count": 37,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-levine-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "livermore-smiles-dentistry-and-orthodontics-livermore",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.696879,
+            "longitude": -121.742681
+        },
+        "display_phone": "(925) 294-9288",
+        "distance": 2017.0246674774182,
+        "id": "pN4jQBcq5YazGvvUHY64bw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QjwcUs1HsZi97d8cMQ4zeg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4375 1st St",
+            "address2": null,
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "4375 1st St",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Livermore Smiles Dentistry and Orthodontics",
+        "phone": "+19252949288",
+        "rating": 4.0,
+        "review_count": 102,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/livermore-smiles-dentistry-and-orthodontics-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wild-smiles-by-dr-kapus-livermore",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.680221,
+            "longitude": -121.745666
+        },
+        "display_phone": "(925) 443-3800",
+        "distance": 1552.7905029331928,
+        "id": "rRVBx8uQDDmM1D1wRlSa-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0ky5iRGAAA-7HUZauzWvjA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4200 East Ave",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "4200 East Ave",
+                "Ste 100",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Wild Smiles by Dr. Kapus",
+        "phone": "+19254433800",
+        "rating": 5.0,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wild-smiles-by-dr-kapus-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "patrick-c-creevan-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67885,
+            "longitude": -121.7707
+        },
+        "display_phone": "(925) 443-5980",
+        "distance": 1176.8296020909836,
+        "id": "9mNJ4IMS_l2t8XrD7S4v2A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/45U9Iq4f8hv21FNs4V51pw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1964 Fourth St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1964 Fourth St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Patrick C Creevan, DDS",
+        "phone": "+19254435980",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/patrick-c-creevan-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "todd-kamena-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.676177,
+            "longitude": -121.782755
+        },
+        "display_phone": "(925) 447-4800",
+        "distance": 2196.0788194292413,
+        "id": "dwq46UamIuvyuU8JoC2Ypw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/evcRCm5b4nr71jlPUfendg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1042 Murrieta Blvd",
+            "address2": "",
+            "address3": "Murrieta Dental Care",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1042 Murrieta Blvd",
+                "Murrieta Dental Care",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Todd Kamena, DDS",
+        "phone": "+19254474800",
+        "rating": 4.5,
+        "review_count": 36,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/todd-kamena-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smiles-unlimited-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67753,
+            "longitude": -121.78297
+        },
+        "display_phone": "(925) 344-5757",
+        "distance": 2139.0588900395437,
+        "id": "6Te-DFQmVUSp8ppB-nxcTQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yzf_0-hhMrbop1z1qtLNTg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "60 Fenton St",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "60 Fenton St",
+                "Ste 1",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Smiles Unlimited",
+        "phone": "+19253445757",
+        "rating": 4.5,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smiles-unlimited-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pediatric-dentistry-and-orthodontics-of-livermore-livermore",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6789082,
+            "longitude": -121.7814741
+        },
+        "display_phone": "(925) 447-1377",
+        "distance": 1921.303931090972,
+        "id": "IpJED9xbpg42h4Q0BuJMSA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pyTb0PMhmIgDgOLCl_GytA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1133 E Stanley Blvd",
+            "address2": "Ste 217",
+            "address3": "ValleyCare Medical Plaza",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1133 E Stanley Blvd",
+                "Ste 217",
+                "ValleyCare Medical Plaza",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Pediatric Dentistry and Orthodontics of Livermore",
+        "phone": "+19254471377",
+        "rating": 4.5,
+        "review_count": 53,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pediatric-dentistry-and-orthodontics-of-livermore-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anna-lu-dmd-livermore",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67612,
+            "longitude": -121.78205
+        },
+        "display_phone": "(925) 447-4447",
+        "distance": 2201.3771982767216,
+        "id": "_pYqTxhs9dfQ1SkhQUYPQQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1038 Murrieta Blvd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1038 Murrieta Blvd",
+                "Ste A",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Anna Lu, DMD",
+        "phone": "+19254474447",
+        "rating": 4.5,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anna-lu-dmd-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "quality-dentistry-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.69153,
+            "longitude": -121.7737
+        },
+        "display_phone": "(925) 606-0777",
+        "distance": 1207.7793202066316,
+        "id": "AVbfyWkW0Us3yF2l_gf7Hw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kwvG7ijLjD-dYJyurijpWQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2050 Portola Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2050 Portola Ave",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Quality Dentistry",
+        "phone": "+19256060777",
+        "rating": 4.0,
+        "review_count": 54,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/quality-dentistry-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alta-vista-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7065198123455,
+            "longitude": -121.813639551401
+        },
+        "display_phone": "(925) 292-1459",
+        "distance": 5132.217372283857,
+        "id": "rKhtmmcOz9qi-QsXbYVDmQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JheIwYivYQebKJIgph2UKg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3183 Independence Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "3183 Independence Dr",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Alta Vista Dental",
+        "phone": "+19252921459",
+        "rating": 4.5,
+        "review_count": 36,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alta-vista-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jason-hsiao-dds-valley-family-dentistry-livermore-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6782412,
+            "longitude": -121.7838444
+        },
+        "display_phone": "(925) 449-1141",
+        "distance": 2171.8766858916615,
+        "id": "XwptbXDRRQVvzRTiJYMGew",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AyOUMPar6UeKAZOY5ENkbA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "999 E Stanley Blvd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "999 E Stanley Blvd",
+                "Ste A",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Jason Hsiao, DDS - Valley Family Dentistry",
+        "phone": "+19254491141",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jason-hsiao-dds-valley-family-dentistry-livermore-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brent-c-lin-dds-livermore-5",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67981,
+            "longitude": -121.7637
+        },
+        "display_phone": "(925) 447-2464",
+        "distance": 768.622315518107,
+        "id": "iOyqE38J6QOtrXH2vklHZg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-xSgbvMW1pm02oIIqtqiYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2545 East Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2545 East Ave",
+                "Ste A",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Brent C Lin, DDS",
+        "phone": "+19254472464",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brent-c-lin-dds-livermore-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-hwang-dmd-tri-valley-aesthetic-dentistry-livermore",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67611,
+            "longitude": -121.78233
+        },
+        "display_phone": "(925) 270-4385",
+        "distance": 2224.5942953610843,
+        "id": "eiCij0yphrn560s4Yjge2A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W7tb4NkGJlmEFcJ-iwAx_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1018 Murrieta Blvd",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1018 Murrieta Blvd",
+                "Ste B",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Joseph Hwang, DMD - Tri-Valley Aesthetic Dentistry",
+        "phone": "+19252704385",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-hwang-dmd-tri-valley-aesthetic-dentistry-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "4th-street-dental-of-livermore-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67822,
+            "longitude": -121.77104
+        },
+        "display_phone": "(925) 447-6777",
+        "distance": 1247.1185254265706,
+        "id": "JJfp7vWCNZL0k3qsldB5UQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wgkA59blIkgqhE3yL3Fq2w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1915 4th St",
+            "address2": null,
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1915 4th St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "4th Street Dental of Livermore",
+        "phone": "+19254476777",
+        "rating": 4.5,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/4th-street-dental-of-livermore-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vasco-dental-livermore-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.718813,
+            "longitude": -121.725733
+        },
+        "display_phone": "(925) 454-1132",
+        "distance": 4775.2843804808335,
+        "id": "KWH97bPPBtatCK5LoaTcZA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XJSLEAdsG-yXrG60fWCvNw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1498 N Vasco Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1498 N Vasco Rd",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Vasco Dental",
+        "phone": "+19254541132",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vasco-dental-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sparkle-dental-office-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68235,
+            "longitude": -121.76911
+        },
+        "display_phone": "(925) 493-7470",
+        "distance": 817.3358705736982,
+        "id": "tAN1KS9aadOIKVwzLhWYUA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/36GwhG2ed-YU8gU7nBjttQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "39 S Livermore Ave",
+            "address2": "Ste 217",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "39 S Livermore Ave",
+                "Ste 217",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Sparkle Dental Office",
+        "phone": "+19254937470",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sparkle-dental-office-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steven-m-williams-dmd-livermore-2",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67814,
+            "longitude": -121.7839
+        },
+        "display_phone": "(925) 371-0300",
+        "distance": 2174.357630516996,
+        "id": "iJXCyFfcLme6eKIBycuwEA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IOnD7t8IZHf0l7V71gGVBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "999 E Stanley Blvd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "999 E Stanley Blvd",
+                "Ste C",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Steven M Williams, DMD",
+        "phone": "+19253710300",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steven-m-williams-dmd-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-l-beckley-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6783409118652,
+            "longitude": -121.780654907227
+        },
+        "display_phone": "(925) 294-4000",
+        "distance": 1921.3737265196612,
+        "id": "cAJVfNnA-Sf2-Gq1N0bl3w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Z0kC_PnhZtMJJB9xHsdgEg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1133 E Stanley Blvd",
+            "address2": "Ste 215",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1133 E Stanley Blvd",
+                "Ste 215",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Michael L Beckley, DDS",
+        "phone": "+19252944000",
+        "rating": 4.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-l-beckley-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonia-dhillon-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6858177185059,
+            "longitude": -121.773696899414
+        },
+        "display_phone": "(925) 449-7167",
+        "distance": 1082.1333511503099,
+        "id": "axQ03jx2mTGRxppl5h8Qrg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SPZU537mICS0a2EWe_nmAA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "423 N L St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "423 N L St",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Sonia Dhillon, DDS",
+        "phone": "+19254497167",
+        "rating": 4.0,
+        "review_count": 55,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonia-dhillon-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "marcel-orthodontics-livermore-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7092093,
+            "longitude": -121.807285
+        },
+        "display_phone": "(925) 447-7799",
+        "distance": 4756.6414307879795,
+        "id": "yvY7C5Kyo6haHHIG-f09oA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y6N5-eiXsvbPJty8gU_nJA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2084 4th St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2084 4th St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Marcel Orthodontics",
+        "phone": "+19254477799",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/marcel-orthodontics-livermore-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mint-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6765022277832,
+            "longitude": -121.783882141113
+        },
+        "display_phone": "(925) 292-5231",
+        "distance": 2254.1932646961773,
+        "id": "Crd1sXpIfrcRYJLz1JqBrg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/11YyyL3e7tBQPSR5EsE5Xg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "87 Fenton St",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "87 Fenton St",
+                "Ste 105",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Mint Dental",
+        "phone": "+19252925231",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mint-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kittyhawk-dental-care-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6899064,
+            "longitude": -121.8040436
+        },
+        "display_phone": "(925) 371-8880",
+        "distance": 3764.9991171827346,
+        "id": "akmqmZdacrRuNmyI9gFpbg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zzSrafDrY3TWuwUabB2RiA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "53 Wright Brothers Ave",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "53 Wright Brothers Ave",
+                "Ste C",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Kittyhawk Dental Care",
+        "phone": "+19253718880",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kittyhawk-dental-care-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brett-takemoto-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6793251037598,
+            "longitude": -121.77010345459
+        },
+        "display_phone": "(925) 447-6677",
+        "distance": 1110.0068168172463,
+        "id": "PW77SjYpXDr2dkqAVSoAdw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8ZJJwqhC1v6OqKb1rlpy3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "314 S L St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "314 S L St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Brett Takemoto, DDS",
+        "phone": "+19254476677",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brett-takemoto-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sycamore-family-dentistry-livermore",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6843541,
+            "longitude": -121.7651681
+        },
+        "display_phone": "(925) 447-9300",
+        "distance": 360.1878812794388,
+        "id": "KXGR7KScmg2gu2s8YZ6oEA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w1-H2i44PwIiXLxUAcf6Ww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2620 First St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2620 First St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Sycamore Family Dentistry",
+        "phone": "+19254479300",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sycamore-family-dentistry-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vignaroli-paul-dds-livermore",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6763000488281,
+            "longitude": -121.782653808594
+        },
+        "display_phone": "(925) 443-3636",
+        "distance": 2209.91855527832,
+        "id": "dkIPyC73fh_KyZX1iBzULw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1034 Murrieta Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1034 Murrieta Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Vignaroli Paul, DDS",
+        "phone": "+19254433636",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vignaroli-paul-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-m-chan-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67788,
+            "longitude": -121.78271
+        },
+        "display_phone": "(925) 455-1232",
+        "distance": 2094.0454588192542,
+        "id": "gBEV4l8b8n79Down0GVV-Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sh2_jhRJY2nsQjEVv8PjeA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "54 Fenton St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "54 Fenton St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "John M. Chan, DDS",
+        "phone": "+19254551232",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-m-chan-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kenneth-l-gong-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67851,
+            "longitude": -121.7723
+        },
+        "display_phone": "(925) 960-0777",
+        "distance": 1299.8587846818516,
+        "id": "h9iCQJXQw2ibwPMkDpm84g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lpY6Lm2dLkDgQnMh07gpKw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1840 4th St",
+            "address2": "Ste 100",
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1840 4th St",
+                "Ste 100",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Kenneth L Gong, DDS",
+        "phone": "+19259600777",
+        "rating": 5.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kenneth-l-gong-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smile-line-dentistry-livermore",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6763,
+            "longitude": -121.782753
+        },
+        "display_phone": "(925) 456-7600",
+        "distance": 2098.3355212711976,
+        "id": "WIDlZK9TCi78Xtoh5sd9Pg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jM4xk8GedFdZuDlMe0AQAg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1046 Murrieta Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1046 Murrieta Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Smile Line Dentistry",
+        "phone": "+19254567600",
+        "rating": 4.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smile-line-dentistry-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anthony-d-alvarez-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67814,
+            "longitude": -121.7839
+        },
+        "display_phone": "(925) 443-3443",
+        "distance": 2174.357630516996,
+        "id": "Dj6eQj_dRObii2frGCjtYQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j0CBjqxEmhGy2PymGGHyuw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "999 E Stanley Blvd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "999 E Stanley Blvd",
+                "Ste A",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Anthony D Alvarez, DDS",
+        "phone": "+19254433443",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anthony-d-alvarez-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sonja-s-sommer-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6787133,
+            "longitude": -121.7708322
+        },
+        "display_phone": "(925) 449-8788",
+        "distance": 1194.29949756916,
+        "id": "DzPpaA7B9L0mnNnMf-HraA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jbTOnghl5LbvSpVm3WNRbA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1952 Fourth St",
+            "address2": "",
+            "address3": "Smile Dentistry",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1952 Fourth St",
+                "Smile Dentistry",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Sonja S Sommer, DDS",
+        "phone": "+19254498788",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sonja-s-sommer-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harley-j-williams-dmd-livermore-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67814,
+            "longitude": -121.7839
+        },
+        "display_phone": "(925) 371-0300",
+        "distance": 2174.357630516996,
+        "id": "o65szlD6lTVafm_WEm0k_w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LUfISrEVKDyVUFul6sx4zg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "999 E Stanley Blvd",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "999 E Stanley Blvd",
+                "Ste C",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Harley J Williams, DMD",
+        "phone": "+19253710300",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harley-j-williams-dmd-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ron-freeman-dds-livermore-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67754,
+            "longitude": -121.77992
+        },
+        "display_phone": "(925) 447-7814",
+        "distance": 1891.434660195847,
+        "id": "g8dvkTn4mOgejoKlKPRv_A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aA6MszthR7IYvHacgyla1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "203 S St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "203 S St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Ron Freeman, DDS",
+        "phone": "+19254477814",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ron-freeman-dds-livermore-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "foothill-dental-care-livermore",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68271,
+            "longitude": -121.77237
+        },
+        "display_phone": "(925) 961-5484",
+        "distance": 1049.9682878975727,
+        "id": "QZPBEcld9gH30MJmUonYtg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wY45Xg1iWkmbpb_23JEB6Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1984 Railroad Ave",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1984 Railroad Ave",
+                "Ste B",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Foothill Dental Care",
+        "phone": "+19259615484",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/foothill-dental-care-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "niaz-baban-dds-livermore",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67757,
+            "longitude": -121.78611
+        },
+        "display_phone": "(925) 243-6491",
+        "distance": 2381.3694704263535,
+        "id": "FbbmJnZiv3cE6HT_F9r5Yw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/15tCN88cnhncjhQ0wUDrjg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "867 E Stanley Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "867 E Stanley Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Niaz Baban, DDS",
+        "phone": "+19252436491",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/niaz-baban-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vineyard-hills-dental-care-livermore-5",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6611868897453,
+            "longitude": -121.782429367304
+        },
+        "display_phone": "(925) 233-1143",
+        "distance": 3364.3779734620593,
+        "id": "lCRXRXWpA9Z1YRYO4s9eyQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YBG-7TYLVCD3SCj1wt7M8A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1074 Concannon Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1074 Concannon Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Vineyard Hills Dental Care",
+        "phone": "+19252331143",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vineyard-hills-dental-care-livermore-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "periodontal-associates-livermore-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6757149,
+            "longitude": -121.780386
+        },
+        "display_phone": "(925) 449-6633",
+        "distance": 2050.8342607049112,
+        "id": "XlrYmLi-arD6c4UU4dk_WA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7ktPmhtfzugGmBzD2UBR9Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1171 Murrieta Blvd",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1171 Murrieta Blvd",
+                "Ste 200",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Periodontal Associates",
+        "phone": "+19254496633",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/periodontal-associates-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-w-gibson-dds-livermore",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6757164001465,
+            "longitude": -121.780387878418
+        },
+        "display_phone": "(925) 455-9510",
+        "distance": 2034.5959583520723,
+        "id": "MdRs7KfZr33_SUbraGqTDQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1171 Murrieta Blvd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1171 Murrieta Blvd",
+                "Ste 101",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "David W Gibson, DDS",
+        "phone": "+19254559510",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-w-gibson-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-kasso-dds-msd-livermore",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67814,
+            "longitude": -121.7839
+        },
+        "display_phone": "(925) 373-4411",
+        "distance": 2174.357630516996,
+        "id": "oH3Kd664VNEkIwbuBzykzw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e2AW1yH4ViPCRcfnl71rXA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "999 E Stanley Blvd",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "999 E Stanley Blvd",
+                "Ste B",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Michael Kasso, DDS MSD",
+        "phone": "+19253734411",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-kasso-dds-msd-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-j-emrich-dds-msd-livermore",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67799,
+            "longitude": -121.77178
+        },
+        "display_phone": "(925) 447-7525",
+        "distance": 1304.669486148616,
+        "id": "wILEtZc3Km72dV3ptwU7Ow",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QCZv8nz5zoc92JL32anpdw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1841 Fourth St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1841 Fourth St",
+                "Ste A",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Brian J Emrich, DDS MSD",
+        "phone": "+19254477525",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-j-emrich-dds-msd-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "s-ward-eccles-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6765022277832,
+            "longitude": -121.783882141113
+        },
+        "display_phone": "(925) 447-6428",
+        "distance": 2254.1932646961773,
+        "id": "1ycdCK7QTEtFpb2iP2mdsA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7glCndXU2uVNw4TEa0Qt2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "87 Fenton St",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "87 Fenton St",
+                "Ste 201",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "S Ward Eccles, DDS",
+        "phone": "+19254476428",
+        "rating": 4.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/s-ward-eccles-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "angela-h-hunter-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68061,
+            "longitude": -121.77151
+        },
+        "display_phone": "(925) 201-6864",
+        "distance": 1099.8998849970044,
+        "id": "IpXoZnRKyhYziDZ5Mp4HJg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LbGj1IYgbrwEw78N5zNqMw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1985 1st St",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1985 1st St",
+                "Ste 201",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Angela H Hunter, DDS",
+        "phone": "+19252016864",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/angela-h-hunter-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "my-kids-dentist-and-orthodontics-livermore-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.696971,
+            "longitude": -121.742535
+        },
+        "display_phone": "(925) 443-5430",
+        "distance": 2033.413736994978,
+        "id": "ciuE8vubixos2Jq04bRi2g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Lp-njbEo-pgDzF-Ukf1odw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4375 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "4375 1st St",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "My Kid's Dentist & Orthodontics",
+        "phone": "+19254435430",
+        "rating": 3.5,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/my-kids-dentist-and-orthodontics-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "payal-sharma-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.678153,
+            "longitude": -121.770991
+        },
+        "display_phone": "(925) 447-3388",
+        "distance": 1249.4931891618166,
+        "id": "gR_UjidZybbpgB8fi0-wXA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OqcV6CMdU1PdK1MAWA9xew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1929 4th St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1929 4th St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Payal Sharma ,DDS",
+        "phone": "+19254473388",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/payal-sharma-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "downtown-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.682737,
+            "longitude": -121.768012
+        },
+        "display_phone": "(925) 337-5531",
+        "distance": 710.8668420125099,
+        "id": "aWnwR3I-YtusM6AP110yWg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2qGRIhcQcx9PCtlx0Vc5uA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2300 First St",
+            "address2": "Ste 106",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2300 First St",
+                "Ste 106",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Downtown Dental",
+        "phone": "+19253375531",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/downtown-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6968,
+            "longitude": -121.77402
+        },
+        "display_phone": "(925) 273-6016",
+        "distance": 1579.4168510306095,
+        "id": "MI_wbfnVxczBIoIk9PCGyA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DmfjYiVLourH66VMAaUqHw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2177 Las Positas Ct",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2177 Las Positas Ct",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+19252736016",
+        "rating": 2.0,
+        "review_count": 111,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "linda-lollini-dds-livermore-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67769,
+            "longitude": -121.7693
+        },
+        "display_phone": "(925) 447-3051",
+        "distance": 1200.6801791491216,
+        "id": "hpMZNGx-X5Du_jUEXtGztQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1ev53Oy9lJTI0sl_kOV8QQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "540 S L St",
+            "address2": null,
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "540 S L St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Linda Lollini, DDS",
+        "phone": "+19254473051",
+        "rating": 4.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/linda-lollini-dds-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-mitoma-dds-livermore",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67909,
+            "longitude": -121.77362
+        },
+        "display_phone": "(925) 449-1768",
+        "distance": 1331.0041017589804,
+        "id": "REHQKozE6WRkW1nboqgM6w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D1BZL-R1ZdxuIdf5AO1EdQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1783 Second St",
+            "address2": "",
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1783 Second St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Edward Mitoma, DDS",
+        "phone": "+19254491768",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-mitoma-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peter-le-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68122,
+            "longitude": -121.77952
+        },
+        "display_phone": "(925) 447-3057",
+        "distance": 1804.3321758683037,
+        "id": "3ljE6wmgCQ1xaEu2D2tchA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GjVKMUT3HHDPAmcvVwjzzw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Railroad Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1350 Railroad Ave",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Peter Le, DDS",
+        "phone": "+19254473057",
+        "rating": 4.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peter-le-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "comfort-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.69687,
+            "longitude": -121.77254
+        },
+        "display_phone": "(925) 245-9028",
+        "distance": 1514.1527839346525,
+        "id": "9AOuqiCm6gd7Wds58W6s_Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2291 Las Positas Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2291 Las Positas Rd",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Comfort Dental",
+        "phone": "+19252459028",
+        "rating": 3.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/comfort-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paul-e-szmyd-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68832,
+            "longitude": -121.77497
+        },
+        "display_phone": "(925) 447-7892",
+        "distance": 1199.3554835979437,
+        "id": "L0U6pDiBbcIJl2_kMxQbgg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/v07GFWW-lPBdh6bSxf-HHg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "691 N L St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "691 N L St",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Paul E Szmyd, DDS",
+        "phone": "+19254477892",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paul-e-szmyd-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "childrens-choice-pediatric-dental-care-livermore",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.68022,
+            "longitude": -121.74566
+        },
+        "display_phone": "(844) 707-5437",
+        "distance": 1552.7905029331928,
+        "id": "GVi_pnMhjrAmtUcpDjoooQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wP1z_8oQ9ipCauF2x3Y7bw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4200 East Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "4200 East Ave",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Children's Choice Pediatric Dental Care",
+        "phone": "+18447075437",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/childrens-choice-pediatric-dental-care-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rakhi-jani-dds-smiles-unlimited-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6783434113574,
+            "longitude": -121.781687697103
+        },
+        "display_phone": "(925) 344-5757",
+        "distance": 1996.2728526595297,
+        "id": "RmfRMzk-yk9b1aMVDRBHgg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "60 Fenton St",
+            "address2": "Ste1",
+            "address3": null,
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "60 Fenton St",
+                "Ste1",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Rakhi Jani, DDS - Smiles Unlimited",
+        "phone": "+19253445757",
+        "rating": 4.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rakhi-jani-dds-smiles-unlimited-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "united-dental-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7188,
+            "longitude": -121.72382
+        },
+        "display_phone": "(925) 373-4855",
+        "distance": 4892.568321348207,
+        "id": "jDu1_MNAE1P7ad9GQ2wrSg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1523 N Vasco Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1523 N Vasco Rd",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "United Dental",
+        "phone": "+19253734855",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/united-dental-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harmon-d-probst-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6775321960449,
+            "longitude": -121.782974243164
+        },
+        "display_phone": "(925) 447-8635",
+        "distance": 2139.0588900395437,
+        "id": "Q4GDdSm42q1IWe_CxwvR0Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "60 Fenton St",
+            "address2": "Ste 10",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "60 Fenton St",
+                "Ste 10",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Harmon D Probst, DDS",
+        "phone": "+19254478635",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harmon-d-probst-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leslie-matsumura-dds-livermore",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6757164001465,
+            "longitude": -121.780387878418
+        },
+        "display_phone": "(925) 960-0990",
+        "distance": 2034.5959583520723,
+        "id": "wIRNoBXiLT1c0gCcivl0kw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1171 Murrieta Blvd",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1171 Murrieta Blvd",
+                "Ste 201",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Leslie Matsumura, DDS",
+        "phone": "+19259600990",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leslie-matsumura-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-lee-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.677532,
+            "longitude": -121.782974
+        },
+        "display_phone": "(925) 449-1232",
+        "distance": 2132.658592302861,
+        "id": "As3DK_ORW1xXYkhwIVbGFQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "60 Fenton St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "60 Fenton St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "John Lee, DDS",
+        "phone": "+19254491232",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-lee-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ricardo-roque-dds-livermore",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6796646118164,
+            "longitude": -121.76123046875
+        },
+        "display_phone": "(925) 447-4939",
+        "distance": 753.0555349651248,
+        "id": "vEXo_a2iKWvHX3soqJZs7A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2815 East Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2815 East Ave",
+                "Ste A",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Ricardo Roque, DDS",
+        "phone": "+19254474939",
+        "rating": 3.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ricardo-roque-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-h-brandes-dds-livermore",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6757164001465,
+            "longitude": -121.780387878418
+        },
+        "display_phone": "(925) 449-6633",
+        "distance": 2034.5959583520723,
+        "id": "mPM8_MFydAj_kuMaRcH-Wg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1171 Murrieta Blvd",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1171 Murrieta Blvd",
+                "Ste 200",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Robert H Brandes, DDS",
+        "phone": "+19254496633",
+        "rating": 3.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-h-brandes-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "smiles-by-design-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.679306,
+            "longitude": -121.767975
+        },
+        "display_phone": "(925) 443-4182",
+        "distance": 982.7481987448051,
+        "id": "2f8qLtegeN5CdVF5p7LVgQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/19WB958IDepGXhlLCdKHOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2165 Fourth St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2165 Fourth St",
+                "Ste B",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Smiles by Design",
+        "phone": "+19254434182",
+        "rating": 2.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/smiles-by-design-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "livermore-family-dental-group-livermore-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67757,
+            "longitude": -121.78611
+        },
+        "display_phone": "(925) 243-6491",
+        "distance": 2381.3694704263535,
+        "id": "GH_NR7ehD8PX49E8unXFMA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qzqQlbtlwaT5CheqTNhdZw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "867 E Stanley Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "867 E Stanley Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Livermore Family Dental Group",
+        "phone": "+19252436491",
+        "rating": 2.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/livermore-family-dental-group-livermore-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mills-jack-o-dds-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6775321960449,
+            "longitude": -121.782974243164
+        },
+        "display_phone": "(925) 443-4211",
+        "distance": 2139.0588900395437,
+        "id": "-7Q9NNMip5u0e6GA4z-QwA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "60 Fenton St",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "60 Fenton St",
+                "Ste 7",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Mills Jack O DDS",
+        "phone": "+19254434211",
+        "rating": 3.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mills-jack-o-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "becker-james-w-dds-livermore",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.684563,
+            "longitude": -121.765576
+        },
+        "display_phone": "(925) 447-5018",
+        "distance": 419.86884824803104,
+        "id": "8sm1UGcJovTqXCqKpf8pcA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2618 Old 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2618 Old 1st St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Becker James W DDS",
+        "phone": "+19254475018",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/becker-james-w-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vignaroli-michele-h-dds-livermore",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6757164001465,
+            "longitude": -121.780387878418
+        },
+        "display_phone": "(925) 449-6633",
+        "distance": 2034.5959583520723,
+        "id": "ZWXl160cU_A9L8aw-8ZqVQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1171 Murrieta Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1171 Murrieta Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Vignaroli Michele H DDS",
+        "phone": "+19254496633",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vignaroli-michele-h-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "livermore-dental-and-orthodontics-livermore",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6835362,
+            "longitude": -121.7654444
+        },
+        "display_phone": "(925) 453-5100",
+        "distance": 479.6830987111943,
+        "id": "9bntDqK2-QKBbDBSLZXoJQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MAuLS1dldK-kQXbVdAdWXA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1516 1st St",
+            "address2": null,
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1516 1st St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Livermore Dental & Orthodontics",
+        "phone": "+19254535100",
+        "rating": 3.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/livermore-dental-and-orthodontics-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nolan-d-cheney-dmd-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67828,
+            "longitude": -121.77121
+        },
+        "display_phone": "(925) 447-6777",
+        "distance": 1247.1185254265706,
+        "id": "lgR9JbfT7pnKGC0rC46UuA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1915 4th St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1915 4th St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Nolan D Cheney, DMD",
+        "phone": "+19254476777",
+        "rating": 3.5,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nolan-d-cheney-dmd-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "singh-dental-care-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.7056655883789,
+            "longitude": -121.740684509277
+        },
+        "display_phone": "(925) 455-1200",
+        "distance": 2823.9312970142987,
+        "id": "7iME7vFFDrYoXmq1hkeTHQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QozyMmkal5k4HLX4TwA5VQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "922 Larkspur Dr",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "922 Larkspur Dr",
+                "Ste D",
+                "Livermore, CA 94551"
+            ],
+            "state": "CA",
+            "zip_code": "94551"
+        },
+        "name": "Singh Dental Care",
+        "phone": "+19254551200",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/singh-dental-care-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lowell-b-davis-dds-livermore",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6776035875082,
+            "longitude": -121.783385574818
+        },
+        "display_phone": "(925) 447-3100",
+        "distance": 2150.6648510390996,
+        "id": "bSwIuTK0BIVvKEd10endfQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "36 Fenton St",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "36 Fenton St",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Lowell B Davis, DDS",
+        "phone": "+19254473100",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lowell-b-davis-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ryan-a-yamanaka-dds-livermore",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.6609577983618,
+            "longitude": -121.779775992036
+        },
+        "display_phone": "(925) 443-8822",
+        "distance": 3094.082592824413,
+        "id": "aGaersEqVhoIRF_UvXBT7w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1378 Concannon Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "1378 Concannon Blvd",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Ryan A Yamanaka, DDS",
+        "phone": "+19254438822",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ryan-a-yamanaka-dds-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cheney-nolan-dmd-livermore",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.67033,
+            "longitude": -121.73353
+        },
+        "display_phone": "(925) 447-8026",
+        "distance": 3048.8670862638414,
+        "id": "Nb0i-kxQseidmSOFW-1FEQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2222 Buena Vista Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Livermore",
+            "country": "US",
+            "display_address": [
+                "2222 Buena Vista Ave",
+                "Livermore, CA 94550"
+            ],
+            "state": "CA",
+            "zip_code": "94550"
+        },
+        "name": "Cheney Nolan DMD",
+        "phone": "+19254478026",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cheney-nolan-dmd-livermore?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

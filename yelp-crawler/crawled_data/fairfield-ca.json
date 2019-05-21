@@ -1,0 +1,3159 @@
+[
+    {
+        "alias": "parkside-dental-care-fairfield-3",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.257568359375,
+            "longitude": -122.05199432373
+        },
+        "display_phone": "(707) 427-2222",
+        "distance": 612.6802735650607,
+        "id": "G3R8r8feKO3H6it21PfA3g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cDz4QLipGNcDCfiV05DisA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1325 Travis Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1325 Travis Blvd",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Parkside Dental Care",
+        "phone": "+17074272222",
+        "rating": 4.5,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parkside-dental-care-fairfield-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "forever-smile-dental-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2720448,
+            "longitude": -122.0528487
+        },
+        "display_phone": "(707) 435-1100",
+        "distance": 1922.379263750795,
+        "id": "Sx84u4Fgwv8UzjRgt-Hobw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aNxTz93ChGl15TVzv7sOyw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2401-C Waterman Blvd",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2401-C Waterman Blvd",
+                "Ste 3",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Forever Smile Dental",
+        "phone": "+17074351100",
+        "rating": 5.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/forever-smile-dental-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mora-family-dentistry-fairfield-fairfield-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.257149,
+            "longitude": -122.049564
+        },
+        "display_phone": "(707) 425-6216",
+        "distance": 774.9292575360704,
+        "id": "9ZCbfubq9Ys1s9okOvkQ7w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xsdpd_nMVJhy30ZDGofyGQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1402 Pennsylvania Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1402 Pennsylvania Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Mora Family Dentistry - Fairfield",
+        "phone": "+17074256216",
+        "rating": 5.0,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mora-family-dentistry-fairfield-fairfield-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "freedom-dental-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.24954,
+            "longitude": -122.066478
+        },
+        "display_phone": "(707) 422-2236",
+        "distance": 968.7705512309843,
+        "id": "f8hcWwEgmSrMfVmTGGpLHg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LyunYDi1bN8nvnwsL-vDGQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Boynton Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2201 Boynton Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Freedom Dental",
+        "phone": "+17074222236",
+        "rating": 4.5,
+        "review_count": 52,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/freedom-dental-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-dental-group-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2608294136182,
+            "longitude": -122.054702295245
+        },
+        "display_phone": "(707) 428-1000",
+        "distance": 687.2546485285961,
+        "id": "S8husex1wzUhQDGUCRir4A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P4akZQd5cROr41q4dsrPXw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Travis Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1350 Travis Blvd",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Solano Dental Group",
+        "phone": "+17074281000",
+        "rating": 5.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-dental-group-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jergensen-dentistry-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.262828,
+            "longitude": -122.0506162
+        },
+        "display_phone": "(707) 422-3884",
+        "distance": 1066.0384991685144,
+        "id": "VCrJhiT-qSPEMRD_MUdyLQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KHQUR3QnAwNDj0mjG1f9Og/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2480 Hilborn Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2480 Hilborn Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Jergensen Dentistry and Orthodontics",
+        "phone": "+17074223884",
+        "rating": 4.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jergensen-dentistry-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sunni-g-yoon-dds-fairfield-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2578735351562,
+            "longitude": -122.048225402832
+        },
+        "display_phone": "(707) 422-7003",
+        "distance": 900.5940922044556,
+        "id": "MuknsvFt7qmfqZeEipIP3A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4-lx-MtVrsidlZP_1AhuVw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1245 Travis Blvd",
+            "address2": "",
+            "address3": "Ste C/D",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1245 Travis Blvd",
+                "Ste C/D",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Sunni G Yoon ,DDS",
+        "phone": "+17074227003",
+        "rating": 4.5,
+        "review_count": 52,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sunni-g-yoon-dds-fairfield-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "my-kids-dentist-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2883412106615,
+            "longitude": -122.033704
+        },
+        "display_phone": "(707) 426-4401",
+        "distance": 4251.082130573576,
+        "id": "kTBLqtzpWmHM24ebk2wvZQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lyJ0vXIPU19djM5vlbj2GQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3332 N Texas St",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3332 N Texas St",
+                "Ste D",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "My Kid's Dentist & Orthodontics",
+        "phone": "+17074264401",
+        "rating": 4.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/my-kids-dentist-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-w-anderson-dds-msd-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.295358,
+            "longitude": -122.035254
+        },
+        "display_phone": "(707) 422-2190",
+        "distance": 4881.552670806416,
+        "id": "0mlFx2HxnEO6A6r3Xyci5A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mNJwBJIXuyLF5BY2CCHYMQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 202",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Robert W Anderson, DDS MSD",
+        "phone": "+17074222190",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-w-anderson-dds-msd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "waterman-oral-and-maxillofacial-surgery-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2691938,
+            "longitude": -122.0625865
+        },
+        "display_phone": "(707) 428-5427",
+        "distance": 1598.3933550393706,
+        "id": "j1FwHtfpDIUu-tpEfAIpsw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KCXt14jj6JfBCxoJLcxACg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Waterman Blvd",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2801 Waterman Blvd",
+                "Ste 240",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Waterman Oral and Maxillofacial Surgery",
+        "phone": "+17074285427",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/waterman-oral-and-maxillofacial-surgery-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fairfield-dentists-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.288187,
+            "longitude": -122.033682
+        },
+        "display_phone": "(707) 399-9082",
+        "distance": 4237.2187381800895,
+        "id": "JDsGBW9YlszhKg_iyyGsMQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XkFWYhW9laFZotuielck-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3332 N Texas St",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3332 N Texas St",
+                "Ste C",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Fairfield Dentists and Orthodontics",
+        "phone": "+17073999082",
+        "rating": 4.0,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fairfield-dentists-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "darwin-f-lum-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25597,
+            "longitude": -122.06678
+        },
+        "display_phone": "(707) 426-1790",
+        "distance": 780.42026792534,
+        "id": "SyTCFEETmyanpXoiG5iXDg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ThJLWlXfeZbz-dAIi4z0cQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1300 Oliver Rd",
+            "address2": "Ste 130",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1300 Oliver Rd",
+                "Ste 130",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Darwin F Lum, DDS",
+        "phone": "+17074261790",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/darwin-f-lum-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "waterman-boulevard-family-dentistry-fairfield-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2690757858827,
+            "longitude": -122.062516762566
+        },
+        "display_phone": "(707) 429-0451",
+        "distance": 1584.182022067903,
+        "id": "DI4sguVmdpJleEFnCkk18A",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZMagkp9Jnth6nWfYAz78zw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Waterman Blvd",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2801 Waterman Blvd",
+                "Ste 120",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Waterman Boulevard Family Dentistry",
+        "phone": "+17074290451",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/waterman-boulevard-family-dentistry-fairfield-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dennis-paul-nutter-dds-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 4881.552670806416,
+        "id": "R0rk6DuBbTFZ4VRg7wWo0A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7bc0euVKVGfGl3Ryyhcpwg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Dennis Paul Nutter, DDS",
+        "phone": "+17074225444",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dennis-paul-nutter-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gateway-dental-group-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.26157,
+            "longitude": -122.05836
+        },
+        "display_phone": "(707) 426-1234",
+        "distance": 713.6735804583918,
+        "id": "rRLkos2729qasf1fHUsWAg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Zf4TIBHQK5JHS9Ya0-qpSA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1586 Gateway Blvd",
+            "address2": "Ste C1",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1586 Gateway Blvd",
+                "Ste C1",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Gateway Dental Group",
+        "phone": "+17074261234",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gateway-dental-group-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "irma-l-garcia-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 4881.552670806416,
+        "id": "CF3r2dgDkVZ1GjC6tHArog",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0uDtBxX7mK-Wffy7ADpdOg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Irma L Garcia, DDS",
+        "phone": "+17074225444",
+        "rating": 4.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/irma-l-garcia-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "happy-little-chompers-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2691431724493,
+            "longitude": -122.062275363754
+        },
+        "display_phone": "(707) 429-5450",
+        "distance": 1586.4824492163457,
+        "id": "RC8hbQjDusfImSswhhtHWQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lJLovr5tGPrAyJhtiR55Qg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Waterman Blvd",
+            "address2": "Ste 190",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2801 Waterman Blvd",
+                "Ste 190",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Happy Little Chompers",
+        "phone": "+17074295450",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/happy-little-chompers-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yu-smile-dental-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.22036,
+            "longitude": -122.12764
+        },
+        "display_phone": "(707) 863-0777",
+        "distance": 7223.2046375749715,
+        "id": "eukp9f5n4g-O8AZAdbkfUw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GwiWJGxo8OtbqfJXy26dRA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4455 Central Way",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "4455 Central Way",
+                "Ste A",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Yu Smile Dental",
+        "phone": "+17078630777",
+        "rating": 4.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yu-smile-dental-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jennifer-j-liu-dds-md-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2598595808553,
+            "longitude": -122.049574367702
+        },
+        "display_phone": "(707) 422-6020",
+        "distance": 903.7985154580865,
+        "id": "VQvIyjZ6xf5PE_-K7EdAvA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BMQdyfkKAGIqqJwcGqAYsw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1700 Pennsylvania Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1700 Pennsylvania Ave",
+                "Ste A",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Jennifer J Liu, DDS, MD",
+        "phone": "+17074226020",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jennifer-j-liu-dds-md-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "windsmile-family-dental-suisun-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2463455200195,
+            "longitude": -122.018997192383
+        },
+        "display_phone": "(707) 421-8190",
+        "distance": 3560.172812657976,
+        "id": "z9O8MBblq5PC4Ffmjueevg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/83GHx4cTLBF6c343YXDKIA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Sunset Ave",
+            "address2": "",
+            "address3": "Ste I & J",
+            "city": "Suisun City",
+            "country": "US",
+            "display_address": [
+                "141 Sunset Ave",
+                "Ste I & J",
+                "Suisun City, CA 94585"
+            ],
+            "state": "CA",
+            "zip_code": "94585"
+        },
+        "name": "Windsmile Family Dental",
+        "phone": "+17074218190",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/windsmile-family-dental-suisun-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "james-d-prigmore-dds-fairfield-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2571079,
+            "longitude": -122.0679433
+        },
+        "display_phone": "(707) 422-3500",
+        "distance": 966.686029104119,
+        "id": "wLJCUz7X2zKrpwHvxBB6YQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-eLhFfFNPT5fOD3jQxknvQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1357 Oliver Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1357 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "James D Prigmore, DDS",
+        "phone": "+17074223500",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/james-d-prigmore-dds-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anita-ford-dds-happy-little-chompers-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2689819335938,
+            "longitude": -122.062286376953
+        },
+        "display_phone": "(707) 429-5450",
+        "distance": 1578.7464730202983,
+        "id": "avdAu4R8VauP1QqmYWsmHw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J6PdA3jy4YXTAE2EK1nm9g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Waterman Blvd",
+            "address2": "Ste 190",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2801 Waterman Blvd",
+                "Ste 190",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Anita Ford, DDS - Happy Little Chompers",
+        "phone": "+17074295450",
+        "rating": 4.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anita-ford-dds-happy-little-chompers-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michel-van-bergen-dmd-msd-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.24962,
+            "longitude": -122.06667
+        },
+        "display_phone": "(707) 421-4646",
+        "distance": 970.6379322035903,
+        "id": "3afFxCbkhKKYxaSx2ljjaA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IE37AdqSXcfTFUqsZRq_jA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Boynton Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2201 Boynton Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Michel Van Bergen, DMD MSD",
+        "phone": "+17074214646",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michel-van-bergen-dmd-msd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rolling-hills-pediatric-dentistry-fairfield-4",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 4881.552670806416,
+        "id": "CPPrd407-fKS8sSDbXUE3g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a_HleWST36YoaSuluxieEQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Rolling Hills Pediatric Dentistry",
+        "phone": "+17074225444",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rolling-hills-pediatric-dentistry-fairfield-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hicken-scott-c-dds-fairfield-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.257286,
+            "longitude": -122.048223
+        },
+        "display_phone": "(707) 429-1070",
+        "distance": 891.9199450841493,
+        "id": "_XTOUxRM5E-6uPNwMFEIog",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WeeCWD-YpBCz1txZUh5VKw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1535 Webster St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1535 Webster St",
+                "Ste B",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Hicken Scott C, DDS",
+        "phone": "+17074291070",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hicken-scott-c-dds-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "suisun-city-dental-suisun-city",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.237475,
+            "longitude": -122.0407349
+        },
+        "display_phone": "(707) 429-8611",
+        "distance": 2480.032030119776,
+        "id": "l3HX3sVmcMME67Kgub667g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SDG7lytRKPaA7oTwiYncdA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "807 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Suisun City",
+            "country": "US",
+            "display_address": [
+                "807 Main St",
+                "Suisun City, CA 94585"
+            ],
+            "state": "CA",
+            "zip_code": "94585"
+        },
+        "name": "Suisun City Dental",
+        "phone": "+17074298611",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/suisun-city-dental-suisun-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "thomas-toolson-dds-fairfield-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2562,
+            "longitude": -122.06804
+        },
+        "display_phone": "(707) 427-3113",
+        "distance": 878.7284103860504,
+        "id": "YwyoDwSIyQYrcVcmjk0Jww",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dO9WXz_MO1-f9uAHX_Q4rA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1325 Oliver Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1325 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Thomas Toolson, DDS",
+        "phone": "+17074273113",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/thomas-toolson-dds-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-j-warner-dds-fairfield-10",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2549061,
+            "longitude": -122.0673112
+        },
+        "display_phone": "(707) 422-7633",
+        "distance": 831.8651102182854,
+        "id": "80ujJfSk0shWeNaKzzCVBg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fcibi_aEhtLEPDVwcLSTtQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1291 Oliver Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1291 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Mark J Warner, DDS",
+        "phone": "+17074227633",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-j-warner-dds-fairfield-10?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "busquets-orthodontics-fairfield-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.262828,
+            "longitude": -122.049058
+        },
+        "display_phone": "(707) 427-1010",
+        "distance": 1154.5022023088802,
+        "id": "tHZbGyhn2m25RFnGSph1ug",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dhZzqJGScSw9b7JwWwJ7sg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1900 Pennsylvania Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1900 Pennsylvania Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Busquets Orthodontics",
+        "phone": "+17074271010",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/busquets-orthodontics-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paradise-valley-dental-studios-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2889279,
+            "longitude": -122.0341204
+        },
+        "display_phone": "(707) 421-8400",
+        "distance": 4289.798414634124,
+        "id": "rPntT-kMAz6xHaPaZmProw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oUahIX9eLiEqZB2CTFP3Ug/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3329 North Texas St",
+            "address2": "Ste 88",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3329 North Texas St",
+                "Ste 88",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Paradise Valley Dental Studios",
+        "phone": "+17074218400",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paradise-valley-dental-studios-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "edward-po-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.27531,
+            "longitude": -122.03338
+        },
+        "display_phone": "(707) 422-5441",
+        "distance": 3123.945879147664,
+        "id": "fOa8zUS8awHsyr-Hd_cBKA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Aa1ppKhvLmIvGZ3pnHr9fg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2560 N Texas St",
+            "address2": "Ste H",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2560 N Texas St",
+                "Ste H",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Edward Po, DDS",
+        "phone": "+17074225441",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-po-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fairfield-orthodontics-fairfield-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.258301,
+            "longitude": -122.069099
+        },
+        "display_phone": "(707) 428-3200",
+        "distance": 1028.095083123719,
+        "id": "at_1vHcaMDjw-Qw4tZJ-iw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iSYTesn9imoW4jgNVDgxYQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1411 Oliver Rd",
+            "address2": "Ste 330",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1411 Oliver Rd",
+                "Ste 330",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Fairfield Orthodontics",
+        "phone": "+17074283200",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fairfield-orthodontics-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-m-lewis-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.26281,
+            "longitude": -122.04908
+        },
+        "display_phone": "(707) 427-1026",
+        "distance": 1150.299451655609,
+        "id": "bunuOnIoAq1d93Cs7AQ2yQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1900 Pennsylvania Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1900 Pennsylvania Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "John M Lewis DDS",
+        "phone": "+17074271026",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-m-lewis-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brite-smile-family-dental-care-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25741,
+            "longitude": -122.04779
+        },
+        "display_phone": "(707) 421-8285",
+        "distance": 933.6743090548738,
+        "id": "bfesBEPzuXU6uMZk97uePw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ClPk4cSZal7Gsf6qsK1aVg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1555 Webster St",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1555 Webster St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Brite Smile Family Dental Care",
+        "phone": "+17074218285",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brite-smile-family-dental-care-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ruff-cynthia-m-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.26582,
+            "longitude": -122.02551
+        },
+        "display_phone": "(707) 427-3100",
+        "distance": 3082.154596029707,
+        "id": "0bVxoK0N77NVYAURNpvcSA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "690 E Tabor Ave",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "690 E Tabor Ave",
+                "Ste C",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Ruff Cynthia M DDS",
+        "phone": "+17074273100",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ruff-cynthia-m-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "navneet-aujla-dds-fairfield-7",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.262835,
+            "longitude": -122.049058
+        },
+        "display_phone": "(707) 427-1026",
+        "distance": 1155.0699269382,
+        "id": "tXduGKyV8PvUCfAmzr747A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1900 Pennsylvania Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1900 Pennsylvania Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Navneet Aujla, DDS",
+        "phone": "+17074271026",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/navneet-aujla-dds-fairfield-7?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fairfield-oral-surgery-and-implantology-fairfield-3",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.257755279541,
+            "longitude": -122.047149658203
+        },
+        "display_phone": "(707) 759-5550",
+        "distance": 992.0661281709822,
+        "id": "I5tHQOSpJnl84W5jwsXmVg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l0imQzGvAl2d30kKlJfjpQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1590 Webster St",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1590 Webster St",
+                "Ste E",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Fairfield Oral Surgery and Implantology",
+        "phone": "+17077595550",
+        "rating": 3.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fairfield-oral-surgery-and-implantology-fairfield-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anderson-dental-care-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2503853236223,
+            "longitude": -122.071135705523
+        },
+        "display_phone": "(707) 425-0646",
+        "distance": 1260.137643199153,
+        "id": "opL1nxXwPJAo25zKpshL9Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rkh2uXsFErShwtxCSeZz4Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "995 Oliver Rd",
+            "address2": "Ste 10",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "995 Oliver Rd",
+                "Ste 10",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Anderson Dental Care",
+        "phone": "+17074250646",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anderson-dental-care-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "new-millenium-denistry-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25734,
+            "longitude": -122.06837
+        },
+        "display_phone": "(707) 429-1708",
+        "distance": 922.3922145266412,
+        "id": "3BiZj9SvhxKjZs481fDf4g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/At-lDQpNGfmcPb8EGa_WAw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1363 Oliver Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1363 Oliver Rd",
+                "Ste A",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "New Millenium Denistry",
+        "phone": "+17074291708",
+        "rating": 3.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/new-millenium-denistry-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffery-s-webb-dds-fairfield-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.277631,
+            "longitude": -122.033541
+        },
+        "display_phone": "(707) 422-8282",
+        "distance": 3284.6648014965936,
+        "id": "pfhIDZGIT-tjElvVWe5L-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jKovflMk2j_Ls048YEwmWw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2750 N Texas St",
+            "address2": "Ste 360",
+            "address3": "Sunrise Dental",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2750 N Texas St",
+                "Ste 360",
+                "Sunrise Dental",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Jeffery S Webb, DDS",
+        "phone": "+17074228282",
+        "rating": 3.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffery-s-webb-dds-fairfield-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-j-michaud-dds-and-melisa-a-doyle-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2569299,
+            "longitude": -122.04776
+        },
+        "display_phone": "(707) 426-0541",
+        "distance": 919.4354297126025,
+        "id": "hTlGCe8r9BSSNLrFiFuOBw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zkavNN15k115fFve2xTyew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1525 Webster St",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1525 Webster St",
+                "Ste F",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Robert J. Michaud DDS & Melisa A. Doyle DDS",
+        "phone": "+17074260541",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-j-michaud-dds-and-melisa-a-doyle-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jose-victor-santos-dmd-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.26,
+            "longitude": -122.04957
+        },
+        "display_phone": "(707) 429-9550",
+        "distance": 897.9076418026026,
+        "id": "XsSgdXvbK9jM-MQHyOzR4w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KdI2DKvQuFRpdG5v_YnaoQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1700 Pennsylvania Ave",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1700 Pennsylvania Ave",
+                "Ste D",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Jose Victor Santos, DMD",
+        "phone": "+17074299550",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jose-victor-santos-dmd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-a-sestero-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.255383,
+            "longitude": -122.067848
+        },
+        "display_phone": "(707) 427-3172",
+        "distance": 851.0704306944663,
+        "id": "54yQ5p5L4WMpJR31Mvlexw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/glgK47Cp9B8QTwzNhGo_BA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1295 Oliver Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1295 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "David A Sestero, DDS",
+        "phone": "+17074273172",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-a-sestero-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anthony-marino-dds-fairfield-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25078,
+            "longitude": -122.04646
+        },
+        "display_phone": "(707) 448-6271",
+        "distance": 1149.6924140531742,
+        "id": "Z1HWSKpGG9nF8zOjC49_xw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EyeM9_SYY8VhwokNH_VYBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1010 Empire St",
+            "address2": null,
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1010 Empire St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Anthony Marino, DDS - Fairfield",
+        "phone": "+17074486271",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anthony-marino-dds-fairfield-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "freeman-lee-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.24962,
+            "longitude": -122.06667
+        },
+        "display_phone": "(707) 422-2236",
+        "distance": 970.6379322035903,
+        "id": "uoOFMj9Y58b6ZF7u8CSFog",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2201 Boynton Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2201 Boynton Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Freeman Lee DDS",
+        "phone": "+17074222236",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/freeman-lee-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walter-d-kuzma-dds-fairfield-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-8404",
+        "distance": 4881.552670806416,
+        "id": "MqbEF7pRMAD-1CO3NTo30Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/71PsEpxFTMCy3aNs_WbavA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 200",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Walter D Kuzma, DDS",
+        "phone": "+17074228404",
+        "rating": 3.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walter-d-kuzma-dds-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-choi-dds-fairfield-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2749328613281,
+            "longitude": -122.033393859863
+        },
+        "display_phone": "(707) 422-8360",
+        "distance": 3070.79735671064,
+        "id": "jdW6G5a-3DHlNREBLPcHjw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fVub2ODKmPlVZhu8o_9cYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2500 N Texas St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2500 N Texas St",
+                "Ste C",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Mark Choi, DDS",
+        "phone": "+17074228360",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-choi-dds-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "taasan-c-marlon-dmd-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2578620910645,
+            "longitude": -122.034729003906
+        },
+        "display_phone": "(707) 422-6651",
+        "distance": 2081.702389091771,
+        "id": "P2xsE_Kzfh0RF5BmG0uAdA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1545 N Texas St",
+            "address2": "Ste 309",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1545 N Texas St",
+                "Ste 309",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Taasan C Marlon,DMD",
+        "phone": "+17074226651",
+        "rating": 3.5,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/taasan-c-marlon-dmd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jacquelyn-n-averett-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2475652,
+            "longitude": -122.0430951
+        },
+        "display_phone": "(707) 426-2263",
+        "distance": 1553.2110672871352,
+        "id": "NqtCk-tkKOIeY3lyewPkrw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8zbgTnp_y0Prk-lrJViXqg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "550 Webster St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "550 Webster St",
+                "Ste A",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Jacquelyn N Averett, DDS",
+        "phone": "+17074262263",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jacquelyn-n-averett-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-d-sutter-dds-fairfield",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2955336,
+            "longitude": -122.0361937
+        },
+        "display_phone": "(707) 425-5511",
+        "distance": 4869.971292044303,
+        "id": "Z5n9wc5Z81VChM8c_JA2FQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MzYJ7wzCRNJDWZRkptMPYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3700 Hilborn Rd",
+            "address2": "Ste 300",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3700 Hilborn Rd",
+                "Ste 300",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Mark D Sutter, DDS",
+        "phone": "+17074255511",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-d-sutter-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "access-dental-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2583923339844,
+            "longitude": -122.058395385742
+        },
+        "display_phone": "(707) 429-4000",
+        "distance": 349.6755850025538,
+        "id": "zojB6Osdd5T-JHPKyEf01w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dJY7fYZMk14Fj7vOCyFzXg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1600 Travis Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1600 Travis Blvd",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Access Dental",
+        "phone": "+17074294000",
+        "rating": 2.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/access-dental-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jan-gerber-dds-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 4881.552670806416,
+        "id": "SAZuoiyVrKb2B40FTg978A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o1rBs91F2ZpbL74Lnxwosw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Jan Gerber,DDS",
+        "phone": "+17074225444",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jan-gerber-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steve-h-galvan-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25988,
+            "longitude": -122.06803
+        },
+        "display_phone": "(707) 434-8777",
+        "distance": 1041.806134647388,
+        "id": "Wu5yJf3BEnvO8y6pRy1Qig",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Oliver Rd",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1500 Oliver Rd",
+                "Ste F",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Steve H. Galvan, DDS",
+        "phone": "+17074348777",
+        "rating": 3.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steve-h-galvan-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.27459,
+            "longitude": -122.03338
+        },
+        "display_phone": "(707) 430-0148",
+        "distance": 3039.3976903353905,
+        "id": "YjlXKsxTXMjtqIJ_bUYsVA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UYg1Zsd1j-4m0t4aSS43pg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2440 N Texas St",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2440 N Texas St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+17074300148",
+        "rating": 1.5,
+        "review_count": 67,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antonio-b-zarate-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2578811645508,
+            "longitude": -122.047775268555
+        },
+        "display_phone": "(707) 425-0225",
+        "distance": 952.0910888405916,
+        "id": "TuXWXXdgFwvyz896TF46ow",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a1HLGpaYzhzd334xR-F26g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1225 Travis Blvd",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1225 Travis Blvd",
+                "Ste B",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Antonio B Zarate, DDS",
+        "phone": "+17074250225",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antonio-b-zarate-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fairfield-endodontics-fairfield-2",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2689819335938,
+            "longitude": -122.062286376953
+        },
+        "display_phone": "(707) 425-5666",
+        "distance": 1578.7464730202983,
+        "id": "hG8SIlKVUX0eGn1TJs_fqw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Waterman Blvd",
+            "address2": "Ste 290",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2801 Waterman Blvd",
+                "Ste 290",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Fairfield Endodontics",
+        "phone": "+17074255666",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fairfield-endodontics-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-r-saunderson-dmd-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2689819335938,
+            "longitude": -122.062286376953
+        },
+        "display_phone": "(707) 428-5427",
+        "distance": 1578.7464730202983,
+        "id": "1bBR_bErYIzTAngoSAkqGw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2801 Waterman Blvd",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2801 Waterman Blvd",
+                "Ste 240",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "John R Saunderson, DMD",
+        "phone": "+17074285427",
+        "rating": 3.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-r-saunderson-dmd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tafalla-froilan-dmd-suisun-city-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2443,
+            "longitude": -122.021166
+        },
+        "display_phone": "(707) 425-4800",
+        "distance": 3435.2078053096616,
+        "id": "_E7PHFvzYktzwiOCyo6dzQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VvfdHEMQdXL1tvHkXpE2KA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "288 Sunset Ave",
+            "address2": "Ste E",
+            "address3": null,
+            "city": "Suisun City",
+            "country": "US",
+            "display_address": [
+                "288 Sunset Ave",
+                "Ste E",
+                "Suisun City, CA 94585"
+            ],
+            "state": "CA",
+            "zip_code": "94585"
+        },
+        "name": "Tafalla Froilan, DMD",
+        "phone": "+17074254800",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tafalla-froilan-dmd-suisun-city-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "stich-james-e-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2573612,
+            "longitude": -122.0680251
+        },
+        "display_phone": "(707) 427-8836",
+        "distance": 963.567091644191,
+        "id": "Qy4o6_a3aBGnQ33xRZp1xw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1377 Oliver Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1377 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Stich James E DDS",
+        "phone": "+17074278836",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/stich-james-e-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "megha-jadhav-dmd-healthy-smile-dental-care-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.26281,
+            "longitude": -122.04908
+        },
+        "display_phone": "(707) 427-3111",
+        "distance": 1150.299451655609,
+        "id": "HyhQpHSLbNcOmYusDa9cjg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V11ObuyKaKQzGpx-8HOyxQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1900 Pennsylvania Ave",
+            "address2": "Ste B2",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1900 Pennsylvania Ave",
+                "Ste B2",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Megha Jadhav, DMD - Healthy Smile Dental Care",
+        "phone": "+17074273111",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/megha-jadhav-dmd-healthy-smile-dental-care-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "su-judy-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25843,
+            "longitude": -122.05297
+        },
+        "display_phone": "(707) 428-1000",
+        "distance": 656.6191193067403,
+        "id": "s-O7zuPYEbcrT46b3FDbwQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K6fE2we-fcM34H1WRJCULQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Travis Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1350 Travis Blvd",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Su Judy DDS",
+        "phone": "+17074281000",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/su-judy-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "zurcher-willard-e-dds-inc-orthdntst-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.26281,
+            "longitude": -122.04908
+        },
+        "display_phone": "(707) 427-1010",
+        "distance": 1150.299451655609,
+        "id": "Z3GQgz2zZHbbepqCeJ-P7w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1900 Pennsylvania Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1900 Pennsylvania Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Zurcher Willard E DDS Inc Orthdntst",
+        "phone": "+17074271010",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/zurcher-willard-e-dds-inc-orthdntst-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jergensen-dental-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.27561,
+            "longitude": -122.05054
+        },
+        "display_phone": "(707) 422-3884",
+        "distance": 2355.852828415104,
+        "id": "P2j3ok8Bd4ntl--Xe_izDw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pq73fwaW4VjL0RB3-dEtTA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2480 Hilborn Rd",
+            "address2": "Ste 102",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2480 Hilborn Rd",
+                "Ste 102",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Jergensen Dental & Orthodontics",
+        "phone": "+17074223884",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jergensen-dental-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "richard-ramos-dmd-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2581430904068,
+            "longitude": -122.06654638052
+        },
+        "display_phone": "(707) 435-9004",
+        "distance": 803.8863747597217,
+        "id": "muGwnTrQ8shnKXhJ8-CNDg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3075 Travis Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3075 Travis Blvd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Richard Ramos, DMD",
+        "phone": "+17074359004",
+        "rating": 2.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/richard-ramos-dmd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tan-thai-dental-studios-fairfield",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28825,
+            "longitude": -122.03356
+        },
+        "display_phone": "(707) 421-8400",
+        "distance": 4252.247320815373,
+        "id": "pS4VU__Se0hq55Cy7bZvpg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3332 N Texas St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3332 N Texas St",
+                "Ste A",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Tan Thai Dental Studios",
+        "phone": "+17074218400",
+        "rating": 4.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tan-thai-dental-studios-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "salcedo-and-po-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2753105,
+            "longitude": -122.0333786
+        },
+        "display_phone": "(707) 422-5441",
+        "distance": 3108.106510551041,
+        "id": "c-ZGmyZ1BO3lotApBfXTUQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2560 N Texas St",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2560 N Texas St",
+                "Ste H",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Salcedo & Po, DDS",
+        "phone": "+17074225441",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/salcedo-and-po-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "julius-mosley-ii-dds-fairfield",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2776,
+            "longitude": -122.0335
+        },
+        "display_phone": "(707) 421-2161",
+        "distance": 3276.1640617127036,
+        "id": "iSvo9WZFMFX5KI87LKrPJw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n6eBKUfsUwr1ftu56pWUQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2750 N Texas St",
+            "address2": "Ste 340",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "2750 N Texas St",
+                "Ste 340",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Julius Mosley II, DDS",
+        "phone": "+17074212161",
+        "rating": 2.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/julius-mosley-ii-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "steve-galvan-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25988,
+            "longitude": -122.06803
+        },
+        "display_phone": "(707) 434-8777",
+        "distance": 1041.806134647388,
+        "id": "qY3LlBaamsX9rsyAt3p6zw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1500 Oliver Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1500 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Steve Galvan ,DDS",
+        "phone": "+17074348777",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/steve-galvan-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dental-care-center-fairfield-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2505678,
+            "longitude": -122.0413212
+        },
+        "display_phone": "(707) 428-7171",
+        "distance": 1555.56088299293,
+        "id": "gqPI0DzthhEVZVlyaqza6g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DibGRrBHG49SPgUCs62w3A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "650 Empire St",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "650 Empire St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Dental Care Center",
+        "phone": "+17074287171",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dental-care-center-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "valle-smiles-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.24803,
+            "longitude": -122.06479
+        },
+        "display_phone": "(707) 428-5400",
+        "distance": 983.088562204393,
+        "id": "daAk5Cki7n-ua6chtqNrxg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dnGjW7Oqs84Z4XRF7yGk3w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1955 W Texas St",
+            "address2": null,
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1955 W Texas St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Valle Smiles",
+        "phone": "+17074285400",
+        "rating": 2.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/valle-smiles-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "north-bay-dental-practice-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25729,
+            "longitude": -122.04822
+        },
+        "display_phone": "(707) 429-1070",
+        "distance": 945.9114115900948,
+        "id": "gN1MPIKCUPVpEj_aSJRnCA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1535 Webster St",
+            "address2": null,
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1535 Webster St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "North Bay Dental Practice",
+        "phone": "+17074291070",
+        "rating": 2.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/north-bay-dental-practice-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "henrik-e-hansen-dds-fairfield-5",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.259966,
+            "longitude": -122.049634
+        },
+        "display_phone": "(707) 429-2633",
+        "distance": 906.2974776256982,
+        "id": "qC1woSxCcD8TzsAv1LqWVA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rPqylieepuc7IjY1XlKdAQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1700 Pennsylvania Ave",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1700 Pennsylvania Ave",
+                "Ste C",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Henrik E Hansen, DDS",
+        "phone": "+17074292633",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/henrik-e-hansen-dds-fairfield-5?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "deo-campo-and-associate-dental-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2478141784668,
+            "longitude": -122.043014526367
+        },
+        "display_phone": "(707) 399-8569",
+        "distance": 1543.0723405999865,
+        "id": "NGhvlw9Jmk_MM3XYfnfGhA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "745 Missouri St",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "745 Missouri St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Deo Campo and Associate Dental",
+        "phone": "+17073998569",
+        "rating": 1.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/deo-campo-and-associate-dental-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "antonio-genesis-p-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2506408691406,
+            "longitude": -122.041313171387
+        },
+        "display_phone": "(707) 428-7171",
+        "distance": 1555.7096698024766,
+        "id": "pbTeRONJpFk76Vn2nq_YWw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v6aR08za1RQmzlq-EbY4Yg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "650 Empire St",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "650 Empire St",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Antonio Genesis P DDS",
+        "phone": "+17074287171",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/antonio-genesis-p-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solano-county-health-and-social-services-dept-fairfield",
+        "categories": [
+            {
+                "alias": "publicservicesgovt",
+                "title": "Public Services & Government"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.23525,
+            "longitude": -122.06747
+        },
+        "display_phone": "(707) 784-8051",
+        "distance": 2368.736935706338,
+        "id": "77fLxW5iU-Det8E5GFKywA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u0xLgm30_xeY-z3R551_nw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "275 Beck Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "275 Beck Ave",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Solano County Health And Social Services Dept",
+        "phone": "+17077848051",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solano-county-health-and-social-services-dept-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wayne-sutton-dds-suisun-city",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.237475,
+            "longitude": -122.0407349
+        },
+        "display_phone": "(707) 429-8611",
+        "distance": 2480.032030119776,
+        "id": "x1OtJll1QgQUZsdUoSPH4w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "807 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Suisun City",
+            "country": "US",
+            "display_address": [
+                "807 Main St",
+                "Suisun City, CA 94585"
+            ],
+            "state": "CA",
+            "zip_code": "94585"
+        },
+        "name": "Wayne Sutton, DDS",
+        "phone": "+17074298611",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wayne-sutton-dds-suisun-city?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "son-jeong-h-dds-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.25737,
+            "longitude": -122.06841
+        },
+        "display_phone": "(707) 429-8674",
+        "distance": 922.3922145266412,
+        "id": "jTIqOi_ark6Kn2nwyHJTCQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1363 Oliver Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1363 Oliver Rd",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Son Jeong H DDS",
+        "phone": "+17074298674",
+        "rating": 1.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/son-jeong-h-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "valerie-m-godfrey-ms-dds-fairfield",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2578811645508,
+            "longitude": -122.047775268555
+        },
+        "display_phone": "(707) 429-5200",
+        "distance": 952.0910888405916,
+        "id": "I7eKHpkt6-ESzLqB3j48Fw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rb9pjXu41IzKTp6NUx2CtQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1225 Travis Blvd",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "1225 Travis Blvd",
+                "Ste H",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Valerie M Godfrey, MS DDS",
+        "phone": "+17074295200",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/valerie-m-godfrey-ms-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

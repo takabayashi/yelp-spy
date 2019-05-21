@@ -1,0 +1,5176 @@
+[
+    {
+        "alias": "edward-jang-dds-and-associates-orinda-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8810684,
+            "longitude": -122.1860617
+        },
+        "display_phone": "(925) 254-5100",
+        "distance": 185.22660705475465,
+        "id": "JzjWgpD-FEujfl8lwR1qKQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OKtWo2735t-TvB8tJlGMow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1 Santa Maria Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "1 Santa Maria Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Edward Jang, DDS & Associates",
+        "phone": "+19252545100",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/edward-jang-dds-and-associates-orinda-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endo-care-group-orinda-orinda",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8808375,
+            "longitude": -122.1857961
+        },
+        "display_phone": "(925) 254-7669",
+        "distance": 161.24193601635605,
+        "id": "qlGyiyYVn492IjmonTmGTA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/08-qYdhcSVi-9DIAnEBNng/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Orinda Way",
+            "address2": null,
+            "address3": "Endo Care Group",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "10 Orinda Way",
+                "Endo Care Group",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Endo Care Group - Orinda",
+        "phone": "+19252547669",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endo-care-group-orinda-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orinda-dental-care-orinda",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.87694,
+            "longitude": -122.1808
+        },
+        "display_phone": "(925) 254-3725",
+        "distance": 525.0534422308024,
+        "id": "IFYtiPTpzxXBU1g-iqsyDg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O0bGgrJx8rvyrMNInH0PYA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8 Camino Encinas",
+            "address2": "Ste 110",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "8 Camino Encinas",
+                "Ste 110",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Orinda Dental Care",
+        "phone": "+19252543725",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orinda-dental-care-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-mckinzie-dmd-oakland",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8186683654785,
+            "longitude": -122.245109558105
+        },
+        "display_phone": "(510) 654-3030",
+        "distance": 8592.026704239863,
+        "id": "NonwlTlgfXzutMuCsMmnEA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ym4E2B4xc3bAtW03ZGh57A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3931 Grand Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3931 Grand Ave",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Scott McKinzie,DMD",
+        "phone": "+15106543030",
+        "rating": 4.5,
+        "review_count": 102,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-mckinzie-dmd-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "melinda-chan-dds-rockridge-smiles-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83757,
+            "longitude": -122.25157
+        },
+        "display_phone": "(510) 654-2226",
+        "distance": 7479.076932865101,
+        "id": "d-dIsE5aRXdUKb4cMMudyQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aErblBVfjv8bOQ8Xhj9mPg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "Ste 203",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Ste 203",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Melinda Chan, DDS - Rockridge Smiles",
+        "phone": "+15106542226",
+        "rating": 5.0,
+        "review_count": 69,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/melinda-chan-dds-rockridge-smiles-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lindsey-koida-dds-and-norman-burg-dds-oakland-10",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.84303,
+            "longitude": -122.24666
+        },
+        "display_phone": "(510) 652-1517",
+        "distance": 6763.635292042654,
+        "id": "au-Yz6vkA1zaCwwaN5l-aQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ySLauFGC1skl_42GQL2QZQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5700 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5700 Broadway",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Lindsey Koida DDS & Norman Burg DDS",
+        "phone": "+15106521517",
+        "rating": 5.0,
+        "review_count": 51,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lindsey-koida-dds-and-norman-burg-dds-oakland-10?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "virginia-h-ellis-dds-dental-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8779663,
+            "longitude": -122.1802795
+        },
+        "display_phone": "(925) 254-4043",
+        "distance": 513.8379188647436,
+        "id": "Jewo0bNJ4akqSKH-AwlSxA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AJnw4T1s2sfOwQsDWAyZ1g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "77 Moraga Way",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "77 Moraga Way",
+                "Ste E",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Virginia H. Ellis DDS, Dental",
+        "phone": "+19252544043",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/virginia-h-ellis-dds-dental-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "elmwood-dental-care-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8565864562988,
+            "longitude": -122.254539489746
+        },
+        "display_phone": "(510) 883-9373",
+        "distance": 6593.028188091785,
+        "id": "Ok9fW8_WoDfNnKxjj3Sx1Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bnoppyrZd9MvPBzJ0CLiuA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2620 Ashby Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2620 Ashby Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Elmwood Dental Care",
+        "phone": "+15108839373",
+        "rating": 4.5,
+        "review_count": 55,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/elmwood-dental-care-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "total-health-dental-care-oakland-11",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8309,
+            "longitude": -122.24768
+        },
+        "display_phone": "(510) 654-5752",
+        "distance": 7729.1154651094685,
+        "id": "fHr8yJiTsIdm1Ty8Rlx1Ig",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YL4ARxFSM8EpaqeVxY8ZBQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1880 Pleasant Valley Ave",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "1880 Pleasant Valley Ave",
+                "Ste F",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Total Health Dental Care",
+        "phone": "+15106545752",
+        "rating": 4.0,
+        "review_count": 180,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/total-health-dental-care-oakland-11?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "total-health-dental-care-montclair-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8261488,
+            "longitude": -122.2087695
+        },
+        "display_phone": "(510) 390-8833",
+        "distance": 6327.46769573242,
+        "id": "13RsYuBjH0shaRitQ1mYhw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ycrncUPRmWAuVAfKYGWJ6A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6201 Antioch St",
+            "address2": "Ste 102",
+            "address3": null,
+            "city": "Montclair",
+            "country": "US",
+            "display_address": [
+                "6201 Antioch St",
+                "Ste 102",
+                "Montclair, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Total Health Dental Care",
+        "phone": "+15103908833",
+        "rating": 4.0,
+        "review_count": 83,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/total-health-dental-care-montclair-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "aloha-pediatric-dentistry-orinda-2",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8824806,
+            "longitude": -122.1857834
+        },
+        "display_phone": "(925) 253-8190",
+        "distance": 259.67220149287454,
+        "id": "lGSWtGrl0yyjFC3v8BK1aw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MTY-LvVU3_aHIhSifiTahA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3 Altarinda Rd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "3 Altarinda Rd",
+                "Ste 210",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Aloha Pediatric Dentistry",
+        "phone": "+19252538190",
+        "rating": 4.0,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/aloha-pediatric-dentistry-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lamorinda-dental-care-moraga-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856834,
+            "longitude": -122.123932
+        },
+        "display_phone": "(925) 247-5343",
+        "distance": 5976.706656919162,
+        "id": "SaYmFQo4gc8097XvJbvFWA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6pzyOM4ssOItEtxcaY4psA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "533 Moraga Rd",
+            "address2": "Ste 240",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "533 Moraga Rd",
+                "Ste 240",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Lamorinda Dental Care",
+        "phone": "+19252475343",
+        "rating": 4.5,
+        "review_count": 52,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lamorinda-dental-care-moraga-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "harvest-smile-care-lafayette-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88771,
+            "longitude": -122.11737
+        },
+        "display_phone": "(925) 283-3781",
+        "distance": 6032.26962088562,
+        "id": "5IwUg_HsGXcrMepId1P30g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eOqIeF7ScaLdowJLkySzJw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3511 School St",
+            "address2": null,
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3511 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Harvest Smile Care",
+        "phone": "+19252833781",
+        "rating": 5.0,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/harvest-smile-care-lafayette-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "cobain-orthodontics-lafayette",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8872661,
+            "longitude": -122.1182297
+        },
+        "display_phone": "(925) 283-3355",
+        "distance": 5947.3197477538915,
+        "id": "5o2gAWfn6vki7eYebsC16g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nRadHJNFfP2ZkyuLTUThnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "905 Moraga Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "905 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Cobain Orthodontics",
+        "phone": "+19252833355",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/cobain-orthodontics-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "peter-m-heckler-dds-heckler-family-dentistry-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8816034,
+            "longitude": -122.1856849
+        },
+        "display_phone": "(925) 254-8380",
+        "distance": 114.72622658389805,
+        "id": "-jaLsGoA7r3G7kxHaryIgQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sKUF4b3sxap1scMxxstm4g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "11 Santa Maria Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "11 Santa Maria Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Peter M Heckler, DDS - Heckler Family Dentistry",
+        "phone": "+19252548380",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/peter-m-heckler-dds-heckler-family-dentistry-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "andrew-w-ferrier-dds-east-bay-healthy-smiles-lafayette",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "prosthodontists",
+                "title": "Prosthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8872676747999,
+            "longitude": -122.118122577667
+        },
+        "display_phone": "(925) 283-0313",
+        "distance": 5966.227139982842,
+        "id": "bcVMAXRSpDMDx7zoqeZxQQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ozvKz9OKMyI3EossVYqxIQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 11",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 11",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Andrew W Ferrier, DDS - East Bay Healthy Smiles",
+        "phone": "+19252830313",
+        "rating": 5.0,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/andrew-w-ferrier-dds-east-bay-healthy-smiles-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yuri-a-veber-dds-oakland",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83757,
+            "longitude": -122.25157
+        },
+        "display_phone": "(510) 923-0699",
+        "distance": 7479.076932865101,
+        "id": "4Svr2VRnHAZrO4K51O9lcw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/j9EmrcvgcHo34wKoYswibA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Ste 105",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Yuri A Veber, DDS",
+        "phone": "+15109230699",
+        "rating": 5.0,
+        "review_count": 27,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yuri-a-veber-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rikli-and-santos-family-dentistry-orinda",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8767733676341,
+            "longitude": -122.179201440627
+        },
+        "display_phone": "(925) 253-0165",
+        "distance": 657.3986613754408,
+        "id": "3ylH9KgyFMaMuXZ_HFzNFA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qHhTrkPK_plbzFyuqOOM1Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "93 Moraga Way",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "93 Moraga Way",
+                "Ste 201",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Rikli & Santos Family Dentistry",
+        "phone": "+19252530165",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rikli-and-santos-family-dentistry-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "brian-m-assael-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856761,
+            "longitude": -122.257026
+        },
+        "display_phone": "(510) 848-9796",
+        "distance": 6798.106084309323,
+        "id": "A2IOAXA66_gLcPXWItmkhQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qgbL7Wvwtjk5twJjdToNnA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2459 Ashby Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2459 Ashby Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Brian M Assael, DDS",
+        "phone": "+15108489796",
+        "rating": 5.0,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/brian-m-assael-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sarah-baldwin-dmd-piedmont-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8214279,
+            "longitude": -122.2441772
+        },
+        "display_phone": "(510) 251-1962",
+        "distance": 8305.36487507717,
+        "id": "GEgOikJ5lr3KxemDtdDfjg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ahQDrFEXudHg9brPOe04UA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1375 Grand Ave",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "1375 Grand Ave",
+                "Ste 101",
+                "Piedmont, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Sarah Baldwin DMD",
+        "phone": "+15102511962",
+        "rating": 4.0,
+        "review_count": 92,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sarah-baldwin-dmd-piedmont-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tala-aziz-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8561017128863,
+            "longitude": -122.25652819167
+        },
+        "display_phone": "(510) 548-4084",
+        "distance": 6779.280919315138,
+        "id": "5o8TzLuCX5Yr24v-nxKDMQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VkDsbUmmToV-2AclrvBAow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 525",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 525",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Tala Aziz, DDS",
+        "phone": "+15105484084",
+        "rating": 4.5,
+        "review_count": 37,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tala-aziz-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laurie-shepherd-dds-oakland",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82581,
+            "longitude": -122.20985
+        },
+        "display_phone": "(510) 339-1045",
+        "distance": 6388.606517340426,
+        "id": "F0O9OITLsQl5HvOJOy1KFw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZyecrX0NwCWnzDODhOo1nA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2087 Mountain Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "2087 Mountain Blvd",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Laurie Shepherd, DDS",
+        "phone": "+15103391045",
+        "rating": 5.0,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laurie-shepherd-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "berkeley-perio-and-dental-implants-berkeley-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856049,
+            "longitude": -122.256449
+        },
+        "display_phone": "(510) 843-6341",
+        "distance": 6775.190178918171,
+        "id": "S21laTle2hWgZc68sSd_vg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nIYlzgFtvbN3xWIHm3QQEA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 403",
+            "address3": null,
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 403",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Berkeley Perio & Dental Implants",
+        "phone": "+15108436341",
+        "rating": 4.5,
+        "review_count": 47,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/berkeley-perio-and-dental-implants-berkeley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orinda-orthodontics-orinda-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88062,
+            "longitude": -122.18093
+        },
+        "display_phone": "(925) 253-4900",
+        "distance": 401.86354419766616,
+        "id": "2AjNZx_goQHgIcVeMzzaCA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jXi2EvER40c496XNE0-iTw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "Ste 1",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Ste 1",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Orinda Orthodontics",
+        "phone": "+19252534900",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orinda-orthodontics-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amin-samadian-dds-dion-health-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8819703,
+            "longitude": -122.1879525
+        },
+        "display_phone": "(925) 254-2360",
+        "distance": 308.5150605578397,
+        "id": "L6p_rwPsbohKzxCw4gdW_w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3z6LXg6YBXjDpXFaTVPdlQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "23 Orinda Way",
+            "address2": "Ste 301",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "23 Orinda Way",
+                "Ste 301",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Amin Samadian, DDS - Dion Health",
+        "phone": "+19252542360",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amin-samadian-dds-dion-health-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amirali-rahmatian-dds-berkeley-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85607,
+            "longitude": -122.25611
+        },
+        "display_phone": "(510) 848-7239",
+        "distance": 6751.700298721627,
+        "id": "aoSH-ivDwBgYB8Sp5ginRQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r59H94hNkkk4WF968vhvOQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 502",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 502",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Amirali Rahmatian, DDS",
+        "phone": "+15108487239",
+        "rating": 5.0,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amirali-rahmatian-dds-berkeley-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "yuko-c-nakamura-md-lafayette",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "laser_hair_removal",
+                "title": "Laser Hair Removal"
+            },
+            {
+                "alias": "medicalspa",
+                "title": "Medical Spas"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8867704,
+            "longitude": -122.118096
+        },
+        "display_phone": "(925) 283-1212",
+        "distance": 5961.322408149144,
+        "id": "zZK61_fNycH9l_X3P8ofkw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nyriPydCgmaSGwmGiJeYow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 7",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 7",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Yuko C Nakamura, MD",
+        "phone": "+19252831212",
+        "rating": 5.0,
+        "review_count": 17,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/yuko-c-nakamura-md-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-j-martin-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8892593383789,
+            "longitude": -122.122840881348
+        },
+        "display_phone": "(925) 283-6564",
+        "distance": 5600.611080064647,
+        "id": "tfnHQ8Nysa2GX0BK64XY6w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jBd-vI-HnCWStACjdPE26g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "938 Dewing Ave",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "938 Dewing Ave",
+                "Ste 2",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "David J Martin, DDS",
+        "phone": "+19252836564",
+        "rating": 5.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-j-martin-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kristi-doberenz-dds-orinda-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.87694,
+            "longitude": -122.1808
+        },
+        "display_phone": "(925) 254-3725",
+        "distance": 525.0534422308024,
+        "id": "_70FijwFaqrBodcI8SoTfw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4LvQfAT_Wt9aZEev_QYIiA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8 Camino Encinas",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "8 Camino Encinas",
+                "Ste 110",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Kristi Doberenz, DDS",
+        "phone": "+19252543725",
+        "rating": 3.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kristi-doberenz-dds-orinda-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "piedmont-dental-piedmont",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82056,
+            "longitude": -122.24452
+        },
+        "display_phone": "(510) 652-2911",
+        "distance": 8397.896578572503,
+        "id": "WOfFVr5QRm2O_B4zdqQW6w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NRnVbR1TS87AMLsCaAA4WA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1331 Grand Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "1331 Grand Ave",
+                "Piedmont, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Piedmont Dental",
+        "phone": "+15106522911",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/piedmont-dental-piedmont?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "orinda-hills-orthodontics-orinda",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88357,
+            "longitude": -122.18393
+        },
+        "display_phone": "(925) 254-4568",
+        "distance": 402.01278114420927,
+        "id": "jykUIzXwc4sTmLoGdJBVhg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yTsbWzshW2w8BM727qDoZQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "15 Altarinda Rd",
+            "address2": "Ste 104A",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "15 Altarinda Rd",
+                "Ste 104A",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Orinda Hills Orthodontics",
+        "phone": "+19252544568",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/orinda-hills-orthodontics-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gregory-a-young-dds-oakland-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8298988342285,
+            "longitude": -122.24828338623
+        },
+        "display_phone": "(510) 655-0445",
+        "distance": 7851.062664718637,
+        "id": "0j85_0SMsOHVNnPDtU9zzA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0QcuFpdtV7aXaJYxsHKMzg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4341 Piedmont Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "4341 Piedmont Ave",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Gregory A Young, DDS",
+        "phone": "+15106550445",
+        "rating": 4.5,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gregory-a-young-dds-oakland-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endospecialists-berkeley",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85607,
+            "longitude": -122.25611
+        },
+        "display_phone": "(510) 845-1900",
+        "distance": 6751.700298721627,
+        "id": "bkjy6oN3mlcnLQpYbl6j7g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZRthd-XcyBXg3eEhn7JqrA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 727",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 727",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Endospecialists",
+        "phone": "+15108451900",
+        "rating": 4.5,
+        "review_count": 38,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endospecialists-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "berkeley-dental-center-berkeley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8559436,
+            "longitude": -122.2563715
+        },
+        "display_phone": "(510) 848-3143",
+        "distance": 6773.55908828967,
+        "id": "RUyr3Fj_oRRgMyCtYcSGMA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4_RJSh36IZv0JNj5PvCXvg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 714",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 714",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Berkeley Dental Center",
+        "phone": "+15108483143",
+        "rating": 4.5,
+        "review_count": 41,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/berkeley-dental-center-berkeley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alameda-pediatric-dentistry-oakland-oakland",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8084621,
+            "longitude": -122.2535575
+        },
+        "display_phone": "(510) 763-5437",
+        "distance": 9950.434620672715,
+        "id": "kEYROiSmedG58vNwrZntow",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PI2rNmHmsohDRLtkeMcoDQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "401 Grand Ave",
+            "address2": "Ste 150",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "401 Grand Ave",
+                "Ste 150",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Alameda Pediatric Dentistry - Oakland",
+        "phone": "+15107635437",
+        "rating": 5.0,
+        "review_count": 45,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alameda-pediatric-dentistry-oakland-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "keith-gronbach-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8879138,
+            "longitude": -122.1339197
+        },
+        "display_phone": "(925) 283-4050",
+        "distance": 4609.619453606683,
+        "id": "TGLvEMCEDlWipr8U1-FXPg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Itb0558LNvSHIlAkdu6Y2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3799 Mt Diablo Blvd",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3799 Mt Diablo Blvd",
+                "Ste 200",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Keith Gronbach, DDS",
+        "phone": "+19252834050",
+        "rating": 4.5,
+        "review_count": 23,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/keith-gronbach-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "transcendentist-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85781,
+            "longitude": -122.24443
+        },
+        "display_phone": "(510) 841-3040",
+        "distance": 5737.948858371636,
+        "id": "kz7sPn4aQxm6bzxqSgae0g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DOnYFQ8ih2i_mI-nvUvNww/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3030 Ashby Ave",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "3030 Ashby Ave",
+                "Ste 101",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Transcendentist",
+        "phone": "+15108413040",
+        "rating": 4.0,
+        "review_count": 58,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/transcendentist-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "righellis-and-associates-oakland",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.823562,
+            "longitude": -122.207431
+        },
+        "display_phone": "(510) 482-0600",
+        "distance": 6564.876720091918,
+        "id": "quci3--DZuHQV7OOpM2zuw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RqNdZWemJ-m5HEnAwMTJCQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2220 Mountain Blvd",
+            "address2": "Ste 204",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "2220 Mountain Blvd",
+                "Ste 204",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Righellis & Associates",
+        "phone": "+15104820600",
+        "rating": 4.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/righellis-and-associates-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mary-h-smith-dds-a-professional-corporation-orinda-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.880615234375,
+            "longitude": -122.180931091309
+        },
+        "display_phone": "(925) 254-0824",
+        "distance": 401.03151973262595,
+        "id": "1kHPMAvuptpREMJzS_B3Qw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RzXGAIK7mrRYynhIV132pQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Ste 5",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Mary H Smith DDS, A Professional Corporation",
+        "phone": "+19252540824",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mary-h-smith-dds-a-professional-corporation-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kenneth-l-childers-dds-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8251109,
+            "longitude": -122.208764
+        },
+        "display_phone": "(510) 339-2792",
+        "distance": 6449.672229691876,
+        "id": "xA2BYf2S6tS0t87dnpu5tg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "6116 Merced Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "6116 Merced Ave",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Kenneth L Childers, DDS",
+        "phone": "+15103392792",
+        "rating": 4.5,
+        "review_count": 26,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kenneth-l-childers-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "andrew-m-gee-dds-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8375743,
+            "longitude": -122.2515855
+        },
+        "display_phone": "(510) 832-1022",
+        "distance": 7479.076932865101,
+        "id": "Sv2OydUT2uXsoUxfPGJnLQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Ste 105",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Andrew M Gee, DDS",
+        "phone": "+15108321022",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/andrew-m-gee-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ariane-r-terlet-dds-berkeley-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85607,
+            "longitude": -122.25611
+        },
+        "display_phone": "(510) 548-4084",
+        "distance": 6751.700298721627,
+        "id": "nAVqOhO0te9MbRx_WkKYYw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3ylwUwET8ZUykRDlYYXCnQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 525",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 525",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Ariane R Terlet, DDS",
+        "phone": "+15105484084",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ariane-r-terlet-dds-berkeley-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vibhuti-patel-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.890206,
+            "longitude": -122.123587
+        },
+        "display_phone": "(925) 284-7021",
+        "distance": 5548.862780399029,
+        "id": "cJHBrIRvI21lKzHw0_fAhg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "963 Dewing Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "963 Dewing Ave",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Vibhuti Patel, DDS",
+        "phone": "+19252847021",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vibhuti-patel-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "moraga-pediatric-dentistry-moraga",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8567941007609,
+            "longitude": -122.123933106003
+        },
+        "display_phone": "(925) 247-0193",
+        "distance": 5986.992572431416,
+        "id": "wz5BR3s8Wko4Vy_TJDhoQg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4A7B4wecB3l7ecgQJqO0AA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "533 Moraga Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "533 Moraga Rd",
+                "Ste 100",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Moraga Pediatric Dentistry",
+        "phone": "+19252470193",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/moraga-pediatric-dentistry-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "doshi-meeta-m-dds-professional-dental-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 843-9572",
+        "distance": 6751.700298721627,
+        "id": "AqSfXpdhCol3YUWt9uU-uA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 406",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 406",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Doshi Meeta M DDS Professional Dental",
+        "phone": "+15108439572",
+        "rating": 5.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/doshi-meeta-m-dds-professional-dental-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endo-care-group-orinda",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8808375,
+            "longitude": -122.1857961
+        },
+        "display_phone": "(925) 254-7669",
+        "distance": 161.24193601635605,
+        "id": "JissVpAwxmq3SKHF1YkvVA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Orinda Way",
+            "address2": "",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "10 Orinda Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Endo Care Group",
+        "phone": "+19252547669",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endo-care-group-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "the-dental-touch-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8282717265368,
+            "longitude": -122.250206090773
+        },
+        "display_phone": "(510) 658-0110",
+        "distance": 8085.735992445735,
+        "id": "n7M0OP1cJVb2TTJXlxKDfw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mN3Mbsmg-nfkFsuyEhVwhg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4215 Piedmont Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "4215 Piedmont Ave",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "The Dental Touch",
+        "phone": "+15106580110",
+        "rating": 3.5,
+        "review_count": 57,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/the-dental-touch-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "david-a-benson-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 843-0451",
+        "distance": 6751.700298721627,
+        "id": "isrMVGB7FUHy6Eqf5DnKBg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 502",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 502",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "David A Benson, DDS",
+        "phone": "+15108430451",
+        "rating": 4.0,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/david-a-benson-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lamorinda-tooth-buds-lafayette",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88768,
+            "longitude": -122.11698
+        },
+        "display_phone": "(925) 385-8051",
+        "distance": 6085.691224127169,
+        "id": "FeXDCmorZOUldiPUGbSK5Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n0HL6gBpNQOIpiJwAMZB-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3501 School St",
+            "address2": null,
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3501 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Lamorinda Tooth Buds",
+        "phone": "+19253858051",
+        "rating": 4.5,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lamorinda-tooth-buds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "contemporary-periodontics-and-dental-implants-oakland-3",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83757,
+            "longitude": -122.25157
+        },
+        "display_phone": "(510) 923-0699",
+        "distance": 7479.076932865101,
+        "id": "5vrEY38z4fPoYKsaLJ9Igg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IGXB0fyiReXyku2QtiBX0g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Ste 105",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Contemporary Periodontics & Dental Implants",
+        "phone": "+15109230699",
+        "rating": 4.0,
+        "review_count": 31,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/contemporary-periodontics-and-dental-implants-oakland-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "matthew-t-herrington-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 283-1144",
+        "distance": 5918.452184545523,
+        "id": "n9E1lvQRUQg8XRBjaBO_gQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 8",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 8",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Matthew T Herrington, DDS",
+        "phone": "+19252831144",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/matthew-t-herrington-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "montclair-smile-design-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8258575,
+            "longitude": -122.2087181
+        },
+        "display_phone": "(510) 339-0277",
+        "distance": 6358.297468516356,
+        "id": "MfOL3IqBHiINtk5olBaOlg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4FGn7oLVRM2PwMrE35ucCA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6200 Antioch St",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "6200 Antioch St",
+                "Ste 201",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Montclair Smile Design",
+        "phone": "+15103390277",
+        "rating": 4.0,
+        "review_count": 32,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/montclair-smile-design-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "charles-w-ruefenacht-dds-innovative-dental-solutions-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8877336,
+            "longitude": -122.1169574
+        },
+        "display_phone": "(925) 284-2203",
+        "distance": 6070.591668188577,
+        "id": "tM_YBpSya3BllSDiBlZthQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gVuRYWJSxXyBKGO2K2Z2sA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3509 School St",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3509 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Charles W Ruefenacht, DDS - Innovative Dental Solutions",
+        "phone": "+19252842203",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/charles-w-ruefenacht-dds-innovative-dental-solutions-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "piedmont-oaks-dental-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "teethwhitening",
+                "title": "Teeth Whitening"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8298168,
+            "longitude": -122.2483735
+        },
+        "display_phone": "(510) 654-6523",
+        "distance": 7850.401495791617,
+        "id": "kr-gcD4Kut_xjg7cw33Pjg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O5Ok08PU0KiKxEY-lM428w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "4341 Piedmont Ave",
+            "address2": "Ste 1",
+            "address3": null,
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "4341 Piedmont Ave",
+                "Ste 1",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Piedmont Oaks Dental",
+        "phone": "+15106546523",
+        "price": "$$",
+        "rating": 4.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/piedmont-oaks-dental-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "endocare-orinda-orinda",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8808375,
+            "longitude": -122.1857961
+        },
+        "display_phone": "(925) 254-7669",
+        "distance": 161.24193601635605,
+        "id": "ked5nU8ipY0UYPjIEo18sw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "10 Orinda Way",
+            "address2": "",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "10 Orinda Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "EndoCare - Orinda",
+        "phone": "+19252547669",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/endocare-orinda-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rockridge-dental-oakland",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8439255,
+            "longitude": -122.2518845
+        },
+        "display_phone": "(510) 653-6677",
+        "distance": 7090.708503627407,
+        "id": "lAqeLgRmDHKo4s5gwPBQPA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eOqzxwpkS0t1viy2oV3jfg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5655 College Ave",
+            "address2": "Ste 312",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5655 College Ave",
+                "Ste 312",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Rockridge Dental",
+        "phone": "+15106536677",
+        "rating": 4.0,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rockridge-dental-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lakeshore-family-dentistry-oakland-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8108978,
+            "longitude": -122.244061
+        },
+        "display_phone": "(510) 444-4331",
+        "distance": 9243.884544888338,
+        "id": "cb3ZSlEQPgeN8SQJ63RT6Q",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Nv1NChkqTAM4ZOGoNOqYpA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3309 Lakeshore Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3309 Lakeshore Ave",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Lakeshore Family Dentistry",
+        "phone": "+15104444331",
+        "rating": 4.5,
+        "review_count": 34,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lakeshore-family-dentistry-oakland-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "frank-r-helm-dmd-msd-oakland-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8186683654785,
+            "longitude": -122.245109558105
+        },
+        "display_phone": "(510) 653-2205",
+        "distance": 8592.026704239863,
+        "id": "ffZJrIAhWHyS8sUFc7kciQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iUvrqVt6iqvZBfDeqmLckQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3931 Grand Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3931 Grand Ave",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Frank R Helm, DMD, MSD",
+        "phone": "+15106532205",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/frank-r-helm-dmd-msd-oakland-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "raj-talwar-dds-lafayette-3",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.887834,
+            "longitude": -122.118668
+        },
+        "display_phone": "(925) 283-3305",
+        "distance": 5927.7093513133395,
+        "id": "sqOmyUzhogY9e66u7yoUZw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q153FsPvFHzLrAjXd-NULg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "919 Moraga Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "919 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Raj Talwar, DDS",
+        "phone": "+19252833305",
+        "rating": 5.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/raj-talwar-dds-lafayette-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "caroline-peterson-dmd-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83757,
+            "longitude": -122.25157
+        },
+        "display_phone": "(510) 654-2226",
+        "distance": 7479.076932865101,
+        "id": "zO9-3BTJIRJZAtmJ0FEpVw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "Ste 203",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Ste 203",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Caroline Peterson,DMD",
+        "phone": "+15106542226",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/caroline-peterson-dmd-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bradley-a-irving-dds-oakland-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8251109,
+            "longitude": -122.208764
+        },
+        "display_phone": "(510) 339-1250",
+        "distance": 6449.672229691876,
+        "id": "reGWiaL9qHXRCq_x52Eung",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WUy58b6vteq0osw8EwGUjQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6116 Merced Ave",
+            "address2": "Ste C",
+            "address3": "Montclair Orthodontics",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "6116 Merced Ave",
+                "Ste C",
+                "Montclair Orthodontics",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Bradley A Irving, DDS",
+        "phone": "+15103391250",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bradley-a-irving-dds-oakland-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scott-d-lothamer-dds-moraga-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83211,
+            "longitude": -122.12786
+        },
+        "display_phone": "(925) 376-4602",
+        "distance": 7353.355074393594,
+        "id": "jXrt10OV29h_iGs8PsUEww",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NKtctwQxIH_CV1PdN9v_Ew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1030 Country Club Dr",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1030 Country Club Dr",
+                "Ste F",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Scott D. Lothamer, DDS",
+        "phone": "+19253764602",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scott-d-lothamer-dds-moraga-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "arnold-h-brokstein-dds-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.823458,
+            "longitude": -122.206873
+        },
+        "display_phone": "(510) 482-5700",
+        "distance": 6561.73989353304,
+        "id": "LvhhBoPrBa6nJ-A5zv2fng",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HM4lQOTfdgDsu8Z6FtA1NA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2220 Mountain Blvd",
+            "address2": "Ste 206",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "2220 Mountain Blvd",
+                "Ste 206",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Arnold H Brokstein, DDS",
+        "phone": "+15104825700",
+        "rating": 3.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/arnold-h-brokstein-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "eric-martin-dds-ms-lafayette",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8866775,
+            "longitude": -122.1184705
+        },
+        "display_phone": "(925) 283-8101",
+        "distance": 5927.420950396909,
+        "id": "ColwmppH_s2Fx1WuDXxPFg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6hV03EP7U_Gdc3e5H0ll-Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 6",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 6",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Eric Martin DDS, MS",
+        "phone": "+19252838101",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/eric-martin-dds-ms-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jess-santucci-dds-orinda",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8846482,
+            "longitude": -122.1919236
+        },
+        "display_phone": "(925) 254-4633",
+        "distance": 767.1010908088871,
+        "id": "t-3SiGiBUQka3hjX_EDqyg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JsfB3sR027vnnpQFeiy1Hg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "61 Avenida De Orinda",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "61 Avenida De Orinda",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Jess Santucci, DDS",
+        "phone": "+19252544633",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jess-santucci-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-h-kim-dds-lafayette",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8871737,
+            "longitude": -122.1183633
+        },
+        "display_phone": "(925) 284-9404",
+        "distance": 5943.888650944688,
+        "id": "xtLp1h3QfzeLVR1ypH0u2g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w_0H-3KoEklzFEjq-sOHJg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "901 Moraga Rd",
+            "address2": "Ste B",
+            "address3": "Family & Cosmetic Dental Care",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "901 Moraga Rd",
+                "Ste B",
+                "Family & Cosmetic Dental Care",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "John H Kim, DDS",
+        "phone": "+19252849404",
+        "rating": 4.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-h-kim-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "indu-sharma-dds-berkeley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8549614,
+            "longitude": -122.2580872
+        },
+        "display_phone": "(510) 843-4450",
+        "distance": 6921.747191460415,
+        "id": "2_SgL_DsZl4Tu1f0Zngoew",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Colby St",
+            "address2": "Ste 302",
+            "address3": "Berkeley Family Dental",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "3000 Colby St",
+                "Ste 302",
+                "Berkeley Family Dental",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Indu Sharma, DDS",
+        "phone": "+15108434450",
+        "rating": 3.5,
+        "review_count": 38,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/indu-sharma-dds-berkeley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "koopah-and-koopah-inc-orinda-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8804608,
+            "longitude": -122.180992
+        },
+        "display_phone": "(925) 254-4877",
+        "distance": 397.0626143724448,
+        "id": "FF3E8BR0riiSblhIh4kPpA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bRaPVa1QAyYLqhQ8rdNgGg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "Ste 6",
+            "address3": null,
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Ste 6",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Koopah & Koopah, Inc.",
+        "phone": "+19252544877",
+        "rating": 4.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/koopah-and-koopah-inc-orinda-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pirnazar-noushin-dds-piedmont",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82763,
+            "longitude": -122.25127
+        },
+        "display_phone": "(510) 428-2003",
+        "distance": 8200.93037546105,
+        "id": "4aN_-eWe0XLW7pxO45yHxw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "4185 Piedmont Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "4185 Piedmont Ave",
+                "Piedmont, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Pirnazar Noushin, DDS",
+        "phone": "+15104282003",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pirnazar-noushin-dds-piedmont?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "donald-k-ruddell-dds-oakland",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8093452453613,
+            "longitude": -122.25732421875
+        },
+        "display_phone": "(510) 452-1068",
+        "distance": 10076.828271340013,
+        "id": "dwuxowk26zEDal5noWFCqw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oENPPasPsZYXdByS0iTrtw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "298 Grand Ave",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "298 Grand Ave",
+                "Ste 200",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Donald K Ruddell, DDS",
+        "phone": "+15104521068",
+        "rating": 4.5,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/donald-k-ruddell-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hata-leslie-dds-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83757,
+            "longitude": -122.25157
+        },
+        "display_phone": "(510) 653-7012",
+        "distance": 7479.076932865101,
+        "id": "dIRVZj2LIphHHgQRuZ8s7w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "Ste 106",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Ste 106",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Hata Leslie,DDS",
+        "phone": "+15106537012",
+        "rating": 4.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hata-leslie-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ernest-a-kahl-dds-orinda",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8807875,
+            "longitude": -122.1857261
+        },
+        "display_phone": "(925) 254-2318",
+        "distance": 151.5344580180559,
+        "id": "IjjZqTSRrgzlXm-0rfR6Tg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "6 Orinda Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "6 Orinda Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Ernest A Kahl , DDS",
+        "phone": "+19252542318",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ernest-a-kahl-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dastmalchi-yass-dds-lafayette",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8877176,
+            "longitude": -122.1168064
+        },
+        "display_phone": "(925) 299-0193",
+        "distance": 6079.1210397247805,
+        "id": "VVXnUlbsuySPHWdFq7lOdA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9QGgUgRLIPxTil1KiLo0cg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3505 School St",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3505 School St",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Dastmalchi Yass, DDS",
+        "phone": "+19252990193",
+        "rating": 4.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dastmalchi-yass-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "william-tennant-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 848-3143",
+        "distance": 6751.700298721627,
+        "id": "24PXTht4zCYVqsAU5veYgA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YOtpyCZIXTOhdU4Gq9tIvQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 714",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 714",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "William Tennant, DDS",
+        "phone": "+15108483143",
+        "rating": 5.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/william-tennant-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "glenn-m-fujinaka-dds-oakland-2",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8187799,
+            "longitude": -122.25245
+        },
+        "display_phone": "(510) 547-6611",
+        "distance": 9002.21898528509,
+        "id": "ReeFyd_GMy4Aww9ZBibmWA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a0cWIP5uK4RQ-6KMtg7etw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "170 Santa Clara Ave",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "170 Santa Clara Ave",
+                "Ste 201",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Glenn M Fujinaka, DDS",
+        "phone": "+15105476611",
+        "rating": 4.5,
+        "review_count": 20,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/glenn-m-fujinaka-dds-oakland-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jon-e-sammann-dds-lafayette",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 284-4866",
+        "distance": 5918.452184545523,
+        "id": "BF7xCX9OV8223Undu6qmuQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DhdePxGpXxwNo0OIL_M2hA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 9",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 9",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Jon E Sammann, DDS",
+        "phone": "+19252844866",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jon-e-sammann-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ted-low-dds-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8130792,
+            "longitude": -122.2471099
+        },
+        "display_phone": "(510) 893-3650",
+        "distance": 9188.03289253047,
+        "id": "HYPXKLBLkmp4wOea_2jIQA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8SFRqYRLrR57UMAclqZsIw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3333 Grand Ave",
+            "address2": "Ste 201",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3333 Grand Ave",
+                "Ste 201",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Ted Low, DDS",
+        "phone": "+15108933650",
+        "rating": 4.0,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ted-low-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "renaissance-dental-group-lafayette",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "sleepspecialists",
+                "title": "Sleep Specialists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8888893,
+            "longitude": -122.11866
+        },
+        "display_phone": "(925) 283-0338",
+        "distance": 5946.7629152602,
+        "id": "D3lPNYNuN5j5e639VvSfww",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "935 Moraga Rd",
+            "address2": "Ste 101",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "935 Moraga Rd",
+                "Ste 101",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Renaissance Dental Group",
+        "phone": "+19252830338",
+        "rating": 4.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/renaissance-dental-group-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fatima-beheshti-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.887562,
+            "longitude": -122.118553
+        },
+        "display_phone": "(925) 299-9922",
+        "distance": 5939.486936449952,
+        "id": "OlPG0a1-Xz69KZbUVsf9Zg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "911 Moraga Rd",
+            "address2": "Ste 102",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "911 Moraga Rd",
+                "Ste 102",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Fatima Beheshti, DDS",
+        "phone": "+19252999922",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fatima-beheshti-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jessica-c-schellinck-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8866994,
+            "longitude": -122.1186282
+        },
+        "display_phone": "(925) 283-5454",
+        "distance": 5913.995588773034,
+        "id": "db62KBCGpULojKb_ZY_TNg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LfezK_IVpX3-URK1bDPNfw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 1",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 1",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Jessica C Schellinck, DDS",
+        "phone": "+19252835454",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jessica-c-schellinck-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anthony-dailley-dds-dailley-dental-care-berkeley-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85607,
+            "longitude": -122.25611
+        },
+        "display_phone": "(510) 883-3454",
+        "distance": 6751.700298721627,
+        "id": "dS66k_8iiPyJvaOnqSTEgg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WsPDURxMYpFoaR5n28ENgQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 302",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 302",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Anthony Dailley, DDS - Dailley Dental Care",
+        "phone": "+15108833454",
+        "rating": 4.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anthony-dailley-dds-dailley-dental-care-berkeley-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-f-swimmer-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88733,
+            "longitude": -122.11852
+        },
+        "display_phone": "(925) 283-0114",
+        "distance": 5947.3197477538915,
+        "id": "JeQ2F_fOj6YzlvLdIdeB_g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "907 Moraga Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "907 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Mark F Swimmer, DDS",
+        "phone": "+19252830114",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-f-swimmer-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-e-ogro-dds-orinda",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88165,
+            "longitude": -122.18586
+        },
+        "display_phone": "(925) 254-2133",
+        "distance": 195.79985971398006,
+        "id": "jvHQW5sRJGVMKzXbK4G4gw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LV27fToxeUlmIi9uXAxRhQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5 Santa Maria Way",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "5 Santa Maria Way",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "John E Ogro, DDS",
+        "phone": "+19252542133",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-e-ogro-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lauren-yasuda-rainey-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8569488525391,
+            "longitude": -122.255935668945
+        },
+        "display_phone": "(510) 845-7003",
+        "distance": 6695.067373875506,
+        "id": "8YR0oZPkDo9PO26XTGG_eA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vxKdVEn3EjBCbzM8RTMbHw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2519 Ashby Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2519 Ashby Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Lauren Yasuda Rainey, DDS",
+        "phone": "+15108457003",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lauren-yasuda-rainey-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nooshan-mirhadi-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85875,
+            "longitude": -122.24414
+        },
+        "display_phone": "(510) 849-1006",
+        "distance": 5672.5717584559425,
+        "id": "NOlM2U_CTLBb6bV2juK89w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2914-A Domingo Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2914-A Domingo Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Nooshan Mirhadi, DDS",
+        "phone": "+15108491006",
+        "rating": 4.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nooshan-mirhadi-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "reinaldo-negron-dds-oakland",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82069,
+            "longitude": -122.24447
+        },
+        "display_phone": "(510) 652-2603",
+        "distance": 8381.907612368082,
+        "id": "07izkfIP9ZwSnXv0zAs2vg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/otJ5xjCOw26lJ2JGlOpdzQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1333 Grand Ave",
+            "address2": "",
+            "address3": "Piedmont Pediatric Dentistry",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "1333 Grand Ave",
+                "Piedmont Pediatric Dentistry",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Reinaldo Negron, DDS",
+        "phone": "+15106522603",
+        "rating": 3.5,
+        "review_count": 29,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/reinaldo-negron-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "contemporary-periodontics-and-dental-implants-berkeley",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8558167,
+            "longitude": -122.2565058
+        },
+        "display_phone": "(510) 923-0699",
+        "distance": 6789.972126409224,
+        "id": "yyKhQxJni9tZx3WvfyG0QA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 501",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 501",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Contemporary Periodontics & Dental Implants",
+        "phone": "+15109230699",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/contemporary-periodontics-and-dental-implants-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "troy-a-lauritzen-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88733,
+            "longitude": -122.11852
+        },
+        "display_phone": "(925) 283-0114",
+        "distance": 5947.3197477538915,
+        "id": "oy5Yj-e0P00ZXnD9W8qu9A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "907 Moraga Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "907 Moraga Rd",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Troy A Lauritzen, DDS",
+        "phone": "+19252830114",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/troy-a-lauritzen-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mona-moy-dds-family-dentistry-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8233857,
+            "longitude": -122.2076924
+        },
+        "display_phone": "(510) 482-2799",
+        "distance": 6590.375300664728,
+        "id": "bSgHIoktKUmaDD8QWGB91w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dghaveVe92H0XIIQW1vCSQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2220 Mountain Blvd",
+            "address2": "Ste 205",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "2220 Mountain Blvd",
+                "Ste 205",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Mona Moy, DDS - Family Dentistry",
+        "phone": "+15104822799",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mona-moy-dds-family-dentistry-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "howard-y-endo-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8568799,
+            "longitude": -122.25645
+        },
+        "display_phone": "(510) 549-0133",
+        "distance": 6735.434708924858,
+        "id": "DiYulIZ5VQ56SgF3EL3uEA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ulLqF0CO3_mzHUIVTm4cBQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2507 Ashby Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2507 Ashby Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Howard Y Endo, DDS",
+        "phone": "+15105490133",
+        "rating": 4.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/howard-y-endo-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "leticia-mendoza-sobel-dds-oakland",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82069,
+            "longitude": -122.24447
+        },
+        "display_phone": "",
+        "distance": 8381.907612368082,
+        "id": "mTiYEyCykTQt2TmpiOYQbQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y23t1HW8klfHKSK4AkXt2A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1333 Grand Ave",
+            "address2": "",
+            "address3": "Piedmont Pediatric Dentistry",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "1333 Grand Ave",
+                "Piedmont Pediatric Dentistry",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Leticia Mendoza-Sobel, DDS",
+        "phone": "",
+        "rating": 4.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/leticia-mendoza-sobel-dds-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jeffrey-f-culver-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85875,
+            "longitude": -122.24414
+        },
+        "display_phone": "(510) 849-4505",
+        "distance": 5672.5717584559425,
+        "id": "A8pjAzteHmHuPM015qnL3w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2914 Domingo Ave",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2914 Domingo Ave",
+                "Ste A",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Jeffrey F Culver,DDS",
+        "phone": "+15108494505",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jeffrey-f-culver-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "wake-ronald-yukio-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88659,
+            "longitude": -122.11869
+        },
+        "display_phone": "(925) 283-0280",
+        "distance": 5918.452184545523,
+        "id": "IttXWqZ4ziw5fOXtsa4qiw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 2",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 2",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Wake Ronald Yukio, DDS",
+        "phone": "+19252830280",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/wake-ronald-yukio-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "grand-lake-dental-oakland",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.814854,
+            "longitude": -122.245605
+        },
+        "display_phone": "(510) 208-3012",
+        "distance": 8966.243196350948,
+        "id": "epNeeZfFvHcspNrSu4Ug2g",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/82lzewX6dvENKhXO6cQ2Jw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3540 Grand Ave",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3540 Grand Ave",
+                "Ste 100",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Grand Lake Dental",
+        "phone": "+15102083012",
+        "rating": 4.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/grand-lake-dental-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lindsey-koida-dds-oakland-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8430328369141,
+            "longitude": -122.24666595459
+        },
+        "display_phone": "(510) 652-1517",
+        "distance": 6763.635292042654,
+        "id": "3Iue0SfiKirhHybci4U97Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "5700 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5700 Broadway",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Lindsey Koida, DDS",
+        "phone": "+15106521517",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lindsey-koida-dds-oakland-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "keith-r-chertok-dds-berkeley",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85658,
+            "longitude": -122.25454
+        },
+        "display_phone": "(510) 548-0150",
+        "distance": 6594.11447355375,
+        "id": "pdB-O9DmWHdfYyh3BbZt9w",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2620 Ashby Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2620 Ashby Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Keith R Chertok,DDS",
+        "phone": "+15105480150",
+        "rating": 4.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/keith-r-chertok-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sayegh-robert-m-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88659,
+            "longitude": -122.11869
+        },
+        "display_phone": "(925) 284-4744",
+        "distance": 5918.452184545523,
+        "id": "V8sPJfjiCE36OK-C1vlXBA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 14",
+            "address3": null,
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 14",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Sayegh Robert M DDS",
+        "phone": "+19252844744",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sayegh-robert-m-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rockridge-smiles-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83757,
+            "longitude": -122.25157
+        },
+        "display_phone": "(510) 654-2226",
+        "distance": 7479.076932865101,
+        "id": "itYpvoY8ZGlE_btHAeawWg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/09XF-OoCHhD2lE5qFuvv4A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "5277 College Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "5277 College Ave",
+                "Oakland, CA 94618"
+            ],
+            "state": "CA",
+            "zip_code": "94618"
+        },
+        "name": "Rockridge Smiles",
+        "phone": "+15106542226",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rockridge-smiles-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "highland-dentistry-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.89320617,
+            "longitude": -122.11506267
+        },
+        "display_phone": "(925) 298-5386",
+        "distance": 6337.606723396254,
+        "id": "oVwfEdLpnIEha2UVH1egDA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wN-xeB3XmrR23CuiFlUQAA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3466 Mt Diablo Blvd",
+            "address2": "Ste C207",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "3466 Mt Diablo Blvd",
+                "Ste C207",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Highland Dentistry",
+        "phone": "+19252985386",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/highland-dentistry-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robin-t-levi-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 548-5692",
+        "distance": 6751.700298721627,
+        "id": "v0gwrxq_PSVbefBv70uSjQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 525",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 525",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Robin T Levi,DDS",
+        "phone": "+15105485692",
+        "rating": 3.5,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robin-t-levi-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amir-kolini-dds-moraga",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8324966430664,
+            "longitude": -122.128303527832
+        },
+        "display_phone": "(925) 376-0322",
+        "distance": 7275.115690321557,
+        "id": "n_dCd0cNCe3Spdb8_zAQeQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1002 Country Club Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1002 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Amir Kolini, DDS",
+        "phone": "+19253760322",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amir-kolini-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kian-p-tavallei-dds-moraga",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832493,
+            "longitude": -122.128296
+        },
+        "display_phone": "(925) 376-0322",
+        "distance": 7275.711639645655,
+        "id": "21XizdQRiVGUUmyT_Scugg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1002 Country Club Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1002 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Kian P Tavallei, DDS",
+        "phone": "+19253760322",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kian-p-tavallei-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "whitney-johnson-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856072,
+            "longitude": -122.256115
+        },
+        "display_phone": "(510) 845-3295",
+        "distance": 6747.231645028528,
+        "id": "zRCsGZs-lGQhybZe5g-sKQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 727",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 727",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Whitney Johnson, DDS",
+        "phone": "+15108453295",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/whitney-johnson-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joanne-v-lagos-dds-msph-oakland",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.81721,
+            "longitude": -122.25311
+        },
+        "display_phone": "(510) 444-0583",
+        "distance": 9160.051821115752,
+        "id": "k49dBxbnCQxt1CcqhjC1og",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sr2W2lGKJCACOTKL82d2Fg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "195 Perry Pl",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "195 Perry Pl",
+                "Oakland, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Joanne V. Lagos, DDS, MSPH",
+        "phone": "+15104440583",
+        "rating": 4.5,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joanne-v-lagos-dds-msph-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "daniel-j-cobb-dds-piedmont",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82069,
+            "longitude": -122.24447
+        },
+        "display_phone": "(510) 652-1702",
+        "distance": 8381.30750738089,
+        "id": "UzYO-OgZ7yA2k5TKGp85QA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YeYu9B9C2zN_XXOCIk4ExQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1333 Grand Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "1333 Grand Ave",
+                "Piedmont, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Daniel J Cobb, DDS",
+        "phone": "+15106521702",
+        "rating": 4.0,
+        "review_count": 8,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/daniel-j-cobb-dds-piedmont?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "axelrode-orthodontics-moraga",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832728,
+            "longitude": -122.12805
+        },
+        "display_phone": "(925) 376-2800",
+        "distance": 7283.503443257337,
+        "id": "Qxi89qqDbaqJFepERZ0Mow",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WMwRc88DKOeFMnvp7zaGYA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1016 Country Club Dr",
+            "address2": null,
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1016 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Axelrode Orthodontics",
+        "phone": "+19253762800",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/axelrode-orthodontics-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "amos-arthur-dds-orinda",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.880615234375,
+            "longitude": -122.180931091309
+        },
+        "display_phone": "(925) 254-4877",
+        "distance": 401.03151973262595,
+        "id": "HkrviN4PVxRkvrV6c7v6vQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "96 Davis Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "96 Davis Rd",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Amos Arthur, DDS",
+        "phone": "+19252544877",
+        "rating": 4.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/amos-arthur-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "moraga-dental-care-moraga-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832495,
+            "longitude": -122.128303
+        },
+        "display_phone": "(925) 376-0322",
+        "distance": 7286.9098436374525,
+        "id": "eQ_lQDxuu_YfH9gg0bDTgA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PQD6nCZ0BEa7DdpeJ1Dh7g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1002 Country Club Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1002 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Moraga Dental Care",
+        "phone": "+19253760322",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/moraga-dental-care-moraga-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "iezman-robert-h-dds-berkeley",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 849-3613",
+        "distance": 6751.700298721627,
+        "id": "pUyiZLPQBG79sAWpHmD-Yw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Iezman Robert H, DDS",
+        "phone": "+15108493613",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/iezman-robert-h-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "osterman-orthodontics-lafayette",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 283-1921",
+        "distance": 5918.452184545523,
+        "id": "bXWXJXzDZA_Wlb9ACESQIg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NtiD8-DnlsegqcJ1dn_rxw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 3",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Osterman Orthodontics",
+        "phone": "+19252831921",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/osterman-orthodontics-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "michael-j-sayegh-dds-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.886589050293,
+            "longitude": -122.118682861328
+        },
+        "display_phone": "(925) 284-4744",
+        "distance": 5918.452184545523,
+        "id": "qghBuBYKhEqsbT9j5GpZgw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 14",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 14",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Michael J Sayegh,DDS",
+        "phone": "+19252844744",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/michael-j-sayegh-dds-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "felice-s-o-ryan-dds-oakland-2",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8238411,
+            "longitude": -122.2560196
+        },
+        "display_phone": "(510) 752-6823",
+        "distance": 8805.283068929362,
+        "id": "fsxfrV54RLqVxF1HHHm0rw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8-uv-3Xmz00ZxKJJFLAMbQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3779 Piedmont Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "3779 Piedmont Ave",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Felice S O'Ryan, DDS",
+        "phone": "+15107526823",
+        "rating": 4.0,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/felice-s-o-ryan-dds-oakland-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "piedmont-pediatric-dentistry-piedmont",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82069,
+            "longitude": -122.24447
+        },
+        "display_phone": "(510) 652-2603",
+        "distance": 8381.907612368082,
+        "id": "_vWGI0hDhtjcVV_MlHqJWA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E5Xax1buV6aa7S6HWPgyuA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1333 Grand Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "1333 Grand Ave",
+                "Piedmont, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Piedmont Pediatric Dentistry",
+        "phone": "+15106522603",
+        "rating": 2.5,
+        "review_count": 25,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/piedmont-pediatric-dentistry-piedmont?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "laura-l-halvorsen-dds-moraga",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.832802,
+            "longitude": -122.128366
+        },
+        "display_phone": "(925) 376-4626",
+        "distance": 7258.37312068589,
+        "id": "l_56y4tCp9rzZYJLBnYMYQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uX2nz131h1tJOvZXSdnKag/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1004 Country Club Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1004 Country Club Dr",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Laura L Halvorsen, DDS",
+        "phone": "+19253764626",
+        "rating": 4.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/laura-l-halvorsen-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "katsura-neil-m-dds-orinda",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8824882507324,
+            "longitude": -122.18578338623
+        },
+        "display_phone": "(925) 253-8190",
+        "distance": 277.9078193878549,
+        "id": "wSZgL72SESXCeQyU1XX7hQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3 Altarinda Rd",
+            "address2": "Ste 210",
+            "address3": "",
+            "city": "Orinda",
+            "country": "US",
+            "display_address": [
+                "3 Altarinda Rd",
+                "Ste 210",
+                "Orinda, CA 94563"
+            ],
+            "state": "CA",
+            "zip_code": "94563"
+        },
+        "name": "Katsura Neil M,DDS",
+        "phone": "+19252538190",
+        "rating": 2.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/katsura-neil-m-dds-orinda?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "victoria-dillingham-dds-lafayette-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88727,
+            "longitude": -122.134188
+        },
+        "display_phone": "(925) 283-1220",
+        "distance": 4573.331738406817,
+        "id": "9E3VVb0EXuh0-dOfe5yDhQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z19TL9o3TY-6Tnofz6lCTQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "915 Village Ctr",
+            "address2": null,
+            "address3": null,
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "915 Village Ctr",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "Victoria Dillingham, DDS",
+        "phone": "+19252831220",
+        "rating": 2.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/victoria-dillingham-dds-lafayette-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "scollard-michael-dds-piedmont",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82671,
+            "longitude": -122.24998
+        },
+        "display_phone": "(510) 655-8417",
+        "distance": 8201.35527401382,
+        "id": "lb5ZDWJJPCRNRV8V5tcF4g",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "42 Linda Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "42 Linda Ave",
+                "Piedmont, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Scollard Michael, DDS",
+        "phone": "+15106558417",
+        "rating": 4.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/scollard-michael-dds-piedmont?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "osterman-seth-dds-berkeley",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 849-3613",
+        "distance": 6751.700298721627,
+        "id": "9B1YN7593IdfRceae5O0kw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 408",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 408",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Osterman Seth, DDS",
+        "phone": "+15108493613",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/osterman-seth-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dailley-dental-care-berkeley",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.85607,
+            "longitude": -122.25611
+        },
+        "display_phone": "(510) 848-0114",
+        "distance": 6751.700298721627,
+        "id": "GXyHLp5cN4lj5rhfKbBi6A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 302",
+            "address3": null,
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 302",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Dailley Dental Care",
+        "phone": "+15108480114",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dailley-dental-care-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "patrick-pralle-dds-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(510) 540-0224",
+        "distance": 6751.700298721627,
+        "id": "GNkYs3dOUcpXyC7LA78H8A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 601",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 601",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Patrick Pralle, DDS",
+        "phone": "+15105400224",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/patrick-pralle-dds-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walcott-robt-c-dds-moraga",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.83305,
+            "longitude": -122.12781
+        },
+        "display_phone": "(925) 376-4246",
+        "distance": 7260.663556178551,
+        "id": "o3zqoAfsF2IMu9xrqA0VTw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1001 Country Club Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Moraga",
+            "country": "US",
+            "display_address": [
+                "1001 Country Club Dr",
+                "Ste A",
+                "Moraga, CA 94556"
+            ],
+            "state": "CA",
+            "zip_code": "94556"
+        },
+        "name": "Walcott Robt C DDS",
+        "phone": "+19253764246",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walcott-robt-c-dds-moraga?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jill-a-martenson-dds-piedmont",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.82056,
+            "longitude": -122.24452
+        },
+        "display_phone": "(510) 652-2911",
+        "distance": 8398.255437446573,
+        "id": "PL2Zc52Y3AdTLYxu9WysIQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CFkzWI7ALSW39NtD4Q2bAQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1331 Grand Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Piedmont",
+            "country": "US",
+            "display_address": [
+                "1331 Grand Ave",
+                "Piedmont, CA 94610"
+            ],
+            "state": "CA",
+            "zip_code": "94610"
+        },
+        "name": "Jill A Martenson, DDS",
+        "phone": "+15106522911",
+        "rating": 4.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jill-a-martenson-dds-piedmont?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "newbury-dental-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8114,
+            "longitude": -122.21256
+        },
+        "display_phone": "(510) 482-5300",
+        "distance": 7985.802809533628,
+        "id": "1y6p2H1z7mVDEfYfxxp4vw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vl7wCDprBg0UJsQ5vd6atg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1443 Leimert Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "1443 Leimert Blvd",
+                "Oakland, CA 94602"
+            ],
+            "state": "CA",
+            "zip_code": "94602"
+        },
+        "name": "Newbury Dental",
+        "phone": "+15104825300",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/newbury-dental-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "purnell-g-davis-general-dentistry-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8234519958496,
+            "longitude": -122.207275390625
+        },
+        "display_phone": "(510) 530-6321",
+        "distance": 6559.73638974533,
+        "id": "iaCd7MQPf5RjN1CwcXLgKA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XezJx4kHm7GLteEq0f0mFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2220 Mountain Blvd",
+            "address2": "",
+            "address3": "Ste 206 A",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "2220 Mountain Blvd",
+                "Ste 206 A",
+                "Oakland, CA 94611"
+            ],
+            "state": "CA",
+            "zip_code": "94611"
+        },
+        "name": "Purnell G. Davis General Dentistry",
+        "phone": "+15105306321",
+        "rating": 2.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/purnell-g-davis-general-dentistry-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "adelman-daniel-s-dntst-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856761932373,
+            "longitude": -122.257026672363
+        },
+        "display_phone": "(510) 548-4567",
+        "distance": 6798.106084309323,
+        "id": "jtER-rsI52UfxPyd9GP50A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2459 Ashby Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2459 Ashby Ave",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Adelman Daniel S Dntst",
+        "phone": "+15105484567",
+        "rating": 2.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/adelman-daniel-s-dntst-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "diabloview-family-dentists-lafayette",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.88659,
+            "longitude": -122.11869
+        },
+        "display_phone": "(925) 254-0084",
+        "distance": 5918.452184545523,
+        "id": "Uz0fx4gaaiSZZvTZP_9XFQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "895 Moraga Rd",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Lafayette",
+            "country": "US",
+            "display_address": [
+                "895 Moraga Rd",
+                "Ste 5",
+                "Lafayette, CA 94549"
+            ],
+            "state": "CA",
+            "zip_code": "94549"
+        },
+        "name": "DiabloView Family Dentists",
+        "phone": "+19252540084",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/diabloview-family-dentists-lafayette?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "baharak-tehrani-dds-walnut-creek",
+        "categories": [
+            {
+                "alias": "dentists",
+                "title": "Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.9284501397088,
+            "longitude": -122.188546657562
+        },
+        "display_phone": "(925) 930-7770",
+        "distance": 5394.18525835057,
+        "id": "e_l-Jqyi5xVeZo8SV1SKKA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "2987 N Main St",
+            "address2": null,
+            "address3": null,
+            "city": "Walnut Creek",
+            "country": "US",
+            "display_address": [
+                "2987 N Main St",
+                "Walnut Creek, CA 94597"
+            ],
+            "state": "CA",
+            "zip_code": "94597"
+        },
+        "name": "Baharak Tehrani, DDS",
+        "phone": "+19259307770",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/baharak-tehrani-dds-walnut-creek?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-lambing-dds-lambing-dental-oakland",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.8114051818848,
+            "longitude": -122.212562561035
+        },
+        "display_phone": "(510) 482-5300",
+        "distance": 7985.802809533628,
+        "id": "2NkqL4_wK4T_Q-C4w_pAFg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1443 Leimert Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Oakland",
+            "country": "US",
+            "display_address": [
+                "1443 Leimert Blvd",
+                "Oakland, CA 94602"
+            ],
+            "state": "CA",
+            "zip_code": "94602"
+        },
+        "name": "Robert Lambing, DDS - Lambing Dental",
+        "phone": "+15104825300",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-lambing-dds-lambing-dental-oakland?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "center-for-breath-treatment-berkeley",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 37.856071472168,
+            "longitude": -122.256118774414
+        },
+        "display_phone": "(415) 383-6038",
+        "distance": 6751.700298721627,
+        "id": "rxX_vZgkQuXyqnjTxyVbZA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nHPTEBUoiXyp-Ad1WEJsPQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2999 Regent St",
+            "address2": "Ste 302",
+            "address3": "",
+            "city": "Berkeley",
+            "country": "US",
+            "display_address": [
+                "2999 Regent St",
+                "Ste 302",
+                "Berkeley, CA 94705"
+            ],
+            "state": "CA",
+            "zip_code": "94705"
+        },
+        "name": "Center For Breath treatment",
+        "phone": "+14153836038",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/center-for-breath-treatment-berkeley?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]

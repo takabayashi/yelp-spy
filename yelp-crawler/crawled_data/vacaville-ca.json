@@ -1,0 +1,2919 @@
+[
+    {
+        "alias": "pena-adobe-dental-care-vacaville-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34402,
+            "longitude": -121.997324
+        },
+        "display_phone": "(707) 448-6456",
+        "distance": 2822.5517894941663,
+        "id": "QF7EEcRGT3MH2Q_MJiwQFw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OVrFMX_R4upvfloUjJ0oMA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "161 Butcher Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "161 Butcher Rd",
+                "Ste A",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Pena Adobe Dental Care",
+        "phone": "+17074486456",
+        "rating": 5.0,
+        "review_count": 64,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pena-adobe-dental-care-vacaville-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "kids-care-dental-and-orthodontics-vacaville-office-vacaville",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.362042,
+            "longitude": -121.9669418
+        },
+        "display_phone": "(707) 455-7001",
+        "distance": 499.44307231622406,
+        "id": "_xG4m0OT9lchVX_vfiojqw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p3MT_-bgEwg1srEGcrkCKQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "196 Nut Tree Pkwy",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "196 Nut Tree Pkwy",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Kids Care Dental & Orthodontics - Vacaville Office",
+        "phone": "+17074557001",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/kids-care-dental-and-orthodontics-vacaville-office-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sam-f-khoury-dmd-vacaville",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.334627,
+            "longitude": -121.954541
+        },
+        "display_phone": "(707) 451-1311",
+        "distance": 3131.6487947000405,
+        "id": "vh09ocV1tJW5o2LCvDxGyw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R3zKof--uGyObzoTZC_8ig/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Alamo Dr",
+            "address2": "Ste 206",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3000 Alamo Dr",
+                "Ste 206",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Sam F Khoury, DMD",
+        "phone": "+17074511311",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sam-f-khoury-dmd-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "gerald-p-kaban-dds-kaban-endodontics-vacaville",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3351468,
+            "longitude": -121.9545402
+        },
+        "display_phone": "(707) 689-5075",
+        "distance": 3080.9306233637585,
+        "id": "cvwvgAZMcYLjGLSCdaSCWA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/04kBmerkCeUX2ioKat8SqA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Alamo Dr",
+            "address2": "Ste 109",
+            "address3": "Creekside Professional Building",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3000 Alamo Dr",
+                "Ste 109",
+                "Creekside Professional Building",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Gerald P Kaban, DDS - Kaban Endodontics",
+        "phone": "+17076895075",
+        "rating": 5.0,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/gerald-p-kaban-dds-kaban-endodontics-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "creekside-family-dentistry-vacaville-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3638496398926,
+            "longitude": -121.954971313477
+        },
+        "display_phone": "(707) 446-7701",
+        "distance": 1531.0539029896886,
+        "id": "m1hdSDCjyP798ha2uoTvsQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Tt5C5YcZSKHTpJqTBr8DA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Burton Dr",
+            "address2": "Ste 230",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1350 Burton Dr",
+                "Ste 230",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Creekside Family Dentistry",
+        "phone": "+17074467701",
+        "rating": 4.5,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/creekside-family-dentistry-vacaville-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "martin-b-jackman-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.36208,
+            "longitude": -121.94924
+        },
+        "display_phone": "(707) 451-2982",
+        "distance": 1980.5081060040823,
+        "id": "_4iY_nQkC6Owwk7vQfMPBA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/f1u9ZU640W11EPea3f0XCA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "501 Nut Tree Ct",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "501 Nut Tree Ct",
+                "Ste B",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Martin B Jackman, DDS",
+        "phone": "+17074512982",
+        "rating": 5.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/martin-b-jackman-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-pediatric-dentistry-vacaville",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3640785,
+            "longitude": -121.9546432
+        },
+        "display_phone": "(707) 685-9819",
+        "distance": 1566.3490493593918,
+        "id": "TpjhX5rAGS1c2fWwYLEXfg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XpHF5p3atykZr1lB3eTBBA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1360 Burton Dr",
+            "address2": "Ste 120",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1360 Burton Dr",
+                "Ste 120",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Vacaville Pediatric Dentistry",
+        "phone": "+17076859819",
+        "rating": 4.5,
+        "review_count": 18,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-pediatric-dentistry-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "talwar-family-dentistry-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.33467,
+            "longitude": -121.95452
+        },
+        "display_phone": "(707) 449-8515",
+        "distance": 3125.279107086702,
+        "id": "sd0ppjHicl0O8ota5aBsJQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0WaDBxbPo3cNGR7SStxGaw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Alamo Dr",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3000 Alamo Dr",
+                "Ste 202",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Talwar Family Dentistry",
+        "phone": "+17074498515",
+        "rating": 5.0,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/talwar-family-dentistry-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-dental-care-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3627565,
+            "longitude": -121.9634478
+        },
+        "display_phone": "(707) 451-4100",
+        "distance": 801.1249218860718,
+        "id": "1fafPtB1qQXHgbGuLjwuLg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bwXut1dwJJ4GOmhmfsY5dg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2010 Harbison Dr",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2010 Harbison Dr",
+                "Ste C",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Vacaville Dental Care",
+        "phone": "+17074514100",
+        "rating": 3.5,
+        "review_count": 45,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-dental-care-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "i-emrah-basaran-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.335202,
+            "longitude": -121.954481
+        },
+        "display_phone": "(707) 446-1777",
+        "distance": 3078.0545699015547,
+        "id": "4-Ihv6CVPGrT71VMJNJUKg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KTUmc5i5dogsxdfvBZAoHw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Alamo Dr",
+            "address2": "Ste 103",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3000 Alamo Dr",
+                "Ste 103",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "I. Emrah Basaran, DDS",
+        "phone": "+17074461777",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/i-emrah-basaran-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vaca-valley-dental-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.33509,
+            "longitude": -121.97133
+        },
+        "display_phone": "(707) 449-3777",
+        "distance": 2714.8738529187813,
+        "id": "onLjU00cS4jdYX2gqRXw2g",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_rOieY2jcvNAgAq1yM3oWA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1980 Alamo Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1980 Alamo Dr",
+                "Ste A",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Vaca Valley Dental",
+        "phone": "+17074493777",
+        "rating": 4.5,
+        "review_count": 28,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vaca-valley-dental-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "compassionate-care-dental-vacaville-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3536834716797,
+            "longitude": -121.971168518066
+        },
+        "display_phone": "(707) 446-6236",
+        "distance": 625.1995037437159,
+        "id": "fg1rT1aTBXYiiyB7czynOw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q0S0pu82xR-kDhfyeQJT2Q/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "179 Elmira Rd",
+            "address2": "Ste H",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "179 Elmira Rd",
+                "Ste H",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Compassionate Care Dental",
+        "phone": "+17074466236",
+        "rating": 4.0,
+        "review_count": 33,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/compassionate-care-dental-vacaville-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bryan-c-scott-dmd-vacaville",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3341255187988,
+            "longitude": -121.954231262207
+        },
+        "display_phone": "(707) 451-2292",
+        "distance": 3198.5568372779726,
+        "id": "PidZHDSWyQmTTu-o_cjr9w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nRoOh3AN6vnflkaiChcqaQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2611 Nut Tree Rd",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2611 Nut Tree Rd",
+                "Ste F",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Bryan C Scott, DMD",
+        "phone": "+17074512292",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bryan-c-scott-dmd-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nicholas-d-esplin-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35497,
+            "longitude": -122.00906
+        },
+        "display_phone": "(707) 446-7480",
+        "distance": 3291.78031699759,
+        "id": "vSrOgP8BeL9cwPCH9dGSdw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MbJR4wpn9TKCjwHJn3V4yw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Alamo Dr",
+            "address2": "Ste F",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "301 Alamo Dr",
+                "Ste F",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Nicholas D Esplin,  DDS",
+        "phone": "+17074467480",
+        "rating": 5.0,
+        "review_count": 13,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nicholas-d-esplin-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "janet-cubol-dmd-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.344197,
+            "longitude": -121.994655
+        },
+        "display_phone": "(707) 469-6211",
+        "distance": 2628.5623527330636,
+        "id": "6tJT_WrQyL-_LZuohNF55Q",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/czJo1AWlCHvEsBouDnGuQg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "961 Alamo Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "961 Alamo Dr",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Janet Cubol, DMD",
+        "phone": "+17074696211",
+        "rating": 5.0,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/janet-cubol-dmd-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "childrens-choice-pediatric-dental-care-vacaville",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3690716,
+            "longitude": -121.9610592
+        },
+        "display_phone": "(707) 410-5437",
+        "distance": 1412.6705045969286,
+        "id": "OwukO72Dvbeh1FRIFZKGZg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0cxcaQH-3dwwN2lTMrYuZg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1671 E Monte Vista Ave",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1671 E Monte Vista Ave",
+                "Ste 200",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Children's Choice Pediatric Dental Care",
+        "phone": "+17074105437",
+        "rating": 3.5,
+        "review_count": 44,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/childrens-choice-pediatric-dental-care-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "northern-california-facial-and-oral-surgery-vacaville-4",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "cosmeticsurgeons",
+                "title": "Cosmetic Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35497,
+            "longitude": -122.00906
+        },
+        "display_phone": "(707) 447-0989",
+        "distance": 3291.495657670042,
+        "id": "wzoT43s1TO8hDIyF-fSC-A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oDuk3u56n8PqIyC0w5ac_w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Alamo Dr",
+            "address2": "Ste E",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "301 Alamo Dr",
+                "Ste E",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Northern California Facial & Oral Surgery",
+        "phone": "+17074470989",
+        "rating": 5.0,
+        "review_count": 10,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/northern-california-facial-and-oral-surgery-vacaville-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "nut-tree-smiles-dentistry-vacaville-4",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.368365,
+            "longitude": -121.957007
+        },
+        "display_phone": "(707) 451-8390",
+        "distance": 1614.4784992867064,
+        "id": "7lAazo0x6Reppdqz1t8tzg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8c7LXWyGoHrCrI_eUZucGA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "110 Nut Tree Pkwy",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "110 Nut Tree Pkwy",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Nut Tree Smiles Dentistry",
+        "phone": "+17074518390",
+        "rating": 3.0,
+        "review_count": 87,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/nut-tree-smiles-dentistry-vacaville-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walker-family-dentistry-vacaville-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.355338,
+            "longitude": -122.009271
+        },
+        "display_phone": "(707) 446-4644",
+        "distance": 3316.846944405593,
+        "id": "rk6K3lNr3u-eKrpds3CN_A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TInBZ0WmFEFyfZKAOPzMrw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Alamo Dr",
+            "address2": "Ste I",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "301 Alamo Dr",
+                "Ste I",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Walker Family Dentistry",
+        "phone": "+17074464644",
+        "rating": 4.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walker-family-dentistry-vacaville-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-dentistry-and-orthodontics-vacaville",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3519812,
+            "longitude": -121.951605519298
+        },
+        "display_phone": "(707) 215-5259",
+        "distance": 1928.5342914191758,
+        "id": "SZpDVEOv-kDemYcTUzfdBA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oM0oo-m9Mqv6gy0sAICEnw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "671 Elmira Rd",
+            "address2": "Ste 130",
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "671 Elmira Rd",
+                "Ste 130",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Vacaville Dentistry and Orthodontics",
+        "phone": "+17072155259",
+        "rating": 3.5,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-dentistry-and-orthodontics-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bosler-implant-and-cosmetic-dentistry-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3550016534074,
+            "longitude": -122.009017084656
+        },
+        "display_phone": "(707) 449-3661",
+        "distance": 3300.277440297113,
+        "id": "N91yViWJOy3JeK_kgNVNlQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u0s_PwKIKjsaraWl59WxvA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Alamo Dr",
+            "address2": "Ste A2",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "301 Alamo Dr",
+                "Ste A2",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Bosler Implant & Cosmetic Dentistry",
+        "phone": "+17074493661",
+        "rating": 4.5,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bosler-implant-and-cosmetic-dentistry-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "aye-min-and-mu-mu-min-dmd-msd-vacaville",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3341255187988,
+            "longitude": -121.954231262207
+        },
+        "display_phone": "(707) 449-8808",
+        "distance": 3198.8544468446817,
+        "id": "4w9RRd_1HNzDoVqr55xUiQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E5qOoDOyXxtB4C0zcCUZ2g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2611 Nut Tree Rd",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2611 Nut Tree Rd",
+                "Ste D",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Aye Min & Mu Mu Min, DMD, MSD",
+        "phone": "+17074498808",
+        "rating": 4.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/aye-min-and-mu-mu-min-dmd-msd-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "craig-carlson-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3553242,
+            "longitude": -121.9911249
+        },
+        "display_phone": "(707) 447-9339",
+        "distance": 1766.122755432906,
+        "id": "DzbD8J5BnWJRoNJLJdRpzg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EXIGTDaChneJqzPjWfp0UA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "344 Cernon St",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "344 Cernon St",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Craig Carlson, DDS",
+        "phone": "+17074479339",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/craig-carlson-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "crawford-orthodontics-vacaville",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.354413,
+            "longitude": -121.9911619
+        },
+        "display_phone": "(707) 447-0900",
+        "distance": 1795.0681303598533,
+        "id": "YJiQjvTh_a0Y8qenDbnKcg",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GfjfXIPGN9F1es9AKajzOw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2070 Peabody Rd",
+            "address2": "Ste 700",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2070 Peabody Rd",
+                "Ste 700",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Crawford Orthodontics",
+        "phone": "+17074470900",
+        "rating": 5.0,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/crawford-orthodontics-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "regency-dental-group-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35643,
+            "longitude": -121.95337
+        },
+        "display_phone": "(707) 453-1776",
+        "distance": 1614.1917920368621,
+        "id": "9LzC5NHWsKh0OZnWvFhmkg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UpzKGiq1F7kvFIxZJje8Jg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1001 Nut Tree Rd",
+            "address2": "Ste 230",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1001 Nut Tree Rd",
+                "Ste 230",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Regency Dental Group",
+        "phone": "+17074531776",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/regency-dental-group-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-dental-studio-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3544582,
+            "longitude": -121.9911249
+        },
+        "display_phone": "(707) 448-5339",
+        "distance": 1803.4098704764017,
+        "id": "Nx98P4SvWI9NiLNqYuFArA",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KNVc92Jcl99dl5aF-pX0_A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "412 Cernon St",
+            "address2": "Ste C",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "412 Cernon St",
+                "Ste C",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Vacaville Dental Studio",
+        "phone": "+17074485339",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-dental-studio-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "creekside-orthodontics-vacaville",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.33355,
+            "longitude": -121.97094
+        },
+        "display_phone": "(707) 452-1111",
+        "distance": 2870.3718644285264,
+        "id": "mdsxaq_aS6AQwl8eikWtLg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BCh2xeJvcmBMD1XaBGMl_g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2070 Peabody Rd",
+            "address2": "Ste 700",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2070 Peabody Rd",
+                "Ste 700",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Creekside Orthodontics",
+        "phone": "+17074521111",
+        "rating": 3.5,
+        "review_count": 19,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/creekside-orthodontics-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "john-e-carman-dds-vacaville",
+        "categories": [
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3549632,
+            "longitude": -122.0091636
+        },
+        "display_phone": "(707) 447-7576",
+        "distance": 3313.5481842486283,
+        "id": "xQ_JzZN_F_TTLR9D2DAPjg",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4b2vHh1I4-Pbk5AvkmL09A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Alamo Dr",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "301 Alamo Dr",
+                "Ste D",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "John E Carman, DDS",
+        "phone": "+17074477576",
+        "rating": 4.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/john-e-carman-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-dental-center-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35806,
+            "longitude": -121.989532
+        },
+        "display_phone": "(707) 450-1003",
+        "distance": 1571.806148511351,
+        "id": "vAn5Q96sr_mqHFKfWfZacQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yS6WxHliGU7q1dhOgjEQFg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "141 Parker St",
+            "address2": null,
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "141 Parker St",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Vacaville Dental Center",
+        "phone": "+17074501003",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-dental-center-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "reza-moezi-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3638496398926,
+            "longitude": -121.954971313477
+        },
+        "display_phone": "(707) 446-7701",
+        "distance": 1531.0539029896886,
+        "id": "zNsTLPS-8UoRA2jzKmwLHA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1350 Burton Dr",
+            "address2": "Ste 230",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1350 Burton Dr",
+                "Ste 230",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Reza Moezi, DDS",
+        "phone": "+17074467701",
+        "rating": 5.0,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/reza-moezi-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "center-for-contemporary-dentistry-vacaville-2",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.33451,
+            "longitude": -121.95361
+        },
+        "display_phone": "(707) 448-9211",
+        "distance": 3176.4681011238217,
+        "id": "sWx5cZ1gFLjuq2I50duaGg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mh43LD0oi9RqngPol2_MGw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2581 Nut Tree Rd",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2581 Nut Tree Rd",
+                "Ste A",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Center for Contemporary Dentistry",
+        "phone": "+17074489211",
+        "rating": 3.5,
+        "review_count": 12,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/center-for-contemporary-dentistry-vacaville-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "h-marco-lu-dds-msd-vacaville",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3345242642708,
+            "longitude": -121.953852690476
+        },
+        "display_phone": "(707) 451-8352",
+        "distance": 3170.552651635382,
+        "id": "2M1t7VI5GutXQlqlEqcD2w",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Phbs0ohOvkqQ__1cJatoUw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2581 Nut Tree Rd",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2581 Nut Tree Rd",
+                "Ste D",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "H Marco Lu, DDS MSD",
+        "phone": "+17074518352",
+        "rating": 4.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/h-marco-lu-dds-msd-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-dental-professionals-vacaville",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3615,
+            "longitude": -121.98997
+        },
+        "display_phone": "(707) 200-1455",
+        "distance": 1611.8373564173746,
+        "id": "VOXVqe8CoGFRGcSD3tLoDw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ORGVC89gRXdlLA8sZ-cUxg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "14 Cernon St",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "14 Cernon St",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Vacaville Dental Professionals",
+        "phone": "+17072001455",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-dental-professionals-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "anthony-marino-dds-vacaville-vacaville-8",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3543833,
+            "longitude": -122.0094201
+        },
+        "display_phone": "(707) 448-6271",
+        "distance": 3345.854178970326,
+        "id": "iC5tvKn1aAJpg4oDqm-5Vw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c6rMYIbUh6Ll_PyjgtYQaA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "290 Alamo Dr",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "290 Alamo Dr",
+                "Ste B",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Anthony Marino, DDS - Vacaville",
+        "phone": "+17074486271",
+        "rating": 5.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/anthony-marino-dds-vacaville-vacaville-8?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "my-kids-dentist-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2883412106615,
+            "longitude": -122.033704
+        },
+        "display_phone": "(707) 426-4401",
+        "distance": 9582.255117857101,
+        "id": "kTBLqtzpWmHM24ebk2wvZQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lyJ0vXIPU19djM5vlbj2GQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3332 N Texas St",
+            "address2": "Ste D",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3332 N Texas St",
+                "Ste D",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "My Kid's Dentist & Orthodontics",
+        "phone": "+17074264401",
+        "rating": 4.5,
+        "review_count": 35,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/my-kids-dentist-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "robert-w-anderson-dds-msd-fairfield",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.295358,
+            "longitude": -122.035254
+        },
+        "display_phone": "(707) 422-2190",
+        "distance": 9033.275021739215,
+        "id": "0mlFx2HxnEO6A6r3Xyci5A",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mNJwBJIXuyLF5BY2CCHYMQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 202",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 202",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Robert W Anderson, DDS MSD",
+        "phone": "+17074222190",
+        "rating": 5.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/robert-w-anderson-dds-msd-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "blue-ridge-family-dental-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3543214301995,
+            "longitude": -122.009935887945
+        },
+        "display_phone": "(707) 448-6882",
+        "distance": 3391.346730711431,
+        "id": "4Q8toBgjFQws67aZjKT8_g",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P2MoKrl46IpsAADl98V9ow/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "292 Alamo Dr",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "292 Alamo Dr",
+                "Ste 5",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Blue Ridge Family Dental",
+        "phone": "+17074486882",
+        "rating": 3.5,
+        "review_count": 11,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/blue-ridge-family-dental-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "joseph-abrew-dds-vacaville-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35428,
+            "longitude": -122.00924
+        },
+        "display_phone": "(707) 446-2036",
+        "distance": 3345.854178970326,
+        "id": "Bh4qJUUwQIklM-bwmQVydA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uDKABez267a2Gg6z0x8aNA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "290 Alamo Dr",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "290 Alamo Dr",
+                "Ste A",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Joseph Abrew, DDS",
+        "phone": "+17074462036",
+        "rating": 3.0,
+        "review_count": 14,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/joseph-abrew-dds-vacaville-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "western-dental-and-orthodontics-vacaville",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35924,
+            "longitude": -121.98219
+        },
+        "display_phone": "(707) 301-4096",
+        "distance": 916.8986825808503,
+        "id": "u7fwkrH41y01liEdEl9C6w",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XaHa6UnAuQU7U19PVRz5Mg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "791 E Monte Vista Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "791 E Monte Vista Ave",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Western Dental & Orthodontics",
+        "phone": "+17073014096",
+        "rating": 1.5,
+        "review_count": 85,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/western-dental-and-orthodontics-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "north-valley-dental-vacaville-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.355069,
+            "longitude": -121.984072
+        },
+        "display_phone": "(707) 447-1010",
+        "distance": 1190.9707322311451,
+        "id": "IFdk9eTQwFCKGrPsGGzurA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/34xts99tZO6cCMSxFOaxxw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Mason St",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "770 Mason St",
+                "Ste 110",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "North Valley Dental",
+        "phone": "+17074471010",
+        "rating": 4.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/north-valley-dental-vacaville-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "fairfield-dentists-and-orthodontics-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.288187,
+            "longitude": -122.033682
+        },
+        "display_phone": "(707) 399-9082",
+        "distance": 9595.322211160707,
+        "id": "JDsGBW9YlszhKg_iyyGsMQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XkFWYhW9laFZotuielck-w/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3332 N Texas St",
+            "address2": "Ste C",
+            "address3": null,
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3332 N Texas St",
+                "Ste C",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Fairfield Dentists and Orthodontics",
+        "phone": "+17073999082",
+        "rating": 4.0,
+        "review_count": 59,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/fairfield-dentists-and-orthodontics-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dennis-paul-nutter-dds-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 9033.275021739215,
+        "id": "R0rk6DuBbTFZ4VRg7wWo0A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7bc0euVKVGfGl3Ryyhcpwg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Dennis Paul Nutter, DDS",
+        "phone": "+17074225444",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dennis-paul-nutter-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "ned-family-dental-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.356133,
+            "longitude": -121.989731
+        },
+        "display_phone": "(707) 448-2134",
+        "distance": 1622.848300393073,
+        "id": "KNmgivEDifY_gWwvN46bIw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BUapC0HLAjiU95S6S6kt5g/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "307 Parker St",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "307 Parker St",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Ned Family Dental",
+        "phone": "+17074482134",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/ned-family-dental-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "donna-burton-dds-regency-dental-group-vacaville",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35643,
+            "longitude": -121.95337
+        },
+        "display_phone": "(707) 453-1776",
+        "distance": 1614.1917920368621,
+        "id": "sKc3hbAIcSkU2pwApLCksg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "1001 Nut Tree Rd",
+            "address2": "Ste 230",
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1001 Nut Tree Rd",
+                "Ste 230",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Donna Burton, DDS -  Regency Dental Group",
+        "phone": "+17074531776",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/donna-burton-dds-regency-dental-group-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "roth-charles-j-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.354457,
+            "longitude": -121.9911249
+        },
+        "display_phone": "(707) 448-5339",
+        "distance": 1803.4098704764017,
+        "id": "DrYJZfJhO3WXeE4NvGJGTA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "412 Cernon St",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "412 Cernon St",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Roth Charles J DDS",
+        "phone": "+17074485339",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/roth-charles-j-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "lorin-cook-dds-vacaville-3",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35497,
+            "longitude": -122.00906
+        },
+        "display_phone": "(707) 474-9621",
+        "distance": 3291.78031699759,
+        "id": "h4gCcEh7lir8vzr0GrpACQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xkgErZy1SLMS2RdQiqfWYg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "301 Alamo Dr",
+            "address2": "Ste A1",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "301 Alamo Dr",
+                "Ste A1",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Lorin Cook, DDS",
+        "phone": "+17074749621",
+        "rating": 4.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/lorin-cook-dds-vacaville-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jackman-family-dentistry-vacaville",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.36208,
+            "longitude": -121.94927
+        },
+        "display_phone": "(707) 451-2982",
+        "distance": 1980.5081060040823,
+        "id": "QlkVz6nvgjHkE-Ml9e3_Bg",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zNrkgmP5gneOQAupfy7N1A/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "501 Nut Tree Ct",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "501 Nut Tree Ct",
+                "Ste B",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Jackman Family Dentistry",
+        "phone": "+17074512982",
+        "rating": 3.5,
+        "review_count": 6,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jackman-family-dentistry-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "bayside-dental-vacaville-3",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3539886474609,
+            "longitude": -121.977447509766
+        },
+        "display_phone": "(707) 450-0732",
+        "distance": 805.4728564438585,
+        "id": "an3d6fWA4_FDWGKycSbw-w",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2KBDR4HN-6kyJ5PFiIL8cA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "72 Peabody Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "72 Peabody Rd",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Bayside Dental",
+        "phone": "+17074500732",
+        "rating": 2.0,
+        "review_count": 30,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/bayside-dental-vacaville-3?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "irma-l-garcia-dds-fairfield",
+        "categories": [
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 9033.275021739215,
+        "id": "CF3r2dgDkVZ1GjC6tHArog",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0uDtBxX7mK-Wffy7ADpdOg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Irma L Garcia, DDS",
+        "phone": "+17074225444",
+        "rating": 4.0,
+        "review_count": 21,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/irma-l-garcia-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "dr-leland-mcabee-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.354172,
+            "longitude": -122.009964
+        },
+        "display_phone": "(707) 448-2012",
+        "distance": 3384.045176095358,
+        "id": "c2S5NeofGZwjgaXr52C31Q",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "292 Alamo Dr",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "292 Alamo Dr",
+                "Ste 4",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Dr. Leland McAbee DDS",
+        "phone": "+17074482012",
+        "rating": 4.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/dr-leland-mcabee-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alamo-dental-office-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.336446,
+            "longitude": -121.955017
+        },
+        "display_phone": "(707) 448-8881",
+        "distance": 2934.516781332407,
+        "id": "gfSrhmBdq5KSp7eWEXZGNg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-QmENGpKevH0m4HvSEqywA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3057 Alamo Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3057 Alamo Dr",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Alamo Dental Office",
+        "phone": "+17074488881",
+        "rating": 2.0,
+        "review_count": 15,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alamo-dental-office-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "hekking-robert-a-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3593906,
+            "longitude": -122.0057807
+        },
+        "display_phone": "(707) 446-4677",
+        "distance": 2988.2581874486427,
+        "id": "pKvZiS8hR7-qNeuBasPxKQ",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wZMGehMtWuH83ooJEVZEEg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "532 W Monte Vista Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "532 W Monte Vista Ave",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Hekking Robert A, DDS",
+        "phone": "+17074464677",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/hekking-robert-a-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "sunset-family-dental-care-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3442,
+            "longitude": -121.99777
+        },
+        "display_phone": "(707) 455-7910",
+        "distance": 2838.0177255815784,
+        "id": "S5BvgWqcZ55s8RNVyMXBGA",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4RYHy5yFVQAXwIHxKjMOIg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "173 Butcher Rd",
+            "address2": null,
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "173 Butcher Rd",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Sunset Family Dental Care",
+        "phone": "+17074557910",
+        "rating": 3.5,
+        "review_count": 5,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/sunset-family-dental-care-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "rolling-hills-pediatric-dentistry-fairfield-4",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 9033.275021739215,
+        "id": "CPPrd407-fKS8sSDbXUE3g",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a_HleWST36YoaSuluxieEQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Rolling Hills Pediatric Dentistry",
+        "phone": "+17074225444",
+        "rating": 4.5,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/rolling-hills-pediatric-dentistry-fairfield-4?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "randall-c-lum-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "endodontists",
+                "title": "Endodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.35428,
+            "longitude": -122.00924
+        },
+        "display_phone": "(707) 448-8474",
+        "distance": 3345.854178970326,
+        "id": "T--DbLgVLCz4dxBjBHfqIQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "290 Alamo Dr",
+            "address2": "Ste D",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "290 Alamo Dr",
+                "Ste D",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Randall C Lum, DDS",
+        "phone": "+17074488474",
+        "rating": 5.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/randall-c-lum-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "solanoville-dental-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.334705,
+            "longitude": -121.954325
+        },
+        "display_phone": "(707) 469-8523",
+        "distance": 3133.025003939403,
+        "id": "LwQQPTlETt1THz-KDNXBww",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Alamo Dr",
+            "address2": "Ste 108",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3000 Alamo Dr",
+                "Ste 108",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Solanoville Dental",
+        "phone": "+17074698523",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/solanoville-dental-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "vacaville-dental-associates-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3544582,
+            "longitude": -121.9911249
+        },
+        "display_phone": "(707) 452-0445",
+        "distance": 1803.4098704764017,
+        "id": "erHXLT8ZT1nZ0RsoPgFMSw",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "412 Cernon St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "412 Cernon St",
+                "Ste A",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Vacaville Dental Associates",
+        "phone": "+17074520445",
+        "rating": 2.5,
+        "review_count": 7,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/vacaville-dental-associates-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "unlimited-smiles-vacaville-vacaville",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            },
+            {
+                "alias": "oralsurgeons",
+                "title": "Oral Surgeons"
+            },
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3349342346191,
+            "longitude": -121.95378112793
+        },
+        "display_phone": "(707) 454-3888",
+        "distance": 3125.7019225869735,
+        "id": "f39LAoSMxvwo2rsYBBc6Rw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SjZeRdw83WcIQgGs4UTfAg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "2501 Nut Tree Rd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "2501 Nut Tree Rd",
+                "Ste A",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Unlimited Smiles - Vacaville",
+        "phone": "+17074543888",
+        "rating": 1.0,
+        "review_count": 22,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/unlimited-smiles-vacaville-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "paradise-valley-dental-studios-fairfield",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2889279,
+            "longitude": -122.0341204
+        },
+        "display_phone": "(707) 421-8400",
+        "distance": 9549.21288670605,
+        "id": "rPntT-kMAz6xHaPaZmProw",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oUahIX9eLiEqZB2CTFP3Ug/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3329 North Texas St",
+            "address2": "Ste 88",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3329 North Texas St",
+                "Ste 88",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Paradise Valley Dental Studios",
+        "phone": "+17074218400",
+        "rating": 4.0,
+        "review_count": 16,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/paradise-valley-dental-studios-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "riano-asiain-charito-dmd-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3490695,
+            "longitude": -121.9999433
+        },
+        "display_phone": "(707) 469-8188",
+        "distance": 2778.037576862425,
+        "id": "tEUtTQzg7x5pjmmNwhNXbA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "810 Alamo Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "810 Alamo Dr",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Riano-Asiain Charito, DMD",
+        "phone": "+17074698188",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/riano-asiain-charito-dmd-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "pedersen-wayne-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3538424,
+            "longitude": -121.9837299
+        },
+        "display_phone": "(707) 447-1010",
+        "distance": 1226.705851254308,
+        "id": "PVdIsR7tLoM0kw8-QGzjDQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "770 Mason St",
+            "address2": "Ste 110",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "770 Mason St",
+                "Ste 110",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Pedersen Wayne, DDS",
+        "phone": "+17074471010",
+        "rating": 3.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/pedersen-wayne-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "parker-william-l-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3544082641602,
+            "longitude": -122.009468078613
+        },
+        "display_phone": "(707) 448-2311",
+        "distance": 3345.854178970326,
+        "id": "7dVYD8y2fYuAHT79iOVq7A",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "290 Alamo Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "290 Alamo Dr",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Parker William L DDS",
+        "phone": "+17074482311",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/parker-william-l-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "iverson-orthodontics-vacaville",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.36981,
+            "longitude": -121.9601486
+        },
+        "display_phone": "(707) 514-3053",
+        "distance": 1408.7680772260649,
+        "id": "Xz5-mTVEleVsjxy-EekumA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SR2-qbiX-JhWtcYezE0xQA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1671 E Monte Vista Ave",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1671 E Monte Vista Ave",
+                "Ste 200",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Iverson Orthodontics",
+        "phone": "+17075143053",
+        "rating": 3.5,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/iverson-orthodontics-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "all-smiles-dental-inc-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.34138,
+            "longitude": -121.99157
+        },
+        "display_phone": "(707) 447-8289",
+        "distance": 2685.108851992562,
+        "id": "yNwbIrxcGCAQEt5N3_7-gw",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FQeTExIaQeNsTodzZg1GIA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1241 Alamo Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1241 Alamo Dr",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "All Smiles Dental Inc",
+        "phone": "+17074478289",
+        "rating": 3.0,
+        "review_count": 4,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/all-smiles-dental-inc-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "alamo-plaza-dental-office-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3487411,
+            "longitude": -121.99996
+        },
+        "display_phone": "(707) 469-8188",
+        "distance": 2743.941925853255,
+        "id": "mOAdaWMZVv3wHsqR0x5OYA",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "810 Alamo Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "810 Alamo Dr",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Alamo Plaza Dental Office",
+        "phone": "+17074698188",
+        "rating": 3.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/alamo-plaza-dental-office-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "walter-d-kuzma-dds-fairfield-2",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            },
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-8404",
+        "distance": 9033.275021739215,
+        "id": "MqbEF7pRMAD-1CO3NTo30Q",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/71PsEpxFTMCy3aNs_WbavA/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 200",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 200",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Walter D Kuzma, DDS",
+        "phone": "+17074228404",
+        "rating": 3.0,
+        "review_count": 9,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/walter-d-kuzma-dds-fairfield-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "mark-d-sutter-dds-fairfield",
+        "categories": [
+            {
+                "alias": "periodontists",
+                "title": "Periodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2955336,
+            "longitude": -122.0361937
+        },
+        "display_phone": "(707) 425-5511",
+        "distance": 9067.301217643908,
+        "id": "Z5n9wc5Z81VChM8c_JA2FQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MzYJ7wzCRNJDWZRkptMPYw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3700 Hilborn Rd",
+            "address2": "Ste 300",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3700 Hilborn Rd",
+                "Ste 300",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Mark D Sutter, DDS",
+        "phone": "+17074255511",
+        "rating": 5.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/mark-d-sutter-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "jan-gerber-dds-fairfield",
+        "categories": [
+            {
+                "alias": "pediatric_dentists",
+                "title": "Pediatric Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.2953567504883,
+            "longitude": -122.035255432129
+        },
+        "display_phone": "(707) 422-5444",
+        "distance": 9033.275021739215,
+        "id": "SAZuoiyVrKb2B40FTg978A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o1rBs91F2ZpbL74Lnxwosw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "3694 Hilborn Rd",
+            "address2": "Ste 100",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3694 Hilborn Rd",
+                "Ste 100",
+                "Fairfield, CA 94534"
+            ],
+            "state": "CA",
+            "zip_code": "94534"
+        },
+        "name": "Jan Gerber,DDS",
+        "phone": "+17074225444",
+        "rating": 5.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/jan-gerber-dds-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "premier-orthodontics-vacaville-2",
+        "categories": [
+            {
+                "alias": "orthodontists",
+                "title": "Orthodontists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.36981,
+            "longitude": -121.9601486
+        },
+        "display_phone": "(707) 514-3053",
+        "distance": 1408.7680772260649,
+        "id": "sBnIkNZ_bAklvfhYwE7_qQ",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hlKro69kRJOp7U5nBtEGSw/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1671 E Monte Vista Ave",
+            "address2": "Ste 200",
+            "address3": null,
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "1671 E Monte Vista Ave",
+                "Ste 200",
+                "Vacaville, CA 95688"
+            ],
+            "state": "CA",
+            "zip_code": "95688"
+        },
+        "name": "Premier Orthodontics",
+        "phone": "+17075143053",
+        "rating": 1.0,
+        "review_count": 1,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/premier-orthodontics-vacaville-2?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "welton-michael-p-dds-vacaville",
+        "categories": [
+            {
+                "alias": "generaldentistry",
+                "title": "General Dentistry"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.3346862792969,
+            "longitude": -121.954544067383
+        },
+        "display_phone": "(707) 452-0420",
+        "distance": 3125.279107086702,
+        "id": "Q4I8J-qMNPIRrSnFrnLTWQ",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3000 Alamo Dr",
+            "address2": "",
+            "address3": "",
+            "city": "Vacaville",
+            "country": "US",
+            "display_address": [
+                "3000 Alamo Dr",
+                "Vacaville, CA 95687"
+            ],
+            "state": "CA",
+            "zip_code": "95687"
+        },
+        "name": "Welton Michael P DDS",
+        "phone": "+17074520420",
+        "rating": 1.0,
+        "review_count": 3,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/welton-michael-p-dds-vacaville?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    },
+    {
+        "alias": "tan-thai-dental-studios-fairfield",
+        "categories": [
+            {
+                "alias": "cosmeticdentists",
+                "title": "Cosmetic Dentists"
+            }
+        ],
+        "coordinates": {
+            "latitude": 38.28825,
+            "longitude": -122.03356
+        },
+        "display_phone": "(707) 421-8400",
+        "distance": 9581.206464533683,
+        "id": "pS4VU__Se0hq55Cy7bZvpg",
+        "image_url": "",
+        "is_closed": false,
+        "location": {
+            "address1": "3332 N Texas St",
+            "address2": "Ste A",
+            "address3": "",
+            "city": "Fairfield",
+            "country": "US",
+            "display_address": [
+                "3332 N Texas St",
+                "Ste A",
+                "Fairfield, CA 94533"
+            ],
+            "state": "CA",
+            "zip_code": "94533"
+        },
+        "name": "Tan Thai Dental Studios",
+        "phone": "+17074218400",
+        "rating": 4.0,
+        "review_count": 2,
+        "transactions": [],
+        "url": "https://www.yelp.com/biz/tan-thai-dental-studios-fairfield?adjust_creative=tmJOAGz1QFJxix4CnwrEnA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=tmJOAGz1QFJxix4CnwrEnA"
+    }
+]
